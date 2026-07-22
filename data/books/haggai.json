@@ -1,0 +1,101 @@
+{
+  "book": "Haggai",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "hag",
+      "title": "Haggai: Build the House",
+      "chapters": [
+        1,
+        2
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "2:23"
+      },
+      "difficulty_tier": 2,
+      "summary": "Four dated sermons in four months, aimed at returnees living in paneled houses beside God's ruin: 'Consider your ways.' The people actually obey — rare among prophetic audiences — and to the elders who saw the first house and count this one as nothing comes the promise: 'The latter glory of this house shall be greater than the former.'",
+      "key_themes": [
+        "priorities",
+        "obedience",
+        "greater glory",
+        "God with the small"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezra-1-6",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Haggai preaches inside Ezra 5's stalled construction project; Ezra names him as the prophet who restarted the work.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Haggai 1:4",
+        "Haggai 1:12",
+        "Haggai 2:9"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "light",
+      "emotional_tone": [
+        "urgent",
+        "hopeful"
+      ],
+      "discussion_prompt": "The returnees kept meaning to rebuild God's house once their own were settled, and eighteen years slipped by. What does it mean to consider your ways when your priorities have quietly drifted, and what rebuilding have you been postponing?",
+      "assessment_questions": [
+        "What does Haggai tell the people to consider, and how do they and their leaders respond to his preaching?",
+        "The elders who remembered Solomon's temple wept at how small the new one looked. Why does God promise that the latter glory of this house will be greater than the former?",
+        "Haggai's audience lived in paneled houses beside God's ruin. Where does your calendar or budget show the same drift, and what one change would put first things first?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Priorities reveal worship",
+          "explanation": "Living comfortably beside God's ruin exposed hearts that had quietly reordered God behind their own comfort."
+        },
+        {
+          "concept": "Consider your ways",
+          "explanation": "Repentance in Haggai is practical, a concrete reordering of time, money, and labor around God's call."
+        },
+        {
+          "concept": "Rare obedience",
+          "explanation": "The people actually listen and build, showing what a community's quick response to God's word can look like."
+        },
+        {
+          "concept": "Glory in small beginnings",
+          "explanation": "God promises the modest second temple a greater glory than the first, so present smallness never limits his future."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell how Haggai restarted the temple work, and explain the promise God makes about the new house's glory.",
+      "comprehension_check": [
+        {
+          "question": "Haggai 1 connects thin harvests and wages in holed bags to the unbuilt house. What is the sermon saying through that link?",
+          "options": [
+            "Prosperity reliably repays correct observance in every age",
+            "Their priorities had set them against the grain of blessing",
+            "Poverty came from Persia's taxes, which the temple would offset",
+            "The drought was random, but rebuilding would restore public morale"
+          ],
+          "answer_index": 1,
+          "why": "Haggai 1:9-11 traces the scarcity to the Lord's own hand while his house lay in ruins and theirs did not.",
+          "hint": "Read Haggai 1:4-6 again. Notice the two kinds of houses the sermon sets side by side."
+        },
+        {
+          "question": "Elders who saw Solomon's temple weep at the new foundation, and Haggai 2 answers them. Where does the promised greater glory come from?",
+          "options": [
+            "From treasures the returning exiles would slowly accumulate",
+            "From craftsmanship surpassing Solomon's in the rebuilt courts",
+            "From God's own presence and promise, not the building's splendor",
+            "From the day the second house would host a restored monarchy"
+          ],
+          "answer_index": 2,
+          "why": "Haggai 2:5-9 rests the promise on God's presence among them and his claim on all silver and gold.",
+          "hint": "Read Haggai 2:3-9 again. Notice what God keeps repeating to the discouraged builders, and what he claims as his own."
+        }
+      ]
+    }
+  ]
+}

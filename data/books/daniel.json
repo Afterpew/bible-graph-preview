@@ -1,0 +1,612 @@
+{
+  "book": "Daniel",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Apocalyptic",
+  "nodes": [
+    {
+      "id": "dan-1",
+      "title": "Faithful in Babylon",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:21"
+      },
+      "difficulty_tier": 1,
+      "domain": "Historical Narrative",
+      "summary": "Four Judean teenagers are drafted into Nebuchadnezzar's re-education program — new names, new language, the king's food. Daniel draws one quiet line at the menu and thrives; the chapter is the Bible's primer on keeping faith inside a culture built to absorb you.",
+      "key_themes": [
+        "faithfulness in exile",
+        "identity",
+        "quiet resistance",
+        "wisdom"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-24-25",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Daniel is deported in the first Babylonian wave; the exile explains why these boys are in the king's court."
+        }
+      ],
+      "connections": [
+        {
+          "node": "esth",
+          "reason": "Daniel and Esther are the Bible's paired diaspora manuals — faithfulness inside a pagan empire, one overt, one hidden."
+        }
+      ],
+      "key_verses": [
+        "Daniel 1:8",
+        "Daniel 1:17",
+        "Daniel 1:20"
+      ],
+      "reading_time_minutes": 8,
+      "content_density": "light",
+      "emotional_tone": [
+        "resolve",
+        "reflective"
+      ],
+      "discussion_prompt": "Daniel accepts a Babylonian name and a Babylonian education but draws the line at the king's food. How do you decide which pressures to absorb and where to quietly refuse, and what small line might God be asking you to hold right now?",
+      "assessment_questions": [
+        "What test does Daniel propose to the chief official, and how do he and his friends compare to everyone else at the end of it?",
+        "Babylon renames the four young men and retrains them, yet Daniel resolves that he will not defile himself. Why does one small line at the menu carry so much weight for his identity?",
+        "Daniel serves a pagan government with excellence while keeping his deepest loyalty for God. Where do you live, study, or work inside a culture that pulls at your loyalty, and what would faithful excellence look like there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Small choices form identity",
+          "explanation": "Regular ordinary decisions about food, habits, and discipline are what keep Daniel belonging to God inside an empire built to absorb him."
+        },
+        {
+          "concept": "God sustains the faithful in hostile places",
+          "explanation": "God gives the four young men knowledge, skill, and favor, so their thriving in Babylon is his doing and honors their obedience."
+        },
+        {
+          "concept": "Serving without surrendering",
+          "explanation": "Daniel excels inside a secular institution while keeping his ultimate loyalty for God, a model for faithful presence in any workplace or culture."
+        },
+        {
+          "concept": "Quiet resistance with wisdom",
+          "explanation": "Daniel asks, negotiates, and proposes a test rather than staging a protest, showing that conviction and courtesy can work together."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the story of Daniel's food test and explain how it models keeping faith inside a culture built to absorb you.",
+      "comprehension_check": [
+        {
+          "question": "Babylon renames, reschools, and feeds the four young exiles. Within that program, what does the chapter present Daniel's food refusal as?",
+          "options": [
+            "A public act of protest against the empire that deported him",
+            "A quiet line that keeps his loyalty from being absorbed",
+            "A rejection of all things Babylonian as defiling",
+            "A regimen to prove the exiles could outperform Babylon"
+          ],
+          "answer_index": 1,
+          "why": "Daniel resolves not to defile himself yet serves the court with excellence, holding one line inside the program (Daniel 1:8).",
+          "hint": "Read Daniel 1:5-8 again. Notice how much of the program Daniel accepts, and the single point where he resolves to stop."
+        },
+        {
+          "question": "By the chapter's end the four exiles surpass every expert in the kingdom. What is the chapter's explanation for their thriving?",
+          "options": [
+            "The simple diet proved stronger than the king's fare",
+            "Their schooling back in Judah had outstripped Babylon's",
+            "God gave the learning, the skill, and the favor",
+            "The chief official had favored the four from the start"
+          ],
+          "answer_index": 2,
+          "why": "The narrator credits God with granting the four their knowledge and skill in all learning (Daniel 1:17).",
+          "hint": "Read Daniel 1:9 and Daniel 1:17 again. Notice who is named as the giver of favor and learning in both verses."
+        }
+      ]
+    },
+    {
+      "id": "dan-2",
+      "title": "The Statue and the Stone",
+      "chapters": [
+        2
+      ],
+      "verse_span": {
+        "from": "2:1",
+        "to": "2:49"
+      },
+      "difficulty_tier": 2,
+      "domain": "Apocalyptic",
+      "summary": "Nebuchadnezzar demands his dream be told and interpreted on pain of death; Daniel delivers both: a great statue of gold, silver, bronze, and iron — a parade of empires — shattered by a stone cut without hands that grows into a mountain filling the earth. History has a direction, and it isn't Babylon's.",
+      "key_themes": [
+        "kingdoms rise and fall",
+        "God's kingdom",
+        "revelation",
+        "dreams"
+      ],
+      "prerequisites": [
+        {
+          "node": "dan-1",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Daniel's standing to interpret at court is established by chapter 1's formation story.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-11-15",
+          "reason": "Jesus' mustard-seed kingdom that grows to fill the garden echoes the stone that becomes a mountain."
+        }
+      ],
+      "key_verses": [
+        "Daniel 2:20-21",
+        "Daniel 2:44",
+        "Daniel 2:47"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "awe",
+        "hopeful"
+      ],
+      "discussion_prompt": "The statue's metals get cheaper and weaker from head to foot, and one uncut stone shatters the whole thing. What is this dream claiming about where history is headed, and how would believing that change what you build your hopes on?",
+      "assessment_questions": [
+        "What does Nebuchadnezzar demand of his wise men, and what does Daniel do with his friends before he answers the king?",
+        "The stone is cut without hands and grows into a mountain that fills the whole earth. What does the dream claim about God's kingdom compared with the empires in the statue?",
+        "Daniel's first response to a death sentence is prayer with his friends. When pressure hits you, where does your confidence actually turn first, and what would seeking God's wisdom before acting look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God rules history",
+          "explanation": "Daniel's prayer names it plainly: God removes kings and sets up kings, so even the mightiest empire is an instrument under his hand."
+        },
+        {
+          "concept": "Revelation belongs to God",
+          "explanation": "No human wisdom could tell the king his own dream, so the accurate telling of a secret authenticates Daniel's God as the one who reveals mysteries."
+        },
+        {
+          "concept": "Every empire is temporary",
+          "explanation": "The metals decay in value down the statue and all of them shatter together, while the kingdom God sets up will never be destroyed."
+        },
+        {
+          "concept": "The stone read in more than one way",
+          "explanation": "Christians differ on whether the mountain kingdom is already growing since Christ or awaits God's final act, and the dream's claim that God's kingdom wins stands in every reading."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the statue and the stone from memory and explain the dream's central claim about God's kingdom and human empires.",
+      "comprehension_check": [
+        {
+          "question": "In the dream, a stone no human hand cut shatters the statue of four metals and grows to fill the earth. What is the dream's central claim?",
+          "options": [
+            "History will refine its empires until they deserve to last",
+            "Babylon's golden reign is promised a lasting preeminence",
+            "The empires will merge into one final, stable order",
+            "God's kingdom will end and outlast every human empire"
+          ],
+          "answer_index": 3,
+          "why": "Daniel's interpretation ends with the God of heaven setting up a kingdom that will never fall to another people (Daniel 2:44).",
+          "hint": "Read Daniel 2:44 again. Notice what finally happens to all the kingdoms, and what never happens to the last one."
+        },
+        {
+          "question": "Nebuchadnezzar demands the dream itself, not just an interpretation. In the story, what does that impossible demand end up proving?",
+          "options": [
+            "That revelation is God's alone, beyond every sage",
+            "That the court's sages had been frauds from the start",
+            "That Daniel's training had surpassed his Chaldean teachers",
+            "That the king's cruelty had finally outrun his reason"
+          ],
+          "answer_index": 0,
+          "why": "Daniel tells the king no wise man could show the mystery, but there is a God in heaven who reveals it (Daniel 2:27-28).",
+          "hint": "Read Daniel 2:27-28 again. Notice the contrast Daniel draws before he speaks a word of the dream."
+        }
+      ]
+    },
+    {
+      "id": "dan-3",
+      "title": "The Fiery Furnace",
+      "chapters": [
+        3
+      ],
+      "verse_span": {
+        "from": "3:1",
+        "to": "3:30"
+      },
+      "difficulty_tier": 1,
+      "domain": "Historical Narrative",
+      "summary": "Three exiles refuse to bow to the golden image and answer the king with the Bible's finest statement of unconditional faith: 'Our God is able to deliver us — but if not, we will still not serve your gods.' Thrown in bound, they walk the flames with a mysterious fourth figure.",
+      "key_themes": [
+        "courage",
+        "idolatry refused",
+        "deliverance",
+        "but if not"
+      ],
+      "prerequisites": [
+        {
+          "node": "dan-2",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The golden image is Nebuchadnezzar's answer to his statue dream — an all-gold empire that will not pass away."
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-11",
+          "reason": "Hebrews' faith catalogue includes those who 'quenched the power of fire.'"
+        }
+      ],
+      "key_verses": [
+        "Daniel 3:17-18",
+        "Daniel 3:25",
+        "Daniel 3:28"
+      ],
+      "reading_time_minutes": 8,
+      "content_density": "light",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "The three men tell the king that God is able to rescue them, and that even if he does not, they still will not bow. What kind of faith can say 'but if not,' and what would faith like that require of you when obedience gets expensive?",
+      "assessment_questions": [
+        "What does Nebuchadnezzar see when he looks into the furnace, and how does he respond afterward?",
+        "The three refuse to bow before they know whether God will save them. What does their 'but if not' reveal about the difference between trusting God and bargaining with him?",
+        "Cultural pressure rarely looks like a golden statue today, yet it still demands a bow. Where are you being pressed to bow, and what would standing cost you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Unconditional faith",
+          "explanation": "The three men's obedience does not hinge on a guaranteed rescue, since they trust God's worth even if the fire wins."
+        },
+        {
+          "concept": "God present in the fire",
+          "explanation": "The mysterious fourth figure walking the flames shows God with his people inside the trial, and Christians have long pondered whether he is an angel or an appearance of Christ without the story settling it."
+        },
+        {
+          "concept": "Worship draws the line",
+          "explanation": "Whatever else exiles can absorb, faithful worship refuses idolatry under any threat, because only God may be bowed to."
+        },
+        {
+          "concept": "Witness under persecution",
+          "explanation": "Their stand moves a pagan king to praise their God, showing that costly faithfulness can speak louder than any argument."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the furnace story and explain what 'but if not' teaches about trusting God without conditions.",
+      "comprehension_check": [
+        {
+          "question": "The three tell the king their God is able to deliver them, and that they will not bow even if no rescue comes. What does that answer reveal about their obedience?",
+          "options": [
+            "Doubt of God's power had tempered their expectations",
+            "Certainty of deliverance made the danger unreal to them",
+            "Obedience holds whether or not the rescue comes",
+            "Hope of reward made death a bargain worth striking"
+          ],
+          "answer_index": 2,
+          "why": "They affirm that their God is able to deliver and refuse the image with no rescue guaranteed (Daniel 3:17-18).",
+          "hint": "Read Daniel 3:16-18 again. Notice the two halves of their answer, and what stays fixed in both."
+        },
+        {
+          "question": "Nebuchadnezzar expects to watch three bound men burn and instead sees four walking free in the flames. What does the story show by placing the rescue inside the furnace rather than before it?",
+          "options": [
+            "Courage can always count on rescue as its wage",
+            "God stands with his people inside the trial itself",
+            "The king's power to harm was never truly real"
+          ],
+          "answer_index": 1,
+          "why": "The deliverance happens in the fire, where a fourth figure walks with the three (Daniel 3:25).",
+          "hint": "Read Daniel 3:24-25 again. Notice where the rescue takes place, and how many are walking there."
+        }
+      ]
+    },
+    {
+      "id": "dan-4-6",
+      "title": "Kings Humbled: The Writing on the Wall",
+      "chapters": [
+        4,
+        5,
+        6
+      ],
+      "verse_span": {
+        "from": "4:1",
+        "to": "6:28"
+      },
+      "difficulty_tier": 2,
+      "domain": "Historical Narrative",
+      "summary": "Nebuchadnezzar grazes like an ox until he learns that 'the Most High rules the kingdom of men'; Belshazzar toasts his idols from the temple's cups and reads his doom on the plaster — weighed and found wanting, the kingdom lost that night; and Daniel, by now an old man, prays through an open window and sleeps sound among lions.",
+      "key_themes": [
+        "pride humbled",
+        "sovereignty",
+        "integrity",
+        "deliverance"
+      ],
+      "prerequisites": [
+        {
+          "node": "dan-3",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The court tales build in sequence; each king's lesson escalates the last."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Daniel 4:34-35",
+        "Daniel 5:27",
+        "Daniel 6:10"
+      ],
+      "reading_time_minutes": 22,
+      "content_density": "light",
+      "emotional_tone": [
+        "warning",
+        "reverent"
+      ],
+      "discussion_prompt": "A king grazes like an ox, another reads his doom on the wall, and an old man prays through an open window as if lions were nothing. Across these three stories, what does it look like to live under the truth that the Most High rules, and where does pride crowd that truth out of your own life?",
+      "assessment_questions": [
+        "What happens to Nebuchadnezzar after his boast on the palace roof, and what does he confess when his sanity returns?",
+        "Belshazzar drinks from the temple's cups the very night his kingdom falls. What do the words 'weighed and found wanting' reveal about how God measures rulers?",
+        "Daniel keeps praying openly when prayer becomes a crime. What habit anchors your loyalty to God, and what would keep you practicing it under pressure?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Most High rules the kingdom of men",
+          "explanation": "The refrain of these chapters is that every throne is on loan from God, who gives kingdoms to whomever he wills."
+        },
+        {
+          "concept": "Pride humbled, the humble restored",
+          "explanation": "Nebuchadnezzar loses his mind until he lifts his eyes to heaven, and his restored confession shows that God's judgment can lead a proud man to worship."
+        },
+        {
+          "concept": "Ignored warnings compound",
+          "explanation": "Belshazzar knew his father's story and defied God anyway, so the writing on the wall judges knowing defiance rather than ignorance."
+        },
+        {
+          "concept": "Integrity outlasts the decree",
+          "explanation": "Daniel's habit of prayer, kept steady for decades, carries him through the lions' den and turns a trap into a testimony."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell one of the three stories in detail and explain what all three together teach about the sentence 'the Most High rules the kingdom of men.'",
+      "comprehension_check": [
+        {
+          "question": "Nebuchadnezzar grazes like an ox, Belshazzar reads his doom on the plaster, and Daniel outlasts the lions. What single claim do the three stories press?",
+          "options": [
+            "Every throne is held on loan from the Most High",
+            "All pagan rule is illegitimate and doomed by its very nature",
+            "Faithful exiles will always rise inside the empire",
+            "Kingdoms endure by wisdom rather than by force"
+          ],
+          "answer_index": 0,
+          "why": "The dream's decree and the humbled king's confession agree that kingship is heaven's to give (Daniel 4:17, Daniel 4:34-35).",
+          "hint": "Read Daniel 4:17 and Daniel 4:34-35 again. Notice the sentence the dream announces and the restored king repeats."
+        },
+        {
+          "question": "Daniel retells Nebuchadnezzar's humbling to Belshazzar before reading the writing on the wall. Why does that reminder matter to the verdict?",
+          "options": [
+            "It shows the dynasty was doomed no matter its conduct",
+            "It proves God judges sons for their fathers' pride",
+            "It marks how far Babylon's power had already sunk",
+            "It makes the sin knowing defiance instead of ignorance"
+          ],
+          "answer_index": 3,
+          "why": "Daniel's charge turns on memory: Belshazzar had his father's story and defied heaven anyway (Daniel 5:22).",
+          "hint": "Read Daniel 5:18-23 again. Notice what Daniel says Belshazzar knew before the verdict is read."
+        }
+      ]
+    },
+    {
+      "id": "dan-7",
+      "title": "The Son of Man and the Ancient of Days",
+      "chapters": [
+        7
+      ],
+      "verse_span": {
+        "from": "7:1",
+        "to": "7:28"
+      },
+      "difficulty_tier": 4,
+      "domain": "Apocalyptic",
+      "summary": "The statue dream returns as nightmare: four beasts from the churning sea, a boastful little horn — then thrones set, the Ancient of Days seated in fire, and 'one like a son of man' riding the clouds to receive everlasting dominion from him. This is the chapter behind Jesus' favorite self-title and his answer at his trial.",
+      "key_themes": [
+        "son of man",
+        "beast empires",
+        "judgment",
+        "everlasting kingdom"
+      ],
+      "prerequisites": [
+        {
+          "node": "dan-2",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The four beasts re-run the statue's four kingdoms in darker key; the two visions interpret each other.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-26-28",
+          "reason": "At his trial Jesus quotes this scene — 'you will see the Son of Man coming on the clouds' — and is condemned for it."
+        },
+        {
+          "node": "rev-12-14",
+          "reason": "Revelation's beast from the sea is Daniel 7's beasts fused into one."
+        },
+        {
+          "node": "rev-1-3",
+          "reason": "John's opening vision of one 'like a son of man' with white hair fuses this chapter's two central figures."
+        }
+      ],
+      "key_verses": [
+        "Daniel 7:9-10",
+        "Daniel 7:13-14",
+        "Daniel 7:27"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "tension"
+      ],
+      "discussion_prompt": "The empires look like beasts rising from a churning sea, while the everlasting kingdom goes to a human figure riding the clouds. What is this vision claiming about how power in history finally ends up, and how does that change whom you trust with your future?",
+      "assessment_questions": [
+        "What does Daniel see after the four beasts rise from the sea, and who receives the everlasting dominion?",
+        "The beasts come up from the chaotic sea while the son of man comes with the clouds to the Ancient of Days. What is the vision claiming about beastly power and the kingdom God gives?",
+        "At his trial Jesus answered his judges with this scene, trusting his vindication to God's court. When you are wronged or afraid of the powers over you, what would it mean to wait for God's verdict instead of forcing your own?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Thrones are set for judgment",
+          "explanation": "History ends in God's courtroom, where the Ancient of Days sits and every violent, boastful power must answer."
+        },
+        {
+          "concept": "One like a son of man",
+          "explanation": "A human figure receives everlasting dominion from God himself, and this scene stands behind Jesus' favorite title for himself and his answer at his trial."
+        },
+        {
+          "concept": "The saints share the kingdom",
+          "explanation": "The vision hands the kingdom to the holy people of the Most High as well, so God's future belongs to his oppressed people and never to the beasts."
+        },
+        {
+          "concept": "Beasts read across the centuries",
+          "explanation": "Christians differ on which empires the beasts name and how the timeline runs, while the vision's core claim of God's final judgment and the son of man's kingdom holds in every reading."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the throne scene of Daniel 7 and explain why 'Son of Man' became Jesus' preferred title for himself.",
+      "comprehension_check": [
+        {
+          "question": "Daniel 7 sets beasts rising from a churning sea against a human figure coming with the clouds to God's throne. What is the vision claiming through that contrast?",
+          "options": [
+            "History will cycle between beastly and humane ages forever",
+            "Beastly power faces judgment while lasting rule arrives as a gift",
+            "Empires slowly grow humane enough to inherit the earth",
+            "God's people must wrest the kingdom from the beasts by arms"
+          ],
+          "answer_index": 1,
+          "why": "The court sits, the beasts lose their dominion, and everlasting kingship is given to the one like a son of man (Daniel 7:13-14).",
+          "hint": "Read Daniel 7:9-14 again. Notice how the son of man comes by his dominion, and what happens to the beasts' rule."
+        },
+        {
+          "question": "The interpretation twice hands the everlasting kingdom to God's holy people. What does that add to the vision's claim?",
+          "options": [
+            "The saints are spared the horn's war before it begins",
+            "The saints will wield the same rule the beasts once did",
+            "The court's ruling secures the future of the battered saints",
+            "The kingdom is the saints' reward for prevailing in battle"
+          ],
+          "answer_index": 2,
+          "why": "After the horn wears the saints down, judgment is given for them and the kingdom becomes theirs (Daniel 7:22, Daniel 7:27).",
+          "hint": "Read Daniel 7:21-22 and Daniel 7:27 again. Notice what the saints endure first, and what the court's ruling hands them."
+        }
+      ]
+    },
+    {
+      "id": "dan-8-12",
+      "title": "The Sealed Visions",
+      "chapters": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "12:13"
+      },
+      "difficulty_tier": 5,
+      "summary": "Ram and goat empires collide; Daniel prays through Jeremiah's seventy years and receives the enigmatic 'seventy weeks'; a chapter-by-chapter preview of wars between north and south ends with a desolating sacrilege in the temple — and then the Old Testament's clearest resurrection promise: 'many who sleep in the dust of the earth shall awake.' Seal the book until the time of the end.",
+      "key_themes": [
+        "seventy weeks",
+        "tribulation",
+        "resurrection",
+        "sealed prophecy"
+      ],
+      "prerequisites": [
+        {
+          "node": "dan-7",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The later visions elaborate the fourth-beast crisis of chapter 7; its throne scene is their fixed point.",
+          "scope": "sequence"
+        },
+        {
+          "node": "jer-26-29",
+          "strength": "hard",
+          "type": "quotation",
+          "reason": "Daniel 8–12 assumes Jeremiah’s “seventy years” exile timetable and its prophetic repentance/covenant context (cf. Jer 25; 29), which Daniel invokes but does not reproduce, leaving an uninformed reader unable to grasp the temporal hinge Daniel uses.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-22-25",
+          "reason": "Jesus' Olivet Discourse cites 'the abomination of desolation spoken of by Daniel the prophet.'"
+        },
+        {
+          "node": "rev-6-11",
+          "reason": "Revelation's 42 months, 1,260 days, and sealed scroll take their vocabulary from these visions."
+        }
+      ],
+      "tradition_notes": "The seventy weeks (9:24-27) is among the most variously interpreted passages in Scripture: fulfilled readings ending at Christ's first coming (common in Catholic, Orthodox, and Reformed exegesis), a gap-and-future-tribulation reading (dispensationalist Protestantism), and historical readings centered on Antiochus IV (much modern scholarship). The graph flags the divergence without ranking the options.",
+      "key_verses": [
+        "Daniel 9:18-19",
+        "Daniel 9:24",
+        "Daniel 12:2-3"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "dense",
+      "emotional_tone": [
+        "tension",
+        "hopeful"
+      ],
+      "discussion_prompt": "Daniel receives visions of wars he will never live to see, and the angel's closing word is to go his way and rest. What do these chapters claim about God's grip on a violent future, and how would that promise steady you in what feels uncertain right now?",
+      "assessment_questions": [
+        "What does Daniel do at the start of chapter 9 after reading Jeremiah's prophecy, and what promise about those who sleep in the dust closes the book?",
+        "The visions preview persecution, a desolating sacrilege, and then an awakening to everlasting life. Whatever timeline a reader holds, what is the sealed book finally claiming about how God's story ends for his people?",
+        "Daniel responds to prophecy with confession and prayer rather than speculation. When the future feels dark, which do you reach for first, and what would praying like Daniel 9 sound like in your own words?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Prophecy drives Daniel to prayer",
+          "explanation": "Daniel reads Jeremiah's seventy years and responds with confession and pleading for mercy, modeling that God's promises invite intercession rather than mere calculation."
+        },
+        {
+          "concept": "God numbers the days of evil",
+          "explanation": "The visions show persecution as real and also bounded, since every tyrant in them runs to an appointed end that God has already set."
+        },
+        {
+          "concept": "The dead shall awake",
+          "explanation": "Daniel 12:2-3 gives the Old Testament's clearest resurrection promise, so the book's hope runs past political rescue to everlasting life."
+        },
+        {
+          "concept": "Seventy weeks held with humility",
+          "explanation": "Christians read the seventy weeks as fulfilled at Christ's first coming, as pointing to a future tribulation, or as centered on the Antiochus crisis, and the passage calls for humility rather than a forced verdict."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Daniel 12:2-3 promises and why it matters, and describe how Daniel 9 models responding to prophecy with prayer.",
+      "comprehension_check": [
+        {
+          "question": "The closing visions preview persecutions in exhausting detail and keep attaching set times to them. What is the detail doing for the faithful?",
+          "options": [
+            "Equipping them to date the end once decoded rightly",
+            "Warning them the outcome still hangs on the wars ahead",
+            "Frightening them toward repentance before the crisis lands",
+            "Assuring them every tyrant's season is already bounded"
+          ],
+          "answer_index": 3,
+          "why": "The visions keep saying the crisis runs to an appointed end fixed before it starts (Daniel 8:19, Daniel 11:35).",
+          "hint": "Read Daniel 8:19 and Daniel 11:35-36 again. Notice the word the visions keep attaching to the tyrant's time."
+        },
+        {
+          "question": "After all the empires and wars, Daniel ends with the promise that the sleeping dead will awake. What does that promise do to the book's hope?",
+          "options": [
+            "It carries the hope past any rescue history can give",
+            "It assures the faithful they will survive the persecution unharmed",
+            "It restates the hope of return from exile as a figure",
+            "It grants the wise a legacy that outlives their deaths"
+          ],
+          "answer_index": 0,
+          "why": "The awakening of Daniel 12:2-3 reaches past political deliverance to life that death cannot end.",
+          "hint": "Read Daniel 12:1-3 again. Notice how long the promised awakening is said to last."
+        }
+      ]
+    }
+  ]
+}

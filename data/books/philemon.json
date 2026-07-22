@@ -1,0 +1,98 @@
+{
+  "book": "Philemon",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "phlm",
+      "title": "Philemon: Receive Him as Me",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:25"
+      },
+      "difficulty_tier": 2,
+      "summary": "One page that quietly detonates under slavery: Onesimus, a runaway slave converted in Paul's prison, is sent home carrying this letter — 'no longer as a slave, but as a beloved brother.' Paul offers to pay his debts himself: 'if he has wronged you, charge it to my account.' The gospel's logic of substitution and family, applied to one household.",
+      "key_themes": [
+        "reconciliation",
+        "brotherhood over slavery",
+        "substitution",
+        "appeal not command"
+      ],
+      "prerequisites": [
+        {
+          "node": "col",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The letter travels with Colossians to the same town; Onesimus and the named greeters overlap."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Philemon 1:15-16",
+        "Philemon 1:17-18"
+      ],
+      "reading_time_minutes": 5,
+      "content_density": "light",
+      "emotional_tone": [
+        "hopeful",
+        "reflective"
+      ],
+      "discussion_prompt": "Paul could command Philemon and chooses instead to appeal in love, even offering to pay Onesimus's debts himself. What does his approach show about how the gospel changes relationships, and who would it cost you something real to welcome as family?",
+      "assessment_questions": [
+        "Who is Onesimus, and what does Paul ask Philemon to do when he arrives home carrying this letter?",
+        "Paul tells Philemon to charge any wrong to his own account. How does that offer echo what Christ has done, and why does it give the appeal its weight?",
+        "Paul asks Philemon to receive a runaway slave as a beloved brother. Where do social lines still decide how you treat people, and what would receiving someone as family cost you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Reconciliation made personal",
+          "explanation": "The gospel moves from doctrine into one real household, where a wronged master is asked to welcome the man who wronged him."
+        },
+        {
+          "concept": "Grace transforms identity",
+          "explanation": "Onesimus, once called useless, is now useful and a beloved brother, because conversion changes who a person is."
+        },
+        {
+          "concept": "Appeal over command",
+          "explanation": "Paul persuades in love when he could give orders, modeling how the gospel reorders relationships through consent rather than force."
+        },
+        {
+          "concept": "Substitution in miniature",
+          "explanation": "Paul's offer to put Onesimus's debt on his own account mirrors Christ taking the debt of sinners on himself."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Paul's appeal for Onesimus and explain how it shows the gospel reshaping a real relationship.",
+      "comprehension_check": [
+        {
+          "question": "Paul tells Philemon he has the standing to command him, then refuses to use it. What does the appeal make possible that an order could not?",
+          "options": [
+            "A ruling Roman law would be forced to honor",
+            "A welcome that costs Philemon nothing he values",
+            "A goodness Philemon gives freely rather than under pressure",
+            "A precedent other slaveholders would have to follow"
+          ],
+          "answer_index": 2,
+          "why": "Philemon 1:14 stakes everything on consent, wanting the good deed given freely instead of extracted by authority.",
+          "hint": "Read Philemon 1:14 again. Notice the kind of goodness Paul says he refuses to force."
+        },
+        {
+          "question": "Paul writes that any wrong or debt of Onesimus should be put on his own account. What does that offer do for the reconciliation?",
+          "options": [
+            "It settles the wrong so welcome need not pretend",
+            "It proves Onesimus never truly wronged his master",
+            "It pays Philemon off so he cannot refuse Paul",
+            "It satisfies the penalty Roman law laid on runaways"
+          ],
+          "answer_index": 0,
+          "why": "Philemon 1:18 moves the real debt onto Paul instead of denying it, so the welcome starts with a clean ledger.",
+          "hint": "Read Philemon 1:17-19 again. Notice what Paul does with the debt rather than around it."
+        }
+      ]
+    }
+  ]
+}

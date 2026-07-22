@@ -1,0 +1,109 @@
+{
+  "book": "1 Timothy",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "1tim",
+      "title": "1 Timothy: Order in God's Household",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "6:21"
+      },
+      "difficulty_tier": 3,
+      "summary": "Paul coaches his young delegate in Ephesus: silence the speculation-teachers, pray for kings, appoint overseers and deacons whose homes match their words, honor widows and elders, and flee the love of money — 'a root of all kinds of evils.' The church is 'the household of God… pillar and buttress of the truth,' and Christ Jesus came to save sinners, 'of whom I am the foremost.'",
+      "key_themes": [
+        "sound doctrine",
+        "church order",
+        "leadership character",
+        "contentment"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-16-20",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Timothy is holding the Ephesian church Paul planted and warned ('wolves will come') in Acts 19-20."
+        }
+      ],
+      "connections": [
+        {
+          "node": "titus",
+          "reason": "Titus is the same pastoral manual for Crete — the two letters share their elder-qualification lists."
+        }
+      ],
+      "tradition_notes": "The offices here (overseer/episkopos, deacon) ground divergent church polities: Catholic and Orthodox traditions read a threefold ministry (bishop, priest, deacon) in apostolic succession; presbyterian and congregational Protestants read overseer and elder as one office. 1 Tim 2:12 ('I do not permit a woman to teach') is the focal text in ongoing debates over women's ordination, read as universal by some traditions and as situational by others.",
+      "key_verses": [
+        "1 Timothy 1:15",
+        "1 Timothy 3:15",
+        "1 Timothy 6:6"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "resolve",
+        "warning"
+      ],
+      "discussion_prompt": "Paul insists that overseers and deacons be tested by the lives they already live at home. Why does the gospel's credibility ride so heavily on the character of the people who teach it, and whose life has made the faith believable to you?",
+      "assessment_questions": [
+        "What kinds of qualifications does Paul give for overseers and deacons in chapter 3?",
+        "Paul says the aim of his charge is love from a pure heart, a good conscience, and sincere faith. How does that aim separate sound doctrine from the speculation he tells Timothy to silence?",
+        "Paul calls godliness with contentment great gain and names the love of money a root of all kinds of evils. Where does money's pull show up in your own plans, and what would contentment change?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Doctrine that produces love",
+          "explanation": "Sound teaching aims at love from a pure heart and a sincere faith, which is how Paul distinguishes it from clever speculation."
+        },
+        {
+          "concept": "Mercy for the foremost sinner",
+          "explanation": "Paul holds up his own story as proof that Christ Jesus came into the world to save sinners, so no one stands beyond mercy's reach."
+        },
+        {
+          "concept": "Character-tested leadership",
+          "explanation": "Leaders in God's household are tested by proven character at home and in public, because their lives give the gospel its credibility."
+        },
+        {
+          "concept": "Contentment over the love of money",
+          "explanation": "Godliness with contentment guards the heart, while craving wealth plants a root from which all kinds of evils grow."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe why Paul ties church leadership to tested character, and explain what he means by godliness with contentment.",
+      "comprehension_check": [
+        {
+          "question": "1 Timothy 3:15 states the letter's purpose, conduct in the household of God, pillar and buttress of the truth. What does that image make of church order?",
+          "options": [
+            "Ordered common life is part of how truth stands publicly",
+            "Order is itself the truth, so sound structure saves",
+            "Order is a discipline imposed until the false teachers leave"
+          ],
+          "answer_index": 0,
+          "why": "1 Timothy 3:15 makes the household the pillar holding the truth up, so its conduct is load-bearing for the gospel.",
+          "hint": "Read 1 Timothy 3:14-16 again. Notice what the household image is said to hold up, and the song that follows in verse 16."
+        },
+        {
+          "question": "1 Timothy 6:6-10 sets great gain beside ruin and piercing grief. Where does the passage locate the danger?",
+          "options": [
+            "Money itself, which corrupts whoever handles it",
+            "Teaching for pay, which the church should never permit",
+            "Wealthy members, whose gifts distort the church's judgment",
+            "The craving to be rich, against contentment with enough"
+          ],
+          "answer_index": 3,
+          "why": "1 Timothy 6:9-10 traces the ruin to craving, the love of money that is a root of all kinds of evils.",
+          "hint": "Read 1 Timothy 6:6-10 again. Notice exactly what verse 10 calls a root, and who verse 9 says falls into the trap."
+        }
+      ]
+    }
+  ]
+}

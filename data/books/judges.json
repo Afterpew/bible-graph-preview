@@ -1,0 +1,489 @@
+{
+  "book": "Judges",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "judg-1-2",
+      "title": "The Unfinished Conquest and the Cycle",
+      "chapters": [
+        1,
+        2
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "2:23"
+      },
+      "difficulty_tier": 2,
+      "summary": "Israel fails to finish what Joshua began, a generation arises that 'did not know the LORD,' and chapter 2 lays out the book's tragic loop: sin, oppression, crying out, deliverance, relapse. The cycle is the thesis; everything after is evidence.",
+      "key_themes": [
+        "compromise",
+        "generational drift",
+        "the judges cycle"
+      ],
+      "prerequisites": [
+        {
+          "node": "josh-22-24",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The book's tragedy is the collapse of the covenant just renewed at Shechem.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Judges 2:10",
+        "Judges 2:18-19"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "sorrow"
+      ],
+      "discussion_prompt": "A whole generation grows up that does not know the LORD or what he did for Israel. How do these chapters show that happening one small compromise at a time, and what is your own generation at risk of forgetting?",
+      "assessment_questions": [
+        "What repeating pattern does chapter 2 describe in Israel's life after Joshua's generation dies?",
+        "Israel drifts from God gradually, starting with the failure to drive out its neighbors. Why does the book treat partial obedience as the seed of the whole tragedy?",
+        "The cycle begins when memory fails. What practices keep the story of what God has done alive for you, and which ones have you let slide?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Partial obedience is dangerous",
+          "explanation": "Israel finishes most of the conquest and tolerates the rest, and that leftover compromise becomes the snare that pulls the nation into idolatry."
+        },
+        {
+          "concept": "The judges cycle",
+          "explanation": "Chapter 2 lays out the loop of sin, oppression, crying out, deliverance, and relapse, and the whole book is that loop turning over and over."
+        },
+        {
+          "concept": "Mercy inside judgment",
+          "explanation": "Even while judging Israel's unfaithfulness, God is moved by their groaning and keeps raising deliverers, so his patience runs through the whole sad story."
+        },
+        {
+          "concept": "Faith must be handed down",
+          "explanation": "The disaster starts with a generation that never learned what God had done, which makes passing on the story a matter of survival for God's people."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the judges cycle from Judges 2 in your own words, and explain how partial obedience set it in motion.",
+      "comprehension_check": [
+        {
+          "question": "Before a single judge appears, Judges 2:11-19 lays out a whole pattern of rebellion, oppression, crying out, and rescue. What is that preview for?",
+          "options": [
+            "It summarizes troubles finished before the judges ever arose",
+            "It gives the frame every following story will keep proving",
+            "It promises each judge will leave Israel a little stronger",
+            "It shows the pattern broke as soon as Israel understood it"
+          ],
+          "answer_index": 1,
+          "why": "Judges 2:19 already notes that each relapse sinks deeper than the one before, the downward spiral the rest of the book documents.",
+          "hint": "Read Judges 2:16-19 again. Notice what happens every time a judge dies, and which direction each new round moves."
+        },
+        {
+          "question": "Israel cries out and God delivers, round after round. What does Judges 2:18 reveal about why the rescues keep coming?",
+          "options": [
+            "Each round of crying out proves Israel has truly repented",
+            "The judges' own merits persuade God to grant the victories",
+            "Israel's suffering completes the punishment its sin had earned",
+            "God cannot bear the misery his own people are in"
+          ],
+          "answer_index": 3,
+          "why": "Judges 2:18 grounds each rescue in the LORD's own compassion at what oppression was doing to his people.",
+          "hint": "Read Judges 2:18-19 again. Notice the motive the text gives God, and what it never says about Israel."
+        }
+      ]
+    },
+    {
+      "id": "judg-3-8",
+      "title": "Deborah and Gideon",
+      "chapters": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_span": {
+        "from": "3:1",
+        "to": "8:35"
+      },
+      "difficulty_tier": 2,
+      "summary": "The early deliverers: Ehud's left-handed assassination, Deborah and Jael breaking Canaanite power, and Gideon's three hundred routing Midian with torches and trumpets — God saving through the weak so no one can boast. Gideon's story already shows the rot: he ends by making an idol.",
+      "key_themes": [
+        "deliverance",
+        "weakness and power",
+        "faith",
+        "creeping idolatry"
+      ],
+      "prerequisites": [
+        {
+          "node": "judg-1-2",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Each judge's story is a turn of the cycle defined in chapter 2.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-11",
+          "reason": "Gideon and Barak appear in Hebrews 11's catalogue of faith."
+        }
+      ],
+      "key_verses": [
+        "Judges 4:9",
+        "Judges 7:2",
+        "Judges 8:27"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "warning"
+      ],
+      "discussion_prompt": "God cuts Gideon's army from thirty-two thousand to three hundred so that Israel cannot claim the victory for itself. Why does God insist on winning through weakness, and where might your own sense of being under-equipped be exactly the place God wants to work?",
+      "assessment_questions": [
+        "How does God reduce Gideon's army, and how is Midian defeated?",
+        "God tells Gideon the army is too large in case Israel boasts that her own hand has saved her. What does that reason reveal about the point of these victories?",
+        "Gideon ends his story by making an ephod that becomes a snare to his family and to Israel. How can a good gift or a real victory turn into an idol in your own life?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God saves through unlikely people",
+          "explanation": "A left-handed assassin, a woman with a tent peg, and a fearful farmer become Israel's deliverers, because salvation is God's work rather than a reward for human merit."
+        },
+        {
+          "concept": "Power shows up in weakness",
+          "explanation": "Three hundred men with torches and trumpets rout an army, making it unmistakable that the strength belongs to God."
+        },
+        {
+          "concept": "The stories describe without endorsing",
+          "explanation": "The narrative includes deception and rough violence without pausing to approve them, showing God working his purposes through a messy, sinful world."
+        },
+        {
+          "concept": "Victory can curdle into idolatry",
+          "explanation": "Gideon refuses a crown and then builds an ephod that Israel worships, proving that even a faithful deliverer can plant the seeds of the next relapse."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Gideon's story from his call to the ephod, and explain why God shrank his army to three hundred.",
+      "comprehension_check": [
+        {
+          "question": "A left-handed loner, a woman with a tent peg, a farmer hiding from Midian, an army cut to three hundred. Why does Judges keep choosing deliverers like these?",
+          "options": [
+            "To keep the saving unmistakably God's, with no room for boasting",
+            "To celebrate the underdog cunning of Israel's folk heroes",
+            "To show any weapon becomes holy once the cause is just",
+            "To prove Israel's enemies were feebler than they appeared"
+          ],
+          "answer_index": 0,
+          "why": "Judges 7:2 explains the shrinking of Gideon's army, God removing every ground for Israel to credit itself with the rescue.",
+          "hint": "Read Judges 7:2 again. Notice the danger God names before the battle, which has nothing to do with Midian."
+        },
+        {
+          "question": "Gideon turns down the crown and points Israel to the LORD's rule (Judges 8:23), then makes an ephod that Israel worships (Judges 8:27). What is that ending showing?",
+          "options": [
+            "Proof that his refusal of kingship settled Israel's loyalty",
+            "Blame for the people alone while Gideon's hands stay clean",
+            "The next relapse starting inside the deliverer himself",
+            "A veteran's reward of gold his triumph had fairly earned"
+          ],
+          "answer_index": 2,
+          "why": "Judges 8:27 counts Gideon and his own family among the ephod's victims, seed of the idolatry the next cycle will reap.",
+          "hint": "Read Judges 8:22-27 again. Notice how quickly the man who refused to rule produces something Israel serves."
+        }
+      ]
+    },
+    {
+      "id": "judg-9-12",
+      "title": "Abimelech and Jephthah: Deliverers Gone Dark",
+      "chapters": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_span": {
+        "from": "9:1",
+        "to": "12:15"
+      },
+      "difficulty_tier": 3,
+      "summary": "Gideon's son Abimelech murders his seventy brothers to be king, and Jephthah's rash vow costs him his daughter. The deliverers are now nearly as broken as the oppression they end — the book is deliberately darkening.",
+      "key_themes": [
+        "corruption of leadership",
+        "rash vows",
+        "civil strife"
+      ],
+      "prerequisites": [
+        {
+          "node": "judg-3-8",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Abimelech's coup is the direct aftermath of Gideon's household; the downward spiral is sequential.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Judges 9:56",
+        "Judges 10:16",
+        "Judges 11:35"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "warning"
+      ],
+      "discussion_prompt": "Jephthah tries to secure God's help with a vow he never stops to weigh, and it costs him his daughter. What does his story teach about the difference between trusting God and trying to bargain with him, and where do you catch yourself bargaining instead of trusting?",
+      "assessment_questions": [
+        "How does Abimelech become ruler, and how does his reign end?",
+        "Jotham's fable pictures Abimelech as a bramble reigning over the trees. What is the fable saying about the kind of leadership Israel has chosen?",
+        "Jephthah's vow was rash speech aimed at guaranteeing an outcome. What commitments do you make carelessly, and what would sober, weighed speech look like instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Ambition corrodes leadership",
+          "explanation": "Abimelech murders seventy brothers to seize power, and his violent rise produces tyranny and ruin for everyone under him."
+        },
+        {
+          "concept": "God's justice outlasts broken institutions",
+          "explanation": "With no king and failing judges, God still repays Abimelech's wickedness, showing that moral order holds even when human structures collapse."
+        },
+        {
+          "concept": "Rash vows carry real cost",
+          "explanation": "Jephthah's hasty promise brings grief that careful, honest speech would have avoided, and readers across traditions still debate exactly how his vow was fulfilled."
+        },
+        {
+          "concept": "God's compassion persists",
+          "explanation": "Even in this dark stretch, God cannot bear Israel's misery, so his mercy keeps working underneath the nation's decay."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Abimelech's rise and fall and Jephthah's vow each show the deliverers themselves going dark.",
+      "comprehension_check": [
+        {
+          "question": "Abimelech murders seventy brothers, rules three years, and dies under a dropped millstone. What does the narrator want seen in that arc (Judges 9:56-57)?",
+          "options": [
+            "Violent men naturally destroy themselves without any divine hand",
+            "Israel being punished for flirting with the idea of kings",
+            "A tyrant's fall restoring Israel's faith for a generation",
+            "God's justice at work where every human institution failed"
+          ],
+          "answer_index": 3,
+          "why": "Judges 9:24 says the strife came so the crime against the seventy would be answered, and Judges 9:56 confirms God repaid it.",
+          "hint": "Read Judges 9:23-24 and Judges 9:56-57. Notice who the narrator says stood behind the falling-out and the reckoning."
+        },
+        {
+          "question": "The Spirit of the LORD comes on Jephthah before he ever opens his mouth to vow (Judges 11:29-31). What does that order of events suggest about the vow?",
+          "options": [
+            "It was the act of faith that qualified him to win",
+            "It bargained for a victory God was already giving",
+            "It secured a greater triumph than the Spirit alone would",
+            "It was the standard price every deliverer paid for victory"
+          ],
+          "answer_index": 1,
+          "why": "Judges 11:29 has the Spirit on Jephthah and his campaign moving before the vow of Judges 11:30-31 is ever spoken.",
+          "hint": "Read Judges 11:29-31 in order. Notice what has already happened before Jephthah starts making conditions."
+        }
+      ]
+    },
+    {
+      "id": "judg-13-16",
+      "title": "Samson",
+      "chapters": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_span": {
+        "from": "13:1",
+        "to": "16:31"
+      },
+      "difficulty_tier": 2,
+      "summary": "A lifelong Nazirite with supernatural strength and no self-control, Samson fights Philistines mostly over personal grievances — and wins his greatest victory blind, in chains, at the cost of his life. The strongest judge is the weakest man; Israel needs something better than heroes.",
+      "key_themes": [
+        "strength and weakness",
+        "calling squandered",
+        "death that delivers"
+      ],
+      "prerequisites": [
+        {
+          "node": "judg-9-12",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Judges 13–16 assumes the reader sees Samson as the consummation of the judges' progressive moral decline exemplified in chapters about Abimelech and Jephthah, a framing it never restates and without which readers will readily misread Samson as a standalone heroic tale rather than Israel's climactic failure.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Judges 13:5",
+        "Judges 16:20",
+        "Judges 16:28"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "tension"
+      ],
+      "discussion_prompt": "Samson has every advantage: a calling from before birth, the Spirit's power, unmatched strength. He loses it all chasing what he wants in the moment. What does his story show about the gap between gifting and character, and which of the two are you actually building?",
+      "assessment_questions": [
+        "What vow sets Samson apart from birth, and how does he finally lose his strength?",
+        "The saddest line in the story says Samson did not know that the LORD had left him. How did he reach the point of not even noticing?",
+        "Samson's gifts outran his self-control. Where does your own strength or talent tempt you to skip the slow work of character, and what would guarding your heart look like this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Calling coexists with deep flaws",
+          "explanation": "Samson is set apart from the womb and empowered by the Spirit, yet he remains ruled by appetite, so God's choosing of a person is no guarantee of their character."
+        },
+        {
+          "concept": "Outward vows cannot replace an inward heart",
+          "explanation": "Samson keeps the external marks of a Nazirite for years while breaking its spirit at every turn, showing that consecration on the surface can hide sin underneath."
+        },
+        {
+          "concept": "Gifts do not cancel consequences",
+          "explanation": "Samson's choices cost him his eyes, his freedom, and finally his life, because divine empowerment never removes personal responsibility."
+        },
+        {
+          "concept": "God works through a broken instrument",
+          "explanation": "Samson's dying prayer is answered and his greatest deliverance comes at the end, so even a squandered life is never beyond God's purpose or mercy."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Samson's life from the birth announcement to the temple of Dagon, and explain what his story says about a squandered calling.",
+      "comprehension_check": [
+        {
+          "question": "Shorn and seized, Samson assumes he will shake free as always (Judges 16:20). What had he failed to understand about his own strength?",
+          "options": [
+            "It was the LORD's presence with him, now departed",
+            "It lived in the hair itself, a charm now cut away",
+            "It was a natural gift that betrayal had finally broken",
+            "It depended on Israel's prayers, which had long ceased"
+          ],
+          "answer_index": 0,
+          "why": "Judges 16:20 explains the failure by the LORD's departure, and in Judges 16:28 Samson finally asks God himself for strength.",
+          "hint": "Read Judges 16:20 and Judges 16:28. Notice what the narrator says Samson did not know, and where he turns at the end."
+        },
+        {
+          "question": "Samson's last prayer asks strength to avenge his own two eyes (Judges 16:28), yet his death brings the greatest blow yet against Philistia (Judges 16:30). What is the story saying?",
+          "options": [
+            "One noble death can redeem a whole squandered life",
+            "His regrown hair restored the power the razor took",
+            "God's purpose works even through a deliverer this broken",
+            "Israel's repentance finally released the help God had withheld"
+          ],
+          "answer_index": 2,
+          "why": "Judges 13:5 promised this man would begin Israel's deliverance, and Judges 16:30 shows God keeping that word through a deeply flawed final act.",
+          "hint": "Read Judges 16:28-30 next to Judges 13:5. Notice whose stated purpose gets carried out, and through what kind of prayer."
+        }
+      ]
+    },
+    {
+      "id": "judg-17-21",
+      "title": "No King in Israel",
+      "chapters": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_span": {
+        "from": "17:1",
+        "to": "21:25"
+      },
+      "difficulty_tier": 3,
+      "summary": "Two appalling epilogues — a bootleg shrine with a hired priest, and a crime at Gibeah that ignites civil war — under the book's tolling refrain: 'In those days there was no king in Israel; everyone did what was right in his own eyes.' The stage is set for Samuel and the monarchy.",
+      "key_themes": [
+        "anarchy",
+        "idolatry",
+        "need for a king",
+        "moral collapse"
+      ],
+      "prerequisites": [
+        {
+          "node": "judg-13-16",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The epilogues land as the book's verdict after the judges themselves have failed."
+        }
+      ],
+      "connections": [
+        {
+          "node": "1sam-8-12",
+          "reason": "The demand for a king in 1 Samuel 8 is the direct answer to Judges' closing refrain."
+        }
+      ],
+      "key_verses": [
+        "Judges 17:6",
+        "Judges 19:30",
+        "Judges 21:25"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "warning"
+      ],
+      "discussion_prompt": "These chapters show what happens when every person becomes his own standard of right. What do the two epilogues reveal about where that road leads, and what standard outside yourself do you actually answer to?",
+      "assessment_questions": [
+        "What does Micah set up in his house, and what happens to his shrine and his priest?",
+        "The refrain says there was no king in Israel and everyone did what was right in his own eyes. How do these two stories work as the book's closing argument?",
+        "Micah's religion was homemade and self-serving, yet he expected God's blessing for it. Where might your own faith be shaped more by preference than by God, and how would you find out?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The text describes without prescribing",
+          "explanation": "Scripture records these atrocities to indict them, letting the horror of the outcomes deliver the verdict that the narrator never states outright."
+        },
+        {
+          "concept": "Homemade religion drifts into idolatry",
+          "explanation": "Micah builds a shrine, an idol, and a hired priesthood out of sincere-sounding piety, showing how faith detached from God's word bends toward whatever we want."
+        },
+        {
+          "concept": "Covenant collapse unravels society",
+          "explanation": "When Israel abandons its covenant norms, the vulnerable are the first to suffer, and one crime spirals into civil war that nearly erases a tribe."
+        },
+        {
+          "concept": "The refrain points to a needed king",
+          "explanation": "The repeated line about no king in Israel diagnoses the chaos and sets up the longing for righteous rule that the books of Samuel will take up."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the refrain about no king in Israel means in these chapters, and how the two epilogues prepare for the monarchy.",
+      "comprehension_check": [
+        {
+          "question": "The last chapters of Judges pile up idols, outrage, and civil war with almost no editorial comment. How does the book deliver its verdict?",
+          "options": [
+            "By declining to judge people who meant well in chaos",
+            "By its refrain and the horror of the outcomes themselves",
+            "By recording the era as bare history needing no verdict",
+            "By blaming the Levites alone for corrupting a sound nation"
+          ],
+          "answer_index": 1,
+          "why": "Judges 21:25 closes the book with its diagnosis, no king and every person a law to himself, and the stories display the cost.",
+          "hint": "Read Judges 17:6 and Judges 21:25. Notice the sentence that frames these stories from both ends."
+        },
+        {
+          "question": "Micah has a shrine, an idol, a hired Levite, and high confidence that blessing must now follow (Judges 17:13). What is his story exposing?",
+          "options": [
+            "A sincere seeker whom God rewarded with lasting prosperity",
+            "Worship acceptable in substance though housed at the wrong shrine",
+            "A poor man's piety that the established priesthood refused",
+            "Homemade religion that borrows God's name to serve its owner"
+          ],
+          "answer_index": 3,
+          "why": "Judges 17:13 shows Micah counting his arrangements as leverage on God, and Judges 18:24 shows gods that were made being simply carried away.",
+          "hint": "Read Judges 17:13 and Judges 18:24. Notice what Micah expects his setup to earn, and what finally becomes of it."
+        }
+      ]
+    }
+  ]
+}

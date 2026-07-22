@@ -1,0 +1,112 @@
+{
+  "book": "Obadiah",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "obad",
+      "title": "Obadiah: The Doom of Edom",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:21"
+      },
+      "difficulty_tier": 3,
+      "summary": "The Old Testament's shortest book: judgment on Edom — Esau's descendants — for standing aloof and then joining in on the day Jerusalem fell. 'As you have done, it shall be done to you.' The ancient twin-brother rivalry of Jacob and Esau ends at the Day of the LORD, when 'the kingdom shall be the LORD's.'",
+      "key_themes": [
+        "betrayal by kin",
+        "pride brought low",
+        "day of the LORD",
+        "poetic justice"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-27-28",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Edom is Esau; the oracle's charge — violence 'against your brother Jacob' — runs on the Genesis twin story.",
+          "scope": "foundation"
+        },
+        {
+          "node": "2kgs-24-25",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Assumes the historical setting of Edom's opportunistic violence at Jerusalem's fall (the exile/destruction ca. 586 BC), which Obadiah never narrates.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ps-135-137",
+          "reason": "Psalm 137 remembers the same Edomite gloating: 'Remember, O LORD, against the Edomites the day of Jerusalem.'"
+        }
+      ],
+      "key_verses": [
+        "Obadiah 1:3",
+        "Obadiah 1:15",
+        "Obadiah 1:21"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "resolve"
+      ],
+      "discussion_prompt": "Edom watched from the cliffs while their brother's city burned, then came down to join the looting. Why does God treat standing by as taking part, and where might you be a bystander to harm you did not start?",
+      "assessment_questions": [
+        "What did Edom do on the day Jerusalem fell, and what does God announce will happen to them?",
+        "Obadiah says the pride of Edom's heart deceived them in their rocky heights. How does pride convince people that they are safe from consequences?",
+        "The book says that as Edom has done, it shall be done to them. How does trusting God to repay betrayal change how you respond when it costs you to stand with someone?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Betrayal of a brother",
+          "explanation": "God condemns Edom for gloating over kin, so kinship carries obligations that neutrality cannot cancel."
+        },
+        {
+          "concept": "Pride is a false refuge",
+          "explanation": "Edom trusted its mountain fortresses, and God brings down whatever arrogance builds its safety on."
+        },
+        {
+          "concept": "The Day of the LORD is universal",
+          "explanation": "God holds every nation to the same moral standard, near to Israel or far from it."
+        },
+        {
+          "concept": "The kingdom is the LORD's",
+          "explanation": "The little book ends with God ruling over all, so history's last word belongs to him rather than to any empire."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why God judges Edom in Obadiah and what the closing line about the kingdom being the LORD's means for how the story of nations ends.",
+      "comprehension_check": [
+        {
+          "question": "Edom's first move on Jerusalem's worst day was simply to stand at a distance and watch. Why does the oracle count that as guilt?",
+          "options": [
+            "Because Edom had secretly guided the invading armies in",
+            "Because standing aloof from a brother's ruin joins it",
+            "Because watching proved Edom planned the same crime",
+            "Because neutrality broke a formal treaty with Judah"
+          ],
+          "answer_index": 1,
+          "why": "Obadiah 1:11 counts the day Edom kept its distance as the day Edom became one of the attackers.",
+          "hint": "Read Obadiah 1:11-12 again. Notice how far the charges go before Edom ever lifts a hand."
+        },
+        {
+          "question": "The oracle widens at Obadiah 1:15 from Edom to a day nearing all nations. What grounds the judgment there?",
+          "options": [
+            "God's promise to avenge Israel on every rival nation",
+            "God's old preference for Jacob's line over Esau's",
+            "Edom's inherited share in its ancestor's ancient wrongs",
+            "Each nation's own deeds returning on its head"
+          ],
+          "answer_index": 3,
+          "why": "Obadiah 1:15 announces one measure for all the nations, each repaid out of its own conduct.",
+          "hint": "Read Obadiah 1:15 again. Notice the rule the verse announces for every nation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "book": "Joshua",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "josh-1-5",
+      "title": "Crossing into the Land",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "5:15"
+      },
+      "difficulty_tier": 2,
+      "summary": "Joshua takes command, Rahab the Canaanite hides the spies and joins Israel, and the Jordan parts like a second Red Sea. The promise made to Abraham back in Genesis finally touches ground.",
+      "key_themes": [
+        "promise fulfilled",
+        "courage",
+        "faith of outsiders",
+        "crossing"
+      ],
+      "prerequisites": [
+        {
+          "node": "deut-31-34",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Joshua 1 opens 'after the death of Moses' — it is the direct sequel to Deuteronomy's ending.",
+          "scope": "sequence"
+        },
+        {
+          "node": "gen-12-17",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Joshua 1–5 presumes the land promise given to Abraham in Genesis 12–17 as its theological horizon and does not re‑explain that covenantal basis, so omitting those Genesis chapters risks reading the conquest as mere military enterprise rather than covenantal fulfillment.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-1-2",
+          "reason": "Rahab appears in Jesus' genealogy — the Canaanite convert becomes an ancestor of the Messiah."
+        },
+        {
+          "node": "heb-11",
+          "reason": "Rahab and the walls of Jericho both appear in Hebrews' roll call of faith."
+        }
+      ],
+      "key_verses": [
+        "Joshua 1:9",
+        "Joshua 2:11",
+        "Joshua 4:23-24"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "awe"
+      ],
+      "discussion_prompt": "Rahab is a Canaanite in a doomed city, yet she is the one who declares that Israel's God rules heaven and earth. What do her faith and Joshua's courage each show about how a person steps into what God is doing, and what step like that is in front of you right now?",
+      "assessment_questions": [
+        "What happens when the priests carry the ark into the Jordan, and what are the twelve stones taken from the riverbed for?",
+        "God tells Joshua three times to be strong and courageous, and each time the reason is that the LORD will be with him. Why does the command rest on God's presence instead of Joshua's qualifications?",
+        "Rahab risked her life on what she had only heard about Israel's God. What have you learned about God secondhand that is now asking for a firsthand decision from you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God keeps his promises",
+          "explanation": "The crossing into Canaan is the promise to Abraham finally landing, showing that God's word holds across centuries and generations."
+        },
+        {
+          "concept": "Courage rests on God's presence",
+          "explanation": "Joshua is told to be strong because the LORD is with him wherever he goes, so courage comes from who is beside you rather than what you can do."
+        },
+        {
+          "concept": "Faith shows up in outsiders",
+          "explanation": "Rahab the Canaanite trusts Israel's God on the strength of what she has heard, and she is rescued and folded into God's people."
+        },
+        {
+          "concept": "Memory sustains faith",
+          "explanation": "The memorial stones, the circumcision at Gilgal, and the Passover all mark God's saving acts so that future generations can ask and be told."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the Jordan crossing and Rahab's story, and explain why the memorial stones at Gilgal mattered for the generations to come.",
+      "comprehension_check": [
+        {
+          "question": "The memorial stones get their meaning in Joshua 4:21-24, where the Jordan crossing is set beside the Red Sea. What are the stones meant to keep saying?",
+          "options": [
+            "The exodus God is the same God acting now",
+            "The new generation has now matched their parents' faith",
+            "Israel's army crossed with a skill worth remembering",
+            "The river gave way to the priests' obedient courage"
+          ],
+          "answer_index": 0,
+          "why": "Joshua 4:23-24 links the Jordan to the Red Sea so that every generation and all peoples recognize the same mighty hand at work.",
+          "hint": "Read Joshua 4:21-24 again. Notice which older story the stones are tied to and who is meant to hear about it."
+        },
+        {
+          "question": "Rahab's speech in Joshua 2:9-11 comes before Israel has won a single battle in the land. What does her rescue show about how someone comes under this God's protection?",
+          "options": [
+            "She acted from political fear of a stronger army",
+            "The spies owed her protection as payment for hiding them",
+            "Faith in Israel's God mattered more than her ancestry",
+            "Her kindness earned her family an exemption from judgment"
+          ],
+          "answer_index": 2,
+          "why": "Joshua 2:11 records Rahab confessing that Israel's God is God of heaven and earth, and that trust is what brings her house through.",
+          "hint": "Read Joshua 2:9-11 again. Notice what Rahab says she has heard and where her conclusion lands."
+        }
+      ]
+    },
+    {
+      "id": "josh-6-8",
+      "title": "Jericho and Ai",
+      "chapters": [
+        6,
+        7,
+        8
+      ],
+      "verse_span": {
+        "from": "6:1",
+        "to": "8:35"
+      },
+      "difficulty_tier": 2,
+      "summary": "Jericho's walls fall to trumpet blasts, but Achan's hidden theft brings defeat at Ai — one man's sin costs the whole camp. Victory in this book runs on obedience, not military strength.",
+      "key_themes": [
+        "victory by faith",
+        "holiness of the camp",
+        "sin's corporate cost"
+      ],
+      "prerequisites": [
+        {
+          "node": "josh-1-5",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Jericho is the first objective after the crossing; Rahab's rescue fulfills the spies' oath from chapter 2.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Joshua 6:20",
+        "Joshua 7:11",
+        "Joshua 8:1"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "tension"
+      ],
+      "discussion_prompt": "Jericho falls without Israel swinging a sword, and Ai defeats them the moment one man hides stolen treasure. What do those two battles together teach about where Israel's strength actually comes from, and what hidden thing would you have to bring into the open to live that way?",
+      "assessment_questions": [
+        "How does Jericho fall, and what causes Israel's defeat at Ai?",
+        "God says Israel cannot stand against its enemies because of one man's hidden theft. Why does the story treat Achan's private sin as the whole camp's problem?",
+        "Achan confesses only after he is exposed. What would it look like to deal with a hidden compromise in your own life before it costs you and the people around you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Victory comes through trusting obedience",
+          "explanation": "Marching around a wall for seven days is military nonsense, and Jericho falls anyway, because the battle runs on God's word rather than Israel's tactics."
+        },
+        {
+          "concept": "Hidden sin harms the community",
+          "explanation": "Achan's secret theft brings defeat on the whole camp, showing that within God's people sin is never a purely private matter."
+        },
+        {
+          "concept": "Dealing with sin restores the mission",
+          "explanation": "Once the hidden sin is confronted and removed, God sends Israel back to Ai with the promise of victory, so honesty reopens the way forward."
+        },
+        {
+          "concept": "Victory leads to covenant renewal",
+          "explanation": "After Ai, Joshua builds an altar and reads the whole law aloud, because winning the land matters only if Israel lives rightly in it."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why Israel wins at Jericho and loses at Ai, and what Achan's story shows about the cost of hidden sin to a community.",
+      "comprehension_check": [
+        {
+          "question": "Seven days of silent marching is no way to take a city. What is Jericho's strange battle plan teaching Israel?",
+          "options": [
+            "Patience and repetition are the highest military virtues",
+            "Worship rituals can be weaponized when armies are outmatched",
+            "God tests obedience with commands that make no sense",
+            "The land will be won by trusting God's word"
+          ],
+          "answer_index": 3,
+          "why": "Joshua 6:2 hands the city over as already delivered before the first lap, so the marching is trust acting on a promise.",
+          "hint": "Read Joshua 6:2 again, before the instructions start. Notice the tense of what God says about Jericho."
+        },
+        {
+          "question": "One man stole from Jericho, yet Joshua 7:1 says anger burned against Israel, and the whole army fails at Ai. What is the story insisting on?",
+          "options": [
+            "Sin inside the covenant community is never purely private",
+            "Every military setback signals some hidden sin somewhere",
+            "The theft mattered mainly because it shorted the LORD's treasury",
+            "God's presence abandons Israel whenever any member sins"
+          ],
+          "answer_index": 0,
+          "why": "Joshua 7:11 charges all Israel with breaking the covenant over one hidden theft, because the camp stands before God as one body.",
+          "hint": "Read Joshua 7:1 and 7:11 again. Notice who the text says sinned and who the text says is charged."
+        }
+      ]
+    },
+    {
+      "id": "josh-9-12",
+      "title": "The Southern and Northern Campaigns",
+      "chapters": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_span": {
+        "from": "9:1",
+        "to": "12:24"
+      },
+      "difficulty_tier": 3,
+      "summary": "The Gibeonites trick their way into a treaty, the sun stands still over Gibeon, and the conquest sweeps south then north. These chapters raise the Bible's hardest ethical questions about the herem ('devoted to destruction') warfare texts.",
+      "key_themes": [
+        "conquest",
+        "judgment on Canaan",
+        "oath-keeping",
+        "divine warfare"
+      ],
+      "prerequisites": [
+        {
+          "node": "josh-6-8",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The campaigns are triggered by coalitions forming against Israel after Jericho and Ai fall.",
+          "scope": "sequence"
+        },
+        {
+          "node": "deut-19-26",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Joshua 9–12 relies on Deuteronomy’s rules and theology of warfare and covenant judgment (Deut 20 and the surrounding moral rationale) to frame the campaigns as covenant execution rather than ordinary conquest, a framework Joshua narrates but never restates, so a reader lacking Deuteronomy will misread the character and grounds of the wars.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "All major traditions have wrestled with the conquest's ethics rather than splitting along confessional lines: readings range from straightforward divine judgment on Canaanite practice, to ancient Near Eastern hyperbole (fortified military centers, not total populations), to typological readings (the church fathers often read the conquest as spiritual warfare). The graph notes the difficulty; it does not resolve it.",
+      "key_verses": [
+        "Joshua 9:14",
+        "Joshua 10:14",
+        "Joshua 11:23"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "tension",
+        "awe"
+      ],
+      "discussion_prompt": "Israel swears an oath to the Gibeonites without asking God first, then keeps it even though it was won by trickery, and God himself fights to defend Gibeon. What does that whole episode show about how seriously God's people should take their word, and what promise are you tempted to treat as optional?",
+      "assessment_questions": [
+        "How do the Gibeonites obtain a treaty with Israel, and what happens when their trick is discovered?",
+        "The text notes that Israel did not inquire of the LORD before the Gibeonite treaty, yet God later throws his power behind defending Gibeon. What does that sequence suggest about how God regards the commitments his people make?",
+        "These chapters raise hard questions about God's judgment on Canaan that faithful readers still wrestle with. How do you handle a part of Scripture that troubles you without ignoring it and without walking away from it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Oaths bind even when gained by deception",
+          "explanation": "Israel honors the Gibeonite treaty because it was sworn in the LORD's name, showing that a promise made before God stays serious even when you were fooled into it."
+        },
+        {
+          "concept": "God fights for his people",
+          "explanation": "The hailstones and the long day at Gibeon present the victories as God's own intervention, so the conquest is his act rather than Israel's military achievement."
+        },
+        {
+          "concept": "Herem as divine judgment",
+          "explanation": "The text presents the ban as God's judgment on centuries of Canaanite practice rather than ethnic conquest, and every major tradition still wrestles honestly with how to read it."
+        },
+        {
+          "concept": "Hard texts drive us to humility",
+          "explanation": "Passages like these are meant to be studied with prayer and with the church rather than solved with quick answers or quietly skipped."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Summarize the southern and northern campaigns, and explain why Israel honored the Gibeonite treaty even though it was obtained by deception.",
+      "comprehension_check": [
+        {
+          "question": "Hailstones outkill swords, the sun stands still, and kings fall in a sweep. What do these chapters want Israel to conclude about the conquest?",
+          "options": [
+            "Their army had become the strongest force in Canaan",
+            "The land was a gift and God the giver",
+            "Bold tactics plus favorable weather explain the sweep",
+            "Total war was now Israel's permanent divine calling"
+          ],
+          "answer_index": 1,
+          "why": "Joshua 10:14 and 10:42 credit the campaign to the LORD fighting for Israel, so the land is received before it is achieved.",
+          "hint": "Read Joshua 10:14 and 10:42 again. Notice who the narrator says was doing the fighting."
+        },
+        {
+          "question": "Israel is tricked into the Gibeonite treaty, discovers the fraud, and keeps the treaty anyway in Joshua 9:18-19. What carries that decision?",
+          "options": [
+            "Mercy toward Gibeon outweighed the command about the land",
+            "Breaking treaties would have provoked the remaining kings",
+            "An oath sworn in the LORD's name stays binding",
+            "Gibeon's cleverness earned them a place in Israel"
+          ],
+          "answer_index": 2,
+          "why": "Joshua 9:19 shows the leaders bound by their own oath before the LORD, so his name outweighs their blunder.",
+          "hint": "Read Joshua 9:14-19 again. Notice what step Israel skipped, and what the leaders say they cannot undo."
+        }
+      ]
+    },
+    {
+      "id": "josh-13-19",
+      "title": "The Tribal Allotments",
+      "chapters": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_span": {
+        "from": "13:1",
+        "to": "19:51"
+      },
+      "difficulty_tier": 3,
+      "summary": "Seven chapters distribute the land tribe by tribe: the Transjordan grants first, then Judah and the Joseph tribes at Gilgal, then the seven remaining tribes surveyed and allotted at Shiloh. Caleb, eighty-five and undimmed, claims the hill country promised him forty-five years earlier, while Joshua has to rebuke seven tribes still camped instead of possessing. The boundary lists read like a deed of title, the promise to Abraham parceled out in named towns and borders, yet the text keeps admitting how much land remains untaken.",
+      "key_themes": [
+        "inheritance",
+        "tribal identity",
+        "faithfulness of God",
+        "possession unfinished"
+      ],
+      "prerequisites": [
+        {
+          "node": "num-31-36",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Joshua 13–19 presumes the prior legal and allocation framework in Numbers 31–36 (the Moses‑given allotment instructions, the resolution of Zelophehad’s daughters, and the reason Levites receive towns not territory), which Joshua implements but does not re‑explain, so a reader without Numbers will misread the basis and limits of the tribal allotments.",
+          "scope": "foundation"
+        },
+        {
+          "node": "josh-9-12",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "You can only divide what has been taken; the allotment follows the campaigns.",
+          "scope": "sequence"
+        },
+        {
+          "node": "gen-12-17",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Joshua’s allotment of the land presumes the Abrahamic promise of land to the patriarchs given in Genesis 12–17, which Joshua does not restate and which is necessary to read the distributions as fulfillment rather than merely administrative division.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Joshua 13:1",
+        "Joshua 14:12",
+        "Joshua 18:3"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "light",
+      "emotional_tone": [
+        "resolve",
+        "hopeful"
+      ],
+      "discussion_prompt": "Caleb asks for the Anakim's hill country at eighty-five, while seven whole tribes sit at Shiloh until Joshua asks how long they will put off possessing what God has given. What separates receiving a promise from possessing it, and which of those two postures looks more like yours right now?",
+      "assessment_questions": [
+        "What does Caleb ask for in Joshua 14:12, and what question does Joshua put to the seven waiting tribes in Joshua 18:3?",
+        "The section opens with God telling an old Joshua that much land remains, then records the whole country as allotted. Why does the book present the gift as settled in the lists while admitting the taking is unfinished?",
+        "Caleb claims his mountain at eighty-five; seven tribes need a rebuke before they move. Where has God's faithfulness already given you ground you have not yet walked onto, and what would claiming it look like this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A deed, not a gazetteer",
+          "explanation": "The boundary lists record God's faithfulness parcel by parcel, working like a signed title so that every tribe and generation can point to what the promise delivered."
+        },
+        {
+          "concept": "Gift and task together",
+          "explanation": "The land is given by promise yet must still be possessed, and Joshua 13:1 and 18:3 hold God's grace and Israel's responsibility in a single frame."
+        },
+        {
+          "concept": "Caleb's wholehearted claim",
+          "explanation": "Forty-five years of waiting have not loosened Caleb's grip on what God said; he asks for the hardest hill country while younger tribes hesitate at Shiloh."
+        },
+        {
+          "concept": "Land shapes identity",
+          "explanation": "Each tribe's life is framed by assigned boundaries, duties, and shared memory, so belonging to God's people means living within what he apportions rather than grabbing what you can."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why the book devotes seven chapters to boundary lists, and what Caleb's claim and Joshua's rebuke each show about possessing what God has given.",
+      "comprehension_check": [
+        {
+          "question": "Joshua 13-19 spends seven chapters on borders and town lists. Within the book, what are those lists doing?",
+          "options": [
+            "Recording each tribe's portion as proof the promise was delivered",
+            "Preserving tax and census districts for the later monarchy",
+            "Ranking the tribes by the quality of land each received",
+            "Mapping battle lines for campaigns still ahead in the book"
+          ],
+          "answer_index": 0,
+          "why": "Joshua 14:1-2 presents the allotment as the LORD's own distribution, commanded through Moses, so the lists document a promise being kept parcel by parcel.",
+          "hint": "Read Joshua 14:1-2 again. Notice whose command stands behind each tribe's assigned portion."
+        },
+        {
+          "question": "Joshua 13:1 and 18:3 both admit that land remains untaken even as it is being allotted. What is that tension teaching?",
+          "options": [
+            "The conquest failed and the lists paper over that failure",
+            "The gift stands secure while possessing it remains Israel's calling",
+            "God withdrew parts of the grant when tribes proved slow",
+            "Each tribe was granted only the ground its obedience earned"
+          ],
+          "answer_index": 1,
+          "why": "Joshua 18:3 lays the delay at the tribes' feet, never the promise's: the land is already given by God and waits to be entered.",
+          "hint": "Read Joshua 18:3 again. Notice who Joshua says the delay belongs to, and what he says God has already done."
+        }
+      ]
+    },
+    {
+      "id": "josh-20-21",
+      "title": "Cities of Refuge and the Levites' Towns",
+      "chapters": [
+        20,
+        21
+      ],
+      "verse_span": {
+        "from": "20:1",
+        "to": "21:45"
+      },
+      "difficulty_tier": 2,
+      "summary": "With the territories drawn, Israel appoints the six cities of refuge commanded through Moses, where anyone who killed without intent can flee the avenger of blood and stand trial. The Levites then receive forty-eight towns scattered through every tribe, since their inheritance is the LORD's service rather than a region of their own. The section closes with the narrator's sweeping verdict: the LORD gave the land, gave rest on every side, and let not one of his good promises fall.",
+      "key_themes": [
+        "refuge and due process",
+        "the Levites among the tribes",
+        "rest",
+        "faithfulness of God"
+      ],
+      "prerequisites": [
+        {
+          "node": "num-31-36",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Joshua 20–21 assumes the legal institution and procedures laid out in Numbers 31–36 for the cities of refuge and the Levites’ non‑inheritance (including the manslayer asylum rules and the reason for Levitical towns), which Joshua enacts but never teaches, so skipping Numbers leads to a misreading of those institutions’ purpose.",
+          "scope": "foundation"
+        },
+        {
+          "node": "josh-13-19",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The refuge and Levitical assignments presuppose the tribal territories just allotted.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Joshua 20:2-3",
+        "Joshua 21:43-45"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reflective",
+        "hopeful"
+      ],
+      "discussion_prompt": "The refuge cities mean that even in a land of blood avengers, an accidental killer is never far from due process. What does it say about God that he builds mercy into the map itself, and where could your community use a structure of mercy instead of relying on good intentions?",
+      "assessment_questions": [
+        "Who may flee to a city of refuge according to Joshua 20:2-3, and from whom does the city protect him?",
+        "The Levites receive towns inside every other tribe's territory instead of a region of their own. What does that scattering accomplish for Israel, and what does it say about the Levites' inheritance?",
+        "The narrator declares that not one good promise failed, right after founding institutions that assume Israel will keep sinning. How do you hold God's faithfulness and your community's ongoing failure together, and what would building refuge for someone look like for you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Refuge balances justice and mercy",
+          "explanation": "The refuge city shields the accidental killer from the avenger until a fair hearing, honoring both the seriousness of blood and the difference intent makes."
+        },
+        {
+          "concept": "Vocation instead of territory",
+          "explanation": "The Levites' scattered towns place servants of the sanctuary within reach of every tribe, and the LORD himself, rather than any acreage, is their inheritance."
+        },
+        {
+          "concept": "The narrator's verdict",
+          "explanation": "Joshua 21:43-45 closes the conquest with a threefold claim, land given, rest granted, promises kept, the conclusion the whole allotment has been building toward."
+        },
+        {
+          "concept": "Institutions carry covenant life",
+          "explanation": "Refuge cities and Levitical towns build faithfulness into structures, so that mercy and worship in Israel do not depend on anyone's mood or memory."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what the cities of refuge were for and why the Levites received scattered towns, and explain the claim Joshua 21:45 makes about God's promises.",
+      "comprehension_check": [
+        {
+          "question": "What understanding of justice do the refuge cities of Joshua 20 build into Israel's land?",
+          "options": [
+            "Bloodshed can be settled privately once tempers have cooled",
+            "Killing done without intent deserves protection and a hearing",
+            "Any killer who reaches sacred ground escapes all judgment",
+            "Vengeance belongs to the family until the courts mature"
+          ],
+          "answer_index": 1,
+          "why": "Joshua 20:3 shelters the one who killed unintentionally, and Joshua 20:6 still requires him to stand trial before the assembly.",
+          "hint": "Read Joshua 20:3-6 again. Notice which kind of killer the city receives, and what still has to happen at the gate."
+        },
+        {
+          "question": "After all the allotments, Joshua 21:43-45 declares that nothing God promised failed. What is that verdict doing at this point in the book?",
+          "options": [
+            "Sealing the lists as evidence that God's sworn word held",
+            "Claiming every enemy inside the land had been destroyed",
+            "Promising Israel that its rest could never again be lost",
+            "Crediting Israel's armies with finishing the whole conquest"
+          ],
+          "answer_index": 0,
+          "why": "Joshua 21:43-45 states the conclusion the boundary lists were compiled to prove: the LORD gave, Israel received, and every word stood.",
+          "hint": "Read Joshua 21:43-45 again. Notice who the verbs belong to in all three verses."
+        }
+      ]
+    },
+    {
+      "id": "josh-22-24",
+      "title": "Choose This Day: Covenant at Shechem",
+      "chapters": [
+        22,
+        23,
+        24
+      ],
+      "verse_span": {
+        "from": "22:1",
+        "to": "24:33"
+      },
+      "difficulty_tier": 2,
+      "summary": "An altar misunderstanding nearly sparks civil war, Joshua delivers his farewell, and at Shechem the tribes formally choose: 'as for me and my house, we will serve the LORD.' The book ends with the covenant renewed — and a warning that Israel may not keep it.",
+      "key_themes": [
+        "covenant renewal",
+        "choice",
+        "memory",
+        "warning"
+      ],
+      "prerequisites": [
+        {
+          "node": "josh-20-21",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The farewell assumes settled tribes in allotted territory.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "judg-1-2",
+          "reason": "Judges opens by replaying Joshua's death — and then showing the generation that did not choose."
+        }
+      ],
+      "key_verses": [
+        "Joshua 23:14",
+        "Joshua 24:15"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "resolve",
+        "warning"
+      ],
+      "discussion_prompt": "Joshua tells the tribes to choose this day whom they will serve, and when they answer confidently he warns them they may not be able to keep that promise. What makes serving the LORD costlier than the crowd's quick yes suggests, and what would that choice cost you today?",
+      "assessment_questions": [
+        "What nearly causes civil war over the eastern tribes' altar in chapter 22, and how is the crisis resolved?",
+        "When the people promise to serve the LORD, Joshua pushes back and says they cannot. Why does he challenge their easy commitment instead of simply accepting it?",
+        "Joshua says that as for him and his house, they will serve the LORD. What competing loyalty would you have to put away to say that honestly?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Faith requires a deliberate choice",
+          "explanation": "Joshua will not let Israel drift into loyalty; he makes them name their God out loud, because covenant faith is chosen rather than inherited."
+        },
+        {
+          "concept": "Memory guards identity",
+          "explanation": "The eastern tribes build their altar as a witness for future generations, and Joshua retells Israel's whole story at Shechem, because forgetting what God did is the first step to leaving him."
+        },
+        {
+          "concept": "Divided loyalty is the real threat",
+          "explanation": "Joshua's warnings target the foreign gods still in Israel's midst, since quiet syncretism can undo a people that open war never could."
+        },
+        {
+          "concept": "Ask before you accuse",
+          "explanation": "The altar crisis nearly becomes civil war until the tribes send a delegation and hear the explanation, showing how covenant community handles suspicion with words before weapons."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the covenant renewal at Shechem and explain why Joshua warns the people about the seriousness of the promise they are making.",
+      "comprehension_check": [
+        {
+          "question": "With the land at rest, Joshua's last act in Joshua 24:15 is making Israel say out loud whom they will serve. What does the scene teach about covenant faith?",
+          "options": [
+            "It must be renewed by each generation's own decision",
+            "It is a private preference each household selects freely",
+            "It was secured for good by the fathers at Sinai",
+            "It is guaranteed by living inside the promised land"
+          ],
+          "answer_index": 0,
+          "why": "Joshua 24:15 puts the choice to households who already belong, because covenant loyalty lives only where it is freshly chosen.",
+          "hint": "Read Joshua 24:14-19 again. Notice what Joshua says when the people answer too quickly."
+        },
+        {
+          "question": "A second altar nearly starts a civil war, until the eastern tribes explain themselves in Joshua 22:24-27. What was their altar actually for?",
+          "options": [
+            "Worship, so the eastern tribes could sacrifice closer to home",
+            "Defense, marking a border the western tribes must respect",
+            "Rivalry, an eastern shrine built to compete with Shiloh",
+            "Witness, so future generations kept their place in Israel"
+          ],
+          "answer_index": 3,
+          "why": "Joshua 22:27 makes the altar a testimony between the tribes so that coming generations still claim their share in the LORD.",
+          "hint": "Read Joshua 22:24-27 again. Notice what the builders say their children might one day be told."
+        }
+      ]
+    }
+  ]
+}

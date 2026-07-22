@@ -1,0 +1,101 @@
+{
+  "id": "pauline-theology",
+  "title": "Pauline Theology",
+  "description": "Paul's letters in an order that builds conceptually rather than canonically: the gospel defended, the church pastored, the system laid out in Romans, then the prison letters' cosmic vision and the pastoral handoff.",
+  "audience": "A reader ready to work through Paul seriously, one letter building on the last.",
+  "coverage": "slice",
+  "order": "enforced",
+  "canon_layers": [
+    "core"
+  ],
+  "sequence": [
+    {
+      "node": "1thess",
+      "note": "Start with Paul's (likely) earliest letter: the gospel's basics and the blessed hope."
+    },
+    {
+      "node": "2thess",
+      "note": "The immediate correction — eschatology gone wrong and how Paul steadies it."
+    },
+    {
+      "node": "gal",
+      "note": "The gospel defined by fire: faith versus works of the law, freedom versus slavery."
+    },
+    {
+      "node": "1cor-1-4",
+      "note": "Now the gospel pastoring a messy church: the cross against factions."
+    },
+    {
+      "node": "1cor-5-7"
+    },
+    {
+      "node": "1cor-8-11"
+    },
+    {
+      "node": "1cor-12-14",
+      "note": "Gifts, the body, and the love chapter."
+    },
+    {
+      "node": "1cor-15-16",
+      "note": "The resurrection chapter — Paul's gospel 'of first importance.'"
+    },
+    {
+      "node": "2cor-1-7",
+      "note": "What apostolic ministry actually costs: treasure in clay jars."
+    },
+    {
+      "node": "2cor-8-9"
+    },
+    {
+      "node": "2cor-10-13",
+      "note": "Boasting in weakness; grace sufficient."
+    },
+    {
+      "node": "rom-1-4",
+      "note": "Now the full system, argued from the ground up."
+    },
+    {
+      "node": "rom-5-8",
+      "note": "Union with Christ, the Spirit, no condemnation, no separation."
+    },
+    {
+      "node": "rom-9-11",
+      "note": "Election, Israel, and mercy on all — Paul's hardest and deepest stretch."
+    },
+    {
+      "node": "rom-12-16",
+      "note": "The theology embodied: living sacrifices."
+    },
+    {
+      "node": "col",
+      "note": "From prison, the cosmic Christ over every power."
+    },
+    {
+      "node": "phlm",
+      "note": "Colossians' theology applied to one household and one runaway slave."
+    },
+    {
+      "node": "eph-1-3",
+      "note": "The church in God's eternal plan."
+    },
+    {
+      "node": "eph-4-6",
+      "note": "Walk worthy: body, household, armor."
+    },
+    {
+      "node": "phil",
+      "note": "The Christ-hymn and joy from a prison cell."
+    },
+    {
+      "node": "1tim",
+      "note": "The handoff begins: ordering God's household."
+    },
+    {
+      "node": "titus"
+    },
+    {
+      "node": "2tim",
+      "note": "Paul's last words: 'I have finished the race.'"
+    }
+  ]
+}

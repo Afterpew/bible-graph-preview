@@ -1,0 +1,307 @@
+{
+  "book": "2 Corinthians",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "2cor-1-7",
+      "title": "Treasure in Jars of Clay",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "7:16"
+      },
+      "difficulty_tier": 3,
+      "summary": "Paul's most personal theology of ministry: comfort multiplied through affliction, the new covenant's surpassing glory (a sustained reading of Moses' veil), treasure in clay jars, 'we walk by faith, not by sight,' and the great exchange — 'for our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.' Be reconciled to God.",
+      "key_themes": [
+        "comfort in affliction",
+        "new covenant glory",
+        "reconciliation",
+        "clay-jar ministry"
+      ],
+      "prerequisites": [
+        {
+          "node": "1cor-1-4",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The letter follows a painful visit and severe letter in the ongoing Corinthian relationship 1 Corinthians opens."
+        },
+        {
+          "node": "exod-32-34",
+          "strength": "hard",
+          "type": "quotation",
+          "reason": "2 Corinthians 3 hinges on the image of Moses’ radiant, veiled face and the movement from the old covenant to a greater glory drawn from Exodus 34, a narrative and covenantal sequence Paul presumes but does not retell, so readers lacking Exodus will misconstrue the metaphor.",
+          "scope": "foundation"
+        },
+        {
+          "node": "jer-30-33",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Paul’s charge that he ministers “a new covenant…of the Spirit” rests on Jeremiah’s promise (the law written on hearts, forgiveness of sins) that he assumes rather than restates, and without Jeremiah a reader can miss the covenantal grounding of his contrast between “letter” and “Spirit.”",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Corinthians 1:3-4",
+        "2 Corinthians 4:7",
+        "2 Corinthians 5:21"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "dense",
+      "emotional_tone": [
+        "comfort",
+        "hopeful"
+      ],
+      "discussion_prompt": "Paul says God comforts us in all our affliction so that we can comfort others with the comfort we ourselves received. Think of the hardest thing you have walked through. How might it become equipment for someone else, and who around you might need it now?",
+      "assessment_questions": [
+        "What image does Paul use in chapter 4 for carrying the gospel treasure, and what point does the image make about ministers?",
+        "Paul writes that God made him who knew no sin to be sin for us, so that in him we might become the righteousness of God. What exchange is Paul describing, and why does it ground his plea to be reconciled to God?",
+        "Paul calls believers ambassadors for Christ, as though God were making his appeal through us. Who in your life needs that appeal, and what would carrying it to them actually look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Comfort is meant to travel",
+          "explanation": "God comforts his people in affliction so the comfort keeps moving, turning every healed wound into ministry for someone else."
+        },
+        {
+          "concept": "New covenant ministry",
+          "explanation": "Paul's ministry runs on the Spirit who gives life, claiming Jeremiah's promised covenant with a glory that outshines Moses' veil."
+        },
+        {
+          "concept": "Treasure in clay jars",
+          "explanation": "The gospel's power sits in fragile human vessels on purpose, so that the surpassing power is seen to belong to God."
+        },
+        {
+          "concept": "The ministry of reconciliation",
+          "explanation": "In Christ, God was reconciling the world to himself through the great exchange of 5:21, and he entrusts that message to his people."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the clay-jar picture in your own words, and describe how God's comfort in affliction becomes ministry to others.",
+      "comprehension_check": [
+        {
+          "question": "Paul says the gospel's treasure sits in jars of clay, and 2 Corinthians 4:7 adds the reason. Why does God choose fragile carriers?",
+          "options": [
+            "So ministers remain too humble to boast in themselves",
+            "So no one confuses the power with the container",
+            "So suffering can purge the ministers' remaining sin",
+            "So churches learn to forgive their leaders' failures"
+          ],
+          "answer_index": 1,
+          "why": "2 Corinthians 4:7 gives the purpose: power this great in vessels this weak can only be credited to God.",
+          "hint": "Read 2 Corinthians 4:7 again. Notice what the jar's weakness is meant to make plain about the treasure."
+        },
+        {
+          "question": "In 2 Corinthians 5:18-20 Paul describes reconciliation between God and the world. Which way does the initiative run?",
+          "options": [
+            "From God, who reconciles and then sends the appeal",
+            "From humanity, whose repentance moves God to make peace",
+            "From both sides at once, meeting through negotiated terms",
+            "From the church, whose ministry produces the reconciliation"
+          ],
+          "answer_index": 0,
+          "why": "2 Corinthians 5:18 traces the whole movement to God, reconciling the world through Christ and entrusting the message to messengers.",
+          "hint": "Read 2 Corinthians 5:18-20 again. Notice who acts first and what role is left to the ambassadors."
+        }
+      ]
+    },
+    {
+      "id": "2cor-8-9",
+      "title": "The Grace of Giving",
+      "chapters": [
+        8,
+        9
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "9:15"
+      },
+      "difficulty_tier": 2,
+      "summary": "The collection for Jerusalem's poor becomes the New Testament's fullest teaching on generosity: the Macedonians' overflowing joy in extreme poverty, and the pattern above every pattern — 'though he was rich, yet for your sake he became poor.' God loves a cheerful giver; sow bountifully.",
+      "key_themes": [
+        "generosity",
+        "grace",
+        "cheerful giving",
+        "equality"
+      ],
+      "prerequisites": [
+        {
+          "node": "2cor-1-7",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "2 Corinthians 8–9 presses an appeal built on the restored trust and reconciliation Paul wins in chapters 1–7, a prior relational narrative frame it assumes and does not fully repeat, so skipping 1–7 leads to misreading the appeal’s moral and rhetorical footing.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Corinthians 8:9",
+        "2 Corinthians 9:7",
+        "2 Corinthians 9:8"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "joy",
+        "hopeful"
+      ],
+      "discussion_prompt": "The Macedonians gave beyond their ability out of extreme poverty, and Paul calls it overflowing joy. What makes giving joyful for some people and grudging for others, and what would cheerful generosity actually cost you this month?",
+      "assessment_questions": [
+        "Whose example of giving does Paul hold up in chapter 8, and what was surprising about their circumstances?",
+        "Paul grounds the whole appeal in Christ, who though he was rich became poor for your sake. How does that pattern turn giving from an obligation into a response?",
+        "Paul says God loves a cheerful giver and that each person should give as they decide in their heart. How would you decide what to give if you really trusted God to supply the seed?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Giving flows from grace",
+          "explanation": "Christian generosity answers the self-giving of Christ, who became poor so that others might become rich."
+        },
+        {
+          "concept": "Voluntary and cheerful",
+          "explanation": "Paul refuses to coerce anyone, because God wants giving that comes freely from a decided and glad heart."
+        },
+        {
+          "concept": "Generosity aims at equality",
+          "explanation": "The collection moves abundance toward need so that no church has too much while another lacks, making giving an act of solidarity."
+        },
+        {
+          "concept": "God supplies the sower",
+          "explanation": "The giver depends on God who provides seed and multiplies the harvest, so generosity becomes an exercise of trust in his provision."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Paul grounds generosity in the grace of Christ, and describe what makes a giver cheerful in these chapters.",
+      "comprehension_check": [
+        {
+          "question": "Paul raises money for Jerusalem without issuing a command, and 2 Corinthians 8:8-9 shows his lever. What does he ground the appeal on?",
+          "options": [
+            "The tithe commanded to Israel and carried forward",
+            "A promised return of greater wealth to generous givers",
+            "The apostles' authority to assess each church's share",
+            "The self-giving of Christ, who became poor for them"
+          ],
+          "answer_index": 3,
+          "why": "2 Corinthians 8:9 holds up the pattern beneath the appeal, Christ surrendering riches to enrich others, and giving follows that grace.",
+          "hint": "Read 2 Corinthians 8:8-9 again. Notice what Paul says he is not doing, and whose act he points to instead."
+        },
+        {
+          "question": "2 Corinthians 9:8-11 promises that the giver will be enriched. What is the enrichment for?",
+          "options": [
+            "For personal comfort, God repaying faith with plenty",
+            "For savings, guarding the giver against future famine",
+            "For further giving, so generosity keeps circulating",
+            "For status, marking the giver's place among churches"
+          ],
+          "answer_index": 2,
+          "why": "2 Corinthians 9:11 completes the loop: enrichment comes so that generosity can overflow again into thanksgiving to God.",
+          "hint": "Read 2 Corinthians 9:8-11 again. Notice what the abundance is said to be for."
+        }
+      ]
+    },
+    {
+      "id": "2cor-10-13",
+      "title": "Boasting in Weakness",
+      "chapters": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_span": {
+        "from": "10:1",
+        "to": "13:14"
+      },
+      "difficulty_tier": 3,
+      "summary": "Forced by 'super-apostles' to compare résumés, Paul boasts backwards: beatings, shipwrecks, sleepless nights, a basket over a wall — then the vision he won't cash in and the thorn God refused to remove: 'My grace is sufficient for you, for my power is made perfect in weakness.' The apostle's credentials are his scars.",
+      "key_themes": [
+        "weakness",
+        "sufficient grace",
+        "false apostles",
+        "power perfected"
+      ],
+      "prerequisites": [
+        {
+          "node": "2cor-1-7",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The clay-jar theology of chapters 1-7 is what the boasting-in-weakness finale defends against the super-apostles.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Corinthians 11:30",
+        "2 Corinthians 12:9-10",
+        "2 Corinthians 13:5"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "resolve"
+      ],
+      "discussion_prompt": "Paul pleaded three times for the thorn to be removed and received a different answer: my grace is sufficient for you. Where in your life have you been asking God to take something away, and what would it mean to hear that answer there instead?",
+      "assessment_questions": [
+        "What hardships does Paul list when he is forced to boast, and what unusual things does he choose to boast in?",
+        "God answers Paul's plea about the thorn by saying his power is made perfect in weakness. Why does Paul conclude that when he is weak, then he is strong?",
+        "Paul tells the church to examine themselves to see whether they are in the faith. What honest test would show whether your confidence rests on Christ or on your own credentials?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Authority comes from Christ",
+          "explanation": "Paul's right to speak rests on Christ's commission and God-given power, so eloquence, style, and crowd size prove nothing."
+        },
+        {
+          "concept": "Weakness is the credential",
+          "explanation": "Paul boasts in beatings, escapes, and hardships because scars earned in service display Christ's power better than any resume."
+        },
+        {
+          "concept": "Sufficient grace",
+          "explanation": "The unremoved thorn teaches that God's grace can carry a person through what God chooses to leave in place."
+        },
+        {
+          "concept": "Discerning true ministry",
+          "explanation": "False apostles can look impressive, so churches test leaders by fidelity to the gospel and the fruit of the Spirit rather than by persuasive polish."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the story of Paul's thorn in the flesh, and explain why he chose to boast in weakness against the super-apostles.",
+      "comprehension_check": [
+        {
+          "question": "Forced to compare credentials with the super-apostles, Paul lists beatings, escapes, and anxieties, and 2 Corinthians 11:30 states his policy. Why boast in exactly the wrong things?",
+          "options": [
+            "Because weakness is where Christ's power shows itself",
+            "Because humility impresses churches more than strength",
+            "Because he lacked the eloquence to compete directly",
+            "Because suffering itself earns a higher apostolic rank"
+          ],
+          "answer_index": 0,
+          "why": "2 Corinthians 12:9 supplies the logic: Christ's power rests on the weak, so Paul's hardships are where that power is seen.",
+          "hint": "Read 2 Corinthians 11:30 and 12:9 again. Notice what Paul says his weaknesses make room for."
+        },
+        {
+          "question": "Three times Paul begs for the thorn's removal, and in 2 Corinthians 12:8-9 the thorn stays. What does the answer he receives teach about unanswered prayer?",
+          "options": [
+            "Persistence in prayer eventually secures what is asked",
+            "Suffering left in place signals hidden unconfessed sin",
+            "Stronger faith would have made the healing certain",
+            "Grace to endure is itself God's real answer"
+          ],
+          "answer_index": 3,
+          "why": "In 2 Corinthians 12:9 the request is met with sufficient grace, an answer that carries Paul through what stays unchanged.",
+          "hint": "Read 2 Corinthians 12:7-9 again. Notice what God gives in place of what Paul asked."
+        }
+      ]
+    }
+  ]
+}

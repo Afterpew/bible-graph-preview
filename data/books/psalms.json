@@ -1,0 +1,2575 @@
+{
+  "book": "Psalms",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Wisdom/Poetry",
+  "nodes": [
+    {
+      "id": "ps-1-2",
+      "title": "The Gateway: Two Ways, One King",
+      "chapters": [
+        1,
+        2
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "2:12"
+      },
+      "difficulty_tier": 1,
+      "summary": "The Psalter's deliberate double doorway: Psalm 1 sets two ways to live (rooted in Torah or blown like chaff), Psalm 2 sets one King on Zion against the raging nations. The rest of the Psalter invites reading through these two lenses — the blessed life and the anointed king.",
+      "key_themes": [
+        "two ways",
+        "meditation on Torah",
+        "messianic king",
+        "blessedness"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Psalm 2 presupposes the Davidic covenantal status of the king as God's “son” and the promise of an established, enduring throne—a narrative and promissory context given in 2 Samuel 7 that Psalm 2 never supplies.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-3-5",
+          "reason": "The early church prays Psalm 2 ('why do the nations rage?') as commentary on Jesus' crucifixion."
+        }
+      ],
+      "key_verses": [
+        "Psalm 1:1-2",
+        "Psalm 2:7",
+        "Psalm 2:12"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reflective",
+        "warning"
+      ],
+      "discussion_prompt": "Psalm 1 pictures a person rooted like a tree beside water because they keep returning to God's instruction. What do you actually feed your mind on most days, and what kind of person is that diet slowly making you?",
+      "assessment_questions": [
+        "What two images does Psalm 1 use for the righteous and the wicked, and what happens to each?",
+        "Psalm 2 shows nations raging while God calmly installs his anointed king on Zion. Why do you think the Psalter opens with these two psalms side by side, one about the blessed person and one about the King?",
+        "Psalm 2 ends by warning rulers and blessing all who take refuge in God's Son. What would taking refuge in God's King look like in a week when everything around you feels unstable?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Two ways to live",
+          "explanation": "Psalm 1 sets every life on one of two roads, rooted delight in God's instruction or rootless drifting that ends like chaff in the wind."
+        },
+        {
+          "concept": "Meditation shapes the person",
+          "explanation": "The blessed person returns to God's word day and night, and that steady habit produces stability and fruit over time."
+        },
+        {
+          "concept": "God's anointed King",
+          "explanation": "Psalm 2 declares that God has installed his chosen king on Zion, so the raging of the nations never threatens his rule."
+        },
+        {
+          "concept": "Warning and invitation together",
+          "explanation": "The psalm closes by warning rulers and blessing everyone who takes refuge in the King, holding judgment and welcome in one breath."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why Psalms 1 and 2 stand at the front of the Psalter and what each one teaches you to watch for in the psalms that follow.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 1 opens the entire Psalter with a person murmuring God's instruction day and night. What is this gateway teaching about the praying life?",
+          "options": [
+            "Blessing comes mainly from keeping away from sinful company",
+            "Prayer grows from a life rooted in God's word",
+            "Meditation works by emptying the mind of every thought",
+            "Delight in the law guarantees success in every venture"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 1:2-3 roots the blessed life in constant meditation on God's instruction, the soil the whole Psalter's praying grows in.",
+          "hint": "Read Psalm 1:2-3 again. Notice what the tree is planted beside, and what the person keeps returning to."
+        },
+        {
+          "question": "Psalm 2 watches the nations rage against God's anointed. What does it teach worshipers to do amid political upheaval?",
+          "options": [
+            "Withdraw from public affairs, which lie beneath God's concern",
+            "Expect God to keep faithful nations in lasting peace",
+            "Petition the powerful, since God rules through their offices",
+            "Shelter in the King no uprising can unseat"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 2:4-6 sets the raging of nations under heaven's laughter, and Psalm 2:12 blesses everyone who hides in the installed King.",
+          "hint": "Read Psalm 2:1-6 again. Notice where the psalm stands to watch the uproar, and how seriously heaven takes it."
+        }
+      ]
+    },
+    {
+      "id": "ps-3-8",
+      "title": "First Davidic Laments: Prayers Under Pursuit",
+      "chapters": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_span": {
+        "from": "3:1",
+        "to": "8:9"
+      },
+      "difficulty_tier": 1,
+      "summary": "The Psalter's school of prayer opens here: six Davidic prayers under pursuit, morning and evening trust with enemies still in the field (3-5), a plea from sickness and tears (6), and an appeal to the righteous Judge (7). Then, after all that trouble, Psalm 8 lifts the first pure praise hymn of the book, marveling that the Maker of the heavens is mindful of frail man. The sequence itself is the lesson: lament is where the Psalter begins, and praise grows out of prayed trouble.",
+      "key_themes": [
+        "lament",
+        "trust under pursuit",
+        "refuge",
+        "praise after trouble"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-1-2",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The gateway psalms frame everything in Book I; Psalm 3's morning trust reads as Psalm 1's blessed man under fire."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 3:5",
+        "Psalm 4:8",
+        "Psalm 8:4"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "resolve"
+      ],
+      "discussion_prompt": "Twice in these psalms David lies down and sleeps while enemies surround him, and he names the LORD as the reason. What actually keeps you up at night, and what would praying it through before sleep change?",
+      "assessment_questions": [
+        "What does David say he is able to do in Psalm 3:5 and Psalm 4:8 while his enemies are still out there?",
+        "Psalms 3 through 7 are all trouble, then Psalm 8 is pure praise about God's majesty and human dignity. What does that placement suggest about where praise comes from?",
+        "David prays his fear at morning and at evening and leaves the outcome with God overnight. What is one fear you could pray at a set time this week instead of carrying it all day?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Lament is faithful prayer",
+          "explanation": "These psalms carry fear, anger, and sorrow straight to God, showing that honesty belongs in prayer rather than outside it."
+        },
+        {
+          "concept": "Trust steadies the hunted",
+          "explanation": "David prays surrounded by enemies and still lies down and sleeps, because the LORD is a shield around him and the one who keeps him safe."
+        },
+        {
+          "concept": "Justice handed to God",
+          "explanation": "The psalmist pleads for vindication instead of taking revenge, trusting the righteous Judge to set things right in his time."
+        },
+        {
+          "concept": "Praise crowns the laments",
+          "explanation": "Psalm 8 marvels that the Creator is mindful of frail man, and its placement after five troubled prayers shows praise growing out of prayed trouble."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the basic shape of a lament psalm using one example from Psalms 3-7, and explain why Psalm 8's praise belongs at the end of this run.",
+      "comprehension_check": [
+        {
+          "question": "David keeps describing sleep in the middle of these hunted prayers. What is the collection teaching prayer to do?",
+          "options": [
+            "Prayer earns God's protection by proving the psalmist's persistence",
+            "Prayer calms the body so the mind can face danger clearly",
+            "Prayer hands the night's dangers to God so trust can rest",
+            "Prayer removes the threat itself before the psalmist lies down"
+          ],
+          "answer_index": 2,
+          "why": "In Psalm 3:5 and Psalm 4:8 the threat still stands, yet David sleeps because the LORD himself sustains and keeps him.",
+          "hint": "Read Psalm 3:5-6 and Psalm 4:8 again. Notice what has changed by the time David lies down, and what has not."
+        },
+        {
+          "question": "After five prayers of trouble, this collection ends with Psalm 8's praise. What does that arrangement teach worship?",
+          "options": [
+            "Praise can rise from a life still praying laments",
+            "Praise is reserved for the day the troubles finally end",
+            "Praise works best when it deliberately ignores present trouble",
+            "Praise is the reward God grants for enduring lament well"
+          ],
+          "answer_index": 0,
+          "why": "The collection moves straight from Psalm 6's tears to Psalm 8:1's majesty, so wonder and trouble share one praying life.",
+          "hint": "Read Psalm 6:6 and then Psalm 8:1. Notice how little distance separates the tears from the majesty, and who prays both."
+        }
+      ]
+    },
+    {
+      "id": "ps-9-14",
+      "title": "The Afflicted and the Fool: Faith in a Faithless Age",
+      "chapters": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_span": {
+        "from": "9:1",
+        "to": "14:7"
+      },
+      "difficulty_tier": 1,
+      "summary": "Six prayers for a faithless age, opened by Psalms 9 and 10, two halves of one alphabet poem that first thanks God for judging justly and then asks why he stands far off in trouble. Psalm 12 grieves a world where faithful speech has vanished, Psalm 13 presses its fourfold question of delay and still ends singing, and Psalm 14 diagnoses the fool whose corrupt life declares that there is no God. The collection teaches prayer to hold thanksgiving and protest together without letting go of either.",
+      "key_themes": [
+        "protest and praise together",
+        "God's apparent distance",
+        "the fool",
+        "trust while waiting"
+      ],
+      "prerequisites": [],
+      "connections": [],
+      "key_verses": [
+        "Psalm 9:9-10",
+        "Psalm 13:5-6",
+        "Psalm 14:1"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "tension"
+      ],
+      "discussion_prompt": "Psalms 9 and 10 are two halves of one alphabet poem, yet the first half celebrates God's justice and the second half asks why he hides in times of trouble. When has your own praying swung between those two poles, and what keeps you talking to God through the swing?",
+      "assessment_questions": [
+        "What does Psalm 13 keep asking God in its opening verses, and where has the psalmist landed by its final verse?",
+        "Psalm 14 announces the fool's denial of God and then describes corrupt deeds rather than bad arguments. What kind of unbelief is this psalm actually diagnosing?",
+        "Psalm 9 gives thanks for justice already seen while Psalm 10 pleads over justice still missing. Which of those two prayers do you need this week, and what would praying it honestly sound like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Praise and protest share one poem",
+          "explanation": "Psalms 9 and 10 form a single acrostic that thanks God for judging justly and then asks why he stands far off, holding both moods inside one act of trust."
+        },
+        {
+          "concept": "The fool of Psalm 14",
+          "explanation": "The psalm describes corruption rather than philosophy; its fool lives as though God does not watch, so the denial shows in deeds."
+        },
+        {
+          "concept": "Waiting inside prayer",
+          "explanation": "Psalm 13 moves from repeated cries of delay to a settled song of trust, modeling how lament carries a person toward remembered steadfast love."
+        },
+        {
+          "concept": "Refuge for the oppressed",
+          "explanation": "Psalm 9 names the LORD a stronghold for the crushed, so prayer in a faithless age anchors in who God has shown himself to be."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how the lament of Psalm 13 moves from complaint to trust, and describe the kind of unbelief Psalm 14 is diagnosing.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 13 asks God the same question four times and ends in song. What is the psalm teaching prayer to do?",
+          "options": [
+            "Repeat requests until God finally grants what is asked",
+            "Keep complaint addressed to God until trust finds its voice",
+            "Replace hard questions with worship as quickly as possible",
+            "Accept that some prayers are better left unspoken before God"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 13:5-6 lands the turn: the voice that pressed the question of delay ends trusting God's love, without ever leaving the conversation.",
+          "hint": "Read Psalm 13:1-2 and then Psalm 13:5-6. Notice who the psalmist is still talking to when the mood changes."
+        },
+        {
+          "question": "Psalms 9 and 10 share one alphabet poem, half thanksgiving and half protest. What does that design teach worship?",
+          "options": [
+            "Thanksgiving must be finished before protest may begin",
+            "Protest belongs to beginners and thanksgiving to the mature",
+            "Worship alternates moods to keep the congregation attentive",
+            "Gratitude and protest form one continuous act of trust"
+          ],
+          "answer_index": 3,
+          "why": "The acrostic runs unbroken from Psalm 9:1 into Psalm 10's plea, a single poem trusting one God with both moods.",
+          "hint": "Read Psalm 9:1-2 and Psalm 10:1 together. Notice that the same poem keeps praying across the change of tone."
+        }
+      ]
+    },
+    {
+      "id": "ps-15-24",
+      "title": "The Hill of the LORD: Entrance Liturgies and the Victorious King",
+      "chapters": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        24
+      ],
+      "verse_span": {
+        "from": "15:1",
+        "to": "24:10"
+      },
+      "difficulty_tier": 2,
+      "summary": "A collection that reads as deliberately framed by twin entrance liturgies: Psalms 15 and 24 both ask who may approach God's holy hill, and both answer with character rather than credentials. Inside the frame sit trust psalms, the great royal rescue song of Psalm 18, prayers for the king (20-21), and at the center Psalm 19's double witness of sky and Torah. Psalms 22 and 23, studied separately, sit physically inside this collection; it is the setting they were placed within. Read as one movement, it is about approaching the King, and the King arriving.",
+      "key_themes": [
+        "approach to God",
+        "integrity",
+        "Torah and creation",
+        "the victorious king"
+      ],
+      "prerequisites": [],
+      "connections": [],
+      "key_verses": [
+        "Psalm 15:1",
+        "Psalm 19:1",
+        "Psalm 24:3-4"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reverent",
+        "celebratory"
+      ],
+      "discussion_prompt": "Psalms 15 and 24 both ask who is fit to come near God, and both answer with everyday integrity: truth told, promises kept, hands clean. What does it change to hear that question asked at the door of worship, and which line of the answer would examine you most closely?",
+      "assessment_questions": [
+        "What question do Psalms 15 and 24 both open with, and what kind of answer do they give?",
+        "Psalm 19 sets the wordless speech of the skies beside the perfect words of the Torah. Why might the collection place that double witness at its center, between the two entrance questions?",
+        "Psalm 24 ends with gates commanded to open for the King of glory. If worship is an entrance, what would you need to leave at the door this week, and what would you be coming in to meet?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Entrance liturgies",
+          "explanation": "Psalms 15 and 24 stage worship as an approach, asking who may come near and answering with truthfulness, clean hands, and promises kept."
+        },
+        {
+          "concept": "Character over credentials",
+          "explanation": "The entrance answer names daily integrity rather than status or ritual mastery, so drawing near to God engages the whole life."
+        },
+        {
+          "concept": "Two books of God",
+          "explanation": "Psalm 19 joins creation's wordless witness to the Torah's restoring words, one God speaking in both, and ends asking that the psalmist's own words join in."
+        },
+        {
+          "concept": "The rescued king",
+          "explanation": "Psalm 18 sings a royal rescue in storm imagery, and Psalms 20-21 pray and give thanks for the king, keeping the collection's center of gravity on God's anointed."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Psalms 15 and 24 ask and answer about approaching God, and how Psalm 19 at the center feeds that approach.",
+      "comprehension_check": [
+        {
+          "question": "Psalms 15 and 24 put a question at the door of worship. What are they teaching worshipers to do?",
+          "options": [
+            "Examine their lives before drawing near to God",
+            "Prove enough merit to purchase their standing before God",
+            "Leave everyday concerns outside before entering sacred space",
+            "Trust the priests to secure their access on their behalf"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 24:3-4 answers the ascent question with the state of a person's hands and heart, so approach and character move together.",
+          "hint": "Read Psalm 15:1-3 again. Notice what kind of things the answer lists, and what kind it never mentions."
+        },
+        {
+          "question": "Psalm 19 moves from the skies to the Torah to a closing prayer. What is that sequence teaching?",
+          "options": [
+            "Nature's witness makes written revelation largely unnecessary",
+            "The Torah matters only for Israel, the skies for everyone",
+            "Hearing God in sky and word ends in answering prayer",
+            "Creation praises God so people are free to stay silent"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 19:14 turns the psalm's two witnesses into petition, asking that the psalmist's own words now please God.",
+          "hint": "Read Psalm 19:1, 19:7, and 19:14 in order. Notice who is speaking at each stage."
+        }
+      ]
+    },
+    {
+      "id": "ps-25-34",
+      "title": "Acrostics of Trust and Forgiveness",
+      "chapters": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "verse_span": {
+        "from": "25:1",
+        "to": "34:22"
+      },
+      "difficulty_tier": 1,
+      "summary": "A run of ten psalms framed by two alphabet poems, Psalm 25 pleading for guidance and Psalm 34 teaching rescue's lessons from A to Z. Between them the collection moves from waiting on God through Psalm 27's fearless confidence to the confession at its heart, where Psalm 32 declares the blessedness of forgiven sin and names the misery of keeping silent. The arc runs from asking the way, to being carried, to teaching others what rescue tasted like.",
+      "key_themes": [
+        "guidance",
+        "confession and forgiveness",
+        "fearless trust",
+        "thanksgiving",
+        "acrostic teaching"
+      ],
+      "prerequisites": [],
+      "connections": [
+        {
+          "node": "rom-1-4",
+          "reason": "Paul quotes Psalms 14 and 32 as core evidence in his argument about sin and forgiveness."
+        }
+      ],
+      "key_verses": [
+        "Psalm 27:1",
+        "Psalm 32:1-2",
+        "Psalm 34:8"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "reflective"
+      ],
+      "discussion_prompt": "Psalm 32 says that while the psalmist kept silent about his sin his body wasted away, and that confession lifted the weight at once. What makes staying silent feel safer than confessing, and what does this psalm say the silence actually costs?",
+      "assessment_questions": [
+        "What happened to the psalmist in Psalm 32 while he kept silent about his sin, and what happened when he confessed?",
+        "Psalms 25 and 34 both walk the alphabet, one asking for guidance and one teaching from experience. What does it suggest that this collection begins with asking and ends with teaching?",
+        "Psalm 34 invites others to test God's goodness for themselves on the strength of one man's rescue. What rescue of your own, however small, could you tell this week, and to whom?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Confession renews",
+          "explanation": "Psalm 32 shows hidden sin draining life away and honest confession bringing forgiveness, relief, and joy."
+        },
+        {
+          "concept": "Fearless confidence",
+          "explanation": "Psalm 27 rests its courage on the LORD as light and refuge, so a single settled trust outweighs an army of threats."
+        },
+        {
+          "concept": "From guidance to testimony",
+          "explanation": "The frame acrostics move from a learner asking the way in Psalm 25 to a teacher passing on the fear of the LORD in Psalm 34, the shape of a maturing life of prayer."
+        },
+        {
+          "concept": "Thanksgiving completes rescue",
+          "explanation": "Psalm 30 recalls grief turned to joy and says so publicly, because in this collection rescued people speak."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Psalm 32 teaches about silence, confession, and forgiveness, and how the acrostic frame of Psalms 25 and 34 shapes the collection.",
+      "comprehension_check": [
+        {
+          "question": "In Psalm 32 the psalmist describes two seasons, silence and confession. What is the psalm teaching prayer to do with guilt?",
+          "options": [
+            "Balance guilt against remembered obedience until peace returns",
+            "Wait for guilt to fade before approaching God again",
+            "Offer God sacrifices sufficient to cover what was hidden",
+            "Bring the hidden thing to God and receive forgiveness"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 32:5 is the turn: sin uncovered before God is sin God covers, and the psalm calls that state blessed.",
+          "hint": "Read Psalm 32:3-5 again. Notice what changes the psalmist's condition, and how quickly."
+        },
+        {
+          "question": "After his rescue, the psalmist of Psalm 34 gathers listeners and teaches. What is this psalm saying thanksgiving should do?",
+          "options": [
+            "Stay private so the story cannot become self-promotion",
+            "Turn one person's rescue into everyone's instruction",
+            "Repay God's help through disciplined daily recitation",
+            "Prove to doubters that the faithful never suffer"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 34:8 and Psalm 34:11 widen one deliverance into an open table and a classroom, inviting others to test and learn.",
+          "hint": "Read Psalm 34:8 and 34:11 again. Notice who the psalmist keeps turning to address."
+        }
+      ]
+    },
+    {
+      "id": "ps-35-41",
+      "title": "Sickbed and Betrayal: Book I's Closing Laments",
+      "chapters": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_span": {
+        "from": "35:1",
+        "to": "41:13"
+      },
+      "difficulty_tier": 2,
+      "summary": "Book I closes with its hardest prayers: pleas against false witnesses (35), sickness and guilt prayed in one breath (38), a life seen to be only a breath long (39), and the wound of a trusted table companion turned enemy (41). Psalm 40 stands among them recalling a rescue from the pit and a new song given before the need returns. The run ends at Psalm 41:13 with the doxology that seals Book I, blessing God from inside affliction rather than after it.",
+      "key_themes": [
+        "betrayal",
+        "sickness and sin",
+        "waiting for rescue",
+        "new song",
+        "doxology from the depths"
+      ],
+      "prerequisites": [],
+      "connections": [],
+      "key_verses": [
+        "Psalm 37:4",
+        "Psalm 40:1-2",
+        "Psalm 41:9"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "sorrow"
+      ],
+      "discussion_prompt": "Psalm 41 grieves a close friend who shared the psalmist's bread and then turned on him, and the psalm carries that wound to God instead of plotting a reply. Where does betrayal usually go when it is not prayed, and what would praying yours actually involve?",
+      "assessment_questions": [
+        "What kinds of trouble fill Psalms 35 through 41, and how does Book I's final verse nonetheless end?",
+        "Psalm 40 remembers being lifted from the pit and given a new song, and then its second half returns to urgent need. What does that order teach about how memory of rescue works in prayer?",
+        "Psalm 38 prays sickness, sin, and abandonment together without untangling which caused which. When your own troubles tangle like that, what would it look like to pray them the way this psalm does?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Betrayal handed to God",
+          "explanation": "Psalm 41 places the treachery of a trusted table companion into God's hands, where Psalm 35 had already carried its false witnesses."
+        },
+        {
+          "concept": "The pit and the new song",
+          "explanation": "Psalm 40 remembers rescue with sensory precision, mud and rock and a song that made others trust, so past deliverance funds present waiting."
+        },
+        {
+          "concept": "Sickness prayed honestly",
+          "explanation": "Psalm 38 lays illness, guilt, and isolation before God in one prayer, trusting mercy to sort what the sufferer cannot."
+        },
+        {
+          "concept": "Doxology seals the book",
+          "explanation": "Book I ends at Psalm 41:13 blessing the God of Israel without waiting for the troubles to resolve, praise as the collection's last word."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Trace how Book I's closing laments handle betrayal and sickness, and explain why ending at Psalm 41:13 with a blessing matters.",
+      "comprehension_check": [
+        {
+          "question": "Psalms 35 and 41 pray through slander and betrayal. What do they teach the wounded to do?",
+          "options": [
+            "Recruit the surrounding community to confront the betrayer publicly",
+            "Forgive the betrayer quickly so the friendship can be rebuilt",
+            "Argue the case before God and leave it there",
+            "Withdraw from close friendship to avoid future wounds"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 35:1 opens by asking God to take up the quarrel himself, and Psalm 41:10-12 leaves vindication in his hands.",
+          "hint": "Read Psalm 35:1 and Psalm 41:11-12 again. Notice who is asked to act, and who never is."
+        },
+        {
+          "question": "Psalm 40 opens with a finished rescue and closes still needing help. What is it teaching prayer?",
+          "options": [
+            "Rehearsed rescue gives waiting its footing and its song",
+            "Gratitude obligates God to repeat his earlier rescues",
+            "Testimony should wait until every trouble is resolved",
+            "New need cancels whatever an old rescue once proved"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 40:1-3 sets the remembered pit and the new song first, and that memory carries the fresh plea of Psalm 40:11-13.",
+          "hint": "Read Psalm 40:1-3 and then Psalm 40:11-13 again. Notice which comes first, and what the order makes possible."
+        }
+      ]
+    },
+    {
+      "id": "ps-22",
+      "title": "Psalm 22: Forsaken",
+      "chapters": [
+        22
+      ],
+      "verse_span": {
+        "from": "22:1",
+        "to": "22:31"
+      },
+      "difficulty_tier": 2,
+      "summary": "'My God, my God, why have you forsaken me?' — a sufferer mocked, his hands and feet 'pierced' (so the ancient Greek translation; the Hebrew wording is debated), his clothing divided by lot, whose agony turns halfway through into worldwide praise. Jesus quoted its first line from the cross, and the crucifixion narratives echo the psalm throughout.",
+      "key_themes": [
+        "forsakenness",
+        "suffering",
+        "vindication",
+        "praise from the depths"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-15-24",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Psalm 22 is Book I's lament form pushed to its extreme; knowing the genre reveals how far this one goes."
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-26-28",
+          "reason": "The crucifixion narrative quotes and alludes to this psalm repeatedly — the cry, the mocking, the divided garments."
+        }
+      ],
+      "key_verses": [
+        "Psalm 22:1",
+        "Psalm 22:16-18",
+        "Psalm 22:27"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "dense",
+      "emotional_tone": [
+        "lament",
+        "joy"
+      ],
+      "discussion_prompt": "Psalm 22 starts with a scream of abandonment and ends with the whole world praising God. What happens in the middle that makes such a turn possible, and what does that arc offer someone who feels forsaken right now?",
+      "assessment_questions": [
+        "What specific sufferings does the psalmist describe in Psalm 22, and where does the psalm's mood change?",
+        "The psalmist feels forsaken yet keeps calling God my God. What does it mean to accuse God and cling to him in the same sentence?",
+        "Jesus prayed this psalm's first line at his darkest moment. When your own faith goes dark, what would it look like to borrow a prayer like this instead of going silent?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Forsakenness spoken to God",
+          "explanation": "The psalm shows a sufferer who feels abandoned by God saying so directly to God, which is itself an act of faith."
+        },
+        {
+          "concept": "From lament to praise",
+          "explanation": "The psalm turns from agony to worldwide worship, teaching that deliverance is meant to become testimony."
+        },
+        {
+          "concept": "A portrait the Gospels recognized",
+          "explanation": "The mocking, the divided garments, and the wounded sufferer led the Gospel writers to tell the crucifixion in this psalm's words."
+        },
+        {
+          "concept": "Suffering inside God's purpose",
+          "explanation": "The psalm ends with generations yet unborn hearing of God's rescue, placing one person's pain inside a story far bigger than itself."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Trace Psalm 22's movement from abandonment to praise, and explain why the Gospel writers kept pointing back to it when telling the crucifixion.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 22 opens with the sufferer telling God that God has abandoned him. What is the psalm teaching prayer to do?",
+          "options": [
+            "Speak the feeling of God's absence to God himself",
+            "Confess despair as a sin before asking anything else",
+            "Hold the darkest words back until faith has recovered",
+            "Address the silent heavens to shame them into answering"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 22:1 aims its accusation of abandonment at the God it still claims as its own, keeping the relationship inside the cry.",
+          "hint": "Read Psalm 22:1-2 again. Notice who the sufferer is talking to about God's silence."
+        },
+        {
+          "question": "Halfway through, Psalm 22 turns from agony to praise that keeps widening. What does the turn teach about deliverance?",
+          "options": [
+            "It settles a private matter between the sufferer and God",
+            "It arrives once praise has been offered in advance",
+            "It is given to become testimony that keeps spreading",
+            "It proves the suffering was lighter than first described"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 22:22 carries the rescue into the assembly, and Psalm 22:27-31 widens the circle to the nations and to children not yet born.",
+          "hint": "Read Psalm 22:22-31 again. Notice how many audiences the rescued man's praise gathers before the psalm ends."
+        }
+      ]
+    },
+    {
+      "id": "ps-23",
+      "title": "Psalm 23: The Shepherd",
+      "chapters": [
+        23
+      ],
+      "verse_span": {
+        "from": "23:1",
+        "to": "23:6"
+      },
+      "difficulty_tier": 1,
+      "summary": "Perhaps the most beloved poem ever written: the LORD as shepherd through green pastures and the valley of the shadow of death, and as host spreading a table in the presence of enemies. Six verses that generations have died with on their lips.",
+      "key_themes": [
+        "shepherd",
+        "provision",
+        "fearless trust",
+        "presence"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-15-24",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Psalm 23 sits inside Book I of the Psalter; reading the surrounding Davidic collection first shows it is one voice among many, not an isolated poem."
+        }
+      ],
+      "connections": [
+        {
+          "node": "john-9-12",
+          "reason": "Jesus' 'I am the good shepherd' takes the psalm's divine role for himself."
+        },
+        {
+          "node": "ezek-33-37",
+          "reason": "Ezekiel 34 turns the shepherd image into prophecy: God himself will come to shepherd his flock."
+        }
+      ],
+      "key_verses": [
+        "Psalm 23:1",
+        "Psalm 23:4",
+        "Psalm 23:6"
+      ],
+      "reading_time_minutes": 8,
+      "content_density": "light",
+      "emotional_tone": [
+        "comfort",
+        "reverent"
+      ],
+      "discussion_prompt": "Psalm 23 never promises a life without dark valleys or enemies. What does it actually promise instead, and why has that been enough for so many people at the edge of death?",
+      "assessment_questions": [
+        "What two pictures of God does Psalm 23 use, and what does each one provide?",
+        "The psalm describes a table prepared while enemies are still watching. What does that detail teach about the kind of security God gives?",
+        "David says goodness and mercy will follow him all the days of his life. Looking back over your last year, where might you name God's shepherding that you missed at the time?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A personal shepherd",
+          "explanation": "The psalm claims the LORD as my shepherd, making God's care intimate and individual."
+        },
+        {
+          "concept": "Presence in the valley",
+          "explanation": "The psalm's comfort rests on God being with the psalmist in the darkest place, since fear loses its grip when the Shepherd stays close."
+        },
+        {
+          "concept": "Provision and rest",
+          "explanation": "Green pastures and still waters teach that God supplies what his people need, including rest they would never take on their own."
+        },
+        {
+          "concept": "Hope that outlasts the road",
+          "explanation": "The psalm ends with dwelling in the LORD's house forever, so the shepherd's care aims past this life."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Summarize Psalm 23's journey from pasture to valley to table, and explain what each scene says about God's care.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 23 walks through the death-shadowed valley without fear. Where does the psalm locate the comfort?",
+          "options": [
+            "In the promise that the valley will be brief",
+            "In the shepherd's habit of routing danger beforehand",
+            "In the courage the psalmist has finally learned",
+            "In the shepherd's presence inside the dark valley"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 23:4 grounds the fearlessness in company, the shepherd right there in the valley with rod and staff.",
+          "hint": "Read Psalm 23:4 again. Notice the small change in address, since the psalm stops speaking about the shepherd and starts speaking to him."
+        },
+        {
+          "question": "In Psalm 23:5 the host spreads a table while enemies are still in view. What is the psalm teaching about trust?",
+          "options": [
+            "Trust waits quietly until every enemy has been removed",
+            "Trust receives God's provision while threat still stands nearby",
+            "Trust interprets abundance as proof the danger was unreal",
+            "Trust earns the table by loyal service to the host"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 23:5 sets the meal in the enemies' presence, provision and honor given before the danger is gone.",
+          "hint": "Read Psalm 23:5-6 again. Notice who is still watching when the cup overflows, and what does the pursuing afterward."
+        }
+      ]
+    },
+    {
+      "id": "ps-42-49",
+      "title": "The Korahite Psalms: Thirst, Zion, and the Great King",
+      "chapters": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "verse_span": {
+        "from": "42:1",
+        "to": "49:20"
+      },
+      "difficulty_tier": 2,
+      "summary": "The sons of Korah open Book II with the Psalter's most famous thirst: Psalms 42-43, one poem in three stanzas, each ending with the psalmist questioning his own downcast soul and ordering it back to hope in God. Around it gather a national lament (44), a royal wedding song (45), the Zion psalms trusting God's presence while everything shakes (46-48), and a wisdom poem on wealth and death (49). The collection trains a worshiper to name the ache for God and to preach hope back to their own soul.",
+      "key_themes": [
+        "thirst for God",
+        "preaching to your own soul",
+        "Zion and God's presence",
+        "the king",
+        "wealth and death"
+      ],
+      "prerequisites": [],
+      "connections": [
+        {
+          "node": "heb-1-4",
+          "reason": "Hebrews 1 quotes Psalm 45's address to the king ('Your throne, O God, is forever') as speech about the Son."
+        }
+      ],
+      "key_verses": [
+        "Psalm 42:1-2",
+        "Psalm 46:1",
+        "Psalm 49:15"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "hopeful"
+      ],
+      "discussion_prompt": "Three times in Psalms 42-43 the psalmist interrupts his own despair to question his soul and command it to hope. What is the difference between listening to yourself and talking to yourself in prayer, and which do you do more?",
+      "assessment_questions": [
+        "What image opens Psalm 42, and what refrain does the psalmist repeat three times across Psalms 42 and 43?",
+        "Psalm 46 pictures earth giving way and waters roaring, yet calls God a refuge inside the shaking rather than an exit from it. What kind of security is this psalm actually offering?",
+        "Psalm 49 concludes that no fortune can ransom a life from death, while trusting God to redeem the psalmist from the grave. What are you tempted to treat as ransom money against mortality, and what would this psalm say to it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Thirst for God",
+          "explanation": "The opening poem treats deep spiritual longing as healthy and holy, giving words to the ache of feeling far from God."
+        },
+        {
+          "concept": "Refuge amid chaos",
+          "explanation": "Psalm 46 grounds courage in God's presence with his people, so they can face collapsing circumstances without panic."
+        },
+        {
+          "concept": "Zion, the city of God",
+          "explanation": "The songs of Zion celebrate the place where God dwells among his people, making his presence the center of their hope."
+        },
+        {
+          "concept": "Wealth cannot ransom",
+          "explanation": "Psalm 49 sets every fortune against the price of a life and finds it short, resting its one hope on God receiving the psalmist beyond the grave."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how the refrain of Psalms 42-43 works as prayer, and what Psalms 46 and 49 each say a person can and cannot rely on.",
+      "comprehension_check": [
+        {
+          "question": "In Psalms 42-43 the psalmist keeps interrupting despair to question his own soul. What practice is the poem teaching?",
+          "options": [
+            "Confessing hidden sin as the true root of sadness",
+            "Preaching hope to yourself while the sadness still stands",
+            "Analyzing feelings until their causes finally become clear",
+            "Silencing the inner voice so God alone can speak"
+          ],
+          "answer_index": 1,
+          "why": "The refrain at Psalm 42:5 turns the psalmist from listening to his soul to addressing it, and points it toward praise still to come.",
+          "hint": "Read Psalm 42:5 and 42:11 again. Notice who is speaking, and who is being spoken to."
+        },
+        {
+          "question": "Psalm 46 sings of a city kept safe while mountains fall into the sea. Where does the psalm locate that safety?",
+          "options": [
+            "In Zion's walls, which God has made too strong to breach",
+            "In the covenant faithfulness of the worshiping community",
+            "In the distance between God's city and the chaos",
+            "In the presence of God himself in the city's midst"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 46:5 grounds the city's steadiness in God being inside it, with help present as morning breaks.",
+          "hint": "Read Psalm 46:4-5 again. Notice what is inside the city that the roaring waters outside cannot reach."
+        }
+      ]
+    },
+    {
+      "id": "ps-50",
+      "title": "Psalm 50: God the Judge Speaks",
+      "chapters": [
+        50
+      ],
+      "verse_span": {
+        "from": "50:1",
+        "to": "50:23"
+      },
+      "difficulty_tier": 2,
+      "summary": "The one Asaph psalm in Book II, separated from its family in Book III (Psalms 73-83): God arrives from Zion in storm and fire, summons heaven and earth as witnesses, and puts his own covenant people in the dock. To the devout he says their sacrifices never fed him, since every animal already belongs to him; what he asks is thanksgiving, kept vows, and a call in the day of trouble. To the wicked who recite his covenant while loving evil, he promises a reckoning. Worship, the psalm insists, is grateful dependence or it is nothing.",
+      "key_themes": [
+        "God as judge of worship",
+        "sacrifice misunderstood",
+        "thanksgiving",
+        "covenant hypocrisy"
+      ],
+      "prerequisites": [],
+      "connections": [],
+      "key_verses": [
+        "Psalm 50:10",
+        "Psalm 50:14-15",
+        "Psalm 50:23"
+      ],
+      "reading_time_minutes": 8,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "warning"
+      ],
+      "discussion_prompt": "In Psalm 50 God tells worshipers that he was never hungry, and that if he were he would not ask them. What do people today quietly believe their religious effort does for God, and what does this psalm put in its place?",
+      "assessment_questions": [
+        "Who does God summon as witnesses in Psalm 50, and which two groups receive his charges?",
+        "God rejects the idea that sacrifices feed him, then commands a sacrifice of thanksgiving. What is the difference between the offering he refuses and the offering he asks for?",
+        "Psalm 50:15 invites calling on God in trouble as an act that honors him. Why would needing God honor him more than supplying him would, and where do you resist being the one in need?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Judge needs nothing",
+          "explanation": "Psalm 50 dismantles the transaction at worship's root, since the God who owns every beast cannot be fed, bribed, or enriched."
+        },
+        {
+          "concept": "Thanksgiving is the true offering",
+          "explanation": "The psalm replaces the economy of feeding God with gratitude, kept vows, and calling on him in trouble, worship that runs on dependence."
+        },
+        {
+          "concept": "Covenant words without covenant life",
+          "explanation": "God confronts those who take his covenant on their lips while casting his words behind them, so worship cannot launder an unchanged life."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Psalm 50 says God does and does not want from worshipers, and why calling on him in trouble honors him.",
+      "comprehension_check": [
+        {
+          "question": "In Psalm 50 God corrects his own worshipers about sacrifice. What does he say true worship gives him?",
+          "options": [
+            "Costlier offerings that better match his worth",
+            "Silent reverence instead of bold requests",
+            "Thanks, kept promises, and a call in trouble",
+            "Public teaching of his covenant to the wicked"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 50:14-15 names the offerings God asks for: gratitude, fulfilled vows, and the honor of being called on in trouble.",
+          "hint": "Read Psalm 50:12-15 again. Notice what God says he would never need, and what he then asks for."
+        }
+      ]
+    },
+    {
+      "id": "ps-52-60",
+      "title": "The Fugitive Psalms: Laments from the Cave Years",
+      "chapters": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "verse_span": {
+        "from": "52:1",
+        "to": "60:12"
+      },
+      "difficulty_tier": 2,
+      "summary": "Nine maskils and miktams whose titles tie them to David's years running from Saul: Doeg's treachery, the Ziphites' informing, capture in Gath, the cave, the watched house. Out of those settings come the collection's signature moves: fear admitted and handed to trust in the same breath, refuge sought under God's wings until disaster passes, and praise begun before the rescue arrives. These are prayers composed inside danger for people still inside theirs.",
+      "key_themes": [
+        "fear and trust",
+        "refuge",
+        "prayer under persecution",
+        "praise before rescue"
+      ],
+      "prerequisites": [],
+      "connections": [],
+      "key_verses": [
+        "Psalm 54:4",
+        "Psalm 56:3",
+        "Psalm 57:7"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "resolve"
+      ],
+      "discussion_prompt": "Psalm 56 admits fear and declares trust in the same sentence, with the danger still fully present. What do you usually wait for before you are willing to say you trust God, and what does this psalm remove from that list?",
+      "assessment_questions": [
+        "What situations do the titles of Psalms 52, 54, 56, 57, and 59 connect these prayers to, and what request keeps repeating inside them?",
+        "In Psalm 57 David is hiding in a cave, yet the psalm's second half is a dawn song with harp and lyre. What does it mean that the praise is composed before the escape?",
+        "Psalm 56 pictures God keeping count of the psalmist's sleepless wandering and storing every tear. What fear would you name to God today if you believed he kept records like that?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Fear and trust in one breath",
+          "explanation": "Psalm 56 places the admission of fear and the decision to trust side by side, so trust is a move made inside fear rather than after it."
+        },
+        {
+          "concept": "Refuge under wings",
+          "explanation": "Psalm 57 shelters in God's shadow until destruction passes, treating God himself as the hiding place the cave only pictures."
+        },
+        {
+          "concept": "Praise ahead of rescue",
+          "explanation": "The steadfast heart of Psalm 57 starts the music while the danger stands, and dawn is woken by a fugitive's song."
+        },
+        {
+          "concept": "The case handed upward",
+          "explanation": "These psalms name real betrayers and ask God to deal with them, placing judgment in the only hands that can hold it justly."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how Psalm 56 holds fear and trust together, and explain what Psalm 57 shows about praising before deliverance comes.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 56 says fear and trust out loud in the same line. What is it teaching about the two?",
+          "options": [
+            "Trust is chosen while the fear is still real",
+            "Trust arrives once the fear has been fully mastered",
+            "Fear is the sign that trust has not yet begun",
+            "Fear must be hidden so trust can be professed"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 56:3 makes the fearful moment itself the moment of trust, a decision taken with the danger in full view.",
+          "hint": "Read Psalm 56:3-4 again. Notice when the trusting happens relative to the fearing."
+        },
+        {
+          "question": "In Psalm 57 the singing starts while David is still in the cave. What does that teach worship?",
+          "options": [
+            "Song is a discipline for distracting the mind from danger",
+            "Praise obligates God to complete the rescue it anticipates",
+            "Worship should recall past rescues instead of present trouble",
+            "Praise can be grounded in God before circumstances change"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 57:7 roots the song in a heart fixed on God, sung from inside the cave before any rescue comes.",
+          "hint": "Read Psalm 57:4 and then Psalm 57:7-8 again. Notice where David still is when the music begins."
+        }
+      ]
+    },
+    {
+      "id": "ps-61-68",
+      "title": "Trust in the Wilderness and the Rising Praise",
+      "chapters": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "verse_span": {
+        "from": "61:1",
+        "to": "68:35"
+      },
+      "difficulty_tier": 2,
+      "summary": "The collection climbs from lone trust to overflowing praise. Psalms 61-64 pray from the edge of the land and the end of strength, with Psalm 62 waiting on God alone in silence and Psalm 63 thirsting for him in the wilderness of Judah. Then the register rises: harvest praise (65), a summons for all the earth to hear what God did for one man's soul (66), a blessing that runs from Israel out to every nation (67), and the great processional hymn of Psalm 68 with God marching from Sinai to sanctuary.",
+      "key_themes": [
+        "waiting in silence",
+        "thirst for God",
+        "praise going public",
+        "blessing for all nations"
+      ],
+      "prerequisites": [],
+      "connections": [],
+      "key_verses": [
+        "Psalm 62:1-2",
+        "Psalm 63:1",
+        "Psalm 67:1-2"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "celebratory"
+      ],
+      "discussion_prompt": "Psalm 62 twice describes a soul waiting for God in silence, in a collection that ends with loud processional praise. What does silence do in prayer that words cannot, and when did you last give God any?",
+      "assessment_questions": [
+        "What does the psalmist wait for in Psalm 62, and what does Psalm 63 compare his longing to?",
+        "Psalm 67 asks God to bless Israel so that his ways may be known on earth and all nations praise him. What does that purpose clause reveal about what blessing is for?",
+        "Psalm 66 invites everyone who fears God to come and hear what God did for the psalmist's soul, gratitude with an audience. Who actually hears your gratitude, and what would widening the audience cost?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Waiting in silence",
+          "explanation": "Psalm 62 rests the soul on God alone, twice over, and lets the silence itself confess that salvation comes from nowhere else."
+        },
+        {
+          "concept": "Thirst in the wilderness",
+          "explanation": "Psalm 63 turns a dry land into a picture of desire for God, prizing his love above life itself."
+        },
+        {
+          "concept": "Blessing that travels",
+          "explanation": "Psalm 67 prays the priestly blessing outward, asking favor on Israel precisely so the nations come to know and praise God."
+        },
+        {
+          "concept": "Praise gathers a crowd",
+          "explanation": "Psalms 65-68 widen the choir from one steadied soul to all the earth, until Psalm 68 pictures God processing to his sanctuary with singers in front."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how this collection moves from Psalm 62's silence to Psalm 68's procession, and what Psalm 67 teaches about why God blesses.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 62 twice falls silent before God while enemies press. What is the silence doing?",
+          "options": [
+            "Guarding secrets that enemies could use if spoken",
+            "Resting the whole case on God as sole rescue",
+            "Expressing a grief too heavy for words to carry",
+            "Withholding requests until God explains the situation"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 62:1-2 waits on God alone for salvation, quiet because nothing else needs to be tried.",
+          "hint": "Read Psalm 62:1-2 and 62:5-6 again. Notice the one word the psalmist keeps attaching to God."
+        },
+        {
+          "question": "Psalm 67 asks God to bless us, then explains why. What purpose does the psalm give the blessing?",
+          "options": [
+            "To prove to the nations that Israel's God is strongest",
+            "To reward Israel's faithfulness among the unfaithful nations",
+            "To carry knowledge of God's ways to every nation",
+            "To guarantee each year's harvest for Israel's own table"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 67:2 gives the reason for the asked blessing: that God's ways and salvation become known among all nations.",
+          "hint": "Read Psalm 67:1-2 and 67:7 again. Notice who ends up affected by a blessing Israel asked for itself."
+        }
+      ]
+    },
+    {
+      "id": "ps-69-72",
+      "title": "Depths, Old Age, and the King of Peace",
+      "chapters": [
+        69,
+        70,
+        71,
+        72
+      ],
+      "verse_span": {
+        "from": "69:1",
+        "to": "72:20"
+      },
+      "difficulty_tier": 2,
+      "summary": "Book II's closing movement descends and rises. Psalm 69 prays from drowning depths, consumed by zeal for God's house, and stands among the psalms the New Testament quotes most; Psalm 70 compresses urgency into five verses; Psalm 71 prays an old man's trust built from lifelong habit; and Psalm 72 hands everything to the king's son, asking for a reign that hears the needy and fills the earth with glory. The editorial note that follows closes the prayers of David, leaving the longing for that king open.",
+      "key_themes": [
+        "prayer from the depths",
+        "lifelong trust",
+        "the ideal king",
+        "justice for the poor"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-1-2",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Book II's royal climax (Ps 72) develops the gateway's enthroned son."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 69:9",
+        "Psalm 71:18",
+        "Psalm 72:12-14"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "hopeful"
+      ],
+      "discussion_prompt": "Psalm 71 is the Psalter's old-age prayer, asking God to stay near until the psalmist has told the next generation about his power. What has watching someone trust God across decades taught you, and who might be watching you that way now?",
+      "assessment_questions": [
+        "What images of distress open Psalm 69, and what does Psalm 72 ask on behalf of the poor and needy?",
+        "Psalm 72 prays for a king whose reign is measured by how the weakest fare under it, and Book II ends with that prayer still waiting. What does it mean that the Psalter keeps praying for a ruler no historical king matched?",
+        "Psalm 71 asks God to preserve a witness into gray hair so the next generation hears. Whatever your age, what would praying for usefulness rather than comfort change about how you see your remaining years?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Prayer from drowning",
+          "explanation": "Psalm 69 gives the sinking soul words, and its cries over reproach borne for God's sake became the vocabulary of the crucifixion narratives."
+        },
+        {
+          "concept": "A lifetime as evidence",
+          "explanation": "Psalm 71 prays old age as testimony, leaning on a trust learned from birth and asking to finish the telling."
+        },
+        {
+          "concept": "The king measured by mercy",
+          "explanation": "Psalm 72 measures royalty by justice for the poor and crushed, a portrait no king of Israel ever fully lived up to."
+        },
+        {
+          "concept": "An ending that points forward",
+          "explanation": "Book II closes with David's prayers ended and the ideal king still awaited, an open door the rest of Scripture walks through."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Book II closes by moving from Psalm 69's depths to Psalm 72's royal prayer, and describe the kind of king that closing psalm longs for.",
+      "comprehension_check": [
+        {
+          "question": "Book II ends with Psalm 72's long prayer for the king. What is worship doing when it prays this way?",
+          "options": [
+            "Flattering power so that power will protect the faithful",
+            "Endorsing whatever ruler currently occupies the throne",
+            "Escaping politics into a purely spiritual kingdom",
+            "Measuring every reign by God's care for the weak"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 72:12-14 makes rescue of the needy the mark of the reign the psalm asks God to establish.",
+          "hint": "Read Psalm 72:12-14 again. Notice which subjects the prayer keeps returning to when it describes a good reign."
+        },
+        {
+          "question": "Psalm 69 prays from waters closing over the psalmist's head. What does the psalm teach a person to do there?",
+          "options": [
+            "Cry to God from inside the flood itself",
+            "Wait for calmer waters before attempting serious prayer",
+            "Read the flood as proof of God's just displeasure",
+            "Present composure to prove that faith is intact"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 69:1-3 prays mid-flood, voice worn out with calling, every word addressed to God before rescue appears.",
+          "hint": "Read Psalm 69:1-3 again. Notice where the psalmist is while he prays, and where he directs every word."
+        }
+      ]
+    },
+    {
+      "id": "ps-51",
+      "title": "Psalm 51: Have Mercy on Me",
+      "chapters": [
+        51
+      ],
+      "verse_span": {
+        "from": "51:1",
+        "to": "51:19"
+      },
+      "difficulty_tier": 2,
+      "summary": "David's prayer after Nathan's confrontation — the church's chief penitential psalm: 'Create in me a clean heart, O God.' No excuses, no bargaining; just sin named, mercy begged, and the insight that God desires a broken spirit over burnt offerings.",
+      "key_themes": [
+        "repentance",
+        "mercy",
+        "clean heart",
+        "true sacrifice"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-11-12",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Psalm 51 presumes the specific narrative of David’s sin with Bathsheba and Nathan’s rebuke—details it never supplies but that decisively shape its penitential meaning.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 51:1-2",
+        "Psalm 51:10",
+        "Psalm 51:17"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "dense",
+      "emotional_tone": [
+        "sorrow",
+        "hopeful"
+      ],
+      "discussion_prompt": "David asks God to create a clean heart in him, using the Bible's word for what only God can do. Why is a clean heart something only God can make, and what would asking for one honestly sound like from you?",
+      "assessment_questions": [
+        "What does David ask God to do for him in Psalm 51, and what does he say God does not delight in?",
+        "David tells God that against you, you only, have I sinned, even though he wronged Bathsheba and Uriah terribly. What is the psalm claiming about what sin is at its root?",
+        "The psalm says the sacrifice God accepts is a broken and contrite heart. What is the difference between feeling caught and being contrite, and which one describes your last apology to God?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Mercy is the first plea",
+          "explanation": "David opens by appealing to God's steadfast love before offering any explanation, teaching that forgiveness begins with God's character."
+        },
+        {
+          "concept": "Confession without excuses",
+          "explanation": "The psalm names sin plainly and owns it fully, modeling repentance that refuses to shift blame."
+        },
+        {
+          "concept": "God wants the inside changed",
+          "explanation": "David asks for a clean heart and a steadfast spirit, showing that God aims at inward renewal deeper than any ritual."
+        },
+        {
+          "concept": "Forgiven people speak",
+          "explanation": "David promises that once restored he will teach transgressors and sing of God's righteousness, so received mercy turns outward."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Walk through Psalm 51 as a pattern for repentance, naming what David asks for and what he says God actually wants.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 51 must ask forgiveness for adultery and murder. What does it teach a guilty person to build that prayer on?",
+          "options": [
+            "A vow of stricter obedience in the years ahead",
+            "A fair accounting of the pressures behind the sin",
+            "God's own steadfast love and abundant compassion",
+            "The sufferings the guilt has already inflicted"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 51:1 appeals first to who God is, his mercy and covenant love, before David says anything about himself.",
+          "hint": "Read Psalm 51:1-4 again. Notice what David mentions about God before he mentions anything he has done."
+        },
+        {
+          "question": "Psalm 51 says God takes no delight in the sacrifice David could bring. What is it teaching worship to offer?",
+          "options": [
+            "An inward honesty that holds nothing back",
+            "A costlier gift matched to the sin's weight",
+            "A pause in worship until the guilt fades",
+            "A public penance that restores lost reputation"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 51:17 names the sacrifice God will not despise, a spirit broken open and honest before him.",
+          "hint": "Read Psalm 51:16-17 again. Notice what David says God does not want, and what he says God will never turn away."
+        }
+      ]
+    },
+    {
+      "id": "ps-73-83",
+      "title": "The Asaph Collection: God's Justice and the Ruined Sanctuary",
+      "chapters": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "verse_span": {
+        "from": "73:1",
+        "to": "83:18"
+      },
+      "difficulty_tier": 3,
+      "summary": "Eleven psalms under Asaph's name, the Psalter's largest authorial block after David, arranged as one sustained wrestle with God's justice. Psalm 73 nearly loses faith at the prosperity of the wicked until the sanctuary reframes the ledger; Psalms 74 and 79 grieve over the smashed sanctuary; Psalm 78 retells Israel's rebellious history so the next generation will set its hope in God; Psalm 82 convenes God's court over unjust gods; Psalm 83 pleads against a world in coalition. Worship here is where doubt, catastrophe, and memory get carried into God's presence and reworked.",
+      "key_themes": [
+        "the prosperity of the wicked",
+        "the sanctuary turn",
+        "national catastrophe prayed",
+        "teaching the next generation",
+        "God the judge"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-24-25",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "These Asaph psalms presuppose the specific reality of Jerusalem's fall and the temple's destruction (the exile of 586 BC) as the referent for their lament and cultic complaints, a historical framework they never narrate.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 73:25-26",
+        "Psalm 78:4",
+        "Psalm 82:3"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "dense",
+      "emotional_tone": [
+        "lament",
+        "tension"
+      ],
+      "discussion_prompt": "Asaph says his feet almost slipped when he watched the wicked prosper, and the psalm keeps his envy on the record. Why do you think God kept prayers like these in his book, and what doubt of yours have you never said out loud to him?",
+      "assessment_questions": [
+        "What nearly makes Asaph stumble in Psalm 73, and where does his perspective finally change?",
+        "Psalms 74 and 79 pray over the sanctuary in ruins by rehearsing God's past deeds and appealing to his own name. What are these prayers doing by arguing from God's reputation instead of Israel's merits?",
+        "Psalm 78 says the fathers' stories are told so the children will set their hope in God and avoid repeating the rebellion. Which stories, good and bad, shaped your view of God, and which will you pass on?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Doubt spoken in faith",
+          "explanation": "Asaph voices envy and near collapse inside a prayer, showing that wrestling with God is part of belonging to him."
+        },
+        {
+          "concept": "Worship reframes",
+          "explanation": "Asaph's turnaround comes when he enters God's sanctuary, teaching that perspective on injustice changes in God's presence."
+        },
+        {
+          "concept": "Communal lament",
+          "explanation": "These psalms grieve national ruin together, naming catastrophe before God and pleading his own past deeds back to him."
+        },
+        {
+          "concept": "History as catechism",
+          "explanation": "Psalm 78 turns Israel's story of rebellion and grace into instruction, so memory becomes the tool that keeps the next generation's hope set on God."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what Asaph's sanctuary turn in Psalm 73 teaches about handling doubt, and explain what the collection does with the ruined sanctuary and Israel's history.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 73's envy of the wicked breaks at a specific point. What does the psalm say resolved it?",
+          "options": [
+            "News that the prosperous wicked had finally fallen",
+            "A reasoned conclusion that wealth cannot buy happiness",
+            "Standing in the sanctuary and seeing their end",
+            "Remembering his own blessings outweighed what he envied"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 73:16-17 marks the turn: what stayed baffling in analysis became clear in the sanctuary of God.",
+          "hint": "Read Psalm 73:16-17 again. Notice where Asaph is standing when the picture finally changes."
+        },
+        {
+          "question": "When Psalms 74 and 79 pray over the ruined sanctuary, what do they build the appeal on?",
+          "options": [
+            "Israel's long record of faithfulness deserving better treatment",
+            "God's own name, covenant, and remembered deeds",
+            "The injustice of punishment exceeding the nation's sin",
+            "The temple's beauty and its irreplaceable sacred objects"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 74:2 asks God to remember the people he purchased, and Psalm 79:9 appeals to the glory of his own name.",
+          "hint": "Read Psalm 74:2 and Psalm 79:9-10 again. Notice whose interests the prayers keep appealing to."
+        }
+      ]
+    },
+    {
+      "id": "ps-84-89",
+      "title": "Korah's Longing and the Covenant on Trial",
+      "chapters": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "verse_span": {
+        "from": "84:1",
+        "to": "89:52"
+      },
+      "difficulty_tier": 3,
+      "summary": "Book III closes with a final cluster, Korahite psalms joined by two from the temple singers Heman and Ethan: aching pilgrim longing for God's courts (84), a prayer for revival where love and faithfulness meet (85), a lone Davidic plea (86), Zion sung as mother of the nations (87), and then the Psalter's darkest prayer, Psalm 88, which opens by naming God the source of its rescue and closes with darkness for company. Psalm 89 caps the book by singing the Davidic covenant at length and then laying its apparent collapse at God's feet. The collection teaches worship to keep longing, keep the dark, and keep holding God to his word.",
+      "key_themes": [
+        "longing for God's presence",
+        "unresolved darkness",
+        "covenant apparently failed",
+        "holding God to his word"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Psalm 89 quotes the Davidic covenant at length precisely to accuse God of abandoning it — no covenant, no crisis.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 84:10",
+        "Psalm 89:1",
+        "Psalm 89:49"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "sorrow",
+        "tension"
+      ],
+      "discussion_prompt": "Psalm 88 is the one psalm that never brightens, and it still addresses God as the source of its rescue in its first line. What does it change to know Scripture kept a prayer that ends in the dark, and when have you needed one like it?",
+      "assessment_questions": [
+        "What does Psalm 84 say a single day in God's courts is worth, and how does Psalm 88 end?",
+        "Psalm 89 spends half its length celebrating God's covenant with David and the other half protesting that it looks broken. What is the psalmist doing by holding God to his own promises?",
+        "Psalm 88 ends in darkness with no resolution. What does it mean for your own praying that Scripture includes a prayer that ends there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Longing as worship",
+          "explanation": "Psalm 84 counts doorkeeping in God's house above dwelling anywhere else, training desire itself to be prayer."
+        },
+        {
+          "concept": "The psalm that stays dark",
+          "explanation": "Psalm 88 keeps praying with no turn and no relief, proof that unrelieved darkness can still be faithful address to God."
+        },
+        {
+          "concept": "Praying God's promises back",
+          "explanation": "Psalm 89 presses God with his own covenant words, a bold prayer that takes God's faithfulness seriously enough to argue from it."
+        },
+        {
+          "concept": "A book left open",
+          "explanation": "Book III ends with the covenant question unanswered, and the Psalter's next book is built to answer it, so even the arrangement teaches hope."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the crisis Book III builds toward in Psalm 89, and describe what Psalms 84 and 88 each teach about longing and unresolved darkness in prayer.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 88 never brightens, yet it made the Psalter. What does its presence teach about prayer?",
+          "options": [
+            "Prayer can sit in darkness and still be faith",
+            "Prayer that ends without praise has failed its purpose",
+            "Some sufferings are too deep to bring into worship",
+            "Dark prayers belong in private, never in public liturgy"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 88:1 addresses the LORD as the God of the psalmist's salvation, and that address never stops through the darkest verses.",
+          "hint": "Read Psalm 88:1 and Psalm 88:13 again. Notice what the psalmist keeps doing even where nothing improves."
+        },
+        {
+          "question": "Psalm 89 sings God's covenant for dozens of verses, then protests its collapse. What is that structure teaching?",
+          "options": [
+            "Long praise softens God before hard complaints arrive",
+            "Celebration and complaint belong to different seasons of faith",
+            "History disproved the covenant, so worship should move on",
+            "Complaint gains its force by first rehearsing God's promises"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 89:49 asks where the promised love has gone, a question that only lands because Psalm 89:1-4 sang the promise first.",
+          "hint": "Read Psalm 89:1-4 and then Psalm 89:38-39 and 89:49. Notice what the ending needs the beginning for."
+        }
+      ]
+    },
+    {
+      "id": "ps-90-92",
+      "title": "The Mosaic Prelude: Eternity, Shelter, Sabbath",
+      "chapters": [
+        90,
+        91,
+        92
+      ],
+      "verse_span": {
+        "from": "90:1",
+        "to": "92:15"
+      },
+      "difficulty_tier": 2,
+      "summary": "Book IV opens its answer to the covenant crisis by reaching back before David, before temple, before land: a prayer of Moses setting fleeting human days inside God's everlasting dwelling (90), the shelter psalm of the Most High's shadow (91), and a Sabbath song of the righteous flourishing into old age (92). The sequence regrounds shaken worship in what was true before the monarchy and remains true after its fall.",
+      "key_themes": [
+        "God as dwelling place",
+        "mortality and wisdom",
+        "refuge in the Most High",
+        "Sabbath praise"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-84-89",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Book IV is structurally the response to Psalm 89's dashed covenant — the arrangement is the argument.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 90:12",
+        "Psalm 91:1-2",
+        "Psalm 92:1"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reflective",
+        "comfort"
+      ],
+      "discussion_prompt": "Psalm 90 asks God to teach the counting of our days and calls the result a wise heart. What would actually change about an ordinary week if you counted yours, and why does the psalm treat that counting as something God must teach?",
+      "assessment_questions": [
+        "What does Psalm 90 say about God's relationship to time, and what does it ask God to teach us?",
+        "After Psalm 89's collapsed throne, Book IV opens with a prayer from before Israel had kings at all. What is the arrangement saying about where security was located all along?",
+        "Psalm 91 promises shelter in God's shadow, and history is full of faithful people who still suffered. What kind of keeping can you actually lean on from this psalm, and what would leaning look like this month?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Eternal God, brief lives",
+          "explanation": "Psalm 90 sets our fleeting days against God's everlasting nature, and wisdom begins with taking that contrast seriously."
+        },
+        {
+          "concept": "Home before institutions",
+          "explanation": "Book IV's opening word makes God himself the dwelling place of every generation, an anchor older than temple and throne and untouched by their loss."
+        },
+        {
+          "concept": "The shadow of the Almighty",
+          "explanation": "Psalm 91 piles up images of shelter, wings, and fortress, teaching trust to nest in God's presence amid real dangers."
+        },
+        {
+          "concept": "Sabbath flourishing",
+          "explanation": "Psalm 92 makes praise a planted life, still bearing fruit in old age, with rest and worship as the soil."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Psalms 90-92 answer Book III's crisis by regrounding trust in God's eternity, shelter, and Sabbath praise.",
+      "comprehension_check": [
+        {
+          "question": "After Psalm 89's shattered throne, Book IV opens with a prayer of Moses. What is that placement teaching?",
+          "options": [
+            "Israel's worship should return to its wilderness simplicity",
+            "God was home before kings and outlasts their fall",
+            "Moses outranks David as the model of intercession",
+            "The hope Israel placed in David's line was mistaken"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 90:1-2 grounds every generation's dwelling in the God who precedes the mountains, a footing no fallen throne removes.",
+          "hint": "Read Psalm 90:1-2 with Psalm 89:44 still in mind. Notice what Psalm 90 says existed before anything Israel lost."
+        },
+        {
+          "question": "Psalm 90 asks God to teach us to count our days. What is that prayer after?",
+          "options": [
+            "Enough advance notice to set one's affairs in order",
+            "Relief from the dread that shortness of life produces",
+            "A heart made wise by honestly facing its limits",
+            "Assurance of more years in exchange for humility"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 90:12 ties numbered days to a wise heart, so mortality faced in prayer becomes teaching rather than terror.",
+          "hint": "Read Psalm 90:10-12 again. Notice what the psalm asks God to do with the number, once counted."
+        }
+      ]
+    },
+    {
+      "id": "ps-93-100",
+      "title": "The Enthronement Psalms: The LORD Reigns",
+      "chapters": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "verse_span": {
+        "from": "93:1",
+        "to": "100:5"
+      },
+      "difficulty_tier": 2,
+      "summary": "The Psalter's enthronement collection: psalm after psalm announcing the LORD's reign over a world that cannot be shaken, with the earth, the sea, and the nations called as audience. Psalm 95 summons the congregation to bow low and then pivots into warning, since the God being praised is also the voice to be obeyed today; Psalms 96 and 98 demand a new song from all the earth; Psalm 100 closes the run with everyone summoned through the gates with thanksgiving. Sung after Book III's wreckage, the collection is Israel's answer: the true throne never fell.",
+      "key_themes": [
+        "the LORD reigns",
+        "new song",
+        "worship and warning",
+        "God the coming judge",
+        "all the earth summoned"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-90-92",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Book IV's children form a deliberate sequence; the Mosaic prelude prepares the ground for the enthronement collection."
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-1-4",
+          "reason": "Hebrews 3-4 builds its 'Today' warning on Psalm 95's Meribah rehearsal."
+        }
+      ],
+      "key_verses": [
+        "Psalm 93:1",
+        "Psalm 95:6-7",
+        "Psalm 100:3"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "awe",
+        "celebratory"
+      ],
+      "discussion_prompt": "Psalm 95 moves without pause from singing to a warning about hardened hearts at Meribah. Why do you think the collection's most enthusiastic call to worship carries its sternest warning, and what would worship that listens actually look like for you?",
+      "assessment_questions": [
+        "What announcement do Psalms 93, 96, 97, and 99 share, and what does Psalm 95 warn against after its call to worship?",
+        "These psalms were sung while Israel had no functioning throne of its own. What does it mean to declare God's kingship precisely when circumstances argue against it?",
+        "Psalm 100 commands joy, thanksgiving, and the knowledge that the LORD made us and owns us. Which of those three comes hardest for you, and what would practicing it this week involve?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The LORD reigns",
+          "explanation": "The enthronement psalms announce God's unshaken rule over creation and history, a throne no exile could topple."
+        },
+        {
+          "concept": "Worship that listens",
+          "explanation": "Psalm 95 joins the bowed knee to the open ear, warning that praise which refuses God's voice repeats Meribah's rebellion."
+        },
+        {
+          "concept": "A new song for arriving justice",
+          "explanation": "Psalms 96 and 98 call for fresh praise because God comes to judge the world rightly, worship as the announcement of his verdict."
+        },
+        {
+          "concept": "Joy is commanded",
+          "explanation": "Psalm 100 orders gladness and gratitude as the fitting entrance into God's presence, because being made and shepherded by him is the truth of things."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Summarize what the enthronement psalms claim about God's rule, and explain how Psalm 95 joins worship to obedience.",
+      "comprehension_check": [
+        {
+          "question": "These psalms shout God's kingship in an era of fallen thrones. What is that declaration doing?",
+          "options": [
+            "Predicting the swift restoration of Israel's own monarchy",
+            "Remembering a golden age when God's rule was visible",
+            "Expressing a wish for how history ought to turn out",
+            "Announcing a present reign that circumstances cannot unseat"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 93:1-2 declares the world held firm under a throne older than history, in the present tense.",
+          "hint": "Read Psalm 93:1-2 again. Notice the tense of the verbs, and how far back the throne goes."
+        },
+        {
+          "question": "Psalm 95 turns mid-psalm from singing to warning. What does the turn teach about worship?",
+          "options": [
+            "Worship is unfinished until God's voice is heeded",
+            "Warning is the price of enjoying the singing",
+            "Music without full sincerity invites God's judgment",
+            "Worship should end solemnly rather than joyfully"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 95:7-8 sets hearing God's voice today inside the act of worship, with Meribah as the memory of refusal.",
+          "hint": "Read Psalm 95:6-8 again. Notice what the psalm asks for right after the kneeling."
+        }
+      ]
+    },
+    {
+      "id": "ps-101-106",
+      "title": "Royal Integrity, Creation, and the Story Retold",
+      "chapters": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "verse_span": {
+        "from": "101:1",
+        "to": "106:48"
+      },
+      "difficulty_tier": 2,
+      "summary": "Book IV's closing movement gathers five registers of prayer: a king's pledge of integrity for house and court (101), an exile's lament setting frail days against God's permanence (102), the soul summoning itself to bless the LORD and remember his benefits (103), a creation hymn touring the world God feeds and renews (104), and the twin history psalms, 105 praising God's faithfulness and 106 confessing Israel's failures across the same story. The book ends with the plea to be gathered from the nations, the cliffhanger Book V answers.",
+      "key_themes": [
+        "integrity before God",
+        "remembering God's benefits",
+        "creation sustained",
+        "history as praise and confession",
+        "hope of gathering"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-93-100",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Book IV's children form a deliberate sequence; the enthronement collection leads into the book's closing movement."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 103:11-12",
+        "Psalm 104:24",
+        "Psalm 106:47"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "joy",
+        "reflective"
+      ],
+      "discussion_prompt": "Psalm 103 begins with a person giving his own soul orders to bless God and to forget none of his benefits. Why might gratitude need to be commanded rather than waited for, and what benefits would make your list today?",
+      "assessment_questions": [
+        "What does Psalm 103 say God does with our transgressions, and what plea closes Psalm 106?",
+        "Psalms 105 and 106 walk the same history twice, once as God's faithfulness and once as Israel's failure. Why might worship need both tellings rather than just the encouraging one?",
+        "Psalm 101 is a ruler's pledge about what his eyes will tolerate and who will serve in his house. What would an honest version of that pledge look like for the spaces you control, your feed, your room, your friendships?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Mercy at the center",
+          "explanation": "Psalm 103 grounds worship in God's compassion and forgiveness toward people who deserve otherwise, so praise flows from pardon."
+        },
+        {
+          "concept": "Remembering the story",
+          "explanation": "Psalms 105 and 106 retell Israel's history of God's faithfulness and the people's failures, so memory fuels both praise and repentance."
+        },
+        {
+          "concept": "Creation praises its keeper",
+          "explanation": "Psalm 104 walks through springs, storks, lions, and seas as one household God feeds and renews, turning natural history into doxology."
+        },
+        {
+          "concept": "Integrity begins at home",
+          "explanation": "Psalm 101 pledges a blameless walk inside the king's own house first, since public justice grows from private discipline."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Psalms 101-106 close Book IV, using Psalm 103's mercy and the twin tellings of Psalms 105-106, and say what Psalm 106:47 sets up.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 103 opens with the psalmist commanding his own soul. What is that self-address teaching worship to do?",
+          "options": [
+            "Work up sincere emotion before daring to praise",
+            "Submit the unruly self to the community's liturgy",
+            "Rouse a forgetful heart by listing God's benefits",
+            "Examine the conscience thoroughly before every blessing"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 103:2 commands the soul to forget none of God's benefits, then spends the psalm naming them one by one.",
+          "hint": "Read Psalm 103:2-5 again. Notice what the psalmist does immediately after giving his soul the order."
+        },
+        {
+          "question": "Psalms 105 and 106 retell the same national story with opposite emphases. What is the pairing teaching?",
+          "options": [
+            "Later tellings correct the exaggerations of earlier ones",
+            "Full worship remembers God's fidelity and confesses our failures",
+            "History belongs in teaching, while worship needs only praise",
+            "Israel's failures ultimately outweighed God's acts of rescue"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 105:5 commands remembering God's wonders and Psalm 106:6 confesses sin across the same story, twin memories worship keeps together.",
+          "hint": "Read Psalm 105:5 and Psalm 106:6 side by side. Notice what each telling asks the congregation to do."
+        }
+      ]
+    },
+    {
+      "id": "ps-107-112",
+      "title": "The Redeemed Give Thanks: Book V Opens",
+      "chapters": [
+        107,
+        108,
+        109,
+        111,
+        112
+      ],
+      "verse_span": {
+        "from": "107:1",
+        "to": "112:10"
+      },
+      "difficulty_tier": 2,
+      "summary": "Book V opens with Psalm 107 gathering the redeemed from every direction to tell their rescue stories, four vignettes of desert wanderers, prisoners, the sick, and storm-tossed sailors, each resolving into the same refrain of thanks for God's steadfast love. A Davidic pair follows, Psalm 108 stitching earlier songs into a new day's confidence and Psalm 109 handing the Psalter's fiercest case against an accuser wholly over to God. The twin acrostics close the movement: Psalm 111 praising the works of the LORD, Psalm 112 describing the person who fears him, each echoing the other letter by letter.",
+      "key_themes": [
+        "thanksgiving as testimony",
+        "steadfast love",
+        "rescue retold",
+        "the fear of the LORD",
+        "worship shaping character"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-101-106",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Book V's thanksgiving flows from Book IV's re-enthronement of the LORD; the sequence completes the Psalter's arc from lament to praise."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 107:1-2",
+        "Psalm 111:10",
+        "Psalm 112:1"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "celebratory",
+        "reflective"
+      ],
+      "discussion_prompt": "Psalm 107 calls on the redeemed of the LORD to speak up, telling their rescue stories out loud. What rescue, large or small, could you actually tell, and what keeps the redeemed quiet?",
+      "assessment_questions": [
+        "What four situations does Psalm 107 describe, and what refrain do all four end in?",
+        "Psalm 111 praises God's works and Psalm 112 describes the God-fearing person in strikingly similar terms. What is that echo suggesting about what worship does to the worshiper?",
+        "Psalm 109 brings a vicious accuser to God and asks God to act, in prayer rather than retaliation. What would it take for your worst grievance to be prayed that thoroughly, and what might it save you from?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Thanksgiving tells the story",
+          "explanation": "Psalm 107 gathers the redeemed to recount their specific deliverances, so gratitude works by remembering details."
+        },
+        {
+          "concept": "Steadfast love as the refrain",
+          "explanation": "Each of Psalm 107's rescues lands on the same line of thanks, training worshipers to read every deliverance as one covenant love at work."
+        },
+        {
+          "concept": "The accuser handed to God",
+          "explanation": "Psalm 109 models the imprecatory extreme, a savaged man refusing private revenge and pouring the whole case into God's court."
+        },
+        {
+          "concept": "Praise that reshapes",
+          "explanation": "Psalms 111 and 112 mirror each other so closely that the person fearing God begins to look like the God being praised, gracious, compassionate, and generous."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Psalm 107 turns rescue into testimony, and what the mirrored acrostics of Psalms 111 and 112 suggest worship does to character.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 107 retells four rescues and issues one repeated instruction. What are the redeemed told to do?",
+          "options": [
+            "Leave the memory of their troubles safely behind them",
+            "Repay God's kindness through visibly amended lives",
+            "Wait quietly for the next deliverance they need",
+            "Speak their thanks and tell the rescue story"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 107:2 tells the redeemed to speak up, and every stanza repeats the summons to thank the LORD for his love.",
+          "hint": "Read Psalm 107:2 and Psalm 107:8 again. Notice the verb the psalm keeps asking of rescued people."
+        },
+        {
+          "question": "Psalm 112 describes the godly person in phrases Psalm 111 used for God. What is the echo teaching?",
+          "options": [
+            "People come to resemble the God they praise",
+            "Human righteousness earns the rewards God controls",
+            "The righteous deserve a share of God's own honor",
+            "Blessing follows automatically from disciplined fear"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 111:4 and Psalm 112:4 share the language of grace and compassion, first of the LORD, then of the one who fears him.",
+          "hint": "Read Psalm 111:3-4 beside Psalm 112:3-4 again. Notice which descriptions appear in both psalms, and of whom."
+        }
+      ]
+    },
+    {
+      "id": "ps-135-137",
+      "title": "Temple Praise and the Memory of Babylon",
+      "chapters": [
+        135,
+        136,
+        137
+      ],
+      "verse_span": {
+        "from": "135:1",
+        "to": "137:9"
+      },
+      "difficulty_tier": 2,
+      "summary": "Two temple-praise twins and one exile lament, set side by side on purpose. Psalm 135 assembles the servants of the LORD to praise the God who acts freely in heaven and earth and to mock idols that cannot act at all; Psalm 136 walks creation, exodus, and daily bread line by line, answering each with the refrain of his enduring love; Psalm 137 sits down by Babylon's rivers, hangs up the harps, and asks how the LORD's song can be sung in a foreign land. The grouping holds the land's gift and the land's loss inside one act of worship.",
+      "key_themes": [
+        "corporate praise",
+        "steadfast love refrain",
+        "idols versus the living God",
+        "exile grief",
+        "singing in a strange land"
+      ],
+      "prerequisites": [],
+      "connections": [],
+      "key_verses": [
+        "Psalm 135:5",
+        "Psalm 136:1",
+        "Psalm 137:4"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "celebratory",
+        "sorrow"
+      ],
+      "discussion_prompt": "Psalm 136 answers twenty-six different lines of history with the identical refrain about God's enduring love, and Psalm 137 sits beside it refusing to sing at all. What does it mean that the same worshiping community kept both, and which of the two is your prayer life missing?",
+      "assessment_questions": [
+        "What refrain repeats through every verse of Psalm 136, and what kinds of events does the psalm attach it to?",
+        "Psalm 137's singers hang up their harps when captors demand entertainment, yet the poem itself is a song. What is the difference between the singing they refuse and the singing they are doing?",
+        "Psalm 136 trains a congregation to answer creation, exodus, and daily bread with one refrain. What refrain would honestly summarize how you read your own history, and what would it take to make it this one?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Steadfast love as bedrock",
+          "explanation": "Psalm 136 attaches its refrain about God's enduring love to creation and exodus alike, making covenant love the meaning of all history."
+        },
+        {
+          "concept": "Praise with grief in the room",
+          "explanation": "This grouping holds Babylon's tears and temple praise together, teaching worship that tells the truth about pain."
+        },
+        {
+          "concept": "Idols and the living God",
+          "explanation": "Psalm 135 sets handmade gods that cannot speak or see against the LORD who acts in history, and warns that makers grow like what they make."
+        },
+        {
+          "concept": "Grief brought to God whole",
+          "explanation": "Psalm 137 carries loss, love for Zion, and even rage into prayer, entrusting to God's justice what it refuses to take into its own hands."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Psalm 136's refrain trains a congregation to believe, and what Psalm 137 shows about worship in exile.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 136 answers every line, creation to exodus to daily bread, with one refrain. What is the litany training worshipers to do?",
+          "options": [
+            "Memorize the nation's history in its proper order",
+            "Read every event as carried by one enduring love",
+            "Keep congregational responses uniform for the sake of order",
+            "Thank God for good events and endure the rest"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 136:1 sets the refrain that then absorbs creation, exodus, and provision alike, one love underneath everything named.",
+          "hint": "Read Psalm 136:10-15 and 136:23-25 again. Notice which very different events receive the identical answer."
+        },
+        {
+          "question": "Psalm 137 refuses the captors' request for a song, then prays its grief and fury to God. What is it teaching?",
+          "options": [
+            "Worship must pause until conditions for joy return",
+            "Zion's songs lose their meaning outside the promised land",
+            "Anger must be resolved before it can be prayed",
+            "Grief and rage can be handed whole to God"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 137:7 turns memory into petition, asking God himself to remember, so even the fury is carried into prayer.",
+          "hint": "Read Psalm 137:5-7 again. Notice who the psalm starts addressing once the harps stay hung."
+        }
+      ]
+    },
+    {
+      "id": "ps-138-145",
+      "title": "The Last Davidic Collection: Praise Before the Hallel",
+      "chapters": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145
+      ],
+      "verse_span": {
+        "from": "138:1",
+        "to": "145:21"
+      },
+      "difficulty_tier": 2,
+      "summary": "Eight psalms under David's name close the Psalter's body before the Final Hallel: whole-hearted thanks sung in defiance of the gods (138), the wonder of being fully known and knit together (139), a run of urgent laments from ambush, slander, and a spirit near failing (140-143), a king's blessing looking to the next generation (144), and finally Psalm 145, the alphabet of praise whose last line calls every creature to bless God's holy name. The collection runs prayer's whole register one final time, then hands the book to the five hallelujahs.",
+      "key_themes": [
+        "God's knowledge of us",
+        "whole-hearted thanks",
+        "urgent lament",
+        "praise from A to Z",
+        "all flesh blessing God"
+      ],
+      "prerequisites": [],
+      "connections": [],
+      "key_verses": [
+        "Psalm 139:13-14",
+        "Psalm 143:8",
+        "Psalm 145:21"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "reverent"
+      ],
+      "discussion_prompt": "Psalm 139 marvels that God already knows every word before it reaches the tongue, then ends by asking for more searching. What makes being fully known feel like a threat, and what would it take for you to pray that final request and mean it?",
+      "assessment_questions": [
+        "What does Psalm 139 say God knows about the psalmist, and what does the psalmist ask God to do in its closing verses?",
+        "Psalms 140 through 143 pray urgent danger, and Psalm 145 next door praises through the whole alphabet. What does the collection teach by ending David's prayers with praise this complete?",
+        "Psalm 143:8 asks to hear of God's love in the morning and to be shown the day's path. What would building that one verse into your actual mornings look like this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Fully known by God",
+          "explanation": "Psalm 139 marvels that God searches, knows, and forms each person, which makes prayer honest and hiding pointless."
+        },
+        {
+          "concept": "Lament to the last",
+          "explanation": "Psalms 140-143 keep urgent need in David's final collection, so mature prayer never outgrows the cry for rescue."
+        },
+        {
+          "concept": "Praise completed",
+          "explanation": "Psalm 145 walks the alphabet declaring God's greatness, goodness, and nearness, praise organized so nothing is left unsaid."
+        },
+        {
+          "concept": "The handoff to hallelujah",
+          "explanation": "Psalm 145's closing line widens one mouth's praise to every creature, and the Psalter's five final hallelujahs take the cue."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how the last Davidic collection moves between being known, urgent need, and complete praise, and explain what Psalm 145's ending sets up.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 139 spends its length on how completely God knows the psalmist, then ends with a request. What does the ending teach prayer to do?",
+          "options": [
+            "Give God a complete daily report of every thought",
+            "Ask to know God as thoroughly as God knows us",
+            "Welcome the God who knows us to keep searching",
+            "Request relief from the weight of being watched"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 139:23-24 turns total knownness into invitation, asking God to go on searching, testing, and leading.",
+          "hint": "Read Psalm 139:1-4 and then 139:23-24. Notice who does the searching at the start, and who is asked to at the end."
+        },
+        {
+          "question": "Psalm 145 closes David's collection with one mouth's praise and a call to all flesh. What is that ending teaching about praise?",
+          "options": [
+            "One person's praise means to recruit every creature",
+            "Private devotion matters more than public liturgy",
+            "Praise is complete once the alphabet is exhausted",
+            "Only unanimous praise is worthy of God's greatness"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 145:21 moves in one verse from my mouth declaring praise to every creature blessing the holy name forever.",
+          "hint": "Read Psalm 145:21 again. Notice how the verse's subject changes between its first half and its second."
+        }
+      ]
+    },
+    {
+      "id": "ps-110",
+      "title": "Psalm 110: The Priest-King at God's Right Hand",
+      "chapters": [
+        110
+      ],
+      "verse_span": {
+        "from": "110:1",
+        "to": "110:7"
+      },
+      "difficulty_tier": 3,
+      "summary": "'The LORD says to my lord: Sit at my right hand' — David's lord, enthroned beside God, a priest forever in the order of Melchizedek. This is the single most-quoted Old Testament chapter in the New Testament; Jesus himself posed its riddle: how is the Messiah both David's son and David's Lord?",
+      "key_themes": [
+        "messiah",
+        "priest-king",
+        "Melchizedek",
+        "enthronement"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The psalm's royal figure is the covenant son of David — the promise is the riddle's premise.",
+          "scope": "foundation"
+        },
+        {
+          "node": "gen-12-17",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Melchizedek appears only once before this, blessing Abram in Genesis 14; the priest-king allusion depends on that scene."
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-5-7",
+          "reason": "Hebrews builds its entire Melchizedek argument on this psalm."
+        },
+        {
+          "node": "matt-22-25",
+          "reason": "Jesus silences his questioners with this psalm's riddle about David's son and Lord."
+        }
+      ],
+      "key_verses": [
+        "Psalm 110:1",
+        "Psalm 110:4"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "reverent"
+      ],
+      "discussion_prompt": "Jesus asked how the Messiah could be both David's son and David's Lord, and nobody could answer him. Sit with the riddle yourself: what kind of figure would have to exist for Psalm 110 to be true, and what does your answer ask of you?",
+      "assessment_questions": [
+        "What two roles does the figure in Psalm 110 hold, and where is he seated?",
+        "The psalm gives one figure both a throne and a priesthood that lasts forever. Why does it matter that the same person rules and intercedes?",
+        "This psalm pictures the true King already seated at God's right hand while his enemies are still being subdued. How does living under a reigning King change how you handle a world that still looks rebellious?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Seated at God's right hand",
+          "explanation": "The LORD installs David's lord in the place of supreme authority, an enthronement Jesus and the apostles quoted constantly."
+        },
+        {
+          "concept": "A priest forever",
+          "explanation": "The figure holds a priesthood in the order of Melchizedek, older and stranger than the familiar priestly system."
+        },
+        {
+          "concept": "King and priest in one",
+          "explanation": "Psalm 110 fuses rule and mediation into a single person who both governs God's people and intercedes for them."
+        },
+        {
+          "concept": "David's son and David's Lord",
+          "explanation": "David calls this coming king my lord, a riddle that presses the question of who could outrank Israel's greatest king."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the riddle Jesus posed from Psalm 110:1 and describe in your own words what the psalm claims about its priest-king.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 110:1 has David reporting an oracle spoken to someone he calls his lord. Why did that wording become the psalm's great riddle?",
+          "options": [
+            "It seems to set two rival gods side by side",
+            "It has Israel's greatest king deferring to a greater one",
+            "It promises victory while enemies visibly remain active",
+            "It gives a coronation speech with no named king"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 110:1 seats a figure above David at God's own right hand, and David calls him lord, a rank no mere heir could hold.",
+          "hint": "Read Psalm 110:1 again. Notice who is speaking, who is being addressed, and which of them outranks the other."
+        },
+        {
+          "question": "Psalm 110:4 adds an unbreakable oath making the enthroned king a priest forever. What does that give the psalm's worshipers?",
+          "options": [
+            "A warning that royal power always needs religious limits",
+            "A priesthood their own obedience must keep in office",
+            "A king whose reign replaces the need for worship",
+            "A ruler who also carries his people before God"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 110:4 fixes the priesthood by God's own oath, so the one who rules from the throne also stands as mediator forever.",
+          "hint": "Read Psalm 110:1-4 again. Notice the two different offices given to one figure, and what makes the second one permanent."
+        }
+      ]
+    },
+    {
+      "id": "ps-113-118",
+      "title": "The Egyptian Hallel",
+      "chapters": [
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "verse_span": {
+        "from": "113:1",
+        "to": "118:29"
+      },
+      "difficulty_tier": 2,
+      "summary": "The praise cycle sung at Passover — 'When Israel went out of Egypt' (114), 'Not to us, O LORD, but to your name be glory' (115), and the stone the builders rejected becoming the cornerstone (118). By longstanding Passover practice, these were very likely the hymns Jesus sang with his disciples the night before he died.",
+      "key_themes": [
+        "praise",
+        "exodus remembered",
+        "rejected stone",
+        "deliverance"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-12-15",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The Hallel is Passover's liturgy; Psalm 114 retells the sea crossing outright."
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-26-28",
+          "reason": "'When they had sung a hymn' after the Last Supper — the Passover Hallel; and 'the stone the builders rejected' frames the passion week."
+        }
+      ],
+      "key_verses": [
+        "Psalm 115:1",
+        "Psalm 118:1",
+        "Psalm 118:22"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "celebratory",
+        "hopeful"
+      ],
+      "discussion_prompt": "Psalm 115 opens by turning all glory away from us and toward God's name. In a culture built on making a name for yourself, what would it cost you to pray that way and mean it?",
+      "assessment_questions": [
+        "What event does Psalm 114 retell, and how does creation itself respond in the poem?",
+        "Psalm 118 says the stone the builders rejected has become the cornerstone. What is that image claiming about how God's deliverance tends to arrive?",
+        "Psalm 116 asks what the psalmist can give back to the LORD for all his benefits, and answers with worship and public thanks. What would your own answer to that question be this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "High God, low places",
+          "explanation": "Psalm 113 praises a God enthroned above the nations who stoops down to raise the poor from the dust."
+        },
+        {
+          "concept": "Deliverance rehearsed",
+          "explanation": "The Hallel retells the exodus in song so that a whole people keeps the memory of rescue alive at every Passover."
+        },
+        {
+          "concept": "Trust beyond human power",
+          "explanation": "Psalm 118 declares it better to take refuge in the LORD than to trust in princes, anchoring courage in God alone."
+        },
+        {
+          "concept": "The rejected stone",
+          "explanation": "Psalm 118's discarded stone becomes the cornerstone, an image the New Testament applies to Jesus' rejection and vindication."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the Egyptian Hallel is, when it was sung, and what Psalm 118's rejected stone image came to mean.",
+      "comprehension_check": [
+        {
+          "question": "Every Passover, the Hallel has Israel sing the exodus again. What is that yearly repetition teaching worship to do?",
+          "options": [
+            "Keep rehearsing God's rescue until each generation owns it",
+            "Repeat the required songs so the feast stays valid",
+            "Mourn the generation that fell in the wilderness",
+            "Celebrate the courage of the people who escaped"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 114:1 puts the exodus back on the congregation's lips, and Psalm 115:1 sends the glory for it to God's name alone.",
+          "hint": "Read Psalm 114:1-4 and Psalm 115:1 again. Notice which story the feast keeps singing, and whose name gets the credit."
+        },
+        {
+          "question": "The procession in Psalm 118 sings of a rejected stone made the cornerstone. What does that image give worship to declare?",
+          "options": [
+            "Good work is always recognized in the end",
+            "Jerusalem's builders were uniquely corrupt among the nations",
+            "God's verdict overturns the verdicts of the experts",
+            "The temple's cornerstone had a miraculous hidden origin"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 118:23 names the reversal as the LORD's own doing, his choice standing over the builders' rejection.",
+          "hint": "Read Psalm 118:22-23 again. Notice who did the rejecting, and who is named as the one behind the reversal."
+        }
+      ]
+    },
+    {
+      "id": "ps-119",
+      "title": "Psalm 119: The Torah Psalm",
+      "chapters": [
+        119
+      ],
+      "verse_span": {
+        "from": "119:1",
+        "to": "119:176"
+      },
+      "difficulty_tier": 2,
+      "summary": "The Bible's longest chapter: a 176-verse acrostic love poem to God's word, eight lines for every letter of the Hebrew alphabet — 'Your word is a lamp to my feet,' 'I have hidden your word in my heart.' Devotion to Scripture rendered as art.",
+      "key_themes": [
+        "Scripture",
+        "delight in the law",
+        "perseverance",
+        "acrostic artistry"
+      ],
+      "prerequisites": [
+        {
+          "node": "deut-5-11",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "The psalm is the Shema's 'these words on your heart' lived out at full length."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 119:11",
+        "Psalm 119:97",
+        "Psalm 119:105"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reflective",
+        "resolve"
+      ],
+      "discussion_prompt": "The writer of Psalm 119 spent 176 verses telling God how much he loves his word, crafting eight lines for every Hebrew letter. What would it take for Scripture to become something you delight in rather than something you feel guilty about skipping, and where would you start?",
+      "assessment_questions": [
+        "What is unusual about Psalm 119's structure, and what single subject does nearly every verse touch?",
+        "The psalmist says it was good for him to be afflicted because affliction taught him God's statutes. What is he claiming about the relationship between hardship and God's word?",
+        "Psalm 119:11 speaks of hiding God's word in the heart as a defense against sin. What one verse would you actually memorize this week, and for what fight?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Scripture as God's self-revelation",
+          "explanation": "The psalm treats God's word as trustworthy light for every step, a lamp for the feet and a light on the path."
+        },
+        {
+          "concept": "Delight, deeper than duty",
+          "explanation": "The psalmist loves, sings, and treasures the word, showing that Scripture is meant to shape desire and joy."
+        },
+        {
+          "concept": "The word sustains under trial",
+          "explanation": "Affliction drives the psalmist deeper into God's promises, where he finds comfort and the strength to persevere."
+        },
+        {
+          "concept": "Meditation as a way of life",
+          "explanation": "The psalm models slow, repeated reflection on Scripture as the path to wisdom, peace, and moral clarity."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe Psalm 119's acrostic design and explain, using two of its verses, what the psalmist believes God's word does for a person.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 119 spends 176 verses praying about God's word. What does the psalm expect the word to do in a life?",
+          "options": [
+            "Supply winning arguments for defeating opponents",
+            "Reward diligent study with prosperity and ease",
+            "Ward off harm whenever its lines are recited",
+            "Retrain the heart's desires and guide its steps"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 119:11 stores the word in the heart to keep from sin, and Psalm 119:105 has it lighting the path one step at a time.",
+          "hint": "Read Psalm 119:9-11 and Psalm 119:105 again. Notice where the word is kept, and what it is kept there for."
+        },
+        {
+          "question": "Psalm 119 keeps mentioning affliction inside its love poem to the word. What does it teach prayer to do under trial?",
+          "options": [
+            "Set Scripture aside until conditions allow study again",
+            "Press deeper into the promises while the trial lasts",
+            "Treat the pain as noise a mature believer ignores",
+            "Suspend obedience until God grants some visible relief"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 119:71 can call the affliction good because it taught the psalmist God's statutes, trouble driving him further into the word.",
+          "hint": "Read Psalm 119:67-71 again. Notice what the psalmist says the hard season actually did for him."
+        }
+      ]
+    },
+    {
+      "id": "ps-120-134",
+      "title": "The Psalms of Ascent",
+      "chapters": [
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "verse_span": {
+        "from": "120:1",
+        "to": "134:3"
+      },
+      "difficulty_tier": 2,
+      "summary": "Fifteen short pilgrim songs sung on the climb up to Jerusalem's feasts: 'I lift my eyes to the hills' (121), 'I was glad when they said, let us go to the house of the LORD' (122), 'out of the depths I cry' (130). A pocket-sized psalter of trust for people on the road.",
+      "key_themes": [
+        "pilgrimage",
+        "trust",
+        "Zion",
+        "community"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-1-6",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The songs climb toward Zion — the city and sanctuary David established."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Psalm 121:1-2",
+        "Psalm 122:1",
+        "Psalm 130:3-4"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "light",
+      "emotional_tone": [
+        "comfort",
+        "hopeful"
+      ],
+      "discussion_prompt": "These fifteen songs were prayed on the road, in transit between home and the house of God. What journey or transition are you in right now, and which line from these psalms would you want in your pocket for it?",
+      "assessment_questions": [
+        "What shared title do Psalms 120 through 134 carry, and what destination do they climb toward?",
+        "Psalm 121 promises the LORD will keep the traveler, yet pilgrims still faced heat, danger, and hard roads. What kind of keeping is the psalm actually promising?",
+        "Psalm 131 describes a soul calmed and quieted like a weaned child with its mother. What would you have to stop striving for to reach that kind of calm, and what is one step toward it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Faith as pilgrimage",
+          "explanation": "These songs treat life with God as a journey toward his presence, prayed while still in motion."
+        },
+        {
+          "concept": "The Keeper who never sleeps",
+          "explanation": "Psalm 121 anchors the traveler's safety in God's unsleeping watch over every going out and coming in."
+        },
+        {
+          "concept": "Out of the depths",
+          "explanation": "Psalm 130 shows the pilgrim crying from the bottom, trusting that forgiveness is with the LORD and waiting for him like a watchman for morning."
+        },
+        {
+          "concept": "Joy in going up together",
+          "explanation": "Psalm 122's gladness at going to the house of the LORD makes worship communal, tying personal faith to the peace of the whole city."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the Psalms of Ascent were for, and walk through one of them showing how it turns a traveler's fear into trust.",
+      "comprehension_check": [
+        {
+          "question": "Psalm 121 answers its question about help by calling the LORD the pilgrim's keeper. What is the song teaching travelers to do?",
+          "options": [
+            "Post their own watches so danger never finds them sleeping",
+            "Earn safe passage by completing the pilgrimage without complaint",
+            "Rest their safety on a watch that never sleeps",
+            "Read the hills themselves as shelter sent for them"
+          ],
+          "answer_index": 2,
+          "why": "Psalm 121:3-4 gives the road to a keeper who never slumbers, and Psalm 121:8 stretches that watch over every departure and return.",
+          "hint": "Read Psalm 121:3-8 again. Notice what the keeper is doing while the traveler sleeps, and how long the keeping lasts."
+        },
+        {
+          "question": "Psalm 130:4 says God's forgiveness leads to the fear of him. What is the psalm teaching about prayer from the depths?",
+          "options": [
+            "Mercy is what makes approaching God possible at all",
+            "Guilt must be fully paid down before prayer resumes",
+            "Reverence requires keeping a safe distance until clean",
+            "Waiting wears down a reluctance in God to answer"
+          ],
+          "answer_index": 0,
+          "why": "Psalm 130:4 locates forgiveness with the LORD himself, which is why the voice from the depths dares to keep speaking.",
+          "hint": "Read Psalm 130:1-6 again. Notice what the psalm says is with the LORD, and what kind of waiting that produces."
+        }
+      ]
+    },
+    {
+      "id": "ps-146-150",
+      "title": "The Final Hallel: Let Everything Praise",
+      "chapters": [
+        146,
+        147,
+        148,
+        149,
+        150
+      ],
+      "verse_span": {
+        "from": "146:1",
+        "to": "150:6"
+      },
+      "difficulty_tier": 1,
+      "summary": "Five closing psalms that each begin and end with 'Hallelujah,' widening the choir from Israel to kings to sea creatures to 'everything that has breath.' The Psalter began with two ways and ends with one sound: praise.",
+      "key_themes": [
+        "praise",
+        "doxology",
+        "all creation",
+        "consummation"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-138-145",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The final Hallel is Book V's — and the whole Psalter's — engineered crescendo."
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-4-5",
+          "reason": "Revelation's throne-room choruses are the final Hallel's vision realized: every creature praising."
+        }
+      ],
+      "key_verses": [
+        "Psalm 146:3",
+        "Psalm 147:3",
+        "Psalm 150:6"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "light",
+      "emotional_tone": [
+        "celebratory",
+        "joy"
+      ],
+      "discussion_prompt": "Psalm 146 warns against trusting princes whose plans die with them, then the collection ends by calling everything that has breath to praise the LORD. What are you currently trusting that has an expiration date, and what would moving that trust toward praise look like?",
+      "assessment_questions": [
+        "What word opens and closes each of Psalms 146 through 150, and who or what is summoned to praise by the end?",
+        "Psalm 146 warns against trusting princes and then lists what God does: justice for the oppressed, food for the hungry, sight for the blind. What do those actions reveal about why God alone deserves this praise?",
+        "Psalm 150 ends the whole Psalter by calling everything that has breath to praise the LORD. After all the laments and crises the book has walked through, what does it mean that praise gets the last word, and what would it take for praise to get the last word in your story?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Praise fits who God is",
+          "explanation": "These psalms ground worship in God's character and deeds, so praise is the truthful response to reality."
+        },
+        {
+          "concept": "Trust God over princes",
+          "explanation": "Psalm 146 contrasts mortal rulers whose plans perish with the God who keeps faith forever and defends the weak."
+        },
+        {
+          "concept": "The defender of the weak",
+          "explanation": "The God praised here feeds the hungry, frees prisoners, and upholds the fatherless and the widow, so worship and justice belong together."
+        },
+        {
+          "concept": "A cosmic choir",
+          "explanation": "Psalm 148 summons sun, sea creatures, kings, and children alike, and Psalm 150 crowns the Psalter with every breathing thing praising the LORD."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how the final Hallel closes the Psalter's journey from lament to praise, and name what Psalm 146 says about where to put your trust.",
+      "comprehension_check": [
+        {
+          "question": "The Psalter's last psalms warn against trusting princes even while calling everything to praise. What is that pairing teaching worship?",
+          "options": [
+            "Songs about God should stay clear of political matters",
+            "Praise relocates hope from mortal power to God's faithfulness",
+            "Rulers deserve praise only when their plans succeed",
+            "Worship should petition whichever prince God has installed"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 146:3-4 measures every prince by his last breath, and the psalm goes on praising the God whose help outlasts him.",
+          "hint": "Read Psalm 146:3-9 again. Notice what happens to a prince's plans, and what the psalm lists God still doing."
+        },
+        {
+          "question": "Psalms 148 to 150 widen the choir from Israel to kings to sea creatures to every breath. What is the crescendo teaching?",
+          "options": [
+            "Praise belongs to worshipers whose laments were answered",
+            "Praise is Israel's assignment while the nations observe",
+            "Praise depends on using the instruments the psalm lists",
+            "Praise is what every creature's breath is for"
+          ],
+          "answer_index": 3,
+          "why": "Psalm 150:6 ends the Psalter by summoning everything that breathes, all creation gathered into one closing word of praise.",
+          "hint": "Read Psalm 148:11-12 and Psalm 150:6 again. Notice who keeps getting added to the singers before the book ends."
+        }
+      ]
+    }
+  ]
+}

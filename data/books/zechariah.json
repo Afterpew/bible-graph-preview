@@ -1,0 +1,233 @@
+{
+  "book": "Zechariah",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "zech-1-8",
+      "title": "The Night Visions",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "8:23"
+      },
+      "difficulty_tier": 4,
+      "summary": "Eight surreal visions in one night for the rebuilding community: a horseman among myrtles, the high priest Joshua in filthy clothes acquitted before the accuser, a lampstand fed by living olive trees — 'not by might, nor by power, but by my Spirit.' A crown is set on a priest's head, fusing the two offices in a figure called the Branch.",
+      "key_themes": [
+        "visions",
+        "priest-king Branch",
+        "Spirit not might",
+        "Jerusalem restored"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezra-1-6",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The visions encourage the same temple-rebuilding generation Ezra describes; Zechariah is named there alongside Haggai.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-6-11",
+          "reason": "Revelation's colored horsemen and two olive-tree witnesses come from these visions."
+        }
+      ],
+      "key_verses": [
+        "Zechariah 3:4",
+        "Zechariah 4:6",
+        "Zechariah 8:3"
+      ],
+      "reading_time_minutes": 55,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "hopeful"
+      ],
+      "discussion_prompt": "The night visions keep answering discouragement: an accused priest is given clean clothes, and a governor is told the work will finish by God's Spirit rather than by might or power. What discouragement in your own work would these visions speak to, and what would relying on the Spirit change about how you carry it?",
+      "assessment_questions": [
+        "What happens to Joshua the high priest in the vision of chapter 3, and what does the lampstand vision of chapter 4 promise Zerubbabel?",
+        "The visions were given to a small community rebuilding on ruins. Why does God answer their discouragement with pictures of cleansing, the Spirit, and a coming Branch?",
+        "God says the work will be done by his Spirit rather than by might or power. Which task in your life are you attempting entirely on your own strength, and what would depending on God's Spirit look like there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God returns to his people",
+          "explanation": "The visions promise God dwelling in Jerusalem again, so restoration means his presence even more than rebuilt walls."
+        },
+        {
+          "concept": "Cleansing comes from God",
+          "explanation": "Joshua's filthy clothes are removed at God's command, showing that acquittal is God's gift rather than the accused's achievement."
+        },
+        {
+          "concept": "By my Spirit",
+          "explanation": "The rebuilding succeeds through God's Spirit rather than human strength, a word for every overwhelmed servant."
+        },
+        {
+          "concept": "The Branch to come",
+          "explanation": "A crowned priest called the Branch fuses king and priest in one figure, a promise pointing beyond Zerubbabel's day."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe two of the night visions and explain the message they carried for the temple-rebuilding generation.",
+      "comprehension_check": [
+        {
+          "question": "The word to Zerubbabel in Zechariah 4:6-10 lands in a community embarrassed by its small work. What does it promise?",
+          "options": [
+            "God's Spirit rather than human strength will finish the house",
+            "The rebuilt temple will outshine Solomon's once nations contribute",
+            "The work will pause until a worthier generation resumes it",
+            "The builders' own strength will grow to match the task"
+          ],
+          "answer_index": 0,
+          "why": "Zechariah 4:6-9 puts the finishing of the house in the Spirit's power, and Zechariah 4:10 blesses the day of small things.",
+          "hint": "Read Zechariah 4:6-10 again. Notice what the great mountain becomes, and whose hands are said to complete the work."
+        },
+        {
+          "question": "Zechariah 3 puts the high priest, in filthy clothes, before the accuser. What does the scene teach about how his service can resume?",
+          "options": [
+            "Joshua's humble silence in court disarms the accuser's charge",
+            "The sacrifices Joshua will offer once vested cleanse him",
+            "The people's repentance restores the priest who represents them",
+            "God's command removes the guilt and supplies clean robes"
+          ],
+          "answer_index": 3,
+          "why": "Zechariah 3:4-5 has the angel of the LORD order the filthy clothes removed and iniquity taken away by his own word.",
+          "hint": "Read Zechariah 3:1-5 again. Notice who speaks, who acts, and what Joshua himself contributes to the change."
+        }
+      ]
+    },
+    {
+      "id": "zech-9-14",
+      "title": "The King on a Donkey and the Pierced One",
+      "chapters": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_span": {
+        "from": "9:1",
+        "to": "14:21"
+      },
+      "difficulty_tier": 5,
+      "summary": "The oracles the passion narratives quote again and again: a king coming humble and riding on a donkey, a shepherd valued at thirty pieces of silver thrown to the potter, and the staggering 'they will look on me, on him whom they have pierced, and mourn.' A fountain opened for sin, the shepherd struck and the sheep scattered, and finally the LORD king over all the earth.",
+      "key_themes": [
+        "humble king",
+        "thirty pieces of silver",
+        "pierced shepherd",
+        "the LORD reigns over all"
+      ],
+      "prerequisites": [
+        {
+          "node": "zech-1-8",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Zechariah 9–14 builds on the Branch/priest‑king and shepherd imagery established in Zechariah 1–8 and does not reintroduce that visionary program, so skipping 1–8 leads to misplacing key references.",
+          "scope": "sequence"
+        },
+        {
+          "node": "2sam-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Zechariah 9–14 presumes the Davidic covenantal matrix of 2 Samuel 7 (an expected eternal/royal promise) for its king‑language and does not restate that foundational promise.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-19-21",
+          "reason": "Palm Sunday narrates Zechariah 9:9 verbatim — the king on a donkey's colt."
+        },
+        {
+          "node": "matt-26-28",
+          "reason": "Thirty silver pieces, the potter's field, the shepherd struck — Matthew's passion quotes this oracle repeatedly."
+        },
+        {
+          "node": "john-18-21",
+          "reason": "John cites 'they will look on him whom they have pierced' at the spear-thrust on the cross."
+        },
+        {
+          "node": "rev-1-3",
+          "reason": "Revelation 1:7 fuses Daniel's clouds with Zechariah's pierced one: 'every eye will see him, even those who pierced him.'"
+        }
+      ],
+      "key_verses": [
+        "Zechariah 9:9",
+        "Zechariah 12:10",
+        "Zechariah 14:9"
+      ],
+      "reading_time_minutes": 55,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "sorrow"
+      ],
+      "discussion_prompt": "These oracles give Israel a king who arrives humble on a donkey and a shepherd whose piercing the people will one day mourn. Why would God choose humility and wounds as the way his king wins, and what does that choice ask of anyone who wants to follow him?",
+      "assessment_questions": [
+        "How does the king of Zechariah 9:9 arrive, and what price is the shepherd valued at in chapter 11?",
+        "In chapter 12 the people look on the one they pierced and mourn as for an only child, and in chapter 13 a fountain is opened for sin. What do these scenes together claim about how cleansing comes to God's people?",
+        "The oracles end with the LORD as king over all the earth. How does living under a humble, pierced king change what you expect power and victory to look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The humble king",
+          "explanation": "The promised ruler arrives righteous and lowly on a donkey, so God's kingship overturns every expectation of conquest."
+        },
+        {
+          "concept": "The rejected shepherd",
+          "explanation": "A shepherd valued at thirty pieces of silver shows God's chosen one suffering betrayal at his own people's hands."
+        },
+        {
+          "concept": "Mourning and cleansing",
+          "explanation": "Looking on the pierced one leads to grief, and grief leads to a fountain opened for sin, tying repentance to God's own provision."
+        },
+        {
+          "concept": "The LORD reigns over all",
+          "explanation": "The oracles resolve with God as king over the whole earth, holding the suffering scenes inside a certain victory."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the picture of the coming king and the pierced shepherd in these oracles, and how the section moves from betrayal to a fountain for sin to the LORD reigning over all the earth.",
+      "comprehension_check": [
+        {
+          "question": "Zechariah 9:9-10 announces a victorious king who arrives on a donkey and removes the war bow. What claim about his kingship is being made?",
+          "options": [
+            "His humility is a disguise to be shed once enthroned",
+            "His poverty shows the kingdom will renounce ruling altogether",
+            "His victory comes in lowliness and issues in peace",
+            "His gentleness is for Israel and his sword for the nations"
+          ],
+          "answer_index": 2,
+          "why": "Zechariah 9:10 has the king cut off chariot and bow and speak peace to the nations, ruling from sea to sea.",
+          "hint": "Read Zechariah 9:9-10 again. Notice what is removed when this king arrives, and how far his rule still runs."
+        },
+        {
+          "question": "Zechariah 12:10 has God pour out a spirit of grace before anyone looks on the pierced one and mourns. What does that order say about the mourning?",
+          "options": [
+            "The mourning is what earns the cleansing fountain that follows",
+            "The grief itself is a gift awakened by poured-out grace",
+            "The sorrow is despair at a judgment already sealed",
+            "The weeping is a required public rite before restoration"
+          ],
+          "answer_index": 1,
+          "why": "Zechariah 12:10 pours out grace and supplication first, and Zechariah 13:1 answers the mourning with a fountain opened for sin.",
+          "hint": "Read Zechariah 12:10 and Zechariah 13:1 again. Notice what God gives before the grief, and what the fountain is for."
+        }
+      ]
+    }
+  ]
+}

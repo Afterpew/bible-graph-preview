@@ -1,0 +1,874 @@
+{
+  "book": "Revelation",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Apocalyptic",
+  "nodes": [
+    {
+      "id": "rev-1-3",
+      "title": "The Son of Man Among the Lampstands",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:22"
+      },
+      "difficulty_tier": 4,
+      "summary": "Exiled on Patmos, John turns and sees one 'like a son of man' — eyes of fire, voice like many waters — walking among seven lampstands, holding seven stars, dictating seven letters to real churches: to the loveless, the persecuted, the compromised, the dead-but-reputed-alive, and the lukewarm. 'Behold, I stand at the door and knock.' Every promise is 'to the one who conquers.'",
+      "key_themes": [
+        "vision of Christ",
+        "seven churches",
+        "endurance",
+        "conquering"
+      ],
+      "prerequisites": [
+        {
+          "node": "dan-7",
+          "strength": "hard",
+          "type": "quotation",
+          "reason": "John's \"one like a son of man\" in Revelation presumes the Daniel 7 fusion of Son of Man and Ancient of Days—its courtroom/throne-of-judgment horizon is supplied by Daniel and not fully restated in Revelation.",
+          "scope": "foundation"
+        },
+        {
+          "node": "zech-9-14",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "The theme verse — 'every eye will see him, even those who pierced him' — splices Daniel's clouds with Zechariah 12."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Revelation 1:17-18",
+        "Revelation 2:10",
+        "Revelation 3:19"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "confrontational"
+      ],
+      "discussion_prompt": "Every one of the seven letters begins with the risen Christ saying 'I know.' What difference does it make that Christ sees each church exactly as it is, and if he wrote a letter to your community, what do you think he would praise and what would he ask you to change?",
+      "assessment_questions": [
+        "Where is John when he receives this vision, and what does he see when he turns toward the voice?",
+        "Each letter ends with a promise 'to the one who conquers.' Judging from what the letters praise and rebuke, what does conquering actually mean for these churches?",
+        "Christ tells the church in Smyrna to be faithful even to the point of death. What would faithfulness under real pressure look like in your life this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The risen Christ stands among his churches",
+          "explanation": "John's opening vision shows Jesus alive, glorious, and present with his people, holding the churches in his hand."
+        },
+        {
+          "concept": "Christ knows each church completely",
+          "explanation": "He sees the true condition behind every reputation and speaks both encouragement and rebuke according to what he finds."
+        },
+        {
+          "concept": "The call to conquer",
+          "explanation": "Every letter summons believers to repentance and endurance, and attaches a real promise to those who hold fast."
+        },
+        {
+          "concept": "The vision grows from the Old Testament",
+          "explanation": "The 'Son of Man' imagery comes from Daniel 7, so Revelation opens by tying its message to prophecy already given."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe John's vision of the risen Christ, and explain what the seven letters call a church to do once Christ has said 'I know your works.'",
+      "comprehension_check": [
+        {
+          "question": "Revelation opens with the glorified Christ walking among seven lampstands and holding seven stars. What does this opening give the pressured churches?",
+          "options": [
+            "A schedule of the tribulations they are about to enter",
+            "A model of the worship heaven expects them to copy",
+            "The identity of the angels assigned to guard each city",
+            "The assurance that their risen Lord stands present among them"
+          ],
+          "answer_index": 3,
+          "why": "Revelation 1:17-18 gives the vision's point: the one standing among the lampstands died, lives forever, and tells John not to fear.",
+          "hint": "Read Revelation 1:12-18 again. Notice where Christ is standing, and what he says to John's fear."
+        },
+        {
+          "question": "In Revelation 2-3 a church with a name for life is called dead, while a poor, persecuted one is called rich. What do these reversals teach?",
+          "options": [
+            "Christ counts suffering as the truest measure of a church",
+            "Christ sees each church's true condition behind its reputation",
+            "Churches decline the moment they gain public approval",
+            "Only a church without fault can claim the conqueror's promise"
+          ],
+          "answer_index": 1,
+          "why": "Revelation 2:9 and 3:1 both open the verdict with what Christ knows, and his knowledge overturns what everyone else could see.",
+          "hint": "Read Revelation 2:9 and 3:1 again. Notice what Christ says he knows before any verdict is passed."
+        }
+      ]
+    },
+    {
+      "id": "rev-4-5",
+      "title": "The Throne and the Lamb",
+      "chapters": [
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "4:1",
+        "to": "5:14"
+      },
+      "difficulty_tier": 4,
+      "summary": "A door opens in heaven: the throne, the emerald rainbow, four living creatures crying 'Holy, holy, holy,' twenty-four elders casting crowns. Then the scroll no one can open — until the Lion of Judah appears as 'a Lamb standing, as though it had been slain.' The Bible's boldest image: history's victor conquers by being killed. Heaven's liturgy erupts: 'Worthy is the Lamb.'",
+      "key_themes": [
+        "throne of God",
+        "the slain Lamb",
+        "worship",
+        "worthy to open the scroll"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-1-3",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The throne room — living creatures, crystal sea, rainbow glory — is Ezekiel's chariot vision reprised.",
+          "scope": "foundation"
+        },
+        {
+          "node": "isa-6",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "The creatures' unceasing 'Holy, holy, holy' comes from Isaiah's seraphim."
+        },
+        {
+          "node": "exod-12-15",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "The slain Lamb who purchases a people 'by his blood' is the Passover lamb enthroned."
+        }
+      ],
+      "connections": [
+        {
+          "node": "gen-46-50",
+          "reason": "'The Lion of the tribe of Judah' comes from Jacob's deathbed blessing of Judah in Genesis 49."
+        }
+      ],
+      "key_verses": [
+        "Revelation 4:11",
+        "Revelation 5:6",
+        "Revelation 5:9-10"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "celebratory"
+      ],
+      "discussion_prompt": "John hears an elder announce a Lion, then turns and sees a slain Lamb. Why does heaven treat sacrificial death as the victory worth singing about, and what would it mean for you to trust that kind of power more than the kinds the world admires?",
+      "assessment_questions": [
+        "What makes John weep in chapter 5, and who is found worthy to resolve it?",
+        "The Lion of Judah appears as a Lamb standing as though it had been slain. What does that image teach about how God wins his victory?",
+        "Heaven's worship centers on the Lamb who was slain. What do you actually rest your security on, and what would change if you rested it there instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "One throne at the center",
+          "explanation": "Everything in the vision arranges itself around God enthroned in holiness, so all of reality answers to him."
+        },
+        {
+          "concept": "The slain Lamb reigns",
+          "explanation": "Jesus is crucified and ruling at the same time, and that combination is exactly what makes him worthy."
+        },
+        {
+          "concept": "The scroll belongs to the Lamb",
+          "explanation": "Only the Lamb can open the sealed scroll, which means history's unfolding rests in the hands of the Redeemer."
+        },
+        {
+          "concept": "Worship reveals what is real",
+          "explanation": "Heaven's unceasing praise shows that creatures find their identity and hope in honoring God rather than in grasping power."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain in your own words why the slain Lamb is the only one worthy to open the scroll, and what that says about how God rules history.",
+      "comprehension_check": [
+        {
+          "question": "John hears that the Lion of Judah has conquered, then sees a Lamb appearing slain in Revelation 5:5-6. What does the vision claim by joining these?",
+          "options": [
+            "Christ set aside his power until the final battle arrives",
+            "Christ appears fierce to enemies and gentle to his own",
+            "Christ's victory was won precisely through his sacrificial death",
+            "Heaven prizes meekness above every show of strength"
+          ],
+          "answer_index": 2,
+          "why": "Revelation 5:9 gives the ground of the Lamb's worthiness, that he was slain and by his blood purchased a people for God.",
+          "hint": "Read Revelation 5:5-6 and 5:9-10 again. Notice the reason heaven's new song gives for the Lamb's worthiness."
+        },
+        {
+          "question": "Before any seal breaks or judgment falls, Revelation 4 fixes John's eyes on an occupied throne. Why do the visions start there?",
+          "options": [
+            "Because John must learn heaven's liturgy before he can prophesy",
+            "Because every scene that follows unfolds under that throne's rule",
+            "Because the churches needed proof that heaven is a real place"
+          ],
+          "answer_index": 1,
+          "why": "Revelation 4:2 opens the visions with a throne already occupied, and Revelation 4:11 names its occupant worthy as the Creator of all things.",
+          "hint": "Read Revelation 4:1-2 again. Notice the first thing John sees once the door opens, before anything else happens."
+        }
+      ]
+    },
+    {
+      "id": "rev-6-11",
+      "title": "Seals, Trumpets, and the Two Witnesses",
+      "chapters": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_span": {
+        "from": "6:1",
+        "to": "11:19"
+      },
+      "difficulty_tier": 5,
+      "summary": "The Lamb opens the seals — four horsemen, martyrs under the altar crying 'how long?', a cosmic earthquake — paused for the sealing of 144,000 and a countless multitude 'from every nation, tribe, people, and language.' Seven trumpets follow with plagues patterned on Egypt's, a little scroll sweet then bitter, and two olive-tree witnesses killed and raised. The seventh trumpet: 'the kingdom of the world has become the kingdom of our Lord and of his Christ.'",
+      "key_themes": [
+        "judgment unsealed",
+        "martyrs vindicated",
+        "every nation gathered",
+        "kingdom announced"
+      ],
+      "prerequisites": [
+        {
+          "node": "rev-4-5",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The seals belong to the scroll only the Lamb was worthy to open — the throne scene is the engine of everything after.",
+          "scope": "sequence"
+        },
+        {
+          "node": "zech-1-8",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The colored horsemen and the two olive trees are Zechariah's night visions redeployed."
+        },
+        {
+          "node": "exod-5-11",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The trumpet plagues — water to blood, darkness, locusts — replay the plagues of Egypt at cosmic scale."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Revelation 6:9-10",
+        "Revelation 7:9-10",
+        "Revelation 11:15"
+      ],
+      "reading_time_minutes": 55,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "hopeful"
+      ],
+      "discussion_prompt": "The martyrs under the altar cry 'How long?' and heaven answers with judgment on evil and a sealed, singing multitude no one can count. What do these chapters say God is doing about evil in the meantime, and how does that change the way you wait for justice?",
+      "assessment_questions": [
+        "What two groups does John see in chapter 7, and what has God done for each of them?",
+        "The trumpet plagues deliberately echo the plagues of Egypt. What do these judgments reveal about how God responds to entrenched evil, and what response do they invite from the world?",
+        "The martyrs are told to rest a little longer. When God's justice feels slow in your own life, what would waiting the way the sealed multitude waits look like in practice?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Lamb governs the judgments",
+          "explanation": "Every seal opens at the Lamb's hand, so even history's most frightening turmoil stays under Christ's authority."
+        },
+        {
+          "concept": "God seals his people",
+          "explanation": "Believers are known, marked, and gathered by God in the middle of tribulation, which is his sign of care before it is over."
+        },
+        {
+          "concept": "Judgment warns before it ends",
+          "explanation": "The trumpet plagues show that sin brings real ruin, and their limits show God still calling the world to repent."
+        },
+        {
+          "concept": "Apparent defeat is temporary",
+          "explanation": "The two witnesses are killed and then raised, and the seventh trumpet announces that the kingdom already belongs to the Lord and his Christ."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell what the seventh trumpet announces, and explain how these chapters hold God's judgment on evil and God's protection of his people together.",
+      "comprehension_check": [
+        {
+          "question": "Between the sixth seal and the seventh, the terror pauses for the sealing of God's servants in Revelation 7. What does that pause say to believers?",
+          "options": [
+            "Their sealing exempts them from every form of suffering",
+            "They pass through the judgment known, marked, and kept",
+            "The redeemed will be few and drawn mostly from Israel",
+            "The pause shows heaven hesitating over so severe a judgment"
+          ],
+          "answer_index": 1,
+          "why": "Revelation 7:3 halts the winds until God's servants are marked, and Revelation 7:14 pictures the multitude arriving out of the great tribulation itself.",
+          "hint": "Read Revelation 7:2-3 and 7:13-14 again. Notice where the white-robed multitude is said to have come from."
+        },
+        {
+          "question": "Under the altar, the martyrs cry out asking how long until justice comes, in Revelation 6:9-11. How does heaven treat that cry?",
+          "options": [
+            "As a right prayer, answered with rest and an appointed wait",
+            "As a lapse of love that heaven gently corrects",
+            "As a request already met in the fall of their persecutors",
+            "As proof they have not yet reached full peace in heaven"
+          ],
+          "answer_index": 0,
+          "why": "Revelation 6:11 answers with white robes and an appointed span until the number is complete, so the plea for justice is fully heard.",
+          "hint": "Read Revelation 6:9-11 again. Notice what the martyrs are given, and what they are told about timing."
+        }
+      ]
+    },
+    {
+      "id": "rev-12-14",
+      "title": "The Woman, the Dragon, and the Beasts",
+      "chapters": [
+        12,
+        13,
+        14
+      ],
+      "verse_span": {
+        "from": "12:1",
+        "to": "14:20"
+      },
+      "difficulty_tier": 5,
+      "summary": "The war behind the wars: a woman clothed with the sun bears a son; the great dragon — 'that ancient serpent' — fails to devour him and turns on her children, conjuring a beast from the sea (Daniel's four merged into one) and a false-prophet beast from the land, with a mark and a number: 666. Against them: the Lamb on Zion with his 144,000, an eternal gospel, and a harvest of the earth. 'They conquered him by the blood of the Lamb.'",
+      "key_themes": [
+        "cosmic war",
+        "the dragon",
+        "beast and mark",
+        "conquering by the Lamb's blood"
+      ],
+      "prerequisites": [
+        {
+          "node": "rev-6-11",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Chapter 12 opens the book's second movement, unveiling the powers behind the judgments already narrated.",
+          "scope": "sequence"
+        },
+        {
+          "node": "dan-7",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The sea beast — leopard, bear, lion, ten horns — is Daniel 7's four beasts fused; the image is unreadable without them.",
+          "scope": "foundation"
+        },
+        {
+          "node": "gen-1-3",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "'That ancient serpent' and the war on the woman's seed complete the enmity declared in Genesis 3:15.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "2thess",
+          "reason": "The beast demanding worship and the man of lawlessness are the NT's twin sketches of final anti-God power."
+        }
+      ],
+      "key_verses": [
+        "Revelation 12:11",
+        "Revelation 14:7",
+        "Revelation 14:12"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "These chapters pull back the curtain on a war behind the world's wars, and the saints win it by the blood of the Lamb, the word of their testimony, and patient endurance. Where do you feel pressure to hand your deepest loyalty to something other than God, and what would conquering look like there?",
+      "assessment_questions": [
+        "When the dragon fails to devour the woman's child, who does he turn on next, and what two allies rise to serve him?",
+        "Revelation 12:11 says the saints conquered the dragon by the blood of the Lamb and the word of their testimony. What kind of victory is that, and why does the passage still call it conquering?",
+        "The beast pressures everyone to conform through fear and economic exclusion. Where does your world press you to compromise your allegiance to Christ, and what would endurance cost you there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The war behind the wars",
+          "explanation": "Satan and the powers aligned with him really do oppose God's people, and Christ's victory has already decided how the war ends."
+        },
+        {
+          "concept": "Worship is the battleground",
+          "explanation": "The beasts demand allegiance, so the deepest question these chapters press is who receives your worship."
+        },
+        {
+          "concept": "Conquering by the Lamb's blood",
+          "explanation": "The faithful overcome through Christ's death, honest testimony, and endurance under pressure, and suffering itself can become part of the victory."
+        },
+        {
+          "concept": "Symbols carry the message",
+          "explanation": "The woman, the beasts, and the number point to spiritual realities beneath political power, and obsessing over decoding every detail misses their call to faithfulness."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Revelation 12:11 means by conquering the dragon, and describe how these chapters teach believers to respond to powers that demand their worship.",
+      "comprehension_check": [
+        {
+          "question": "Revelation 12:11 says the believers conquered the dragon. In the vision, what does their conquering actually look like?",
+          "options": [
+            "Outlasting the dragon's fury until it burned itself out",
+            "Being shielded by the angels who threw the dragon down",
+            "Answering the accuser's charges by proving their own innocence",
+            "Testifying to the Lamb's blood without clinging to their lives"
+          ],
+          "answer_index": 3,
+          "why": "Revelation 12:11 credits the victory to the Lamb's blood and the believers' testimony, held even when holding it cost their lives.",
+          "hint": "Read Revelation 12:10-11 again. Notice what the loud voice says the believers used, and what they did not cling to."
+        },
+        {
+          "question": "Revelation 13 marks the beast's followers, and Revelation 14:1 shows the Lamb's people bearing his name. What does this pairing claim?",
+          "options": [
+            "God adopts the enemy's own methods to guard his people",
+            "History is splitting into two equally matched rival powers",
+            "Everyone ends up bearing the mark of what they worship",
+            "Hidden faith in the heart outweighs visible public allegiance"
+          ],
+          "answer_index": 2,
+          "why": "Revelation 13:16 and 14:1 set the two markings side by side, and Revelation 14:7 summons every nation to the worship that divides them.",
+          "hint": "Read Revelation 13:16 and 14:1 again. Notice what both groups of people carry, and where they carry it."
+        }
+      ]
+    },
+    {
+      "id": "rev-15-16",
+      "title": "The Seven Bowls",
+      "chapters": [
+        15,
+        16
+      ],
+      "verse_span": {
+        "from": "15:1",
+        "to": "16:21"
+      },
+      "difficulty_tier": 5,
+      "summary": "The last cycle of judgment: those who conquered the beast stand on a sea of glass singing 'the song of Moses and of the Lamb,' and seven angels pour seven bowls — sores, sea to blood, scorching sun, darkness on the beast's throne — while a voice from the altar answers, 'Yes, Lord God Almighty, true and just are your judgments.' The kings gather at a place called Armageddon; a voice from the throne says, 'It is done.'",
+      "key_themes": [
+        "song of Moses and the Lamb",
+        "final plagues",
+        "just judgment",
+        "Armageddon"
+      ],
+      "prerequisites": [
+        {
+          "node": "rev-12-14",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The bowls fall on the beast's kingdom and its mark-bearers — the powers chapter 13 raised.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-12-15",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Revelation's seven‑bowls and the victors' \"song\" presuppose the Exodus/Passover–Red Sea deliverance and plague motifs (the song of Moses) that Revelation alludes to but does not retell.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Revelation 15:3-4",
+        "Revelation 16:7",
+        "Revelation 16:15"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "reverent"
+      ],
+      "discussion_prompt": "Right before the harshest judgments in the book, heaven sings that God's ways are just and true. Why do you think the song comes before the bowls, and what would it take for you to trust God's justice in a situation where it still feels delayed?",
+      "assessment_questions": [
+        "What song do the conquerors sing beside the sea of glass, and what do they declare about God in it?",
+        "As the bowls are poured out, the altar answers, 'true and just are your judgments.' According to the passage itself, what makes these judgments just?",
+        "Even under the bowls, people refuse to repent and curse God instead. When correction comes into your own life, what decides whether it hardens you or turns you around?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Judgment is measured, never wild",
+          "explanation": "The bowls come from God's own temple in deliberate order, so his wrath is purposeful justice and never loss of control."
+        },
+        {
+          "concept": "The song comes before the storm",
+          "explanation": "Heaven frames the final plagues with worship, teaching that praise of God's justice is the right lens for reading his judgments."
+        },
+        {
+          "concept": "Evil's power is temporary",
+          "explanation": "The plagues strike the beast's own throne and kingdom, vindicating the saints and proving that wicked power has an end."
+        },
+        {
+          "concept": "Justice belongs to God",
+          "explanation": "Because God will set every wrong right, believers can endure faithfully and refuse to take vengeance themselves."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the song of Moses and the Lamb, and explain why the passage insists that God's final judgments are true and just.",
+      "comprehension_check": [
+        {
+          "question": "Before the seven bowls pour out, Revelation 15 stages a song beside the sea of glass praising God's ways. Why sing there, before the plagues?",
+          "options": [
+            "The song sets the plagues inside God's deliberate justice",
+            "The song shields the singers from the plagues that follow",
+            "The song mourns in advance for those the bowls will strike",
+            "The song celebrates that the singers escaped before the worst"
+          ],
+          "answer_index": 0,
+          "why": "Revelation 15:3-4 has the conquerors sing of God's just and true ways while the bowls are being handed out, framing the plagues as justice.",
+          "hint": "Read Revelation 15:2-4 again. Notice who is singing, and what the song says about God's ways."
+        },
+        {
+          "question": "When the waters turn to blood, an angel explains the sentence in Revelation 16:5-6 and the altar agrees. What is being said about God's judgments?",
+          "options": [
+            "They fall hardest on nature so people get final warnings",
+            "They are mysteries no creature is positioned to assess",
+            "They exceed the offense to make deception impossible afterward",
+            "They repay persecutors in the coin of their crimes"
+          ],
+          "answer_index": 3,
+          "why": "Revelation 16:6 matches the sentence to the deed, blood given for blood shed, and Revelation 16:7 hears the altar call the verdict just.",
+          "hint": "Read Revelation 16:5-7 again. Notice the reason the angel gives for why this particular plague fits."
+        }
+      ]
+    },
+    {
+      "id": "rev-17-19",
+      "title": "Babylon Falls; the Rider on the White Horse",
+      "chapters": [
+        17,
+        18,
+        19
+      ],
+      "verse_span": {
+        "from": "17:1",
+        "to": "19:21"
+      },
+      "difficulty_tier": 5,
+      "summary": "Babylon the great — the harlot city drunk on the blood of the saints, riding the beast — falls in a single hour while kings and merchants wail over their cargo lists (ending with 'slaves, that is, human souls') and heaven thunders Hallelujah. The Lamb's wedding feast is announced, and heaven opens for a rider called Faithful and True, robed in a garment dipped in blood, whose name is the Word of God.",
+      "key_themes": [
+        "Babylon judged",
+        "economic critique",
+        "hallelujah chorus",
+        "the returning King"
+      ],
+      "prerequisites": [
+        {
+          "node": "rev-15-16",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Babylon's fall executes the seventh bowl's sentence; the sequence is continuous.",
+          "scope": "sequence"
+        },
+        {
+          "node": "jer-50-51",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The doom song — including the millstone hurled into the sea — reworks Jeremiah 50-51 against Babylon."
+        },
+        {
+          "node": "ezek-25-28",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The merchants' lament over the fallen city rewrites Ezekiel 27's shipwreck dirge for Tyre."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Revelation 18:4",
+        "Revelation 19:6-7",
+        "Revelation 19:11"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "celebratory"
+      ],
+      "discussion_prompt": "Babylon looks unbeatable right up to the hour she falls, and heaven's command to God's people is 'come out of her.' What makes a culture's wealth and glamour so seductive to believers, and what would coming out of Babylon look like for you without ever leaving your city?",
+      "assessment_questions": [
+        "Who mourns when Babylon falls, and why do the kings and merchants in particular weep over her?",
+        "The same event makes earth wail and heaven shout hallelujah. What does that contrast reveal about how God sees an economy built on exploitation, down to its cargo list ending with human souls?",
+        "Heaven's voice says, 'Come out of her, my people, lest you take part in her sins.' Where might you be quietly sharing in something God stands against, and what would stepping out of it cost you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God judges seductive systems",
+          "explanation": "Babylon stands for every power that dazzles the nations while exploiting people, and God brings her down in a single hour."
+        },
+        {
+          "concept": "Complicity is the real danger",
+          "explanation": "The command to come out warns believers against enjoying Babylon's comforts while sharing in her sins."
+        },
+        {
+          "concept": "Heaven celebrates justice",
+          "explanation": "The hallelujah chorus shows that God's verdict against entrenched evil is good news the redeemed can sing about."
+        },
+        {
+          "concept": "The King is also the Bridegroom",
+          "explanation": "Christ appears as Faithful and True to defeat evil, and in the same breath heaven announces his wedding feast with his people."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Babylon represents in these chapters, and why heaven answers her fall with a hallelujah and a wedding announcement.",
+      "comprehension_check": [
+        {
+          "question": "A voice in Revelation 18:4 calls God's people to come out of Babylon. In the vision, what is that call guarding them against?",
+          "options": [
+            "Misidentification, being counted among her citizens by her attackers",
+            "Contamination, the ritual uncleanness her idols spread by contact",
+            "Complicity, the settled enjoyment of gains her sins purchased",
+            "Despair, the grief her fall will cause those who loved her"
+          ],
+          "answer_index": 2,
+          "why": "Revelation 18:4-5 grounds the call: her sins are piled up to heaven, and to stay inside her life is to share in them.",
+          "hint": "Read Revelation 18:4-7 again. Notice what the voice says about her sins and about sharing her luxuries."
+        },
+        {
+          "question": "Revelation 19 announces the Lamb's wedding feast in the same scene that celebrates Babylon's fall. What does putting these together say?",
+          "options": [
+            "The banquet shows mercy finally overruling the sentence of justice",
+            "Clearing away the corrupt city makes room for the bride",
+            "Joy becomes fitting only after grief for the fallen passes"
+          ],
+          "answer_index": 1,
+          "why": "Revelation 19:2-3 and 19:7 belong to one hallelujah chorus, where the harlot's end and the bride's arrival form a single rescue.",
+          "hint": "Read Revelation 19:1-8 again. Notice what the same voices celebrate first, and what they announce next."
+        }
+      ]
+    },
+    {
+      "id": "rev-20",
+      "title": "The Thousand Years",
+      "chapters": [
+        20
+      ],
+      "verse_span": {
+        "from": "20:1",
+        "to": "20:15"
+      },
+      "difficulty_tier": 5,
+      "summary": "The dragon bound for a thousand years while martyrs reign with Christ; Satan released for one last deception — Gog and Magog surrounding the beloved city — then fire from heaven, the devil thrown into the lake of fire, and the great white throne: the dead judged from the books, 'and if anyone's name was not found written in the book of life…' Death and Hades themselves are thrown in. Fifteen of the most debated verses in Scripture.",
+      "key_themes": [
+        "millennium",
+        "Satan's end",
+        "final judgment",
+        "book of life"
+      ],
+      "prerequisites": [
+        {
+          "node": "rev-17-19",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The dragon's binding follows the beast's defeat by the rider — the sequence of final judgments is continuous.",
+          "scope": "sequence"
+        },
+        {
+          "node": "ezek-38-39",
+          "strength": "hard",
+          "type": "quotation",
+          "reason": "'Gog and Magog' is quoted by name; the final battle is Ezekiel's oracle compressed to a paragraph.",
+          "scope": "foundation"
+        },
+        {
+          "node": "dan-7",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Revelation 20 depends on the Danielic courtroom template (Ancient of Days, thrones, opened books, beast judgment) as its legal backdrop, a framework Daniel provides but Revelation does not fully restate.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rom-5-8",
+          "reason": "The saints' reign with Christ and death's final defeat complete Romans 8's groaning-creation hope."
+        }
+      ],
+      "tradition_notes": "The millennium is the textbook case of honest divergence: premillennialism (a future thousand-year reign after Christ's return — common in evangelical Protestantism, held by some early fathers), amillennialism (the thousand years as the present church age — the dominant Catholic, Orthodox, Lutheran, and Reformed reading since Augustine), and postmillennialism (a coming golden age before the return). No ecumenical creed defines it; the Nicene Creed says only 'he will come again in glory to judge the living and the dead, and his kingdom will have no end.'",
+      "key_verses": [
+        "Revelation 20:10",
+        "Revelation 20:12",
+        "Revelation 20:15"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "resolve"
+      ],
+      "discussion_prompt": "Christians have read the thousand years in different ways for centuries, yet everyone agrees on how the chapter ends: the devil defeated, the dead raised and judged, and everything resting on the book of life. Why do you think the chapter puts the final weight on a name written in a book, and how does living toward that ending change what you do this week?",
+      "assessment_questions": [
+        "What happens to the dragon at the beginning of this chapter, and what finally happens to him at the end?",
+        "At the great white throne, the dead are judged by what is written in the books, and the book of life determines who enters life. What does this scene teach about how seriously God takes both human deeds and belonging to him?",
+        "This chapter promises that evil has an expiration date. What fear or injustice weighs on you right now, and how does Satan's certain end change the way you carry it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Satan's defeat is certain",
+          "explanation": "However the timeline is read, the chapter ends with the devil in the lake of fire and his power to deceive gone forever."
+        },
+        {
+          "concept": "A real resurrection and a public judgment",
+          "explanation": "Every person is raised and every deed is accounted for before the great white throne, so no evil escapes and no faithfulness is forgotten."
+        },
+        {
+          "concept": "The book of life",
+          "explanation": "Final destiny rests on belonging to God, which the vision pictures as a name written in his book."
+        },
+        {
+          "concept": "Christians read the thousand years differently",
+          "explanation": "Premillennial, amillennial, and postmillennial believers all confess that Christ will come again to judge the living and the dead, and no ecumenical creed settles the timing."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what all Christians agree Revelation 20 teaches about Satan's end and the final judgment, and name the three main ways the thousand years has been read.",
+      "comprehension_check": [
+        {
+          "question": "Premillennial, amillennial, and postmillennial Christians all read Revelation 20 differently. What is their disagreement actually about?",
+          "options": [
+            "Whether the devil's final defeat is certain or still undecided",
+            "The timing and character of the thousand-year reign",
+            "Whether Christ will really return to judge the living and dead",
+            "Whether the last judgment will truly reach every human being"
+          ],
+          "answer_index": 1,
+          "why": "Revelation 20:4-6 gives the reign and first resurrection whose timing and nature the major views place differently, a question no creed settles.",
+          "hint": "Read Revelation 20:1-6 again. Notice which questions the verses answer plainly and which they leave open."
+        },
+        {
+          "question": "Revelation 20:7-10 releases Satan for one last deception before his end. Whatever the timeline, what does the passage claim about evil's finish?",
+          "options": [
+            "Evil weakens gradually until it can no longer attract followers",
+            "The saints' faithfulness is what finally overcomes the devil",
+            "God ends the deceiver for good, the outcome never in doubt",
+            "Each release of evil teaches the world to resist it better"
+          ],
+          "answer_index": 2,
+          "why": "Revelation 20:9-10 ends the uprising with fire from heaven and the deceiver thrown into the lake of fire for good.",
+          "hint": "Read Revelation 20:7-10 again. Notice how the last uprising actually ends, and how long the ending lasts."
+        }
+      ]
+    },
+    {
+      "id": "rev-21-22",
+      "title": "New Heavens, New Earth, and the River of Life",
+      "chapters": [
+        21,
+        22
+      ],
+      "verse_span": {
+        "from": "21:1",
+        "to": "22:21"
+      },
+      "difficulty_tier": 3,
+      "summary": "The Bible's last movement resolves its first: a new heaven and new earth, the holy city descending as a bride, 'the dwelling of God is with humanity… he will wipe away every tear.' No temple — God and the Lamb are its temple. Through the city runs the river of life, and the tree of life, barred since Eden, stands open with 'leaves for the healing of the nations.' The book, and the Book, end in invitation: 'Come.'",
+      "key_themes": [
+        "new creation",
+        "God with us",
+        "Eden restored",
+        "come"
+      ],
+      "prerequisites": [
+        {
+          "node": "rev-20",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The new creation follows the final judgment — the old order must pass before 'behold, I make all things new.'",
+          "scope": "sequence"
+        },
+        {
+          "node": "gen-1-3",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The tree of life, the ended curse, the restored presence — the finale answers Eden element by element.",
+          "scope": "foundation"
+        },
+        {
+          "node": "ezek-47-48",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The measured city, the river deepening from the sanctuary, the healing trees — Ezekiel's vision is the blueprint.",
+          "scope": "foundation"
+        },
+        {
+          "node": "isa-63-66",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'New heavens and a new earth' quotes Isaiah 65; the no-more-tears promise is Isaiah 25."
+        }
+      ],
+      "connections": [
+        {
+          "node": "exod-35-40",
+          "reason": "'The dwelling of God is with humanity' completes the arc begun when the glory filled the tabernacle."
+        }
+      ],
+      "key_verses": [
+        "Revelation 21:3-4",
+        "Revelation 22:1-2",
+        "Revelation 22:17"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "comfort",
+        "joy"
+      ],
+      "discussion_prompt": "The Bible ends with God moving in with his people, wiping away every tear, and reopening the tree of life. Which part of this vision do you most ache for, and how could living toward that future change what you give your energy to now?",
+      "assessment_questions": [
+        "What does the voice from the throne announce when the new Jerusalem comes down, and what does John notice is missing from the city?",
+        "The tree of life, barred since Eden, now stands open with leaves for the healing of the nations. What does this return to the Bible's beginning teach about what God has been doing across the whole story?",
+        "The Spirit and the bride say, 'Come.' If this city is where the whole story is heading, what in your present life already belongs there, and what does not?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God dwells with his people",
+          "explanation": "The story's goal is God's unhindered presence with humanity, with death, mourning, and pain gone for good."
+        },
+        {
+          "concept": "God renews creation",
+          "explanation": "The vision ends with a new heaven and a new earth, so God's plan restores and remakes the world he called good."
+        },
+        {
+          "concept": "Embodied, healed life",
+          "explanation": "The river and the tree of life picture real physical flourishing, with healing that reaches every nation in God's presence."
+        },
+        {
+          "concept": "The open invitation",
+          "explanation": "The Bible closes with 'Come,' offering the water of life freely to everyone who thirsts."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe three ways the new Jerusalem answers Eden, and explain what the vision promises about life in God's presence.",
+      "comprehension_check": [
+        {
+          "question": "In Revelation 21:1-3 the holy city comes down and a voice announces God's dwelling with humanity. Which direction does the Bible's ending move?",
+          "options": [
+            "God comes to live with people in a world made new",
+            "The faithful are lifted away to live with God in heaven",
+            "Heaven and earth both dissolve, leaving only spirits with God",
+            "The garden returns exactly as it was before the fall"
+          ],
+          "answer_index": 0,
+          "why": "Revelation 21:2-3 brings the city down and sets God's dwelling among human beings, the direction the whole ending travels.",
+          "hint": "Read Revelation 21:2-3 again. Notice which direction the city travels, and where God's home is said to be."
+        },
+        {
+          "question": "The tree of life, guarded since Eden, reappears in Revelation 22:1-2 with open access and healing leaves. What does its return announce?",
+          "options": [
+            "The curse has run out on its own with the passing ages",
+            "Humanity has finally grown worthy of the garden it lost",
+            "A second testing awaits the nations in the new creation",
+            "Access to life once barred has been opened for good"
+          ],
+          "answer_index": 3,
+          "why": "Revelation 22:2-3 sets the tree by the river with nothing accursed remaining, so what Eden closed stands open in the city.",
+          "hint": "Read Revelation 22:2-3, then recall Genesis 3:24. Notice what blocked the way then, and what the city says remains of the curse."
+        }
+      ]
+    }
+  ]
+}

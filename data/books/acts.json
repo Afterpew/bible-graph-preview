@@ -1,0 +1,1017 @@
+{
+  "book": "Acts",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Acts/Church History",
+  "nodes": [
+    {
+      "id": "acts-1",
+      "title": "The Ascension and the Waiting Room",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:26"
+      },
+      "difficulty_tier": 2,
+      "summary": "The risen Jesus teaches for forty days, promises power 'when the Holy Spirit has come upon you… to the end of the earth' — the verse that is Acts' table of contents — and ascends while the disciples stare at the sky. A hundred and twenty believers wait, pray, and replace Judas.",
+      "key_themes": [
+        "ascension",
+        "witness",
+        "waiting",
+        "promise of the Spirit"
+      ],
+      "prerequisites": [
+        {
+          "node": "luke-22-24",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Acts is Luke's volume two; chapter 1 re-tells Luke 24's ending and continues the same sentence.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Acts 1:8",
+        "Acts 1:9-11",
+        "Acts 1:14"
+      ],
+      "reading_time_minutes": 8,
+      "content_density": "light",
+      "emotional_tone": [
+        "awe",
+        "hopeful"
+      ],
+      "discussion_prompt": "Jesus gives the disciples a worldwide mission and then tells them to wait for power from the Spirit. Why do you think the power had to come before the witness, and what would waiting on God before acting look like in a decision you are facing right now?",
+      "assessment_questions": [
+        "What promise does Jesus give the disciples before he ascends, and what does he tell them to do in Jerusalem?",
+        "The one requirement for Judas' replacement is that he must be a witness of the resurrection. Why does the church's message depend on people who saw what they proclaim?",
+        "The hundred and twenty spend the waiting days devoted to prayer together. When you face a season where you can only wait, what would waiting the way they did look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Ascension is enthronement",
+          "explanation": "Jesus ascends to reign at God's right hand, and the angels promise he will return the same way he left."
+        },
+        {
+          "concept": "Power before mission",
+          "explanation": "The disciples must wait for the Holy Spirit because the church's witness runs on God's power rather than human effort."
+        },
+        {
+          "concept": "Eyewitness foundation",
+          "explanation": "Judas' replacement must have seen the risen Jesus, since the church's authority rests on eyewitness testimony to the resurrection."
+        },
+        {
+          "concept": "Prayerful discernment",
+          "explanation": "The community chooses a leader through Scripture and prayer together, setting an early pattern for how the church decides."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Jesus promises in Acts 1:8 and how that one verse maps out the rest of the book of Acts.",
+      "comprehension_check": [
+        {
+          "question": "Jesus gives the disciples a mission reaching the end of the earth, then tells them to sit still in Jerusalem. Why must the waiting come first?",
+          "options": [
+            "Their grief over his departure must settle before they can speak",
+            "Their witness will run on the Spirit's power, which has not yet come",
+            "Their obedience in a small command must be proven before a great one",
+            "Their message needs a plan for reaching so many distant nations"
+          ],
+          "answer_index": 1,
+          "why": "Acts 1:4-5 gives the reason for the wait, the promised baptism with the Holy Spirit, and Acts 1:8 ties the witness to that power.",
+          "hint": "Read Acts 1:4-8 again. Notice what Jesus says they are waiting for, and what he says will arrive with it."
+        },
+        {
+          "question": "The one requirement for Judas' replacement is a man who was present from John's baptism to the ascension. What does that requirement show about the apostles' task?",
+          "options": [
+            "Long loyalty through hard years has earned the man his office",
+            "Leadership must pass through those the community trusts most deeply",
+            "Only a full student of Jesus' teaching can explain it rightly",
+            "Their task is to testify to events they actually saw"
+          ],
+          "answer_index": 3,
+          "why": "Acts 1:22 states the purpose of the office, that the man become a witness with them of the resurrection.",
+          "hint": "Read Acts 1:21-22 again. Notice the words that name what the chosen man must become."
+        }
+      ]
+    },
+    {
+      "id": "acts-2",
+      "title": "Pentecost",
+      "chapters": [
+        2
+      ],
+      "verse_span": {
+        "from": "2:1",
+        "to": "2:47"
+      },
+      "difficulty_tier": 2,
+      "summary": "Wind, fire, and a congregation of pilgrims each hearing the gospel in their own language; Peter stands up with Joel 2 and Psalms 16 and 110 and cuts three thousand to the heart. The church is born devoted to the apostles' teaching, the fellowship, the breaking of bread, and the prayers.",
+      "key_themes": [
+        "Holy Spirit",
+        "proclamation",
+        "church born",
+        "repentance and baptism"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-1",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Pentecost is the promised baptism in the Spirit the disciples were told to wait for.",
+          "scope": "sequence"
+        },
+        {
+          "node": "joel",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "Peter's sermon is an exposition of Joel 2 — 'this is what was uttered through the prophet.'"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ps-110",
+          "reason": "Peter's clincher is Psalm 110: David did not ascend, but his Lord sits at God's right hand."
+        }
+      ],
+      "key_verses": [
+        "Acts 2:36",
+        "Acts 2:38",
+        "Acts 2:42"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "dense",
+      "emotional_tone": [
+        "celebratory",
+        "urgent"
+      ],
+      "discussion_prompt": "The crowd hears Peter and asks one question: what shall we do? After the wind, the fire, and a sermon built from old Scriptures, why does this message demand a response rather than just agreement, and what would responding that concretely ask of you?",
+      "assessment_questions": [
+        "What signs accompany the coming of the Spirit at Pentecost, and how does the crowd of pilgrims first react?",
+        "Peter announces that God has made the crucified Jesus both Lord and Christ. How do his quotations from Joel and the Psalms support that claim?",
+        "The first believers devote themselves to the apostles' teaching, fellowship, breaking bread, and prayer. Which of those four would most change your week if you gave yourself to it, and why?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Spirit births the church",
+          "explanation": "The outpoured Spirit turns a waiting room of disciples into a public witnessing community in a single day."
+        },
+        {
+          "concept": "Promise fulfilled",
+          "explanation": "Peter reads Pentecost through Joel 2 to show that God is keeping an old promise on schedule."
+        },
+        {
+          "concept": "The resurrection at the center",
+          "explanation": "Peter's sermon rests on events, the death, resurrection, and exaltation of Jesus, with the Spirit confirming the witnesses."
+        },
+        {
+          "concept": "Repentance and baptism",
+          "explanation": "Peter calls the crowd to repent and be baptized, the doorway into forgiveness and the Spirit-filled community."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell what happened at Pentecost and explain how Peter uses Joel 2 to interpret it.",
+      "comprehension_check": [
+        {
+          "question": "A crowd gathers around a strange event, and Peter answers with Joel and two psalms. What is his sermon doing with those scriptures?",
+          "options": [
+            "Showing the morning is God keeping promises made long ago",
+            "Borrowing familiar holy words to quiet a confused crowd",
+            "Proving the disciples now stand where the prophets once stood",
+            "Arguing that David wrote the psalms about his own rescue"
+          ],
+          "answer_index": 0,
+          "why": "Acts 2:16 says the morning's events are what Joel foretold, so Peter reads Pentecost as an old promise kept on schedule.",
+          "hint": "Read Acts 2:14-21 again. Notice the claim Peter makes just before he begins quoting Joel."
+        },
+        {
+          "question": "The crowd hears the whole sermon, and only at its final claim do they cry out, asking what to do. What has landed on them?",
+          "options": [
+            "The wonder of hearing Galileans speak in their own tongues",
+            "The fear that Joel's last days mean the world's quick end",
+            "The verdict that the man they crucified now reigns as Lord",
+            "The shame of being lectured by uneducated men in public"
+          ],
+          "answer_index": 2,
+          "why": "Acts 2:36-37 sets the sermon's last claim, the crucified Jesus made Lord and Christ, right before the crowd's question.",
+          "hint": "Read Acts 2:36-37 again. Notice which sentence comes immediately before the crowd finally speaks."
+        }
+      ]
+    },
+    {
+      "id": "acts-3-5",
+      "title": "The Church in Jerusalem: Boldness and Purity",
+      "chapters": [
+        3,
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "3:1",
+        "to": "5:42"
+      },
+      "difficulty_tier": 2,
+      "summary": "A lame man leaps at the temple gate, Peter and John face the same council that condemned Jesus — 'we cannot but speak of what we have seen and heard' — believers share everything, Ananias and Sapphira lie to the Spirit and drop dead, and the apostles leave a flogging 'rejoicing that they were counted worthy to suffer dishonor for the name.'",
+      "key_themes": [
+        "boldness",
+        "healing",
+        "community of goods",
+        "holy fear"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-2",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The Jerusalem church whose life these chapters portray is the community Pentecost created.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "deut-16b-18",
+          "reason": "Peter's temple sermon identifies Jesus as Deuteronomy 18's 'prophet like Moses.'"
+        }
+      ],
+      "key_verses": [
+        "Acts 4:12",
+        "Acts 4:19-20",
+        "Acts 5:41"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "resolve",
+        "warning"
+      ],
+      "discussion_prompt": "Peter and John are ordered to stop speaking about Jesus and answer that they cannot help it. What made these ordinary men so sure of what they had seen, and what would it take for your convictions to hold that steady under pressure?",
+      "assessment_questions": [
+        "What happens to the lame man at the Beautiful Gate, and who does Peter say deserves the credit?",
+        "Ananias and Sapphira die after lying about a gift no one forced them to give. What does their story teach about why truthfulness matters so much inside the church?",
+        "Threatened by the council, the believers pray for boldness instead of safety. When you face pressure for your faith, what do you usually pray for, and what would praying their prayer change?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The healing points to the resurrection",
+          "explanation": "Peter directs the amazed crowd from the healed man to the risen Jesus, so the miracle serves the message."
+        },
+        {
+          "concept": "Spirit-given boldness",
+          "explanation": "Unschooled men speak fearlessly before the council that condemned Jesus, because the Spirit supplies courage at the moment it is needed."
+        },
+        {
+          "concept": "Generosity as witness",
+          "explanation": "The believers' shared possessions make the gospel visible, showing a community being changed from the inside out."
+        },
+        {
+          "concept": "Holy fear",
+          "explanation": "The judgment on Ananias and Sapphira teaches that God takes truthfulness in his community with utter seriousness."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the healing at the temple gate and explain why Peter and John refuse the council's order to stay silent.",
+      "comprehension_check": [
+        {
+          "question": "Peter tells Ananias the land was his to keep and the money his to give. What, then, made the act deadly?",
+          "options": [
+            "Staging a lie before the Spirit to look fully devoted",
+            "Holding back money that belonged to the common purse",
+            "Failing to match the full gift Barnabas had just given"
+          ],
+          "answer_index": 0,
+          "why": "Acts 5:3-4 locates the offense in the falsehood itself, a lie told to God inside his own community.",
+          "hint": "Read Acts 5:3-4 again. Notice what Peter says was freely theirs, and what he says the lie was aimed at."
+        },
+        {
+          "question": "The apostles leave the council bleeding from a flogging, and Luke says they went out rejoicing. What understanding of suffering makes that joy possible?",
+          "options": [
+            "Relief that the sentence stopped short of a death penalty",
+            "Confidence that public opinion would now swing to their side",
+            "Certainty that God would soon repay the council in kind",
+            "Conviction that dishonor for Jesus' name is itself an honor"
+          ],
+          "answer_index": 3,
+          "why": "Acts 5:41 grounds the joy in being counted worthy to bear disgrace for the Name.",
+          "hint": "Read Acts 5:40-42 again. Notice what the rejoicing is about, and what the apostles do the very next day."
+        }
+      ]
+    },
+    {
+      "id": "acts-6-7",
+      "title": "Stephen: The First Martyr",
+      "chapters": [
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "6:1",
+        "to": "7:60"
+      },
+      "difficulty_tier": 3,
+      "summary": "The first deacon becomes the first martyr: Stephen retells Israel's whole story — Abraham, Joseph, Moses, the tabernacle — to argue that God has never been confined to one building and that Israel has always resisted the Spirit. Stoned, he sees the Son of Man standing at God's right hand and dies with Jesus' words on his lips, while a young man named Saul holds the coats.",
+      "key_themes": [
+        "martyrdom",
+        "Israel's story retold",
+        "temple relativized",
+        "Saul introduced"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-3-5",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Stephen's trial escalates the council conflicts of the preceding chapters to their first death.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-1-4",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Acts 6–7 presumes the Exodus narrative—Israelite bondage in Egypt, Moses’ call at the burning bush, and the covenant-deliverance pattern—that Stephen presumes but does not fully supply for a reader unfamiliar with Exodus (cf. Exod 1–4).",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "dan-7",
+          "reason": "Stephen's dying vision — 'the Son of Man standing at the right hand of God' — is Daniel 7 seen open-eyed."
+        }
+      ],
+      "key_verses": [
+        "Acts 7:48-50",
+        "Acts 7:55-56",
+        "Acts 7:59-60"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "sorrow"
+      ],
+      "discussion_prompt": "Stephen answers a charge about the temple by retelling Israel's whole story. What is he trying to show through that history, and how would believing that God's presence is never tied to one building change where you expect to meet him?",
+      "assessment_questions": [
+        "Why are Stephen and the other six first chosen, and what accusation brings Stephen before the council?",
+        "Stephen recalls God meeting Abraham in Mesopotamia, Joseph in Egypt, and Moses in the wilderness. How does that pattern support his claim that the Most High does not dwell in houses made by hands?",
+        "Stephen dies praying for the people killing him, echoing Jesus' own words. What would forgiving someone while the wound is still fresh require of you, and where could you start?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Jesus completes Israel's story",
+          "explanation": "Stephen retells the national history to show that the gospel continues Scripture's plot to its climax."
+        },
+        {
+          "concept": "God is not confined to the temple",
+          "explanation": "From Abraham to the tabernacle, God keeps meeting his people outside the land and the building, so his presence cannot be boxed in."
+        },
+        {
+          "concept": "Resisting the Spirit",
+          "explanation": "Stephen charges that rejecting Jesus repeats Israel's long pattern of resisting the Holy Spirit and his messengers."
+        },
+        {
+          "concept": "Witness that serves and forgives",
+          "explanation": "Stephen is chosen to care for widows and ends his life forgiving his killers, holding practical service and costly testimony together."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the arc of Stephen's speech and explain why he argues that God has never been confined to the temple.",
+      "comprehension_check": [
+        {
+          "question": "Charged with speaking against the temple, Stephen answers with Abraham in Mesopotamia, Joseph in Egypt, and Moses at the bush. How does that history answer the charge?",
+          "options": [
+            "It proves the nation's guilt is old enough to condemn the council",
+            "It shows his reverence for Moses, so the charge must be false",
+            "It shows God meeting his people everywhere, so no house contains him",
+            "It recalls the fathers' ways to argue nothing should ever change"
+          ],
+          "answer_index": 2,
+          "why": "Acts 7:2, 7:9, and 7:30 find God active far outside the land, and Acts 7:48 draws the conclusion about houses built by hands.",
+          "hint": "Read Acts 7:2, 7:9, and 7:30-33 again. Notice where God keeps showing up in each scene."
+        },
+        {
+          "question": "Stephen lingers on Joseph and Moses, both refused by their own brothers before becoming their rescuers. Why does he build the speech on that pattern?",
+          "options": [
+            "To show that suffering must season a leader before God can use him",
+            "To show that rejecting God's sent deliverer is Israel's oldest habit",
+            "To honor the patriarchs and soften the council before the hard rebuke",
+            "To explain why God kept moving his dwelling from place to place"
+          ],
+          "answer_index": 1,
+          "why": "Acts 7:35 sharpens the pattern, the rejected Moses is the one God sent as ruler and redeemer, and Acts 7:51-52 lands it on the present.",
+          "hint": "Read Acts 7:9, 7:35, and 7:51-52 again. Notice what happens each time God sends someone to rescue."
+        }
+      ]
+    },
+    {
+      "id": "acts-8-9",
+      "title": "Scattered Seed and the Damascus Road",
+      "chapters": [
+        8,
+        9
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "9:43"
+      },
+      "difficulty_tier": 2,
+      "summary": "Persecution scatters the church, and the gospel goes with it: Philip in Samaria, then explaining Isaiah 53 to an Ethiopian official in a chariot. And on the Damascus road, the church's fiercest enemy meets a light and a voice — 'Saul, Saul, why are you persecuting me?' — and becomes its greatest missionary.",
+      "key_themes": [
+        "persecution spreads the word",
+        "Samaria and Ethiopia",
+        "conversion of Saul",
+        "chosen instrument"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-6-7",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The scattering follows Stephen's death directly, and Saul enters the story at that stoning.",
+          "scope": "sequence"
+        },
+        {
+          "node": "isa-52-53",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "The Ethiopian is reading the Suffering Servant when Philip joins the chariot — the passage carries the scene."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Acts 8:35",
+        "Acts 9:4-5",
+        "Acts 9:15"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "light",
+      "emotional_tone": [
+        "hopeful",
+        "joy"
+      ],
+      "discussion_prompt": "Persecution meant to crush the church ends up spreading it, and the man leading the persecution becomes its missionary. What do these chapters suggest about who is actually directing this story, and how would trusting that direction change how you read a setback you are living through?",
+      "assessment_questions": [
+        "What is the Ethiopian official reading when Philip meets him, and what happens by the end of their conversation?",
+        "Simon the magician offers money for the power of the Spirit, and Peter refuses him sharply. What does that exchange reveal about the difference between wanting God's gifts and wanting God?",
+        "Saul goes from breathing threats to preaching Jesus within days. What does his turnaround say about who is beyond God's reach, and how does that shape the way you pray for the hardest person you know?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Scattering spreads the seed",
+          "explanation": "The persecution that drives believers out of Jerusalem carries the gospel into Samaria and beyond, turning loss into mission."
+        },
+        {
+          "concept": "Scripture opens to Christ",
+          "explanation": "Philip begins with the Isaiah passage the Ethiopian is already reading and shows how it points to Jesus, modeling how Scripture leads a seeker to faith."
+        },
+        {
+          "concept": "Motives are tested",
+          "explanation": "Simon's attempt to buy spiritual power warns that being impressed by God is different from being changed by him."
+        },
+        {
+          "concept": "No one is unreachable",
+          "explanation": "Jesus personally claims his fiercest enemy on the Damascus road and names him a chosen instrument."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Tell the story of Saul's conversion and explain how persecution ends up advancing the gospel in these chapters.",
+      "comprehension_check": [
+        {
+          "question": "Stephen's death sets off a persecution that empties Jerusalem of believers. How does Luke tell the story of that scattering?",
+          "options": [
+            "As a sowing, the driven-out believers preaching wherever they land",
+            "As a retreat, the church protecting its message until safer days",
+            "As a pruning, the weaker believers falling away under pressure",
+            "As a rescue, God moving his people out before Jerusalem falls"
+          ],
+          "answer_index": 0,
+          "why": "Acts 8:4 turns the flight into mission, the scattered announcing the word wherever they went.",
+          "hint": "Read Acts 8:1-4 again. Notice what the scattered believers do as they go."
+        },
+        {
+          "question": "Saul has been arresting believers, yet the voice on the road asks why Saul is persecuting him. What does that question reveal?",
+          "options": [
+            "That Saul's raids were always secretly aimed at Jesus' own name",
+            "That heaven keeps watch whenever religion turns to violence",
+            "That Jesus counts harm to his people as harm to him",
+            "That the light means judgment has arrived for Saul's crimes"
+          ],
+          "answer_index": 2,
+          "why": "Acts 9:4-5 has the risen Jesus name Saul's campaign against the church as an attack on himself.",
+          "hint": "Read Acts 9:1-5 again. Notice whom Saul set out to seize, and whom the voice says he strikes."
+        }
+      ]
+    },
+    {
+      "id": "acts-10-12",
+      "title": "Gentiles Receive the Spirit",
+      "chapters": [
+        10,
+        11,
+        12
+      ],
+      "verse_span": {
+        "from": "10:1",
+        "to": "12:25"
+      },
+      "difficulty_tier": 3,
+      "summary": "A Roman centurion's prayers and a sheet of unclean animals collide in Peter's vision — 'what God has made clean, do not call common' — and the Spirit falls on uncircumcised Gentiles mid-sermon — settling in practice what the church will formally deliberate at the Jerusalem council. Antioch becomes the first mixed church (where 'Christian' is coined), and James is martyred while Peter walks out of prison past the guards unnoticed.",
+      "key_themes": [
+        "Gentile inclusion",
+        "clean and common",
+        "Antioch",
+        "persecution"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-8-9",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The gospel's outward ripple continues — Samaria, an Ethiopian, now a Roman household.",
+          "scope": "sequence"
+        },
+        {
+          "node": "lev-11-15",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Acts 10–12 assumes the covenant-boundary role of Levitical clean/unclean food laws that make Peter’s sheet-vision a shocking overturning of ethnic and ritual markers, a background Acts signals but never explicates.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Acts 10:15",
+        "Acts 10:34-35",
+        "Acts 11:18"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "tension"
+      ],
+      "discussion_prompt": "Peter needs the same vision three times before he will walk into a Gentile's house. What had to be dismantled in him before the gospel could cross that threshold, and what assumption about who belongs might God need to unsettle in you?",
+      "assessment_questions": [
+        "What does Peter see in his rooftop vision, and what happens while he is still preaching in Cornelius' house?",
+        "Peter concludes that God shows no partiality. How does the Spirit falling on uncircumcised Gentiles settle a question that argument alone could not?",
+        "Peter's critics in Jerusalem fall silent and glorify God once they hear what the Spirit did. When God's work challenges a boundary you hold, what would responding the way they did look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God shows no partiality",
+          "explanation": "The Spirit falls on Cornelius' household before anyone can object, confirming that God receives people from every nation by faith."
+        },
+        {
+          "concept": "Clean and common redefined",
+          "explanation": "Peter's vision teaches that God himself decides who is clean, so the old boundary markers no longer draw the community's edge."
+        },
+        {
+          "concept": "Antioch and a new name",
+          "explanation": "The first church of mixed Jews and Gentiles becomes a base for mission, and there believers are first called Christians."
+        },
+        {
+          "concept": "Providence under persecution",
+          "explanation": "James is killed and Peter walks free, and the church learns to pray earnestly while trusting the word of God to keep growing either way."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Peter's vision meant and how the events at Cornelius' house changed who the church understood the gospel to be for.",
+      "comprehension_check": [
+        {
+          "question": "While Peter is still speaking in Cornelius' house, the Spirit falls on everyone listening, before baptism and before any debate in Jerusalem. What does the timing accomplish?",
+          "options": [
+            "It repays the centurion for his years of prayer and generous almsgiving",
+            "It marks the household as an exception God allowed only once",
+            "It shows baptism with water no longer matters for Gentile converts",
+            "It settles by God's own hand that Gentiles belong as they are"
+          ],
+          "answer_index": 3,
+          "why": "Acts 11:17-18 draws the conclusion, God gave them the same gift, and the church can only recognize what God has done.",
+          "hint": "Read Acts 10:44-48 and Acts 11:15-18 again. Notice the order things happen in, and who acts first."
+        },
+        {
+          "question": "In one chapter Herod kills James, Peter walks free, and Herod dies. What is Luke teaching by telling all three together?",
+          "options": [
+            "That rescue comes to churches whose prayers are free of doubt",
+            "That the word outruns kings, whether its servants live or die",
+            "That James' death was the cost of Peter's miraculous release",
+            "That bolder faith like Peter's is what makes deliverance possible"
+          ],
+          "answer_index": 1,
+          "why": "Acts 12:24 closes the chapter with the word of God spreading and multiplying past every throne.",
+          "hint": "Read Acts 12:1-5, then Acts 12:21-24 again. Notice how the chapter opens, and what is still standing when it ends."
+        }
+      ]
+    },
+    {
+      "id": "acts-13-15",
+      "title": "The First Mission and the Jerusalem Council",
+      "chapters": [
+        13,
+        14,
+        15
+      ],
+      "verse_span": {
+        "from": "13:1",
+        "to": "15:41"
+      },
+      "difficulty_tier": 3,
+      "summary": "Antioch lays hands on Barnabas and Saul — henceforth Paul — for the first missionary journey: synagogue sermons, a stoning survived, churches planted and eldered. Then the watershed: must Gentiles be circumcised? The Jerusalem council answers no — salvation is 'through the grace of the Lord Jesus' for Jew and Gentile alike.",
+      "key_themes": [
+        "mission",
+        "grace not law",
+        "council of Jerusalem",
+        "church planting"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-10-12",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The council ratifies what the Spirit did at Cornelius' house; Peter cites that event as the deciding evidence.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "gal",
+          "reason": "Galatians is Paul's own furious account of the same circumcision controversy — the letter and the council interpret each other."
+        },
+        {
+          "node": "amos-7-9",
+          "reason": "James settles the council by quoting Amos' rebuilt booth of David under which the nations seek the Lord."
+        }
+      ],
+      "key_verses": [
+        "Acts 13:38-39",
+        "Acts 15:11",
+        "Acts 15:28"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "The early church nearly splits over what to require of Gentile converts. How does the council reach its answer, and what unofficial requirements for belonging might you be tempted to add to the gospel today?",
+      "assessment_questions": [
+        "Who sends out Barnabas and Saul on the first journey, and what question later forces the church to gather in Jerusalem?",
+        "Peter argues that God cleansed Gentile hearts by faith and gave them the Spirit just as he did to Jewish believers. Why does that testimony carry decisive weight in the council's decision?",
+        "The council refuses to add requirements for salvation while asking Gentiles to avoid a few practices for the sake of fellowship. When would you give up a freedom so someone else could belong, and what would it cost you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A sending church",
+          "explanation": "Antioch fasts, prays, and releases its best teachers for mission, turning the church from a destination into a launching point."
+        },
+        {
+          "concept": "Salvation through grace for all",
+          "explanation": "The council concludes that Jew and Gentile alike are saved through the grace of the Lord Jesus, so no ethnic marker can be added as a condition."
+        },
+        {
+          "concept": "Deciding together",
+          "explanation": "The church settles its hardest dispute through testimony, Scripture, and shared discernment, concluding that it seemed good to the Holy Spirit and to us."
+        },
+        {
+          "concept": "Hardship inside the mission",
+          "explanation": "Paul is stoned at Lystra and returns anyway to strengthen the new churches, teaching that entering the kingdom involves many tribulations."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the question the Jerusalem council faced and how the church answered it, in your own words.",
+      "comprehension_check": [
+        {
+          "question": "At Antioch the Spirit speaks while the church worships and fasts, and Barnabas and Saul are sent out. Who is driving the mission as Luke tells it?",
+          "options": [
+            "The Spirit initiates, and the church releases its best to obey",
+            "The church plans the journey, and the Spirit blesses it afterward",
+            "Barnabas and Saul volunteer, and the church confirms their ambition",
+            "Jerusalem's apostles direct Antioch to expand the work westward"
+          ],
+          "answer_index": 0,
+          "why": "Acts 13:2-3 shows the order, the Spirit calls first and the church fasts, prays, and lets them go.",
+          "hint": "Read Acts 13:1-3 again. Notice who speaks first, and what the church does in response."
+        },
+        {
+          "question": "At the council, Peter's account of Cornelius' house carries the day. Why does that testimony settle a question this large?",
+          "options": [
+            "Because the majority found his account the most persuasive offered",
+            "Because the Gentiles' upright conduct had proven them worthy at last",
+            "Because God had already given Gentiles the Spirit without added conditions",
+            "Because lived experience outweighs written Scripture when the two collide"
+          ],
+          "answer_index": 2,
+          "why": "Acts 15:8-9 rests the case on God's own act, the same Spirit given and hearts cleansed by faith.",
+          "hint": "Read Acts 15:7-11 again. Notice whose actions Peter recounts, and what he says would put God to the test."
+        }
+      ]
+    },
+    {
+      "id": "acts-16-20",
+      "title": "Into Europe: Philippi to Ephesus",
+      "chapters": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_span": {
+        "from": "16:1",
+        "to": "20:38"
+      },
+      "difficulty_tier": 3,
+      "summary": "A vision calls Paul across to Macedonia: a businesswoman converted and a jailer baptized at midnight in Philippi, philosophers engaged on Mars Hill in Athens ('what you worship as unknown, this I proclaim'), eighteen months in Corinth, and a riot of silversmiths in Ephesus. The farewell to the Ephesian elders at Miletus is Paul's ministry in his own words.",
+      "key_themes": [
+        "gospel to Europe",
+        "contextual preaching",
+        "church strengthening",
+        "tearful farewell"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-13-15",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The second and third journeys carry the council's circumcision-free gospel westward.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "phil",
+          "reason": "The church founded in the Philippian jail receives Paul's most joyful letter."
+        },
+        {
+          "node": "1cor-1-4",
+          "reason": "The Corinth planted in Acts 18 is the church of the Corinthian letters."
+        },
+        {
+          "node": "eph-1-3",
+          "reason": "The Ephesus of the riot and the Miletus farewell receives the letter to the Ephesians."
+        },
+        {
+          "node": "1thess",
+          "reason": "The Thessalonica of Acts 17 — three sabbaths and a riot — receives Paul's earliest surviving letter."
+        }
+      ],
+      "key_verses": [
+        "Acts 16:31",
+        "Acts 17:30-31",
+        "Acts 20:24"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "resolve",
+        "sorrow"
+      ],
+      "discussion_prompt": "Paul reasons with philosophers in Athens, sings in a Philippian jail, and weeps saying goodbye at Miletus. What do those scenes together show about carrying one message into very different rooms, and how would you translate the gospel for the rooms you walk into?",
+      "assessment_questions": [
+        "How does the gospel first take root in Philippi, and who are the first two converts named there?",
+        "In Athens Paul starts from an altar to an unknown god and quotes the Athenians' own poets. What does his approach show about how the gospel meets a culture that does not know Scripture?",
+        "At Miletus Paul says his life is worth nothing to him compared with finishing the ministry he received. What would treating your life as an assignment from God change about your current plans?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The gospel crosses to Europe",
+          "explanation": "A night vision redirects Paul's route to Macedonia, and the message takes root in Philippi, Thessalonica, Corinth, and Ephesus."
+        },
+        {
+          "concept": "Meeting people where they are",
+          "explanation": "On Mars Hill Paul builds from creation and the Athenians' own writers toward repentance and the resurrection, respecting his audience's starting point."
+        },
+        {
+          "concept": "Conversion reorders life",
+          "explanation": "New believers in Ephesus burn their costly magic books, because following Jesus changes money, habits, and old allegiances."
+        },
+        {
+          "concept": "Costly shepherding",
+          "explanation": "Paul's farewell charges the Ephesian elders to guard the flock at personal cost, pointing to his own tears and labor as the pattern."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe Paul's approach on Mars Hill and explain one way these chapters show the gospel taking root in a new city.",
+      "comprehension_check": [
+        {
+          "question": "In Athens Paul opens with the city's own altar and quotes its poets, yet still ends at repentance and a risen judge. What is his method?",
+          "options": [
+            "He blends Greek philosophy with the gospel until the two agree",
+            "He starts where Athens is and walks toward what it lacks",
+            "He hides the offensive parts of the message until trust is built",
+            "He proves the poets secretly worshiped Israel's God without knowing"
+          ],
+          "answer_index": 1,
+          "why": "Acts 17:22-31 moves from their altar and poets to the call to repent, meeting the city without trimming the summons.",
+          "hint": "Read Acts 17:22-31 again. Notice where Paul begins, and where the speech finally arrives."
+        },
+        {
+          "question": "At Miletus Paul tells the elders his life has no value to him next to finishing the ministry received from the Lord Jesus. What view of ministry is he handing them?",
+          "options": [
+            "Ministry is a career whose sacrifices deserve the church's honor",
+            "Ministry is measured by the number of churches one leaves behind",
+            "Ministry is safest when a shepherd avoids provoking the wolves",
+            "Ministry is a trust to be finished, whatever it personally costs"
+          ],
+          "answer_index": 3,
+          "why": "Acts 20:24 stakes everything on completing the course and ministry received from Jesus, the assignment outranking the life that carries it.",
+          "hint": "Read Acts 20:22-24 again. Notice what Paul says he knows is coming, and what he says matters more."
+        }
+      ]
+    },
+    {
+      "id": "acts-21-26",
+      "title": "Arrest and the Defenses: Mob, Sanhedrin, Felix, Festus, Agrippa",
+      "chapters": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_span": {
+        "from": "21:1",
+        "to": "26:32"
+      },
+      "difficulty_tier": 3,
+      "summary": "Warned at every port, Paul goes up to Jerusalem anyway, and a false rumor about the temple hands him to the mob. Roman custody becomes his platform: he answers the crowd, the Sanhedrin, Felix, Festus, and Agrippa, and every defense turns into testimony that the resurrection hope of Israel is the real issue. The Lord stands by him at night and names Rome as the destination, so when the case stalls for two years Paul appeals to Caesar. Agrippa's parting verdict is Luke's quiet irony: this prisoner has done nothing deserving death or chains.",
+      "key_themes": [
+        "testimony under trial",
+        "providence in chains",
+        "the hope of the resurrection",
+        "appeal to Caesar"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-16-20",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The Jerusalem arrest fulfills the Spirit's warnings given throughout the final journey.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Acts 21:13",
+        "Acts 23:11",
+        "Acts 26:22-23"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "Agabus binds his own hands with Paul's belt to warn him, the believers weep and beg him to stay, and Paul goes to Jerusalem anyway, ready to be bound and even to die. When is refusing to be talked out of a course faithfulness rather than stubbornness, and how would you tell the difference in a decision you are facing?",
+      "assessment_questions": [
+        "How does Paul end up in Roman custody in Jerusalem, and what appeal finally sends him toward Rome?",
+        "Before Agrippa, Paul insists he is saying nothing beyond what the prophets and Moses said would come. Why does he present his defense as the fulfillment of Israel's hope?",
+        "The Lord stands by Paul at night and tells him to take courage, for he must testify in Rome. When circumstances turn against you, how do you tell a closed door from a hard road you are meant to walk?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Testimony and reasoned defense",
+          "explanation": "Paul answers mobs, governors, and a king with his own story, the Scriptures, and the resurrection, joining personal witness to public argument."
+        },
+        {
+          "concept": "Courage from God's presence",
+          "explanation": "The Lord's night word after the Sanhedrin hearing turns custody into commission, and that one promise steadies Paul through every hearing that follows."
+        },
+        {
+          "concept": "On trial for Israel's hope",
+          "explanation": "Paul frames every accusation as a question about the resurrection promised to the fathers, presenting the Way as the fulfillment of what his accusers already await."
+        },
+        {
+          "concept": "Providence through the legal system",
+          "explanation": "Ambush plots, transfers, and a case stalled for two years all move Paul exactly where God said he would go, so even the chains serve the mission."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Trace Paul's path from the temple mob to the appeal to Caesar, naming the audiences he answers, and explain why he keeps calling the resurrection the real issue.",
+      "comprehension_check": [
+        {
+          "question": "Paul stands before the Sanhedrin, Felix, Festus, and Agrippa. Across these hearings, how does he present the charge against him?",
+          "options": [
+            "He is on trial for the hope Israel itself has always held",
+            "He asks the courts to tolerate the Way as a new faith",
+            "He renounces his Pharisee past to prove he left Judaism behind",
+            "He admits fault but claims his citizenship shields him from punishment"
+          ],
+          "answer_index": 0,
+          "why": "In Acts 23:6 and 26:6-8 Paul stakes his defense on the resurrection promised to the fathers, the hope his accusers themselves await.",
+          "hint": "Read Acts 23:6, 24:21, and 26:6-8 again. Notice the one issue Paul names every time he explains why he stands accused."
+        },
+        {
+          "question": "Agrippa concludes that Paul could have been released if he had not appealed to Caesar. What does Luke show the reader with that verdict?",
+          "options": [
+            "Paul's rashness cost him a release the court was ready to grant",
+            "The charges were true but lay beyond what Rome could punish",
+            "His innocence stands on record while God's promise still points to Rome",
+            "Roman fairness, more than any providence, is what kept Paul safe"
+          ],
+          "answer_index": 2,
+          "why": "Acts 23:11 already set Rome as the Lord's destination, and in Acts 26:31 the rulers themselves find nothing in Paul deserving death or chains.",
+          "hint": "Read Acts 23:11, then Acts 26:30-32. Notice what the Lord says Paul must do, and what the rulers say Paul has done."
+        }
+      ]
+    },
+    {
+      "id": "acts-27-28",
+      "title": "The Voyage, the Shipwreck, and Rome",
+      "chapters": [
+        27,
+        28
+      ],
+      "verse_span": {
+        "from": "27:1",
+        "to": "28:31"
+      },
+      "difficulty_tier": 2,
+      "summary": "Luke sails with Paul and tells the voyage to Rome like a sea epic: contrary winds, an ignored warning, fourteen nights of storm, and a wreck off Malta that lands all two hundred seventy-six aboard alive, exactly as God promised. The prisoner is the steadiest man on the ship, urging courage and breaking bread because he believes God. After a winter of healings on Malta, Paul reaches Rome and spends two years under guard, welcoming everyone who comes. The book ends mid-stride, the kingdom proclaimed openly and the word unhindered, with no period on the story, on purpose.",
+      "key_themes": [
+        "providence in the storm",
+        "shipwreck",
+        "the word to the Gentiles",
+        "unhindered gospel"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-21-26",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Paul is aboard this ship only because his appeal to Caesar before Festus and Agrippa sent him to Rome for trial.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rom-1-4",
+          "reason": "Paul wrote Romans on the eve of this journey; the letter announces the visit these chapters deliver in chains."
+        }
+      ],
+      "key_verses": [
+        "Acts 27:23-25",
+        "Acts 28:28",
+        "Acts 28:30-31"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "light",
+      "emotional_tone": [
+        "tension",
+        "hopeful"
+      ],
+      "discussion_prompt": "Paul reaches Rome by way of arrest, storm, and shipwreck, yet the book ends on the word unhindered. Where do you see God steering events that look like disasters in these chapters, and what would trusting that steering mean in a season of your life that feels stalled?",
+      "assessment_questions": [
+        "What does Paul tell the frightened crew in Acts 27:23-25 about what God has promised, and whom does the promise cover?",
+        "Paul relays a promise that no life will be lost, then stops the sailors from escaping and urges everyone to eat. What do his actions show about how he holds God's promise?",
+        "Paul believed God in the storm and still handed out bread and kept the crew at their posts. In a storm you are facing now, what is the promise you are holding, and what is the next ordinary step it asks of you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Providence through the storm",
+          "explanation": "The voyage Paul boards as a prisoner delivers him exactly where God said he would go, and the wreck itself becomes the road to Rome."
+        },
+        {
+          "concept": "Promise and means together",
+          "explanation": "God grants every life on the ship, yet the rescue still runs through sailors kept at their posts and bread eaten before dawn, the promise carrying its own means."
+        },
+        {
+          "concept": "Witness under guard",
+          "explanation": "In the storm, on Malta, and in his rented house in Rome, Paul keeps turning captivity into a platform, and the prisoner is the steadiest man in every scene."
+        },
+        {
+          "concept": "An unfinished ending",
+          "explanation": "Acts closes with the gospel preached openly in the empire's capital and no period on the story, handing the mission to the reader."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell how the promise of Acts 27:24 carries all aboard through the wreck to Malta and on to Rome, and explain why Acts ends without an ending.",
+      "comprehension_check": [
+        {
+          "question": "In the storm Paul announces that God has granted the lives of all aboard, then warns that no one is saved unless the sailors stay with the ship. How does the promise work?",
+          "options": [
+            "Once God promised, nothing the crew did could matter to the outcome",
+            "The promise is certain, and it arrives through means people must take",
+            "The rescue was earned by the crew's careful obedience to Paul",
+            "Because Paul believed, the storm posed no real danger to anyone"
+          ],
+          "answer_index": 1,
+          "why": "Acts 27:24 grants every life aboard, and Acts 27:31 still keeps the sailors at their posts, the sure promise moving through the steps it commands.",
+          "hint": "Read Acts 27:22-25, then Acts 27:30-34. Notice what Paul says is already granted, and what he still tells people to do."
+        },
+        {
+          "question": "Acts ends with Paul still a prisoner in Rome, while Luke's last note is that the preaching goes on freely. What is Luke saying by closing the book there?",
+          "options": [
+            "Rome's official tolerance is what finally set the message free",
+            "The story closes because Paul's mission had reached its finish",
+            "Bold preachers are always given an open door in the end",
+            "The word's advance does not hang on its messenger's freedom"
+          ],
+          "answer_index": 3,
+          "why": "Acts 28:30-31 sets the guarded house and the open proclamation side by side, the kingdom preached to all who come.",
+          "hint": "Read Acts 28:16-31 again. Notice what stays restricted in the final scene and what does not."
+        }
+      ]
+    }
+  ]
+}

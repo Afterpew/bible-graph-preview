@@ -1,0 +1,122 @@
+{
+  "book": "2 Maccabees",
+  "testament": "OT",
+  "canon_layer": "catholic_deuterocanon",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "2macc",
+      "title": "2 Maccabees: Martyrs and Resurrection Hope",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "difficulty_tier": 3,
+      "summary": "The same crisis as 1 Maccabees told as theological drama, centered on the martyrs: old Eleazar refusing even pretend-compliance, and seven brothers dying one by one before their mother, each confessing that 'the King of the universe will raise us up to an everlasting renewal of life.' The clearest pre-Christian Jewish statements of bodily resurrection.",
+      "key_themes": [
+        "martyrdom",
+        "resurrection",
+        "zeal purified",
+        "prayer for the dead"
+      ],
+      "prerequisites": [
+        {
+          "node": "1macc",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Parallel account of the same revolt; the political narrative there frames the martyr theology here."
+        },
+        {
+          "node": "dan-8-12",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The martyrs' resurrection confession stands on Daniel 12's 'many who sleep in the dust shall awake.'",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-11",
+          "reason": "Hebrews 11's 'some were tortured, refusing to accept release, that they might rise again to a better life' points to these very martyrs."
+        }
+      ],
+      "tradition_notes": "Canonical for Catholics and Orthodox; apocryphal for Protestants. 2 Maccabees 12:39-45 (Judas' sacrifice for fallen soldiers) is the primary proof-text for Catholic teaching on prayer for the dead and purgatory — one concrete reason the Reformers and Trent divided over this book's status. Orthodox practice likewise prays for the departed while not defining purgatory as Catholic doctrine does; Protestant readers who study the book take the passage as evidence of second-temple practice rather than binding teaching. The divergence is real and none of it is adjudicated here.",
+      "key_verses": [
+        "2 Maccabees 7:9",
+        "2 Maccabees 7:28",
+        "2 Maccabees 12:43-45"
+      ],
+      "reading_time_minutes": 75,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "hopeful"
+      ],
+      "discussion_prompt": "Seven brothers and their mother die one by one rather than break faith, each confessing that the King of the universe will raise them up. What gives a hope like that its power in the moment of dying, and what would it take for your own hope to hold under that kind of pressure?",
+      "assessment_questions": [
+        "What does old Eleazar refuse to do, and what reason does he give for refusing even pretend compliance?",
+        "Each brother meets death with a word about resurrection, and the fourth tells the king that for him there will be no resurrection to life. What do their confessions together reveal about how the book understands God's justice beyond death?",
+        "Eleazar turns down an easy escape because of the example his death would leave for the young. Whose eyes are on your choices, and what would it mean to treat your example as part of your faithfulness?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Resurrection hope under persecution",
+          "explanation": "The martyrs face death confessing that the King of the universe will raise them to everlasting life, among the clearest statements of bodily resurrection written before the New Testament."
+        },
+        {
+          "concept": "Suffering as a father's discipline",
+          "explanation": "The book reads the nation's calamities as God correcting his people the way a father corrects his children, so even judgment carries covenant love inside it."
+        },
+        {
+          "concept": "Creation from nothing",
+          "explanation": "The mother urges her son to look at heaven and earth and see that God made them from nothing that existed before, a verse Christians have long cited when teaching creation out of nothing."
+        },
+        {
+          "concept": "Prayer for the fallen",
+          "explanation": "Judas offers sacrifice for soldiers who died in sin, a scene Catholics and Orthodox receive as support for praying for the dead and one reason the Reformation weighed this book differently; the passage itself joins seriousness about sin to hope for the fallen."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Retell the story of Eleazar and the seven brothers, and explain in your own words what 2 Maccabees teaches about resurrection hope under persecution.",
+      "comprehension_check": [
+        {
+          "question": "In 2 Maccabees 7 the seven brothers die one by one, each with a confession. What conviction do their words stake everything on?",
+          "options": [
+            "Their deaths will shame the king into ending the persecution",
+            "The Creator who gave their bodies will raise them again",
+            "Their souls will escape the body's ruin into a bodiless peace",
+            "Israel's armies will avenge them and drive the tyrant out"
+          ],
+          "answer_index": 1,
+          "why": "2 Maccabees 7:9 has a dying brother confess that the King of the universe will raise the faithful to renewed and everlasting life.",
+          "hint": "Read 2 Maccabees 7:9 and 7:28 again. Notice what the mother says God made the world from, and why that matters here."
+        },
+        {
+          "question": "After a battle in 2 Maccabees 12, Judas collects an offering for soldiers who died wearing idol amulets. What does the narrator say made the act sensible?",
+          "options": [
+            "Judas expected the fallen to rise, so provision for them still mattered",
+            "The amulets proved the men innocent, victims of another's sin",
+            "The offering cleared the survivors of blame for marching beside idolaters",
+            "The gift honored the dead as heroes whose courage outweighed their sin"
+          ],
+          "answer_index": 0,
+          "why": "2 Maccabees 12:43-45 grounds the offering in the expectation of resurrection, the narrator noting it would be pointless otherwise.",
+          "hint": "Read 2 Maccabees 12:43-45 again. Notice the reason the narrator gives for why the offering was not wasted."
+        }
+      ]
+    }
+  ]
+}

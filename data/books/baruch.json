@@ -1,0 +1,113 @@
+{
+  "book": "Baruch",
+  "testament": "OT",
+  "canon_layer": "catholic_deuterocanon",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "bar",
+      "title": "Baruch and the Letter of Jeremiah",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "difficulty_tier": 3,
+      "summary": "Attributed to Jeremiah's scribe in Babylon: a national confession ('to the Lord our God belongs righteousness, but to us confusion of face'), a wisdom poem locating wisdom in the Torah, and Jerusalem consoled like a bereaved mother. Chapter 6, the Letter of Jeremiah, is a relentless satire of idols — gilded, dusted, carried because they cannot walk.",
+      "key_themes": [
+        "confession",
+        "wisdom in Torah",
+        "consolation",
+        "idols mocked"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-40-45",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Baruch is Jeremiah's scribe, writing from the exile that book narrates; the fiction depends on it.",
+          "scope": "sequence"
+        },
+        {
+          "node": "deut-27-30",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "The confession prays Deuteronomy's curse-and-return script almost clause by clause."
+        }
+      ],
+      "connections": [
+        {
+          "node": "isa-41-48",
+          "reason": "The idol satire of the Letter of Jeremiah works the same vein as Isaiah 44's carpenter who worships half his firewood."
+        }
+      ],
+      "tradition_notes": "Canonical for Catholics and Orthodox (Orthodox Bibles often count the Letter of Jeremiah separately); apocryphal for Protestants. Baruch 3:37 — wisdom 'appeared on earth and lived with humankind' — was quoted by a number of church fathers as an incarnation prophecy.",
+      "key_verses": [
+        "Baruch 1:15",
+        "Baruch 4:1",
+        "Baruch 5:5"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "comfort"
+      ],
+      "discussion_prompt": "Baruch puts a whole nation's confession in the first person plural: righteousness belongs to the Lord, open shame belongs to us. What makes honest confession like that so rare in groups, and what would it sound like if your community prayed this way about its own failures?",
+      "assessment_questions": [
+        "What does the confession in chapters 1-2 admit about why the exile happened, and who does it declare to be in the right?",
+        "The wisdom poem says rulers and merchants never found wisdom, and then names her as the book of God's commandments. What is the poem claiming about where wisdom actually lives?",
+        "The Letter of Jeremiah mocks gods that must be carried because they cannot walk. What do you lean on that promises security it cannot deliver, and what would it take to set it down?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Confession opens the way home",
+          "explanation": "The book models honest corporate repentance as the first step from exile toward restoration."
+        },
+        {
+          "concept": "Wisdom is given in the Torah",
+          "explanation": "Wisdom is found in God's commandments, where searching, wealth, and power all failed to find her."
+        },
+        {
+          "concept": "God consoles the grieving city",
+          "explanation": "Jerusalem is pictured as a bereaved mother whom God promises to comfort and regather in joy."
+        },
+        {
+          "concept": "Idols cannot save",
+          "explanation": "The Letter's satire strips false gods of their aura so that trust can return to the living God."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Summarize Baruch's movement from confession to consolation, and explain how the Letter of Jeremiah unmasks idols.",
+      "comprehension_check": [
+        {
+          "question": "Baruch opens with a long prayer sent home from Babylon. What stance does the prayer take toward the exile?",
+          "options": [
+            "It protests that the punishment has outrun the nation's guilt",
+            "It owns the disaster as just and God in the right",
+            "It blames the kings alone, sparing the people who followed them",
+            "It reads the exile as a mystery no confession can explain"
+          ],
+          "answer_index": 1,
+          "why": "Baruch 1:15 sets the prayer's keynote, righteousness belonging to God and open shame belonging to the people.",
+          "hint": "Read Baruch 1:15 again. Notice which side of the ledger the prayer puts the people on."
+        },
+        {
+          "question": "Baruch 3 asks who has found wisdom's place, naming giants, merchants, and rulers who failed. Where does the poem finally locate her?",
+          "options": [
+            "In the created order, open to any patient observer",
+            "In the humility that gives up searching and waits",
+            "In the commandments God has given, entrusted to Israel",
+            "In the heavens, past the reach of every nation"
+          ],
+          "answer_index": 2,
+          "why": "Baruch 4:1 identifies wisdom with the book of God's commandments, given to Israel to be lived.",
+          "hint": "Read Baruch 4:1 again. Notice what wisdom turns out to be, and who holds it."
+        }
+      ]
+    }
+  ]
+}

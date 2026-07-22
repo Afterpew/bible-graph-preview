@@ -1,0 +1,107 @@
+{
+  "book": "2 Timothy",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "2tim",
+      "title": "2 Timothy: Paul's Last Letter",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:22"
+      },
+      "difficulty_tier": 2,
+      "summary": "From a Roman death cell, abandoned by most, Paul writes his final charge: guard the deposit, suffer for the gospel, entrust the message to faithful men who can teach others — 'all Scripture is breathed out by God and profitable.' The valediction is the most quoted deathbed text in Christian history: 'I have fought the good fight, I have finished the race, I have kept the faith.'",
+      "key_themes": [
+        "endurance",
+        "Scripture",
+        "passing the torch",
+        "finishing well"
+      ],
+      "prerequisites": [
+        {
+          "node": "1tim",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The second letter to the same delegate assumes the first's charge and raises its stakes to a farewell."
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-27-28",
+          "reason": "Acts leaves Paul under house arrest in Rome; this letter speaks from the harsher, final imprisonment tradition places after it."
+        }
+      ],
+      "key_verses": [
+        "2 Timothy 2:2",
+        "2 Timothy 3:16-17",
+        "2 Timothy 4:7-8"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "resolve",
+        "hopeful"
+      ],
+      "discussion_prompt": "Paul writes his last letter from a death cell, abandoned by most of his friends, and still says he has finished the race. What does finishing well seem to mean to him, and what would it take to aim your life at that kind of finish line now?",
+      "assessment_questions": [
+        "Where is Paul as he writes this letter, and what does he charge Timothy to do with the message entrusted to him?",
+        "Paul says all Scripture is breathed out by God and profitable for teaching, reproof, correction, and training in righteousness. What does that claim mean for how a believer approaches the Bible?",
+        "Paul tells Timothy to entrust the message to faithful people who can teach others also. Who passed the faith to you, and who could you begin passing it to?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Guard the deposit",
+          "explanation": "The apostolic gospel is a trust to be kept intact and handed on, so every generation of believers is a link in a chain."
+        },
+        {
+          "concept": "Suffering comes with the calling",
+          "explanation": "Paul frames faithful ministry with the images of a soldier, an athlete, and a farmer, all of whom endure hardship before the reward."
+        },
+        {
+          "concept": "Scripture breathed out by God",
+          "explanation": "God's own breath stands behind Scripture, which makes it able to teach, correct, and train a person for every good work."
+        },
+        {
+          "concept": "Finishing the race",
+          "explanation": "Paul measures his life by faithfulness to the end, keeping the faith through hardship rather than chasing ease or popularity."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Paul means by guarding the deposit and passing it on, and retell how he describes his own finished race.",
+      "comprehension_check": [
+        {
+          "question": "Facing death, Paul tells Timothy in 2 Timothy 2:2 to entrust the message to people who can teach others. What does the charge assume about the gospel's future?",
+          "options": [
+            "It rests on Timothy alone, the last man Paul can trust",
+            "It waits on fresh revelation to renew what the apostles taught",
+            "It depends on a relay of teaching passed person to person",
+            "It spreads by its own power, needing no human guarding"
+          ],
+          "answer_index": 2,
+          "why": "2 Timothy 2:2 lines up four generations in a single sentence, Paul to Timothy to faithful people to others still.",
+          "hint": "Read 2 Timothy 2:2 again. Count how many handoffs the one sentence contains."
+        },
+        {
+          "question": "Right after describing hard times and deceivers, 2 Timothy 3 points Timothy to the sacred writings. What is the point of that turn?",
+          "options": [
+            "Scripture predicts each deceiver so the church can name them",
+            "Scripture equips God's servant fully for the work ahead",
+            "Scripture shields its readers from the suffering Paul has described",
+            "Scripture replaces human teachers, ending Timothy's need for guides"
+          ],
+          "answer_index": 1,
+          "why": "2 Timothy 3:16-17 traces the writings to God's own breath and aims them at a servant equipped for every good work.",
+          "hint": "Read 2 Timothy 3:14-17 again. Notice what Paul says the writings are able to do, and what they are for."
+        }
+      ]
+    }
+  ]
+}

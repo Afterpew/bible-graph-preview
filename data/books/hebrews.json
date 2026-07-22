@@ -1,0 +1,555 @@
+{
+  "book": "Hebrews",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "heb-1-4",
+      "title": "Greater Than Angels and Moses; Enter the Rest",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:16"
+      },
+      "difficulty_tier": 4,
+      "summary": "An anonymous masterpiece opens with the New Testament's grandest sentence: the Son is the radiance of God's glory, upholding the universe by the word of his power. Greater than angels (a chain of psalm quotations), greater than Moses, he leads a new wilderness generation — 'Today, if you hear his voice' — toward a sabbath rest the first generation forfeited. The word is living, active, sharper than any two-edged sword.",
+      "key_themes": [
+        "supremacy of the Son",
+        "warning against drift",
+        "rest",
+        "living word"
+      ],
+      "prerequisites": [
+        {
+          "node": "num-11-14",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The whole 'Today' exhortation runs on the Kadesh rebellion — the generation that refused to enter is the standing warning.",
+          "scope": "foundation"
+        },
+        {
+          "node": "ps-93-100",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "Hebrews 3-4 is a verse-by-verse exposition of Psalm 95's 'do not harden your hearts as at Meribah.'"
+        }
+      ],
+      "connections": [
+        {
+          "node": "2sam-7",
+          "reason": "'I will be to him a father' from the Davidic covenant opens the catena proving the Son's supremacy."
+        },
+        {
+          "node": "col",
+          "reason": "Hebrews 1 and Colossians 1 are parallel summits of New Testament Christology."
+        }
+      ],
+      "key_verses": [
+        "Hebrews 1:3",
+        "Hebrews 4:12",
+        "Hebrews 4:16"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "warning"
+      ],
+      "discussion_prompt": "Hebrews opens by saying God has spoken finally in a Son, then warns readers not to drift or harden their hearts. If Christ really is God's last word, what does drifting from him actually look like in an ordinary week, and what would 'Today, if you hear his voice' require of you before the day ends?",
+      "assessment_questions": [
+        "According to Hebrews 1, what does the Son do in relation to creation, and where does he sit down after making purification for sins?",
+        "Hebrews 3 and 4 keep repeating the word 'Today' from Psalm 95. Why does the author treat a psalm written long after the wilderness generation as proof that God's rest is still open to enter?",
+        "The word of God is called living and active, sharper than any two-edged sword. What part of your life would change if you let that word examine you the way Hebrews 4:12 describes?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God's final word is a Son",
+          "explanation": "Christ is God's fullest and definitive revelation, greater than the prophets and the angels who carried God's word before him."
+        },
+        {
+          "concept": "Greater than Moses",
+          "explanation": "Moses served faithfully in God's house, while Christ is the faithful Son over the house, so his voice carries final authority."
+        },
+        {
+          "concept": "The rest still open",
+          "explanation": "God's promised rest remains available and is entered by trusting obedience, which is why the author keeps pressing the word 'Today.'"
+        },
+        {
+          "concept": "The danger of drifting",
+          "explanation": "Unbelief hardens slowly, so the letter urges believers to exhort one another daily before neglect turns into refusal."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why Hebrews calls the Son greater than the angels and Moses, and what it means to enter God's rest 'Today.'",
+      "comprehension_check": [
+        {
+          "question": "Hebrews 1 stacks quotation on quotation to raise the Son far above the angels. What is the letter doing with that height in Hebrews 2:1-3?",
+          "options": [
+            "To prove the angel-carried law never truly bound Israel",
+            "To make neglecting the Son's message more dangerous than ever",
+            "To satisfy curiosity about the ranks of the heavenly court",
+            "To identify the Son as the highest of the angels"
+          ],
+          "answer_index": 1,
+          "why": "Hebrews 2:2-3 argues from lesser to greater, so the salvation announced by the Son is more perilous to neglect than the word angels carried.",
+          "hint": "Read Hebrews 2:1-3 right after chapter 1. Notice what the height of chapter 1 is suddenly used to urge."
+        },
+        {
+          "question": "Hebrews insists that Joshua's conquest did not close the story of God's rest (Hebrews 4:7-8). What is the letter arguing?",
+          "options": [
+            "The rest arrived in full once Israel possessed the land",
+            "The rest is simply the weekly sabbath Israel already kept",
+            "The psalm's warning expired with the wilderness generation",
+            "The promised rest still stands open, entered by faith now"
+          ],
+          "answer_index": 3,
+          "why": "Hebrews 4:9-11 concludes that God's rest still waits for his people and urges every effort to enter it before hearts harden.",
+          "hint": "Read Hebrews 4:7-9. Notice what the letter concludes from God appointing a day so long after Joshua."
+        }
+      ]
+    },
+    {
+      "id": "heb-5-7",
+      "title": "A Priest Forever: Melchizedek",
+      "chapters": [
+        5,
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "5:1",
+        "to": "7:28"
+      },
+      "difficulty_tier": 5,
+      "summary": "The argument nobody else in the New Testament attempts: Jesus is high priest not by Levitical descent but 'after the order of Melchizedek' — the king-priest who blessed Abraham, without recorded genealogy, greater than Levi who paid tithes 'in Abraham's loins.' A better hope, a better covenant, a priest who 'always lives to make intercession.' Includes the fearful warning about falling away and the anchor of hope behind the veil.",
+      "key_themes": [
+        "Melchizedek",
+        "eternal priesthood",
+        "warning and anchor",
+        "intercession"
+      ],
+      "prerequisites": [
+        {
+          "node": "ps-110",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'A priest forever after the order of Melchizedek' — Psalm 110:4 is the text the entire section expounds."
+        },
+        {
+          "node": "gen-12-17",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Melchizedek's only scene is Genesis 14; the Abraham-tithes argument depends on it.",
+          "scope": "foundation"
+        },
+        {
+          "node": "lev-8-10",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "The contrast with mortal, sinful Aaronic priests requires the Levitical priesthood as the foil."
+        },
+        {
+          "node": "heb-1-4",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "B's sustained argument for Christ's priesthood in the order of Melchizedek presumes the prior demonstration of Christ's superiority and the failure of the old way set out in chapters 1–4, which it does not reestablish.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Hebrews 5:8-9",
+        "Hebrews 6:19-20",
+        "Hebrews 7:25"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "comfort"
+      ],
+      "discussion_prompt": "Hebrews says Jesus always lives to make intercession for those who draw near to God through him. What difference would it make to your praying and your failing if you believed a living priest was speaking for you right now, and what keeps you from drawing near with that kind of boldness?",
+      "assessment_questions": [
+        "According to Hebrews 7, who is Melchizedek, what does he do when he meets Abraham, and which psalm does the author quote to link him to Jesus?",
+        "Hebrews argues that Levi, still in the loins of Abraham, in effect paid tithes to Melchizedek. What is the author trying to prove about Jesus' priesthood with that unusual argument?",
+        "Hebrews 6 describes hope as an anchor of the soul, sure and steadfast. Where in your life do you most need an anchor like that, and how does Jesus' permanent priesthood provide it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A priest by God's oath",
+          "explanation": "Jesus holds his priesthood by God's sworn appointment in Psalm 110 rather than by family descent, so it can never expire or be revoked."
+        },
+        {
+          "concept": "The order of Melchizedek",
+          "explanation": "Melchizedek appears in Scripture with no recorded beginning or end, and Hebrews reads that silence as a picture of Christ's unending priesthood."
+        },
+        {
+          "concept": "A living intercessor",
+          "explanation": "Because Jesus never dies, he saves completely those who come to God through him and always lives to pray for them."
+        },
+        {
+          "concept": "From milk to solid food",
+          "explanation": "The letter presses immature believers to grow into deeper understanding, since staying at the basics leaves a person vulnerable to drifting."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain in your own words why Hebrews calls Jesus a priest after the order of Melchizedek, and why that makes his priesthood permanent.",
+      "comprehension_check": [
+        {
+          "question": "Hebrews insists Jesus holds his priesthood by God's oath and a life death cannot destroy, with family descent playing no part (Hebrews 7:16, 7:24). What does that anchoring give?",
+          "options": [
+            "A priest who cannot die and so never stops interceding",
+            "A priest exempt from the obligations laid on Levi's sons",
+            "A priest whose office proves the Levites always were illegitimate",
+            "A priest who never had to pass through death himself"
+          ],
+          "answer_index": 0,
+          "why": "Hebrews 7:25 draws the payoff, complete salvation through a priest who is always alive to pray for those who come.",
+          "hint": "Read Hebrews 7:23-25. Notice what kept ending every earlier priesthood, and what removes that limit here."
+        },
+        {
+          "question": "Right after its most fearful warning, Hebrews 6 turns to reassurance. Where does the letter anchor the believer's hope (Hebrews 6:17-20)?",
+          "options": [
+            "In the depth and sincerity of each believer's repentance",
+            "In an unbroken record of faith without seasons of doubt",
+            "In God's sworn promise and the forerunner behind the veil",
+            "In the congregation's official confirmation of a member's standing"
+          ],
+          "answer_index": 2,
+          "why": "Hebrews 6:17-19 fastens hope to God's unchangeable purpose, sworn with an oath and secured where Jesus has already entered.",
+          "hint": "Read Hebrews 6:17-20. Notice whose promise, whose oath, and whose entry the anchor holds to."
+        }
+      ]
+    },
+    {
+      "id": "heb-8-10",
+      "title": "The Better Covenant and the Final Sacrifice",
+      "chapters": [
+        8,
+        9,
+        10
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "10:39"
+      },
+      "difficulty_tier": 4,
+      "summary": "The argument's summit: the earthly sanctuary was 'a copy and shadow of the heavenly'; Christ entered the true holy places 'once for all… by his own blood,' fulfilling the Day of Atonement and retiring the daily sacrifices — 'where there is forgiveness of these, there is no longer any offering for sin.' Jeremiah's new covenant is quoted at full length as the charter. Therefore: draw near, hold fast, stir one another up.",
+      "key_themes": [
+        "new covenant",
+        "once for all",
+        "shadow and reality",
+        "full assurance"
+      ],
+      "prerequisites": [
+        {
+          "node": "heb-5-7",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The Melchizedek priesthood established in 5-7 is the priest whose offering 8-10 describes.",
+          "scope": "sequence"
+        },
+        {
+          "node": "lev-16",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The once-for-all argument is a sustained contrast with the Day of Atonement's annual repetition.",
+          "scope": "foundation"
+        },
+        {
+          "node": "jer-30-33",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "Jeremiah 31's new covenant is quoted in full — the longest OT quotation in the NT — as the argument's charter."
+        },
+        {
+          "node": "exod-25-31",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "'Copy and shadow of the heavenly things' reads the tabernacle blueprint as pointing beyond itself."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Hebrews 8:10",
+        "Hebrews 9:12",
+        "Hebrews 10:14"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "reverent",
+        "resolve"
+      ],
+      "discussion_prompt": "The old sacrifices had to be repeated year after year, and Hebrews says Christ offered himself once for all. If your conscience were truly clean, the way this letter claims it can be, how would you approach God differently, and what old guilt would you finally stop carrying?",
+      "assessment_questions": [
+        "Which prophet's new covenant promise does Hebrews quote at full length, and what does God promise to do with his law and with sins in that covenant?",
+        "Hebrews calls the earthly sanctuary a copy and shadow of the heavenly one. What does that claim mean for how we should understand the tabernacle and its repeated sacrifices?",
+        "Hebrews 10 answers Christ's finished sacrifice with three calls: draw near, hold fast, and stir one another up. Which of the three is hardest for you right now, and what would practicing it this week look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Once for all",
+          "explanation": "Christ's single offering accomplished what years of repeated sacrifices never could, a conscience actually cleansed before God."
+        },
+        {
+          "concept": "Shadow and reality",
+          "explanation": "The tabernacle and its rituals were sketches of a heavenly reality, and Christ now ministers in the true sanctuary they pointed toward."
+        },
+        {
+          "concept": "The new covenant",
+          "explanation": "Jeremiah's promise comes true in Christ: God writes his law on the heart and remembers sins no more."
+        },
+        {
+          "concept": "Assurance with sober warning",
+          "explanation": "The same chapters that promise full assurance also warn against turning away, holding confidence and perseverance together in one exhortation."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what 'once for all' means in Hebrews 9-10, and how Jeremiah's new covenant promise anchors the whole argument.",
+      "comprehension_check": [
+        {
+          "question": "Hebrews builds a whole argument out of sheer repetition, yearly offerings and priests standing day after day (Hebrews 10:1-3, 10:11). What is the argument?",
+          "options": [
+            "Each year's offerings fully cleansed the sins of that year",
+            "The priests kept failing to perform the rituals correctly",
+            "The offerings were designed as reminders and nothing more",
+            "Whatever must be repeated has not yet finished its work"
+          ],
+          "answer_index": 3,
+          "why": "Hebrews 10:2 reasons that truly cleansed worshipers would have stopped bringing offerings, which is the finality Hebrews 10:14 claims for Christ's one sacrifice.",
+          "hint": "Read Hebrews 10:11-14. Notice which priest keeps standing, and which one has sat down."
+        },
+        {
+          "question": "Hebrews quotes Jeremiah's new covenant promise at full length, then draws a single conclusion from its very existence (Hebrews 8:8, 8:13). What conclusion?",
+          "options": [
+            "The first covenant had been a divine mistake, now abandoned",
+            "A promised new covenant marks the first one as passing",
+            "No real forgiveness existed anywhere before Christ arrived",
+            "Covenants naturally age and get replaced every few generations"
+          ],
+          "answer_index": 1,
+          "why": "Hebrews 8:13 draws the inference from Jeremiah's own words, announcing something new set an expiration on the arrangement it replaces.",
+          "hint": "Read Hebrews 8:7-8 and Hebrews 8:13. Notice where fault is placed, and what the promise of something new implies about the old."
+        }
+      ]
+    },
+    {
+      "id": "heb-11",
+      "title": "The Hall of Faith",
+      "chapters": [
+        11
+      ],
+      "verse_span": {
+        "from": "11:1",
+        "to": "11:40"
+      },
+      "difficulty_tier": 2,
+      "summary": "'Faith is the assurance of things hoped for' — then the roll call: Abel, Enoch, Noah, Abraham leaving without knowing where, Moses choosing mistreatment over Egypt's treasures, Rahab, Gideon, and the unnamed tortured ones 'of whom the world was not worthy.' All died not having received the promise — God had planned something better, 'that apart from us they should not be made perfect.'",
+      "key_themes": [
+        "faith defined",
+        "pilgrim endurance",
+        "cloud of witnesses",
+        "unfulfilled promise"
+      ],
+      "prerequisites": [
+        {
+          "node": "heb-8-10",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The catalogue illustrates the 'live by faith' endurance the covenant argument just called for."
+        },
+        {
+          "node": "gen-12-17",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Hebrews 11 presumes the Genesis narrative of Abraham’s call, journey, covenant promises and acts (Gen 12–17) to make sense of its examples of faith, which the chapter does not restate.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Hebrews 11:1",
+        "Hebrews 11:6",
+        "Hebrews 11:39-40"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "resolve"
+      ],
+      "discussion_prompt": "Every person in this chapter died without receiving the full promise, and Hebrews says the world was not worthy of them. What made their kind of faith worth a whole life of waiting, and which promise of God would you need to trust that long?",
+      "assessment_questions": [
+        "How does Hebrews 11:1 define faith, and what acts are Abel, Noah, and Abraham each remembered for in this chapter?",
+        "The chapter says these saints saw the promises from afar and greeted them as strangers and exiles on earth. Why does treating this world as a temporary home count as faith rather than escapism?",
+        "Hebrews says the ancients acted on what they could not yet see. What is one act of obedience you have been postponing until the outcome feels certain, and what would doing it now cost you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Faith defined",
+          "explanation": "Faith is confident trust in what God has promised, treating things hoped for as assured and things unseen as real."
+        },
+        {
+          "concept": "Faith acts",
+          "explanation": "Every example in the chapter shows trust turning into motion: Abel offers, Noah builds, Abraham leaves home without knowing where he is going."
+        },
+        {
+          "concept": "Pilgrim identity",
+          "explanation": "The faithful lived as strangers seeking a better country, letting God's future shape their present choices."
+        },
+        {
+          "concept": "One story, one fulfillment",
+          "explanation": "None of them received the final promise in their lifetime, because God planned for them and for us to be made perfect together in Christ."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Paraphrase Hebrews 11:1 in your own words and retell two examples from the chapter that show faith acting on what it cannot yet see.",
+      "comprehension_check": [
+        {
+          "question": "Every name in Hebrews 11 comes attached to a verb: offered, built, went, chose, crossed. What is that pattern saying about faith?",
+          "options": [
+            "Faith treats God's promise as solid enough to act on",
+            "Faith is a feeling of certainty that never once wavers",
+            "Faith means great deeds that earn God's final approval",
+            "Faith is optimism that circumstances will improve for believers"
+          ],
+          "answer_index": 0,
+          "why": "Hebrews 11:8 shows the shape of it, Abraham setting out with no map beyond the trustworthiness of the God who called him.",
+          "hint": "Read Hebrews 11:1 and Hebrews 11:8. Notice how quickly the definition turns into people doing things."
+        },
+        {
+          "question": "The chapter's heroes all die without receiving what was promised, and Hebrews calls that God's own plan (Hebrews 11:39-40). Why end a chapter on faith there?",
+          "options": [
+            "To warn readers that faith frequently goes unrewarded",
+            "To show their faith fell short of what God required",
+            "To bind their story and ours into one shared fulfillment",
+            "To prove promises lapse when their generation dies out"
+          ],
+          "answer_index": 2,
+          "why": "Hebrews 11:40 gives the reason, God arranged one shared perfecting so their long waiting and our believing finish as a single story.",
+          "hint": "Read Hebrews 11:39-40 again. Notice who must be included before any of them reaches the goal."
+        }
+      ]
+    },
+    {
+      "id": "heb-12-13",
+      "title": "Run the Race; A Kingdom That Cannot Be Shaken",
+      "chapters": [
+        12,
+        13
+      ],
+      "verse_span": {
+        "from": "12:1",
+        "to": "13:25"
+      },
+      "difficulty_tier": 3,
+      "summary": "Surrounded by that cloud of witnesses: run, eyes on Jesus, 'the founder and perfecter of our faith,' enduring discipline as sons. Not to touchable, blazing Sinai have you come, but to Mount Zion, innumerable angels, and 'the sprinkled blood that speaks a better word than Abel.' Closing charges: brotherly love, hospitality to angels unawares, marriage honored, 'Jesus Christ the same yesterday, today, and forever.'",
+      "key_themes": [
+        "endurance",
+        "discipline as sonship",
+        "two mountains",
+        "unshakable kingdom"
+      ],
+      "prerequisites": [
+        {
+          "node": "heb-11",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "'Therefore, since we are surrounded by so great a cloud of witnesses' — the race exhortation stands on the roll call.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-19-24",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The Sinai-versus-Zion contrast reworks the trembling mountain of Exodus 19-20."
+        },
+        {
+          "node": "heb-8-10",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Hebrews 12–13 assumes the theological conclusions of Hebrews 8–10 (that Christ is the final high priest, his one sacrifice perfects believers, and a better covenant is enacted) and does not reestablish those foundations, so skipping 8–10 leads to a misreading of the exhortations.",
+          "scope": "sequence"
+        },
+        {
+          "node": "heb-1-4",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Hebrews 12–13 begin with a “therefore” and presuppose the doctrinal case of Hebrews 1–4 (Christ’s superiority, the typology of rest and the warning structure), which those later chapters assume rather than re‑establish.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Hebrews 12:1-2",
+        "Hebrews 12:28",
+        "Hebrews 13:8"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "urgent",
+        "hopeful"
+      ],
+      "discussion_prompt": "Hebrews pictures the Christian life as a race run before a stadium of finished witnesses, with eyes fixed on Jesus. What weights and entangling sins would you actually have to lay aside to run that way, and what would laying them down cost you this week?",
+      "assessment_questions": [
+        "What two mountains does Hebrews 12 contrast, and what does the author say believers have come to instead of the blazing, touchable one?",
+        "Hebrews says God disciplines every child he receives, and that discipline later yields the peaceful fruit of righteousness. How does reading hardship as a father's training change what suffering means?",
+        "Chapter 13 turns the whole argument into small commands: love the brothers, open your home, honor marriage, keep free from love of money. Which of those commands most exposes you, and what is one concrete step toward obeying it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Eyes on Jesus",
+          "explanation": "Endurance comes from looking at the founder and perfecter of faith, who endured the cross for the joy set before him."
+        },
+        {
+          "concept": "Discipline as sonship",
+          "explanation": "God's correction is evidence of belonging, a father training the children he loves toward holiness."
+        },
+        {
+          "concept": "An unshakable kingdom",
+          "explanation": "Everything that can be shaken will be removed, so gratitude and reverent worship anchor believers in what remains."
+        },
+        {
+          "concept": "Faith in ordinary clothes",
+          "explanation": "The letter ends with hospitality, marriage, contentment, and steady worship, showing that great doctrine lands in daily habits."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the Sinai and Zion contrast in Hebrews 12, and name three of the closing commands that show what running the race looks like in daily life.",
+      "comprehension_check": [
+        {
+          "question": "Hebrews 12:7 tells its pressured readers to see their hardship through the lens of discipline. What are they being asked to believe about it?",
+          "options": [
+            "It is the debt their past sins are still collecting",
+            "It is a father's training, proof they are his sons",
+            "It is evidence God's favor has moved to someone else",
+            "It is random hardship every life on earth passes through"
+          ],
+          "answer_index": 1,
+          "why": "Hebrews 12:10 presents the hardship as purposeful fatherly correction whose aim is the children's share in God's own holiness.",
+          "hint": "Read Hebrews 12:7-11. Notice what the suffering is compared to, and what it is said to produce in the end."
+        },
+        {
+          "question": "Hebrews sets two mountains side by side, untouchable blazing Sinai and festive Mount Zion (Hebrews 12:18-24). What is the contrast claiming for believers now?",
+          "options": [
+            "The God of Sinai was harsher than the Father of Jesus",
+            "Fear and awe have no further place in Christian worship",
+            "The law given at Sinai may now be safely ignored",
+            "Access to God now comes as welcome through a mediator"
+          ],
+          "answer_index": 3,
+          "why": "Hebrews 12:22-24 says believers already stand at the heavenly Zion, welcomed there through Jesus and the covenant his blood seals.",
+          "hint": "Read Hebrews 12:18-24, then Hebrews 12:28-29. Notice which mountain believers stand at, and what kind of worship still follows."
+        }
+      ]
+    }
+  ]
+}

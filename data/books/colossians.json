@@ -1,0 +1,111 @@
+{
+  "book": "Colossians",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "col",
+      "title": "Colossians: Christ Over All",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:18"
+      },
+      "difficulty_tier": 3,
+      "summary": "Against a fog of add-on spirituality — visions, angel-veneration, ascetic rules — Paul answers with the highest Christology in his letters: 'the image of the invisible God… by him all things were created… in him all the fullness of God was pleased to dwell.' You died and rose with him; therefore seek the things above, and let every sphere of household life be 'in the Lord.'",
+      "key_themes": [
+        "supremacy of Christ",
+        "fullness",
+        "false spirituality",
+        "new life"
+      ],
+      "prerequisites": [
+        {
+          "node": "eph-1-3",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Colossians and Ephesians are twin letters sharing structure and vocabulary; each illuminates the other."
+        }
+      ],
+      "connections": [
+        {
+          "node": "john-1",
+          "reason": "The Christ-hymn's creation-through-him theology parallels John's prologue — the New Testament's two summits of cosmic Christology."
+        },
+        {
+          "node": "phlm",
+          "reason": "Philemon travels with this letter — Onesimus is named in Colossians 4 as 'one of you.'"
+        }
+      ],
+      "key_verses": [
+        "Colossians 1:15-17",
+        "Colossians 2:9",
+        "Colossians 3:1-2"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "confrontational"
+      ],
+      "discussion_prompt": "Paul answers teachers offering spiritual extras by describing who Christ actually is: creator, sustainer, the fullness of God in a body. Why does seeing Christ that clearly make the add-ons lose their pull, and what extras compete for your trust today?",
+      "assessment_questions": [
+        "What titles and works does the hymn in Colossians 1:15-20 give to Christ?",
+        "Paul says believers died and were raised with Christ, and then tells them to seek the things above. How does what already happened to them explain what he now asks of them?",
+        "Chapter 2 warns against rules that look wise yet lack power to restrain the flesh. What practice or rule are you tempted to trust for spiritual standing, and what would trusting Christ's sufficiency there change?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The image of the invisible God",
+          "explanation": "In Christ God is truly revealed, since all the fullness of God was pleased to dwell in him bodily."
+        },
+        {
+          "concept": "Creator and reconciler",
+          "explanation": "All things were created through Christ and for him, and through the blood of his cross God makes peace and reconciles all things."
+        },
+        {
+          "concept": "Union with Christ",
+          "explanation": "Believers died and rose with Christ in baptism, so their identity and their ethics both flow from that union."
+        },
+        {
+          "concept": "Christ is enough",
+          "explanation": "No vision, rule, or ritual adds anything to the fullness believers already have in Christ, which is why Paul refuses every substitute."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Colossians claims about who Christ is, and describe how dying and rising with him changes the way a believer lives.",
+      "comprehension_check": [
+        {
+          "question": "Colossians answers a spirituality of visions, rules, and angel-veneration with a soaring description of Christ. Why is that the letter's counter?",
+          "options": [
+            "Because error yields best to worship rather than to argument",
+            "Because the fullness already theirs in Christ leaves nothing to add",
+            "Because the rules were good early practice outgrown by mature believers",
+            "Because visions are unreliable while doctrine can be tested"
+          ],
+          "answer_index": 1,
+          "why": "Colossians 2:9-10 grounds the answer, the whole fullness dwelling in Christ and believers already complete in him.",
+          "hint": "Read Colossians 2:8-10 again. Notice what the letter says believers already have in him."
+        },
+        {
+          "question": "Colossians 3 grounds its commands in something already true, that believers died and were raised with Christ. What does that make of the Christian life?",
+          "options": [
+            "A climb toward a standing believers do not yet possess",
+            "A repayment of the debt canceled at the cross",
+            "A withdrawal from earthly duties toward heavenly contemplation",
+            "A living out of an identity already given in Christ"
+          ],
+          "answer_index": 3,
+          "why": "Colossians 3:1-4 issues its commands from a finished fact, a life already hidden with Christ in God.",
+          "hint": "Read Colossians 3:1-4 again. Notice which comes first, what has already happened or what they must now do."
+        }
+      ]
+    }
+  ]
+}

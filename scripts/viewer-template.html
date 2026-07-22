@@ -1,0 +1,438 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bible Graph Explorer</title>
+<style>
+:root{
+  --bg:#F6F5F1; --panel:#FFFFFF; --panel2:#F0EEE7; --ink:#1C2130; --muted:#6A7183;
+  --lapis:#2B4C9B; --gold:#A97B1E; --line:#E3E1D9; --sel:#EDF1FA;
+  --e-narr:#2B4C9B; --e-theo:#A97B1E; --e-lit:#3E8E8A; --e-quot:#A34A5A;
+  --arcdim:rgba(28,33,48,.06); --band:rgba(28,33,48,.028);
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#12151F; --panel:#1A1E2C; --panel2:#161A26; --ink:#E8E6DD; --muted:#97A0B5;
+  --lapis:#7FA3E8; --gold:#D9A83F; --line:#2A3044; --sel:#232B42;
+  --e-narr:#7FA3E8; --e-theo:#D9A83F; --e-lit:#6FBDB8; --e-quot:#D98A99;
+  --arcdim:rgba(232,230,221,.06); --band:rgba(232,230,221,.03);
+}}
+:root[data-theme="light"]{
+  --bg:#F6F5F1; --panel:#FFFFFF; --panel2:#F0EEE7; --ink:#1C2130; --muted:#6A7183;
+  --lapis:#2B4C9B; --gold:#A97B1E; --line:#E3E1D9; --sel:#EDF1FA;
+  --e-narr:#2B4C9B; --e-theo:#A97B1E; --e-lit:#3E8E8A; --e-quot:#A34A5A;
+  --arcdim:rgba(28,33,48,.06); --band:rgba(28,33,48,.028);
+}
+:root[data-theme="dark"]{
+  --bg:#12151F; --panel:#1A1E2C; --panel2:#161A26; --ink:#E8E6DD; --muted:#97A0B5;
+  --lapis:#7FA3E8; --gold:#D9A83F; --line:#2A3044; --sel:#232B42;
+  --e-narr:#7FA3E8; --e-theo:#D9A83F; --e-lit:#6FBDB8; --e-quot:#D98A99;
+  --arcdim:rgba(232,230,221,.06); --band:rgba(232,230,221,.03);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;}
+.serif{font-family:"Iowan Old Style",Palatino,"Palatino Linotype","Book Antiqua",Georgia,serif}
+.mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+header{padding:26px 28px 10px;display:flex;flex-wrap:wrap;gap:14px;align-items:baseline}
+header h1{margin:0;font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;
+  font-size:30px;font-weight:600;letter-spacing:.2px;text-wrap:balance}
+header h1 em{color:var(--gold);font-style:normal}
+.counts{color:var(--muted);font-size:13px}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;padding:4px 28px 14px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--panel)}
+.seg button{border:0;background:transparent;color:var(--muted);padding:6px 14px;font-size:13px;cursor:pointer}
+.seg button.on{background:var(--lapis);color:var(--bg);}
+.seg button:focus-visible,input:focus-visible,.nl button:focus-visible,.chip:focus-visible{outline:2px solid var(--gold);outline-offset:1px}
+input[type=search]{border:1px solid var(--line);background:var(--panel);color:var(--ink);
+  border-radius:999px;padding:7px 16px;font-size:14px;width:260px}
+#arcwrap{overflow-x:auto;border-block:1px solid var(--line);background:var(--panel2);position:relative}
+#arc{display:block;cursor:pointer}
+.legend{display:flex;gap:16px;flex-wrap:wrap;padding:8px 28px;color:var(--muted);font-size:12px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.swatch{width:14px;height:3px;border-radius:2px;display:inline-block}
+main{display:grid;grid-template-columns:340px 1fr;gap:0;min-height:60vh}
+@media(max-width:820px){main{grid-template-columns:1fr}}
+.nl{border-right:1px solid var(--line);max-height:78vh;overflow-y:auto;padding:10px 0}
+@media(max-width:820px){.nl{max-height:34vh;border-right:0;border-bottom:1px solid var(--line)}}
+.bookhead{position:sticky;top:0;background:var(--bg);padding:8px 20px 4px;font-size:11px;
+  text-transform:uppercase;letter-spacing:.12em;color:var(--muted)}
+.nl button.node{display:flex;width:100%;text-align:left;border:0;background:transparent;color:var(--ink);
+  padding:7px 20px;cursor:pointer;gap:10px;align-items:baseline;font-size:14px}
+.nl button.node:hover{background:var(--sel)}
+.nl button.node.sel{background:var(--sel);box-shadow:inset 3px 0 0 var(--gold)}
+.tier{font-size:10px;color:var(--gold);letter-spacing:1px;flex:none;width:38px}
+.deut{color:var(--muted);font-size:10px;border:1px dashed var(--muted);border-radius:4px;padding:0 4px;flex:none}
+#detail{padding:26px 34px;max-width:74ch}
+#detail h2{font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;
+  font-size:26px;margin:0 0 2px;font-weight:600;text-wrap:balance}
+.meta{color:var(--muted);font-size:13px;margin-bottom:8px}
+.meta .mono{color:var(--gold)}
+.depth{color:var(--muted);font-size:12px;margin-bottom:14px;padding:5px 9px;border-left:2px solid var(--gold);
+  background:rgba(255,255,255,.03);border-radius:0 3px 3px 0;cursor:help}
+.depth b{color:var(--ink)}
+#detail p.sum{font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;
+  font-size:17px;line-height:1.65}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 4px}
+.chip{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:3px 12px;
+  font-size:12px;color:var(--muted);cursor:default}
+.chip.link{cursor:pointer;color:var(--lapis)}
+h3.sect{font-size:12px;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);
+  margin:26px 0 8px;border-bottom:1px solid var(--line);padding-bottom:5px}
+.edge{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;padding:10px 12px;border-left:3px solid var(--line);
+  margin:8px 0;background:var(--panel);border-radius:0 8px 8px 0}
+.edge a{color:var(--lapis);font-weight:600;text-decoration:none;cursor:pointer}
+.edge a:hover{text-decoration:underline}
+.edge .kind{font-size:11px;letter-spacing:.06em;text-transform:uppercase}
+.edge .why{grid-column:1/-1;color:var(--muted);font-size:13.5px}
+.trad{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--gold);
+  padding:12px 16px;border-radius:0 8px 8px 0;font-size:14px;color:var(--muted)}
+details.trail{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 16px}
+details.trail summary{cursor:pointer;font-weight:600;color:var(--lapis)}
+ol.trail{margin:10px 0 4px;padding-left:1.6em;column-width:16em;column-gap:2.5em}
+ol.trail li{margin:2px 0;font-size:13.5px}
+ol.trail a{color:var(--lapis);text-decoration:none;cursor:pointer}
+ol.trail a:hover{text-decoration:underline}
+.pathstep{display:grid;grid-template-columns:2.2em 1fr;gap:2px 10px;padding:8px 10px;border-radius:8px}
+.pathstep:hover{background:var(--sel)}
+.pathstep .n{color:var(--gold);font-variant-numeric:tabular-nums;text-align:right}
+.pathstep a{color:var(--lapis);font-weight:600;cursor:pointer;text-decoration:none}
+.pathstep .note{grid-column:2;color:var(--muted);font-size:13.5px}
+.pathhead p{color:var(--muted);max-width:65ch}
+select{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:8px;padding:7px 10px;font-size:14px}
+footer{padding:18px 28px 30px;color:var(--muted);font-size:12.5px;border-top:1px solid var(--line);margin-top:30px}
+@media (prefers-reduced-motion: no-preference){
+  #detail>*{animation:fade .25s ease}
+  @keyframes fade{from{opacity:0;transform:translateY(3px)}to{opacity:1}}
+}
+</style>
+
+<header>
+  <h1>Bible Graph <em>Explorer</em></h1>
+  <span class="counts" id="counts"></span>
+</header>
+
+<div class="controls">
+  <div class="seg" id="layerseg" role="group" aria-label="Canon layer">
+    <button type="button" data-l="core" class="on">66-book core</button><button type="button" data-l="catholic">+ Catholic</button><button type="button" data-l="orthodox">+ Orthodox</button>
+  </div>
+  <div class="seg" id="modeseg" role="group" aria-label="Mode">
+    <button type="button" data-m="explore" class="on">Explore</button><button type="button" data-m="paths">Reading paths</button>
+  </div>
+  <div class="seg" id="viewseg" role="group" aria-label="Chart view">
+    <button type="button" data-v="ascent" class="on">Ascent</button><button type="button" data-v="arcs">Arcs</button>
+  </div>
+  <input type="search" id="q" placeholder="Search title, book, theme…" aria-label="Search nodes">
+</div>
+
+<div id="arcwrap"><canvas id="arc" role="img" aria-label="The canon as an ascent: five difficulty tiers stacked bottom-to-top, every prerequisite edge climbing from read-this-first to what it unlocks"></canvas></div>
+<div class="legend">
+  <span id="viewcaption"><b style="color:var(--ink)">The ascent:</b>&nbsp;entry points at the bottom, hardest books at the top — every edge climbs from prerequisite to dependent</span>
+  <span><i class="swatch" style="background:var(--e-narr)"></i>narrative</span>
+  <span><i class="swatch" style="background:var(--e-theo)"></i>theological</span>
+  <span><i class="swatch" style="background:var(--e-lit)"></i>literary</span>
+  <span><i class="swatch" style="background:var(--e-quot)"></i>quotation</span>
+  <span>· click a node to light everything you must read before it</span>
+</div>
+
+<main>
+  <nav class="nl" id="list" aria-label="Node list"></nav>
+  <section id="detail" aria-live="polite"></section>
+</main>
+
+<footer>
+  Bible Graph · an open prerequisite graph of the Bible · ODbL 1.0 (database) + CC BY-SA 4.0 (content) · © AfterPew.
+  Directional edges mean “read this first,” not merely “related.” The 66-book core stands alone; deuterocanonical layers add nodes whose edges point into the core, never the reverse.
+</footer>
+
+<script>
+const DATA = /*__DATA__*/;
+const nodes = DATA.nodes, edges = DATA.edges, paths = DATA.paths;
+const byId = new Map(nodes.map(n=>[n.id,n]));
+const idx = new Map(nodes.map((n,i)=>[n.id,i]));
+const outOf = new Map(), into = new Map();   // outOf: prereq -> [edges it unlocks]
+for(const e of edges){
+  (into.get(e.n) ?? into.set(e.n,[]).get(e.n)).push(e);
+  (outOf.get(e.p) ?? outOf.set(e.p,[]).get(e.p)).push(e);
+}
+const LAYERS = {core:["core"], catholic:["core","catholic_deuterocanon"], orthodox:["core","catholic_deuterocanon","orthodox_addition"]};
+let layer="core", mode="explore", selected=null, hovered=null, query="";
+
+const visNodes = ()=>nodes.filter(n=>LAYERS[layer].includes(n.layer));
+const visSet = ()=>new Set(visNodes().map(n=>n.id));
+
+// full prerequisite ancestry (transitive closure upward through `into`)
+function ancestors(id, vset){
+  const seen=new Set(), stack=[id];
+  while(stack.length){
+    for(const e of into.get(stack.pop())||[]){
+      if(vset.has(e.p)&&!seen.has(e.p)){seen.add(e.p);stack.push(e.p)}
+    }
+  }
+  return seen;
+}
+function descendants(id, vset){
+  const seen=new Set(), stack=[id];
+  while(stack.length){
+    for(const e of outOf.get(stack.pop())||[]){
+      if(vset.has(e.n)&&!seen.has(e.n)){seen.add(e.n);stack.push(e.n)}
+    }
+  }
+  return seen;
+}
+
+/* ---------- the ascent (tier-ladder chart) ---------- */
+const canvas=document.getElementById("arc"), wrap=document.getElementById("arcwrap");
+let pos=new Map(), W=0, H=430, view="ascent";
+const DPR=Math.min(window.devicePixelRatio||1,2), ARCBASE=210;
+const bandY=t=>388-(t-1)*82;   // tier 1 bottom (y=388) … tier 5 top (y=60)
+function cssVar(n){return getComputedStyle(document.documentElement).getPropertyValue(n).trim()}
+function layout(){
+  H = view==="ascent" ? 430 : 270;
+  const vs=visNodes(); const gap=Math.max(view==="ascent"?8:7,Math.floor(Math.max(wrap.clientWidth-80,900)/vs.length));
+  W=Math.max(wrap.clientWidth, vs.length*gap+80);
+  pos=new Map(vs.map((n,i)=>[n.id,{x:56+i*gap,y:view==="ascent"?bandY(n.tier):ARCBASE}]));
+  canvas.width=W*DPR; canvas.height=H*DPR; canvas.style.width=W+"px"; canvas.style.height=H+"px";
+}
+const EC={narrative:"--e-narr",theological:"--e-theo",literary:"--e-lit",quotation:"--e-quot"};
+function edgePath(ctx,a,b){
+  // climb: S-curve from prerequisite up/over to dependent; same-tier edges hop slightly
+  if(a.y===b.y){
+    const lift=Math.min(30,Math.abs(b.x-a.x)/4+10);
+    ctx.moveTo(a.x,a.y); ctx.quadraticCurveTo((a.x+b.x)/2,a.y-lift,b.x,b.y);
+  }else{
+    const my=(a.y+b.y)/2;
+    ctx.moveTo(a.x,a.y); ctx.bezierCurveTo(a.x,my,b.x,my,b.x,b.y);
+  }
+}
+function arrowhead(ctx,a,b){
+  // direction cue at the dependent end, along final approach
+  const fromY=a.y===b.y?b.y-8:(a.y+b.y)/2;
+  const ang=Math.atan2(b.y-fromY, a.y===b.y?(b.x-a.x)*.25:0)||(b.y<a.y?-Math.PI/2:Math.PI/2);
+  ctx.beginPath();
+  ctx.moveTo(b.x,b.y);
+  ctx.lineTo(b.x-5*Math.cos(ang-0.5),b.y-5*Math.sin(ang-0.5));
+  ctx.lineTo(b.x-5*Math.cos(ang+0.5),b.y-5*Math.sin(ang+0.5));
+  ctx.closePath(); ctx.fill();
+}
+function draw(){
+  const ctx=canvas.getContext("2d"); ctx.setTransform(DPR,0,0,DPR,0,0);
+  ctx.clearRect(0,0,W,H);
+  const vset=visSet(), focus=hovered||selected;
+  if(view==="arcs"){drawArcs(ctx,vset,focus);return}
+  // tier bands
+  for(let t=5;t>=1;t--){
+    const y=bandY(t);
+    ctx.fillStyle=cssVar("--band"); if(t%2) ctx.fillRect(0,y-34,W,70);
+    ctx.strokeStyle=cssVar("--line"); ctx.globalAlpha=.5;
+    ctx.beginPath(); ctx.moveTo(0,y+30); ctx.lineTo(W,y+30); ctx.stroke(); ctx.globalAlpha=1;
+  }
+  // ancestry sets for focus
+  let up=null,down=null;
+  if(focus){ up=ancestors(focus,vset); down=descendants(focus,vset); }
+  // edges
+  for(const e of edges){
+    if(!vset.has(e.n)||!vset.has(e.p)) continue;
+    const a=pos.get(e.p), b=pos.get(e.n); if(!a||!b) continue;
+    let strong=false;
+    if(focus){
+      const inUp=(e.n===focus||up.has(e.n))&&(e.p===focus||up.has(e.p)||e.n===focus);
+      const inDown=(e.p===focus||down.has(e.p))&&(e.n===focus||down.has(e.n)||e.p===focus);
+      strong=inUp||inDown;
+      if(!strong){ctx.strokeStyle=cssVar("--arcdim");ctx.lineWidth=1;ctx.beginPath();edgePath(ctx,a,b);ctx.stroke();continue}
+    }
+    ctx.strokeStyle=cssVar(EC[e.t]);
+    ctx.globalAlpha=strong?.95:(e.s==="hard"?.4:.13);
+    ctx.lineWidth=strong?1.8:1;
+    ctx.beginPath(); edgePath(ctx,a,b); ctx.stroke();
+    if(strong){ctx.fillStyle=cssVar(EC[e.t]); arrowhead(ctx,a,b);}
+    ctx.globalAlpha=1;
+  }
+  // nodes
+  for(const n of visNodes()){
+    const p=pos.get(n.id);
+    const isSel=n.id===selected, isHov=n.id===hovered;
+    const lit=focus&&(n.id===focus||up.has(n.id)||down.has(n.id));
+    ctx.beginPath();
+    ctx.arc(p.x,p.y,isSel||isHov?6:3.2,0,7);
+    const col=n.t==="NT"?cssVar("--gold"):cssVar("--lapis");
+    if(n.layer==="core"){ ctx.fillStyle=col; ctx.globalAlpha=focus?(lit?1:.18):.85; ctx.fill(); }
+    else{ ctx.strokeStyle=col; ctx.lineWidth=1.6; ctx.globalAlpha=focus?(lit?1:.18):.85; ctx.stroke(); }
+    ctx.globalAlpha=1;
+  }
+  // tier + focus labels (drawn at current scroll position so they stay visible)
+  const sx=wrap.scrollLeft;
+  ctx.font="10.5px system-ui"; ctx.textAlign="left"; ctx.fillStyle=cssVar("--muted");
+  const TL=["","TIER 1 · ENTRY POINTS","TIER 2 · BASIC LITERACY","TIER 3 · COVENANT & CONTEXT","TIER 4 · DEEP BACKGROUND","TIER 5 · WHOLE-BIBLE"];
+  for(let t=1;t<=5;t++) ctx.fillText(TL[t],sx+10,bandY(t)-22);
+  ctx.fillText("◦ OT lapis · NT gold · hollow = deuterocanonical",sx+10,H-10);
+  if(focus&&byId.get(focus)){
+    const p=pos.get(focus);
+    if(p){ctx.fillStyle=cssVar("--ink");ctx.font="600 12px system-ui";
+      ctx.textAlign=p.x-sx>wrap.clientWidth-190?"right":"left";
+      ctx.fillText(byId.get(focus).title,p.x+(p.x-sx>wrap.clientWidth-190?-9:9),p.y-9);
+      if(up){ctx.font="11px system-ui";ctx.fillStyle=cssVar("--muted");
+        ctx.fillText(`${up.size} to read first · unlocks ${down.size}`,p.x+(p.x-sx>wrap.clientWidth-190?-9:9),p.y+16)}}
+  }
+}
+function drawArcs(ctx,vset,focus){
+  // the rainbow view: all nodes on one canonical baseline, arcs reaching back
+  let up=null,down=null;
+  if(focus){ up=ancestors(focus,vset); down=descendants(focus,vset); }
+  for(const e of edges){
+    if(!vset.has(e.n)||!vset.has(e.p)) continue;
+    const a=pos.get(e.p), b=pos.get(e.n); if(!a||!b) continue;
+    let strong=false;
+    if(focus){
+      strong=(e.n===focus||up.has(e.n)||down.has(e.n))&&(e.p===focus||up.has(e.p)||down.has(e.p));
+      if(!strong){ctx.strokeStyle=cssVar("--arcdim");ctx.lineWidth=1;
+        ctx.beginPath();arcPath(ctx,a.x,b.x);ctx.stroke();continue}
+    }
+    ctx.strokeStyle=cssVar(EC[e.t]);
+    ctx.globalAlpha=strong?.95:(e.s==="hard"?.5:.18);
+    ctx.lineWidth=strong?1.8:1;
+    ctx.beginPath(); arcPath(ctx,a.x,b.x); ctx.stroke(); ctx.globalAlpha=1;
+  }
+  for(const n of visNodes()){
+    const p=pos.get(n.id), isSel=n.id===selected, isHov=n.id===hovered;
+    const lit=focus&&(n.id===focus||up.has(n.id)||down.has(n.id));
+    ctx.fillStyle=n.t==="NT"?cssVar("--gold"):cssVar("--lapis");
+    ctx.globalAlpha=focus?(lit?1:.2):.75;
+    const h=isSel||isHov?18:(9+n.tier);
+    ctx.fillRect(p.x-1.2,ARCBASE,2.4,h*.9);
+    ctx.globalAlpha=1;
+    if(n.layer!=="core"){ctx.fillStyle=cssVar("--muted");ctx.fillRect(p.x-1.2,ARCBASE+20,2.4,3)}
+  }
+  const sx=wrap.scrollLeft;
+  ctx.fillStyle=cssVar("--muted"); ctx.font="11px system-ui"; ctx.textAlign="left";
+  const firstNT=visNodes().find(n=>n.t==="NT");
+  ctx.fillText("OLD TESTAMENT",sx+10,H-8);
+  if(firstNT&&pos.get(firstNT.id).x>sx) ctx.fillText("NEW TESTAMENT",pos.get(firstNT.id).x,H-8);
+  if(focus&&byId.get(focus)){
+    const p=pos.get(focus); if(p){
+      ctx.fillStyle=cssVar("--ink"); ctx.font="600 12px system-ui";
+      ctx.textAlign=p.x-sx>wrap.clientWidth-190?"right":"left";
+      ctx.fillText(byId.get(focus).title,p.x+(p.x-sx>wrap.clientWidth-190?-6:6),ARCBASE+34);
+      ctx.font="11px system-ui"; ctx.fillStyle=cssVar("--muted");
+      ctx.fillText(`${up.size} to read first · unlocks ${down.size}`,p.x+(p.x-sx>wrap.clientWidth-190?-6:6),ARCBASE+50);
+    }
+  }
+}
+function arcPath(ctx,x1,x2){
+  const mid=(x1+x2)/2, r=Math.abs(x2-x1)/2, lift=Math.min(r*.9,ARCBASE-16);
+  ctx.moveTo(x1,ARCBASE); ctx.quadraticCurveTo(mid,ARCBASE-lift*1.5,x2,ARCBASE);
+}
+function nodeAt(evt){
+  const rect=canvas.getBoundingClientRect(), x=evt.clientX-rect.left, y=evt.clientY-rect.top;
+  let best=null,bd=view==="ascent"?11:6;
+  for(const [id,p] of pos){
+    const d=view==="ascent"?Math.hypot(p.x-x,p.y-y):Math.abs(p.x-x);
+    if(d<bd){bd=d;best=id}
+  }
+  return best;
+}
+canvas.addEventListener("mousemove",e=>{const n=nodeAt(e); if(n!==hovered){hovered=n;draw()}});
+canvas.addEventListener("mouseleave",()=>{hovered=null;draw()});
+canvas.addEventListener("click",e=>{const n=nodeAt(e); if(n) select(n,true)});
+wrap.addEventListener("scroll",()=>draw(),{passive:true});
+
+/* ---------- node list ---------- */
+const list=document.getElementById("list");
+function renderList(){
+  const q=query.toLowerCase();
+  const match=n=>!q||n.id.includes(q)||n.title.toLowerCase().includes(q)||n.book.toLowerCase().includes(q)||n.themes.some(t=>t.toLowerCase().includes(q));
+  let html="",lastBook="";
+  for(const n of visNodes()){
+    if(!match(n)) continue;
+    if(n.book!==lastBook){lastBook=n.book;html+=`<div class="bookhead">${n.book}</div>`}
+    html+=`<button class="node${n.id===selected?" sel":""}" data-id="${n.id}">
+      <span class="tier">${"●".repeat(n.tier)}</span><span>${n.title}</span>
+      ${n.layer!=="core"?'<span class="deut">deut</span>':""}</button>`;
+  }
+  list.innerHTML=html||'<div class="bookhead">No matches.</div>';
+}
+list.addEventListener("click",e=>{const b=e.target.closest("button.node"); if(b) select(b.dataset.id,false)});
+
+/* ---------- detail ---------- */
+const detail=document.getElementById("detail");
+const esc=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;");
+function edgeRow(e,dir){
+  const other=byId.get(dir==="in"?e.p:e.n); if(!other) return "";
+  return `<div class="edge" style="border-left-color:var(${EC[e.t]})">
+    <a data-id="${other.id}">${esc(other.title)}</a>
+    <span class="kind" style="color:var(${EC[e.t]})">${e.t} · ${e.s}${e.sc?` · ${e.sc==="foundation"?"idea":"story"}`:""}</span>
+    <span class="why">${esc(e.r)}</span></div>`;
+}
+function renderDetail(){
+  const n=byId.get(selected);
+  if(!n){detail.innerHTML=`<h2 class="serif">A map of what to read first</h2>
+    <p class="sum serif">This is not a cross-reference chart. Every edge here is directional — “understand this <i>before</i> reading that” — typed by <i>why</i> the dependency exists, and every node sits on a difficulty tier. Click any dot on the ascent, or any entry on the left, and the graph lights up everything that should come before it and everything it unlocks.</p>`;return}
+  const vset=visSet();
+  const pre=(into.get(n.id)||[]).filter(e=>vset.has(e.p)), unl=(outOf.get(n.id)||[]).filter(e=>vset.has(e.n));
+  const anc=[...ancestors(n.id,vset)].map(id=>byId.get(id)).sort((a,b)=>idx.get(a.id)-idx.get(b.id));
+  detail.innerHTML=`
+    <h2>${esc(n.title)}</h2>
+    <div class="meta"><span class="mono">${n.id}</span> · ${n.book} ${n.ch.join(", ")} · ${n.t} · ${n.dom} · difficulty <b style="color:var(--gold)">${"●".repeat(n.tier)}${"○".repeat(5-n.tier)}</b>${n.layer!=="core"?" · "+n.layer.replace(/_/g," "):""}</div>
+    <div class="depth" title="Difficulty is how hard this passage is to understand. Depth is how much the graph says must come before it. They are independent. Depth counts a story link only where it continues this passage's own book, and follows an idea link wherever it leads.">${n.depth===0?"<b>Starts here</b> — nothing is required before this one":`<b>${n.depth}</b> node${n.depth===1?"":"s"} must be read before this one`}</div>
+    <p class="sum">${esc(n.sum)}</p>
+    <div class="chips">${n.themes.map(t=>`<span class="chip">${esc(t)}</span>`).join("")}</div>
+    ${n.trad?`<h3 class="sect">Where traditions diverge</h3><div class="trad">${esc(n.trad)}</div>`:""}
+    <h3 class="sect">Read first (${pre.length})</h3>
+    ${pre.length?pre.map(e=>edgeRow(e,"in")).join(""):'<p style="color:var(--muted)">Nothing — this is an entry point.</p>'}
+    ${anc.length>pre.length?`<details class="trail"><summary>Full prerequisite trail — ${anc.length} units stand behind this one</summary>
+      <ol class="trail">${anc.map(a=>`<li><a data-id="${a.id}">${esc(a.title)}</a></li>`).join("")}</ol></details>`:""}
+    <h3 class="sect">Unlocks (${unl.length})</h3>
+    ${unl.length?unl.map(e=>edgeRow(e,"out")).join(""):'<p style="color:var(--muted)">Nothing depends on this node.</p>'}
+    ${n.conns.length?`<h3 class="sect">Related (not required)</h3>${n.conns.map(c=>{const o=byId.get(c.node);return o&&vset.has(o.id)?`<div class="edge"><a data-id="${o.id}">${esc(o.title)}</a><span></span><span class="why">${esc(c.reason)}</span></div>`:""}).join("")}`:""}
+    ${n.paths.length?`<h3 class="sect">Appears in paths</h3><div class="chips">${n.paths.map(p=>`<span class="chip link" data-path="${p}">${esc((paths.find(x=>x.id===p)||{}).title||p)}</span>`).join("")}</div>`:""}`;
+}
+detail.addEventListener("click",e=>{
+  const a=e.target.closest("[data-id]"); if(a){select(a.dataset.id,false);return}
+  const p=e.target.closest("[data-path]"); if(p){mode="paths";syncSeg();renderPaths(p.dataset.path)}
+});
+
+/* ---------- paths mode ---------- */
+function renderPaths(pid){
+  const p=paths.find(x=>x.id===pid)||paths[0];
+  list.innerHTML=`<div style="padding:14px 20px">
+    <select id="pathsel" aria-label="Reading path">${paths.map(x=>`<option value="${x.id}"${x.id===p.id?" selected":""}>${esc(x.title)}</option>`).join("")}</select>
+    <div class="pathhead"><p>${esc(p.description)}</p><p><b>For:</b> ${esc(p.audience)}</p></div></div>
+    ${p.seq.map((s,i)=>{const n=byId.get(s.node);return`<div class="pathstep"><span class="n">${i+1}</span><a data-id="${s.node}">${n?esc(n.title):s.node}</a>${s.note?`<span class="note">${esc(s.note)}</span>`:""}</div>`}).join("")}`;
+  const sel=document.getElementById("pathsel");
+  sel.addEventListener("change",()=>renderPaths(sel.value));
+}
+
+/* ---------- wiring ---------- */
+function select(id,scrollList){
+  selected=id; draw();
+  if(mode==="explore"){renderList(); if(scrollList){const b=list.querySelector(`[data-id="${id}"]`); b&&b.scrollIntoView({block:"nearest"})}}
+  renderDetail();
+}
+function syncSeg(){
+  document.querySelectorAll("#modeseg button").forEach(b=>b.classList.toggle("on",b.dataset.m===mode));
+  document.querySelectorAll("#layerseg button").forEach(b=>b.classList.toggle("on",b.dataset.l===layer));
+}
+document.getElementById("layerseg").addEventListener("click",e=>{
+  const b=e.target.closest("button"); if(!b) return; layer=b.dataset.l; syncSeg();
+  if(selected&&!visSet().has(selected)) selected=null;
+  layout(); draw(); mode==="explore"?renderList():renderPaths(document.getElementById("pathsel")?.value); renderDetail(); updateCounts();
+});
+document.getElementById("modeseg").addEventListener("click",e=>{
+  const b=e.target.closest("button"); if(!b) return; mode=b.dataset.m; syncSeg();
+  mode==="explore"?renderList():renderPaths();
+});
+document.getElementById("q").addEventListener("input",e=>{query=e.target.value; if(mode==="explore") renderList()});
+document.getElementById("viewseg").addEventListener("click",e=>{
+  const b=e.target.closest("button"); if(!b) return; view=b.dataset.v;
+  document.querySelectorAll("#viewseg button").forEach(x=>x.classList.toggle("on",x.dataset.v===view));
+  document.getElementById("viewcaption").innerHTML = view==="ascent"
+    ? '<b style="color:var(--ink)">The ascent:</b>&nbsp;entry points at the bottom, hardest books at the top — every edge climbs from prerequisite to dependent'
+    : '<b style="color:var(--ink)">The arcs:</b>&nbsp;the whole canon on one line — every arc reaches back from a passage to what should be read before it';
+  layout(); draw();
+});
+function updateCounts(){
+  const vs=visNodes(), ve=edges.filter(e=>visSet().has(e.n)&&visSet().has(e.p));
+  document.getElementById("counts").textContent=`${vs.length} nodes · ${ve.length} directional edges · ${paths.length} reading paths`;
+}
+new MutationObserver(()=>draw()).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>draw());
+window.addEventListener("resize",()=>{layout();draw()});
+layout(); draw(); renderList(); renderDetail(); updateCounts();
+</script>

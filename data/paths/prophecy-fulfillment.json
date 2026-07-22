@@ -1,0 +1,159 @@
+{
+  "id": "prophecy-fulfillment",
+  "title": "Prophecy and Fulfillment",
+  "description": "Old Testament promises paired with their New Testament fulfillments, read in sequence: promise first, then the passage that claims it fulfilled.",
+  "audience": "A reader who wants to see the Bible's promise-and-fulfillment architecture with their own eyes.",
+  "coverage": "slice",
+  "order": "enforced",
+  "canon_layers": [
+    "core"
+  ],
+  "sequence": [
+    {
+      "node": "gen-1-3",
+      "note": "The first promise: the woman's seed will crush the serpent."
+    },
+    {
+      "node": "rom-5-8",
+      "note": "The second Adam undoes the first (ch. 5) — and at the letter's close, 'the God of peace will soon crush Satan under your feet' (16:20)."
+    },
+    {
+      "node": "gen-12-17",
+      "note": "All nations blessed through Abraham's seed."
+    },
+    {
+      "node": "gal",
+      "note": "Paul: 'the seed is Christ' — and the nations are being blessed."
+    },
+    {
+      "node": "deut-12-16a",
+      "note": "A prophet like Moses will arise (ch. 18)."
+    },
+    {
+      "node": "deut-16b-18"
+    },
+    {
+      "node": "deut-19-26"
+    },
+    {
+      "node": "acts-2",
+      "note": "Pentecost first: the Spirit falls and Peter preaches the risen Christ. Everything the apostles say next stands on this."
+    },
+    {
+      "node": "acts-3-5",
+      "note": "Peter names Jesus as that prophet."
+    },
+    {
+      "node": "2sam-7",
+      "note": "A son of David on an everlasting throne."
+    },
+    {
+      "node": "luke-1-2",
+      "note": "Gabriel to Mary: 'the throne of his father David… his kingdom will never end.'"
+    },
+    {
+      "node": "isa-7-12",
+      "note": "Immanuel; a child called Mighty God."
+    },
+    {
+      "node": "mic-4-7",
+      "note": "And the ruler will come from little Bethlehem."
+    },
+    {
+      "node": "matt-1-2",
+      "note": "Matthew quotes both: virgin and Immanuel, Bethlehem and the shepherd-king."
+    },
+    {
+      "node": "mal",
+      "note": "A messenger will prepare the way; Elijah will come first."
+    },
+    {
+      "node": "matt-3-4",
+      "note": "John the Baptist — camel hair, wilderness, 'prepare the way.'"
+    },
+    {
+      "node": "isa-56-59",
+      "note": "The Spirit-anointed herald of good news to the poor (ch. 61)."
+    },
+    {
+      "node": "isa-60-62"
+    },
+    {
+      "node": "isa-63-66"
+    },
+    {
+      "node": "luke-3-4",
+      "note": "'Today this scripture is fulfilled in your hearing.'"
+    },
+    {
+      "node": "ps-22",
+      "note": "Forsaken, mocked, pierced, garments divided."
+    },
+    {
+      "node": "isa-52-53",
+      "note": "The Servant crushed for our iniquities."
+    },
+    {
+      "node": "matt-26-28",
+      "note": "The passion narratives quote and echo both throughout."
+    },
+    {
+      "node": "1pet",
+      "note": "'By his wounds you have been healed' — Isaiah 53 preached to the church."
+    },
+    {
+      "node": "ps-110",
+      "note": "David's Lord at God's right hand, a priest forever."
+    },
+    {
+      "node": "heb-5-7",
+      "note": "Hebrews builds the whole priesthood of Christ on that psalm."
+    },
+    {
+      "node": "jer-30-33",
+      "note": "A new covenant: law on hearts, sins remembered no more."
+    },
+    {
+      "node": "heb-8-10",
+      "note": "Quoted in full and declared in force through Christ's one offering."
+    },
+    {
+      "node": "joel",
+      "note": "'I will pour out my Spirit on all flesh.'"
+    },
+    {
+      "node": "ezek-33-37",
+      "note": "A new heart, and my Spirit within you."
+    },
+    {
+      "node": "dan-7",
+      "note": "One like a son of man receives everlasting dominion."
+    },
+    {
+      "node": "rev-1-3",
+      "note": "John sees him — 'coming with the clouds; every eye will see him.'"
+    },
+    {
+      "node": "zech-9-14",
+      "note": "The pierced one; the fountain opened for sin."
+    },
+    {
+      "node": "john-18-21",
+      "note": "'They will look on him whom they have pierced' — cited at the cross."
+    },
+    {
+      "node": "ezek-40-42",
+      "note": "The river of life from the sanctuary; the LORD is there."
+    },
+    {
+      "node": "ezek-43-46"
+    },
+    {
+      "node": "ezek-47-48"
+    },
+    {
+      "node": "rev-21-22",
+      "note": "Every thread ties off: new creation, God with us, the tree of life open again."
+    }
+  ]
+}

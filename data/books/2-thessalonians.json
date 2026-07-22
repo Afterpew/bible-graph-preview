@@ -1,0 +1,112 @@
+{
+  "book": "2 Thessalonians",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "2thess",
+      "title": "2 Thessalonians: The Day Has Not Arrived",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:18"
+      },
+      "difficulty_tier": 4,
+      "summary": "Someone convinced the church the day of the Lord had already come; Paul steadies them: first comes the rebellion and 'the man of lawlessness' who exalts himself in God's temple — mysterious verses that have generated two millennia of speculation — and meanwhile, no idle waiting: 'if anyone is not willing to work, let him not eat.'",
+      "key_themes": [
+        "man of lawlessness",
+        "steadfastness",
+        "work",
+        "judgment and relief"
+      ],
+      "prerequisites": [
+        {
+          "node": "1thess",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The letter corrects a misreading of the first letter's second-coming teaching — it cannot be read alone.",
+          "scope": "foundation"
+        },
+        {
+          "node": "dan-8-12",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The self-exalting man of lawlessness draws on Daniel's desolating figure who magnifies himself above every god."
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-12-14",
+          "reason": "The lawless one and Revelation's beast are the New Testament's twin portraits of final anti-God power."
+        }
+      ],
+      "key_verses": [
+        "2 Thessalonians 2:1-3",
+        "2 Thessalonians 2:15",
+        "2 Thessalonians 3:10"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "resolve"
+      ],
+      "discussion_prompt": "The Thessalonians were shaken by a claim that the day of the Lord had already come, and Paul's remedy is to hold fast to what they were taught and keep working. Why do rumors about the end unsettle people so easily, and what does Paul's remedy say about what healthy hope looks like?",
+      "assessment_questions": [
+        "What false claim had unsettled the church, and what does Paul say must happen before the day of the Lord arrives?",
+        "Paul reminds the church of a man of lawlessness and a restrainer without giving names or dates we can pin down. What is his main point in chapter 2, and how does it steady a shaken church?",
+        "Paul commands that anyone unwilling to work should not eat, and tells the church not to grow weary in doing good. How can waiting for Christ slide into idleness, and what keeps your own hope productive?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God's righteous judgment",
+          "explanation": "God will repay the affliction of his people and give them relief at Christ's revealing, so present suffering is never the last word."
+        },
+        {
+          "concept": "The day has not arrived",
+          "explanation": "Paul's core correction is that the day of the Lord is still future, so believers should refuse every claim or rumor that it has already come."
+        },
+        {
+          "concept": "Mystery held with humility",
+          "explanation": "The man of lawlessness and the restrainer are described without identities or dates we can fix, so Christians hold the details loosely while trusting the outcome."
+        },
+        {
+          "concept": "Hope that works",
+          "explanation": "Real expectation of Christ's return produces steady endurance and honest daily labor, never idle waiting or freeloading."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the error Paul corrects about the day of the Lord, and describe how he tells the church to live while it waits.",
+      "comprehension_check": [
+        {
+          "question": "2 Thessalonians 2 answers a report that the day of the Lord had already come. What is Paul's steadying move?",
+          "options": [
+            "He names what must come first, showing the day has not arrived",
+            "He denies the day can be discussed, ending all speculation about it",
+            "He moves their hope away from the day toward present endurance alone"
+          ],
+          "answer_index": 0,
+          "why": "2 Thessalonians 2:3 steadies the church by naming what precedes that day, so the alarming report collapses.",
+          "hint": "Read 2 Thessalonians 2:1-3 again. Notice the word Paul uses about deception, and what he says comes first."
+        },
+        {
+          "question": "The letter moves from the day of the Lord to a command about earning bread in 2 Thessalonians 3. What links the two?",
+          "options": [
+            "Work funds the mission that must be finished before the day",
+            "Labor makes amends for the alarm false teaching had spread",
+            "Busy hands keep the anxious from brooding on frightening prophecies",
+            "Faithful waiting looks like steady work, not abandoned daily life"
+          ],
+          "answer_index": 3,
+          "why": "2 Thessalonians 3:11-12 answers those who had quit working with a charge to quiet labor, part of readiness for the day.",
+          "hint": "Read 2 Thessalonians 3:6-12 again. Notice what some had stopped doing, and what Paul commands them in the Lord."
+        }
+      ]
+    }
+  ]
+}

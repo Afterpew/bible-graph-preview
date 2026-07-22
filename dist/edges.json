@@ -1,0 +1,3266 @@
+{
+  "version": "v0",
+  "edgeCount": 426,
+  "edges": [
+    {
+      "node": "gen-4-5",
+      "prerequisite": "gen-1-3",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The spiral of violence and the flood only make sense as the outworking of the Fall."
+    },
+    {
+      "node": "gen-6-9",
+      "prerequisite": "gen-4-5",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The flood judges the corruption that has spread from Cain's violence through the generations."
+    },
+    {
+      "node": "gen-10-11",
+      "prerequisite": "gen-6-9",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The nations of the Table descend from Noah's sons after the flood."
+    },
+    {
+      "node": "gen-12-17",
+      "prerequisite": "gen-10-11",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The call of Abram is God's answer to the scattered nations of Babel; without that backdrop it reads as an arbitrary beginning."
+    },
+    {
+      "node": "gen-18-23",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "The Binding of Isaac has its force only if you know Isaac is the covenant son waited for over decades."
+    },
+    {
+      "node": "gen-24-26",
+      "prerequisite": "gen-18-23",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "This is the direct continuation: the son spared at Moriah now carries the covenant line forward."
+    },
+    {
+      "node": "gen-27-28",
+      "prerequisite": "gen-24-26",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Jacob's story begins inside the rivalry with Esau established at their birth."
+    },
+    {
+      "node": "gen-29-31",
+      "prerequisite": "gen-27-28",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Jacob is in Haran because the stolen blessing forced his flight."
+    },
+    {
+      "node": "gen-32-36",
+      "prerequisite": "gen-29-31",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Jacob returns to face Esau with the family gained in the Laban years."
+    },
+    {
+      "node": "gen-37-41",
+      "prerequisite": "gen-32-36",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Joseph's story is the story of Jacob's sons; the brothers' rivalry continues their father's household conflicts."
+    },
+    {
+      "node": "gen-42-45",
+      "prerequisite": "gen-37-41",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The brothers come to Egypt because the famine and Joseph's rise have already unfolded."
+    },
+    {
+      "node": "gen-46-50",
+      "prerequisite": "gen-42-45",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The family's move to Egypt rests on the reconciliation Joseph has just accomplished."
+    },
+    {
+      "node": "exod-1-4",
+      "prerequisite": "gen-46-50",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Exodus assumes the Joseph narrative explaining how and why Israel came to live in Egypt, which Exodus only alludes to briefly and does not retell, so a reader who skips Genesis 46–50 may misread Israel’s presence and social trajectory in Egypt."
+    },
+    {
+      "node": "exod-1-4",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Exodus assumes the Abrahamic covenant as the motivating ground for God’s rescue—“remembering” the promises to Abraham—which Exodus references but does not retell, so a reader without Genesis 12–17 may misread the deliverance as spontaneous pity rather than covenant faithfulness."
+    },
+    {
+      "node": "exod-1-4",
+      "prerequisite": "gen-37-41",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Exodus assumes the reader understands why Israel is in Egypt—Israel’s settlement and Joseph’s rise and legacy recounted in Genesis 37–41—which Exodus does not fully retell and thus presumes as given."
+    },
+    {
+      "node": "exod-5-11",
+      "prerequisite": "exod-1-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The plagues are the confrontation Moses was commissioned for at the bush."
+    },
+    {
+      "node": "exod-12-15",
+      "prerequisite": "exod-5-11",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Passover is the tenth plague; the sea crossing is the climax of the confrontation with Pharaoh."
+    },
+    {
+      "node": "exod-16-18",
+      "prerequisite": "exod-12-15",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The wilderness journey begins on the far side of the sea."
+    },
+    {
+      "node": "exod-19-24",
+      "prerequisite": "exod-12-15",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The law is given to an already-rescued people — grace precedes command ('I brought you out of Egypt; therefore…')."
+    },
+    {
+      "node": "exod-25-31",
+      "prerequisite": "exod-19-24",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "The tabernacle instructions are given during Moses' forty days on the covenant mountain."
+    },
+    {
+      "node": "exod-25-31",
+      "prerequisite": "gen-1-3",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Cherubim, gold, eastward entrance, seven-fold speech — the tabernacle texts deliberately rebuild Eden; the echoes are invisible without Genesis 1-3."
+    },
+    {
+      "node": "exod-32-34",
+      "prerequisite": "exod-19-24",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The calf is a breach of the covenant just sealed; the crisis only registers if you know what was promised at Sinai."
+    },
+    {
+      "node": "exod-32-34",
+      "prerequisite": "exod-25-31",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "B continues the immediate narrative: Moses is on the mountain receiving revelations and cultic instructions from A, and Exodus 32–34 presumes that situation (and the planned tabernacle/ritual framework) which it does not itself supply."
+    },
+    {
+      "node": "exod-35-40",
+      "prerequisite": "exod-25-31",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "These chapters execute the blueprint of 25-31 almost word for word; read the design before the construction."
+    },
+    {
+      "node": "exod-35-40",
+      "prerequisite": "exod-32-34",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The glory descending means the calf breach is truly forgiven — the ending's weight depends on the crisis."
+    },
+    {
+      "node": "lev-1-7",
+      "prerequisite": "exod-35-40",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "The offerings answer the question Exodus ends on: God now dwells in the camp — how do sinful people approach him?"
+    },
+    {
+      "node": "lev-8-10",
+      "prerequisite": "lev-1-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "The priests are ordained to operate the sacrificial system just described."
+    },
+    {
+      "node": "lev-11-15",
+      "prerequisite": "exod-19-24",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "'You shall be holy, for I am holy' extends the Sinai covenant into kitchens and sickrooms; without Sinai these read as arbitrary taboos."
+    },
+    {
+      "node": "lev-11-15",
+      "prerequisite": "lev-1-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Leviticus 11–15’s purity and cleansing rites presuppose the categories and functions of the five offerings (burnt, grain, peace, sin, guilt) because the purification procedures mandate specific sacrifices that Leviticus 11–15 does not itself define."
+    },
+    {
+      "node": "lev-16",
+      "prerequisite": "lev-1-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The Day of Atonement is the sacrificial system's summit; the individual offerings are its grammar."
+    },
+    {
+      "node": "lev-16",
+      "prerequisite": "lev-8-10",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Leviticus 16 opens “after the death of Aaron’s two sons” and presumes the narrative and theological lesson of Leviticus 8–10 (the priestly inauguration and the deaths of Nadab and Abihu) to explain the Day of Atonement’s caution and priestly conduct, which Lev 16 does not retell and without which its tone and prohibitions are liable to be misunderstood."
+    },
+    {
+      "node": "lev-17-22",
+      "prerequisite": "lev-11-15",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The Holiness Code extends the clean/unclean logic from bodies and food to conduct and community."
+    },
+    {
+      "node": "lev-23-27",
+      "prerequisite": "exod-19-24",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The feasts institutionalize the Exodus and Sinai events; the blessings and curses are the covenant's enforcement clauses."
+    },
+    {
+      "node": "num-1-4",
+      "prerequisite": "exod-35-40",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The camp is organized around the tabernacle Exodus just completed; the cloud that fills it now leads the march."
+    },
+    {
+      "node": "num-5-10",
+      "prerequisite": "num-1-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The consecration and departure assume the camp already censused and arrayed around the tabernacle."
+    },
+    {
+      "node": "num-11-14",
+      "prerequisite": "exod-16-18",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The grumbling motif begun after the sea crossing now reaches its breaking point at Kadesh."
+    },
+    {
+      "node": "num-11-14",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Numbers' account of Israel's refusal to enter Canaan presumes the reader knows the Abrahamic promise of land to Abraham and his seed as the covenantal basis for God's claim and Israel's vocation, a promise Genesis 12–17 supplies but Numbers does not recount in full."
+    },
+    {
+      "node": "num-15-19",
+      "prerequisite": "lev-8-10",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Korah's challenge is an attack on the Aaronic priesthood established in Leviticus; the stakes are invisible without it."
+    },
+    {
+      "node": "num-15-19",
+      "prerequisite": "num-11-14",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The revolt grows out of the despair following the wilderness sentence."
+    },
+    {
+      "node": "num-20-25",
+      "prerequisite": "num-11-14",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "These are the closing events of the condemned generation's forty years."
+    },
+    {
+      "node": "num-26-27",
+      "prerequisite": "num-20-25",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The new census follows the plague at Peor and formally closes the Exodus generation's story."
+    },
+    {
+      "node": "num-28-30",
+      "prerequisite": "num-26-27",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The offerings calendar is delivered to the generation just censused on the plains of Moab."
+    },
+    {
+      "node": "num-31-36",
+      "prerequisite": "num-28-30",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The closing acts in Moab resume the narrative after the calendar and vow laws."
+    },
+    {
+      "node": "deut-1-4",
+      "prerequisite": "num-26-27",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Moses is addressing the new generation censused on these same plains of Moab."
+    },
+    {
+      "node": "deut-5-11",
+      "prerequisite": "exod-19-24",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "This is Sinai preached to the next generation; the Ten Words are restated, not introduced."
+    },
+    {
+      "node": "deut-12-16a",
+      "prerequisite": "deut-5-11",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The statutes unpack the Shema — many scholars read chapters 12-26 as the Ten Commandments expanded in order."
+    },
+    {
+      "node": "deut-16b-18",
+      "prerequisite": "deut-12-16a",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The offices law continues the same covenant code, turning from worship to the nation's institutions."
+    },
+    {
+      "node": "deut-19-26",
+      "prerequisite": "deut-16b-18",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The communal law completes the code after the nation's offices are established."
+    },
+    {
+      "node": "deut-27-30",
+      "prerequisite": "deut-19-26",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The blessings and curses are the sanctions attached to the code just given — the covenant's signature page."
+    },
+    {
+      "node": "deut-31-34",
+      "prerequisite": "deut-27-30",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Moses' song and death are the covenant ceremony's conclusion."
+    },
+    {
+      "node": "josh-1-5",
+      "prerequisite": "deut-31-34",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Joshua 1 opens 'after the death of Moses' — it is the direct sequel to Deuteronomy's ending."
+    },
+    {
+      "node": "josh-1-5",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Joshua 1–5 presumes the land promise given to Abraham in Genesis 12–17 as its theological horizon and does not re‑explain that covenantal basis, so omitting those Genesis chapters risks reading the conquest as mere military enterprise rather than covenantal fulfillment."
+    },
+    {
+      "node": "josh-6-8",
+      "prerequisite": "josh-1-5",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Jericho is the first objective after the crossing; Rahab's rescue fulfills the spies' oath from chapter 2."
+    },
+    {
+      "node": "josh-9-12",
+      "prerequisite": "josh-6-8",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The campaigns are triggered by coalitions forming against Israel after Jericho and Ai fall."
+    },
+    {
+      "node": "josh-9-12",
+      "prerequisite": "deut-19-26",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Joshua 9–12 relies on Deuteronomy’s rules and theology of warfare and covenant judgment (Deut 20 and the surrounding moral rationale) to frame the campaigns as covenant execution rather than ordinary conquest, a framework Joshua narrates but never restates, so a reader lacking Deuteronomy will misread the character and grounds of the wars."
+    },
+    {
+      "node": "josh-13-19",
+      "prerequisite": "num-31-36",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Joshua 13–19 presumes the prior legal and allocation framework in Numbers 31–36 (the Moses‑given allotment instructions, the resolution of Zelophehad’s daughters, and the reason Levites receive towns not territory), which Joshua implements but does not re‑explain, so a reader without Numbers will misread the basis and limits of the tribal allotments."
+    },
+    {
+      "node": "josh-13-19",
+      "prerequisite": "josh-9-12",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "You can only divide what has been taken; the allotment follows the campaigns."
+    },
+    {
+      "node": "josh-13-19",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Joshua’s allotment of the land presumes the Abrahamic promise of land to the patriarchs given in Genesis 12–17, which Joshua does not restate and which is necessary to read the distributions as fulfillment rather than merely administrative division."
+    },
+    {
+      "node": "josh-20-21",
+      "prerequisite": "num-31-36",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Joshua 20–21 assumes the legal institution and procedures laid out in Numbers 31–36 for the cities of refuge and the Levites’ non‑inheritance (including the manslayer asylum rules and the reason for Levitical towns), which Joshua enacts but never teaches, so skipping Numbers leads to a misreading of those institutions’ purpose."
+    },
+    {
+      "node": "josh-20-21",
+      "prerequisite": "josh-13-19",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "The refuge and Levitical assignments presuppose the tribal territories just allotted."
+    },
+    {
+      "node": "josh-22-24",
+      "prerequisite": "josh-20-21",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The farewell assumes settled tribes in allotted territory."
+    },
+    {
+      "node": "judg-1-2",
+      "prerequisite": "josh-22-24",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The book's tragedy is the collapse of the covenant just renewed at Shechem."
+    },
+    {
+      "node": "judg-3-8",
+      "prerequisite": "judg-1-2",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Each judge's story is a turn of the cycle defined in chapter 2."
+    },
+    {
+      "node": "judg-9-12",
+      "prerequisite": "judg-3-8",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Abimelech's coup is the direct aftermath of Gideon's household; the downward spiral is sequential."
+    },
+    {
+      "node": "judg-13-16",
+      "prerequisite": "judg-9-12",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Judges 13–16 assumes the reader sees Samson as the consummation of the judges' progressive moral decline exemplified in chapters about Abimelech and Jephthah, a framing it never restates and without which readers will readily misread Samson as a standalone heroic tale rather than Israel's climactic failure."
+    },
+    {
+      "node": "judg-17-21",
+      "prerequisite": "judg-13-16",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The epilogues land as the book's verdict after the judges themselves have failed."
+    },
+    {
+      "node": "ruth",
+      "prerequisite": "judg-1-2",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The opening line sets the story 'in the days when the judges ruled' — its gentleness reads against that dark backdrop."
+    },
+    {
+      "node": "1sam-1-3",
+      "prerequisite": "judg-17-21",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Samuel arises out of the leadership vacuum Judges ends on; Eli's house is that era's decay in miniature."
+    },
+    {
+      "node": "1sam-4-7",
+      "prerequisite": "1sam-1-3",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The judgment announced on Eli's house falls when the ark is lost and his sons die."
+    },
+    {
+      "node": "1sam-8-12",
+      "prerequisite": "1sam-4-7",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The demand for a king is brought to Samuel, whose sons have failed — his story frames the request."
+    },
+    {
+      "node": "1sam-8-12",
+      "prerequisite": "deut-16b-18",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "Deuteronomy 17's law of the king is the standard Saul (and every later king) is measured against."
+    },
+    {
+      "node": "1sam-13-15",
+      "prerequisite": "1sam-8-12",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Saul's fall follows directly from the rise and confirmation just narrated."
+    },
+    {
+      "node": "1sam-13-15",
+      "prerequisite": "deut-16b-18",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "Deuteronomy 17's law of the king is the standard Saul (and every later king) is measured against."
+    },
+    {
+      "node": "1sam-16-20",
+      "prerequisite": "1sam-13-15",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "David is anointed as Saul's replacement; the story's tension requires Saul's rejection."
+    },
+    {
+      "node": "1sam-21-26",
+      "prerequisite": "1sam-16-20",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The fugitive narrative is the collision between David's anointing and Saul's refusal to yield."
+    },
+    {
+      "node": "1sam-27-31",
+      "prerequisite": "1sam-21-26",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "David's defection to Philistine territory follows his despair of safety in Judah, and the interleaved arc runs to Saul's death."
+    },
+    {
+      "node": "2sam-1-6",
+      "prerequisite": "1sam-27-31",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "David's coronation follows directly from Saul's death at Gilboa."
+    },
+    {
+      "node": "2sam-1-6",
+      "prerequisite": "exod-25-31",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Exodus 25–31 provides the tabernacle/ark regulations and the holiness framework that make sense of David’s treatment of the ark and Uzzah’s death, which 2 Samuel 1–6 assumes but does not itself fully supply."
+    },
+    {
+      "node": "2sam-7",
+      "prerequisite": "2sam-1-6",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The promise is God's response to David settled in Jerusalem with the ark — the scene chapters 1-6 build."
+    },
+    {
+      "node": "2sam-7",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The Davidic covenant narrows the Abrahamic one: blessing-to-the-nations now runs through one royal line."
+    },
+    {
+      "node": "2sam-8-10",
+      "prerequisite": "2sam-7",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The victories unfold under the covenant just given; the narrator presents them as its early fruit."
+    },
+    {
+      "node": "2sam-11-12",
+      "prerequisite": "2sam-8-10",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "assumes the preceding portrait of David's kingdom at its height so the Bathsheba-Nathan episode reads as a tragic reversal, a contrast 2 Sam 11–12 never restates."
+    },
+    {
+      "node": "2sam-13-20",
+      "prerequisite": "2sam-11-12",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The whole section executes Nathan's judgment on the Bathsheba affair; without it this is just dynastic chaos."
+    },
+    {
+      "node": "2sam-21-24",
+      "prerequisite": "2sam-13-20",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "assumes the reader knows the prior domestic catastrophes (Amnon, Absalom, the house's violence) that the epilogue is summing up and judging, which 21–24 do not recount."
+    },
+    {
+      "node": "1kgs-1-4",
+      "prerequisite": "2sam-21-24",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The succession struggle continues 2 Samuel's court narrative; David's charge to Solomon assumes his whole reign."
+    },
+    {
+      "node": "1kgs-1-4",
+      "prerequisite": "2sam-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Solomon is the first test of the dynastic promise — the 'son' language of the covenant hangs over his whole reign."
+    },
+    {
+      "node": "1kgs-5-8",
+      "prerequisite": "exod-35-40",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The temple is the tabernacle made permanent; the descending glory deliberately repeats Exodus 40."
+    },
+    {
+      "node": "1kgs-5-8",
+      "prerequisite": "1kgs-1-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The building project is the centerpiece of Solomon's reign as established in chapters 1-4."
+    },
+    {
+      "node": "1kgs-9-11",
+      "prerequisite": "1kgs-5-8",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The fall's tragedy is measured against the temple builder's height."
+    },
+    {
+      "node": "1kgs-9-11",
+      "prerequisite": "deut-16b-18",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "1 Kgs 9–11 judges Solomon by the royal limits set in Deut 17 (no many horses, wives, or gold), a legal standard the narrative presumes but does not restate."
+    },
+    {
+      "node": "1kgs-12-16",
+      "prerequisite": "1kgs-9-11",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The split is the judgment announced on Solomon's apostasy; Jeroboam was promised the ten tribes in chapter 11."
+    },
+    {
+      "node": "1kgs-12-16",
+      "prerequisite": "exod-32-34",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "1 Kgs 12–16 assumes the reader will recognize Jeroboam's \"your gods who brought you out of Egypt\" and calf-worship as a replay of Exodus 32's covenant-breach, a theological echo the narrative does not re-explain."
+    },
+    {
+      "node": "1kgs-17-22",
+      "prerequisite": "1kgs-12-16",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Elijah's ministry targets the Omride dynasty and Baal establishment those chapters build."
+    },
+    {
+      "node": "2kgs-1-8",
+      "prerequisite": "1kgs-17-22",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Elisha's ministry is the continuation of Elijah's; the mantle passes literally."
+    },
+    {
+      "node": "2kgs-9-10",
+      "prerequisite": "2kgs-1-8",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Jehu's revolution is commissioned through Elisha's circle; the sequence is continuous."
+    },
+    {
+      "node": "2kgs-11-16",
+      "prerequisite": "2kgs-9-10",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Athaliah's coup and the long slide follow directly from Jehu's purge and its aftermath."
+    },
+    {
+      "node": "2kgs-17",
+      "prerequisite": "2kgs-11-16",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The fall of Samaria is the end of the slide the preceding reigns narrate."
+    },
+    {
+      "node": "2kgs-17",
+      "prerequisite": "deut-27-30",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "2 Kings 17 explicitly reads the exile as the Deuteronomy 28 curses executed — the theology drives the history."
+    },
+    {
+      "node": "2kgs-18-20",
+      "prerequisite": "2kgs-17",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Judah's fall parallels and completes the north's; Assyria's threat carries directly into Hezekiah's crisis."
+    },
+    {
+      "node": "2kgs-21-23",
+      "prerequisite": "2kgs-18-20",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Manasseh's reign opens as the direct sequel and reversal of his father Hezekiah's."
+    },
+    {
+      "node": "2kgs-24-25",
+      "prerequisite": "2kgs-21-23",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The catastrophe follows straight from Josiah's death and the last kings' misrule."
+    },
+    {
+      "node": "2kgs-24-25",
+      "prerequisite": "1kgs-5-8",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "2 Kings 24–25 assumes the reader understands Solomon’s temple — its construction, cultic centrality, and splendor as given in 1 Kings 5–8 — without which the temple’s destruction will be misunderstood in magnitude and meaning."
+    },
+    {
+      "node": "1chr-1-9",
+      "prerequisite": "2kgs-24-25",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "theological",
+      "reason": "Chronicles is written for the community after the exile; its whole purpose is invisible without knowing the catastrophe it answers."
+    },
+    {
+      "node": "1chr-10-12",
+      "prerequisite": "1chr-1-9",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The genealogies establish the audience and stakes for the retelling."
+    },
+    {
+      "node": "1chr-13-16",
+      "prerequisite": "1chr-10-12",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The newly crowned king's first project is bringing the ark to his new capital."
+    },
+    {
+      "node": "1chr-17-21",
+      "prerequisite": "2sam-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Chronicles' retelling orbits the dynastic covenant, re-quoted at its center (1 Chr 17)."
+    },
+    {
+      "node": "1chr-17-21",
+      "prerequisite": "1chr-13-16",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The covenant promise answers David's desire to house the ark he has just installed."
+    },
+    {
+      "node": "1chr-22-29",
+      "prerequisite": "1chr-17-21",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The preparations begin at the threshing floor the census story has just secured."
+    },
+    {
+      "node": "2chr-2-7",
+      "prerequisite": "1kgs-5-8",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Reading Kings' fuller account first reveals what the Chronicler is selecting and why."
+    },
+    {
+      "node": "2chr-2-7",
+      "prerequisite": "1chr-22-29",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Solomon builds with the plans and materials David assembled in 1 Chronicles."
+    },
+    {
+      "node": "2chr-2-7",
+      "prerequisite": "2chr-1",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The building project follows straight from the newly established king's request for wisdom."
+    },
+    {
+      "node": "2chr-8-9",
+      "prerequisite": "2chr-2-7",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The closing frame of Solomon's reign follows the completed and dedicated temple."
+    },
+    {
+      "node": "2chr-10-16",
+      "prerequisite": "2chr-8-9",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The southern kings' story runs downhill from Solomon's temple height."
+    },
+    {
+      "node": "2chr-17-20",
+      "prerequisite": "2chr-10-16",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Jehoshaphat succeeds his father Asa and inherits the kingdom the first kings shaped."
+    },
+    {
+      "node": "2chr-21-24",
+      "prerequisite": "2chr-17-20",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The dynastic crisis erupts in the generation immediately after Jehoshaphat."
+    },
+    {
+      "node": "2chr-25-28",
+      "prerequisite": "2chr-21-24",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The decline continues in the reigns that follow Joash's murder."
+    },
+    {
+      "node": "2chr-29-32",
+      "prerequisite": "2chr-25-28",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The final reforms and fall complete the Judah-only royal sequence."
+    },
+    {
+      "node": "2chr-33-36",
+      "prerequisite": "2chr-29-32",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The end arc opens with Manasseh reversing his father Hezekiah's reformation."
+    },
+    {
+      "node": "2chr-33-36",
+      "prerequisite": "lev-23-27",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "2 Chronicles 33–36 assumes the Levitical covenant framework that exile is punishment “until the land has enjoyed its sabbaths” (cf. Leviticus 26) — a legal-covenantal logic it does not restate."
+    },
+    {
+      "node": "ezra-1-6",
+      "prerequisite": "2chr-33-36",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Ezra 1 repeats Chronicles' closing decree verbatim; the return only means anything after the exile."
+    },
+    {
+      "node": "ezra-7-10",
+      "prerequisite": "ezra-1-6",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Ezra arrives at a temple already rebuilt; his reform assumes the restored community of chapters 1-6."
+    },
+    {
+      "node": "neh-1-7",
+      "prerequisite": "ezra-1-6",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Nehemiah's Jerusalem is the struggling post-return community; the temple stands but the city lies open."
+    },
+    {
+      "node": "neh-8-13",
+      "prerequisite": "neh-1-7",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The assembly at the Water Gate happens inside the walls just rebuilt."
+    },
+    {
+      "node": "neh-8-13",
+      "prerequisite": "ezra-7-10",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Ezra the reader arrives in the previous book; the two reformers' work interleaves."
+    },
+    {
+      "node": "esth",
+      "prerequisite": "2kgs-24-25",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Esther is a story of the diaspora — Jews living scattered under a foreign empire because of the exile."
+    },
+    {
+      "node": "job-3-14",
+      "prerequisite": "job-1-2",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The dialogues argue about a calamity whose real cause only the prologue's reader knows."
+    },
+    {
+      "node": "job-15-21",
+      "prerequisite": "job-3-14",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The dialogue runs continuously from the first cycle into the second."
+    },
+    {
+      "node": "job-22-27",
+      "prerequisite": "job-15-21",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The dialogue runs continuously from the second cycle into the third."
+    },
+    {
+      "node": "job-28",
+      "prerequisite": "job-22-27",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The interlude follows directly on the collapse of the dialogue cycles."
+    },
+    {
+      "node": "job-29-31",
+      "prerequisite": "job-28",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Job's closing monologue resumes after the wisdom interlude."
+    },
+    {
+      "node": "job-32-37",
+      "prerequisite": "job-29-31",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Elihu's speech is a response to the dialogues' stalemate; he quotes and rebuts both sides."
+    },
+    {
+      "node": "job-38-42",
+      "prerequisite": "job-29-31",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The whirlwind speeches answer the demand for a hearing Job has been building for thirty chapters."
+    },
+    {
+      "node": "ps-1-2",
+      "prerequisite": "2sam-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Psalm 2 presupposes the Davidic covenantal status of the king as God's “son” and the promise of an established, enduring throne—a narrative and promissory context given in 2 Samuel 7 that Psalm 2 never supplies."
+    },
+    {
+      "node": "ps-3-8",
+      "prerequisite": "ps-1-2",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The gateway psalms frame everything in Book I; Psalm 3's morning trust reads as Psalm 1's blessed man under fire."
+    },
+    {
+      "node": "ps-22",
+      "prerequisite": "ps-15-24",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Psalm 22 is Book I's lament form pushed to its extreme; knowing the genre reveals how far this one goes."
+    },
+    {
+      "node": "ps-23",
+      "prerequisite": "ps-15-24",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Psalm 23 sits inside Book I of the Psalter; reading the surrounding Davidic collection first shows it is one voice among many, not an isolated poem."
+    },
+    {
+      "node": "ps-69-72",
+      "prerequisite": "ps-1-2",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Book II's royal climax (Ps 72) develops the gateway's enthroned son."
+    },
+    {
+      "node": "ps-51",
+      "prerequisite": "2sam-11-12",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Psalm 51 presumes the specific narrative of David’s sin with Bathsheba and Nathan’s rebuke—details it never supplies but that decisively shape its penitential meaning."
+    },
+    {
+      "node": "ps-73-83",
+      "prerequisite": "2kgs-24-25",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "These Asaph psalms presuppose the specific reality of Jerusalem's fall and the temple's destruction (the exile of 586 BC) as the referent for their lament and cultic complaints, a historical framework they never narrate."
+    },
+    {
+      "node": "ps-84-89",
+      "prerequisite": "2sam-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Psalm 89 quotes the Davidic covenant at length precisely to accuse God of abandoning it — no covenant, no crisis."
+    },
+    {
+      "node": "ps-90-92",
+      "prerequisite": "ps-84-89",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Book IV is structurally the response to Psalm 89's dashed covenant — the arrangement is the argument."
+    },
+    {
+      "node": "ps-93-100",
+      "prerequisite": "ps-90-92",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Book IV's children form a deliberate sequence; the Mosaic prelude prepares the ground for the enthronement collection."
+    },
+    {
+      "node": "ps-101-106",
+      "prerequisite": "ps-93-100",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Book IV's children form a deliberate sequence; the enthronement collection leads into the book's closing movement."
+    },
+    {
+      "node": "ps-107-112",
+      "prerequisite": "ps-101-106",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Book V's thanksgiving flows from Book IV's re-enthronement of the LORD; the sequence completes the Psalter's arc from lament to praise."
+    },
+    {
+      "node": "ps-110",
+      "prerequisite": "2sam-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The psalm's royal figure is the covenant son of David — the promise is the riddle's premise."
+    },
+    {
+      "node": "ps-110",
+      "prerequisite": "gen-12-17",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Melchizedek appears only once before this, blessing Abram in Genesis 14; the priest-king allusion depends on that scene."
+    },
+    {
+      "node": "ps-113-118",
+      "prerequisite": "exod-12-15",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The Hallel is Passover's liturgy; Psalm 114 retells the sea crossing outright."
+    },
+    {
+      "node": "ps-119",
+      "prerequisite": "deut-5-11",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "The psalm is the Shema's 'these words on your heart' lived out at full length."
+    },
+    {
+      "node": "ps-120-134",
+      "prerequisite": "2sam-1-6",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The songs climb toward Zion — the city and sanctuary David established."
+    },
+    {
+      "node": "ps-146-150",
+      "prerequisite": "ps-138-145",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The final Hallel is Book V's — and the whole Psalter's — engineered crescendo."
+    },
+    {
+      "node": "prov-10-22a",
+      "prerequisite": "prov-1-9",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The prologue supplies the interpretive key — fear of the LORD — without which the sayings flatten into fortune-cookie advice."
+    },
+    {
+      "node": "prov-22b-24",
+      "prerequisite": "prov-10-22a",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The Sayings of the Wise follow the Solomonic collection as the book's next collection."
+    },
+    {
+      "node": "prov-25-29",
+      "prerequisite": "prov-10-22a",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Same genre and voice; the earlier collections establish the form these extend."
+    },
+    {
+      "node": "prov-30-31",
+      "prerequisite": "prov-1-9",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The valiant woman of 31 deliberately mirrors Lady Wisdom of 1-9 — the book's frame closes."
+    },
+    {
+      "node": "eccl-1-6",
+      "prerequisite": "prov-10-22a",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Ecclesiastes deliberately stress-tests Proverbs' tidy patterns — you need the rule to feel the exceptions."
+    },
+    {
+      "node": "eccl-7-12",
+      "prerequisite": "eccl-1-6",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The conclusion answers the experiment of the first half; the epilogue only lands after the vapor verdicts."
+    },
+    {
+      "node": "song",
+      "prerequisite": "gen-1-3",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The Song's garden, delight, and mutual belonging deliberately re-open Eden's 'bone of my bones' — love poetry as paradise remembered."
+    },
+    {
+      "node": "isa-1-5",
+      "prerequisite": "2kgs-11-16",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Isaiah preaches in the Assyrian era; the geopolitical panic of these oracles is the world of 2 Kings 15-17."
+    },
+    {
+      "node": "isa-1-5",
+      "prerequisite": "deut-27-30",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The prophets prosecute the Deuteronomy covenant; Isaiah's lawsuit language assumes its blessings and curses."
+    },
+    {
+      "node": "isa-6",
+      "prerequisite": "isa-1-5",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The call vision lands after the indictment — the unclean-lips confession answers chapters 1-5's charges."
+    },
+    {
+      "node": "isa-7-12",
+      "prerequisite": "isa-1-5",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The Syro-Ephraimite crisis continues the Assyrian-era setting the opening chapters establish."
+    },
+    {
+      "node": "isa-7-12",
+      "prerequisite": "2sam-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "'On the throne of David and over his kingdom forever' — the child-oracles are the Davidic covenant under pressure."
+    },
+    {
+      "node": "isa-13-20",
+      "prerequisite": "isa-7-12",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The nations addressed are the powers looming over the Immanuel crisis; the sequence builds outward from Judah."
+    },
+    {
+      "node": "isa-21-23",
+      "prerequisite": "isa-13-20",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The cryptic-title oracles continue the collection begun against the named nations."
+    },
+    {
+      "node": "isa-24-27",
+      "prerequisite": "isa-21-23",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The Little Apocalypse universalizes the oracle collection it closes."
+    },
+    {
+      "node": "isa-28-33",
+      "prerequisite": "isa-24-27",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The woes apply the nations-and-cosmos judgment to Judah's own politics; the book's movements build in order."
+    },
+    {
+      "node": "isa-34-35",
+      "prerequisite": "isa-24-27",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The two-futures diptych resumes the cosmic-judgment idiom of the Little Apocalypse."
+    },
+    {
+      "node": "isa-36-39",
+      "prerequisite": "2kgs-18-20",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "These chapters retell 2 Kings 18-20 almost verbatim; the fuller royal history supplies the context."
+    },
+    {
+      "node": "isa-36-39",
+      "prerequisite": "isa-28-33",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The Assyrian crisis is the live test of the trust-not-Egypt preaching just delivered."
+    },
+    {
+      "node": "isa-40",
+      "prerequisite": "isa-36-39",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Chapter 39's Babylon announcement is the setup; chapter 40 answers the exile it predicted."
+    },
+    {
+      "node": "isa-40",
+      "prerequisite": "2kgs-24-25",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Isaiah 40 presumes the concrete catastrophe of Jerusalem's fall and exile (the event-history of 2 Kings 24–25) that it does not narrate, so omitting that background risks misunderstanding the chapter's addressees and comfort."
+    },
+    {
+      "node": "isa-40",
+      "prerequisite": "isa-34-35",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Chapter 35's blooming desert and highway home preview the comfort and highway of chapter 40."
+    },
+    {
+      "node": "isa-41-48",
+      "prerequisite": "isa-40",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The trial speeches require the comfort commission that chapter 40 announces as their overture."
+    },
+    {
+      "node": "isa-49-51",
+      "prerequisite": "isa-41-48",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The Servant Songs develop in sequence; the figure's identity puzzle builds from chapter 42 onward."
+    },
+    {
+      "node": "isa-52-53",
+      "prerequisite": "isa-49-51",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "This is the climactic fourth Servant Song; its shock depends on the Servant's mission built up in the previous songs."
+    },
+    {
+      "node": "isa-52-53",
+      "prerequisite": "lev-16",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Isaiah 52–53 rests on Levitical sacrificial vocabulary and the logic of the Day of Atonement (Leviticus 16) that it assumes but does not explain, so skipping Leviticus risks a substantive misreading of the Servant's role."
+    },
+    {
+      "node": "isa-52-53",
+      "prerequisite": "lev-1-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Isaiah 52–53 employs sacrificial and atonement language (vicarious suffering, bearing iniquity, guilt/offering motifs) that presupposes the Levitical sacrificial framework of Leviticus 1–7, which the poem itself does not supply."
+    },
+    {
+      "node": "isa-54-55",
+      "prerequisite": "isa-52-53",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The free feast of 55 is priced by the Servant's suffering in 53 — the sequence is the gospel logic."
+    },
+    {
+      "node": "isa-56-59",
+      "prerequisite": "isa-54-55",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The open invitation of 55 becomes the open house of 56; the book's widening arc completes."
+    },
+    {
+      "node": "isa-60-62",
+      "prerequisite": "isa-56-59",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Zion's dawn answers the sins and separation named in the previous movement."
+    },
+    {
+      "node": "isa-63-66",
+      "prerequisite": "isa-60-62",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The closing dialogue of lament and answer follows the radiant center of Zion's dawn."
+    },
+    {
+      "node": "jer-1",
+      "prerequisite": "2kgs-21-23",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Jeremiah's forty-year ministry spans Josiah's reform to Jerusalem's fall — the events of 2 Kings 22-25 are his stage."
+    },
+    {
+      "node": "jer-2-6",
+      "prerequisite": "jer-1",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The oracles execute the plucking-up commission of the call vision."
+    },
+    {
+      "node": "jer-2-6",
+      "prerequisite": "deut-27-30",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Jeremiah is Deuteronomy's prosecutor; the lawsuit's terms are that covenant's blessings and curses."
+    },
+    {
+      "node": "jer-7-10",
+      "prerequisite": "jer-2-6",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The temple sermon opens the second cycle of the early oracles the lawsuit began."
+    },
+    {
+      "node": "jer-11-13",
+      "prerequisite": "jer-7-10",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The confessions are the inner life of the man delivering those public oracles; they interleave with the same crisis."
+    },
+    {
+      "node": "jer-14-17",
+      "prerequisite": "jer-11-13",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Jeremiah 14–17 presumes the prior sequence of covenant-breach confessions and theological framing developed in 11–13, and without that prior sequence a reader will likely misplace the drought oracle within Jeremiah’s developing argument."
+    },
+    {
+      "node": "jer-18-20",
+      "prerequisite": "jer-14-17",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Jeremiah 18–20 completes and depends on the rising sequence of prophetic confessions and vocation motifs begun in 14–17, which it does not restate, so skipping 14–17 will lead to a misreading of the emotional and theological arc."
+    },
+    {
+      "node": "jer-21-25",
+      "prerequisite": "jer-18-20",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The public confrontations escalate from the persecution the confessions record."
+    },
+    {
+      "node": "jer-26-29",
+      "prerequisite": "jer-21-25",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The conflict narratives contest and confirm the sentence the oracle collection pronounces."
+    },
+    {
+      "node": "jer-30-33",
+      "prerequisite": "jer-26-29",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Jeremiah 30–33 answers the announced judgment and exile (the seventy‑years and the yoke/letter context presented earlier) which it does not re‑narrate, so skipping the trial-and-exile material makes the consolation liable to be misunderstood as generic hope rather than a response to declared judgment."
+    },
+    {
+      "node": "jer-30-33",
+      "prerequisite": "exod-19-24",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "'Not like the covenant I made with their fathers' — the new covenant defines itself against Sinai; you must know the old to grasp the new."
+    },
+    {
+      "node": "jer-34-36",
+      "prerequisite": "jer-30-33",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The fall narrative follows the consolation chronologically — judgment and hope delivered by the same mouth in the same siege."
+    },
+    {
+      "node": "jer-34-36",
+      "prerequisite": "deut-12-16a",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Jeremiah's rebuke over the mistreatment of released slaves presupposes the Jubilee/seven‑year release law (Deut 15) that the narrative invokes but does not restate, so a reader who lacks Deuteronomy will miss the legal-and-covenantal significance of the charge."
+    },
+    {
+      "node": "jer-37-39",
+      "prerequisite": "jer-34-36",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The siege narrative follows the episodes of the word refused before the end."
+    },
+    {
+      "node": "jer-37-39",
+      "prerequisite": "2kgs-24-25",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "This is 2 Kings 25's catastrophe from street level, inside the starving city."
+    },
+    {
+      "node": "jer-40-45",
+      "prerequisite": "jer-37-39",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The aftermath presupposes the fall of the city narrated in chapter 39."
+    },
+    {
+      "node": "jer-46-49",
+      "prerequisite": "jer-40-45",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The nations' oracles conclude the book after the fall they orbit; Babylon's own sentence answers chapters 39-44."
+    },
+    {
+      "node": "jer-50-51",
+      "prerequisite": "jer-46-49",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The Babylon oracle turns the collection on the hammer that struck the preceding nations."
+    },
+    {
+      "node": "jer-52",
+      "prerequisite": "jer-37-39",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The epilogue retells the fall and captivity narrated in the siege chapters."
+    },
+    {
+      "node": "lam",
+      "prerequisite": "2kgs-24-25",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Every line mourns the 586 BC destruction; the poetry is unintelligible without the event."
+    },
+    {
+      "node": "ezek-1-3",
+      "prerequisite": "2kgs-24-25",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Ezekiel prophesies from inside the Babylonian deportation; the vision's shock — glory outside Jerusalem — requires the exile."
+    },
+    {
+      "node": "ezek-4-7",
+      "prerequisite": "ezek-1-3",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The judgment oracles execute the watchman commission."
+    },
+    {
+      "node": "ezek-8-11",
+      "prerequisite": "ezek-1-3",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The departing glory is the same throne-chariot of chapter 1."
+    },
+    {
+      "node": "ezek-8-11",
+      "prerequisite": "1kgs-5-8",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Ezekiel 8–11 assumes the prior reality of Solomon’s temple being filled with God’s glory (1 Kgs 8) to make the departure devastating, a prior historical-theological datum Ezekiel does not restate for new readers."
+    },
+    {
+      "node": "ezek-8-11",
+      "prerequisite": "ezek-4-7",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Ezekiel 8–11 assumes the prior enacted “sentence” of siege and the sign‑acts that announce and embody Jerusalem’s punishment (Ezek. 4–7), a narrative frame it does not restate and without which the temple’s departure is apt to be read merely as vision rather than as the carrying out of judgment."
+    },
+    {
+      "node": "ezek-12-19",
+      "prerequisite": "ezek-8-11",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Ezekiel 12–19 presumes the temple-vision verdict that God’s glory has departed and that temple-centered hopes are false (the picture established in Ezekiel 8–11), a context it does not reestablish, so skipping 8–11 risks misreading the parables as ordinary prophetic denunciation rather than exposure of false sanctuary-security."
+    },
+    {
+      "node": "ezek-20-24",
+      "prerequisite": "ezek-12-19",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The final indictment gathers the case the sign-acts and parables have built."
+    },
+    {
+      "node": "ezek-25-28",
+      "prerequisite": "ezek-20-24",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Ezek 25–28 assumes the indictment of Jerusalem and the immediate covenant-judicial sequence laid out in Ezek 20–24 so that the nations' oracles are read as part of the same judgmental logic, which 25–28 never restates."
+    },
+    {
+      "node": "ezek-29-32",
+      "prerequisite": "ezek-25-28",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The Egypt oracles complete the sweep of the nations begun with the neighbors and Tyre."
+    },
+    {
+      "node": "ezek-33-37",
+      "prerequisite": "ezek-20-24",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The restoration promises answer the judgment: the bones are 'the whole house of Israel' slain by the catastrophe just announced."
+    },
+    {
+      "node": "ezek-38-39",
+      "prerequisite": "ezek-33-37",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Gog attacks the regathered, re-hearted Israel of chapters 36-37; the battle presupposes the restoration."
+    },
+    {
+      "node": "ezek-40-42",
+      "prerequisite": "ezek-33-37",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The temple vision crowns the restoration promised to the regathered Israel of chapters 36 and 37."
+    },
+    {
+      "node": "ezek-40-42",
+      "prerequisite": "exod-25-31",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "The measured sanctuary reworks the tabernacle/temple pattern; the architecture speaks that earlier grammar."
+    },
+    {
+      "node": "ezek-43-46",
+      "prerequisite": "ezek-8-11",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The glory's return through the east gate reverses its departure — the vision answers chapters 8-11 gate for gate."
+    },
+    {
+      "node": "ezek-43-46",
+      "prerequisite": "ezek-40-42",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The glory returns to the temple the measuring tour has just walked."
+    },
+    {
+      "node": "ezek-47-48",
+      "prerequisite": "ezek-43-46",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The river flows from the sanctuary the returned glory now fills."
+    },
+    {
+      "node": "dan-1",
+      "prerequisite": "2kgs-24-25",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Daniel is deported in the first Babylonian wave; the exile explains why these boys are in the king's court."
+    },
+    {
+      "node": "dan-2",
+      "prerequisite": "dan-1",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Daniel's standing to interpret at court is established by chapter 1's formation story."
+    },
+    {
+      "node": "dan-3",
+      "prerequisite": "dan-2",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The golden image is Nebuchadnezzar's answer to his statue dream — an all-gold empire that will not pass away."
+    },
+    {
+      "node": "dan-4-6",
+      "prerequisite": "dan-3",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The court tales build in sequence; each king's lesson escalates the last."
+    },
+    {
+      "node": "dan-7",
+      "prerequisite": "dan-2",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The four beasts re-run the statue's four kingdoms in darker key; the two visions interpret each other."
+    },
+    {
+      "node": "dan-8-12",
+      "prerequisite": "dan-7",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The later visions elaborate the fourth-beast crisis of chapter 7; its throne scene is their fixed point."
+    },
+    {
+      "node": "dan-8-12",
+      "prerequisite": "jer-26-29",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "quotation",
+      "reason": "Daniel 8–12 assumes Jeremiah’s “seventy years” exile timetable and its prophetic repentance/covenant context (cf. Jer 25; 29), which Daniel invokes but does not reproduce, leaving an uninformed reader unable to grasp the temporal hinge Daniel uses."
+    },
+    {
+      "node": "hos-1-3",
+      "prerequisite": "exod-19-24",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The marriage metaphor recasts the Sinai covenant; the betrayal only registers as adultery if the vows are known."
+    },
+    {
+      "node": "hos-1-3",
+      "prerequisite": "2kgs-11-16",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Hosea preaches to the northern kingdom in its final decades; its looming collapse to Assyria is his backdrop."
+    },
+    {
+      "node": "hos-4-10",
+      "prerequisite": "hos-1-3",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The legal case prosecutes the adultery the marriage-parable chapters dramatize."
+    },
+    {
+      "node": "hos-11-14",
+      "prerequisite": "hos-4-10",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The anguished love of chapter 11 breaks against the full weight of the indictment before it."
+    },
+    {
+      "node": "joel",
+      "prerequisite": "deut-27-30",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "The locusts are read as covenant curse and the call to return as covenant repentance — Deuteronomy's frame."
+    },
+    {
+      "node": "amos-1-6",
+      "prerequisite": "2kgs-11-16",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Amos preaches into Jeroboam II's boom years — the northern prosperity 2 Kings 14 records is his target."
+    },
+    {
+      "node": "amos-1-6",
+      "prerequisite": "lev-17-22",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Amos presumes the covenantal holiness code's concrete justice statutes (gleaning, honest weights, protection of the poor and neighbor-love, cf. Lev 19:9–18; Lev 19:35–36) as the legal and theological standard it indicts, which Amos never restates and thus risks being read as mere moral complaint without that law-context."
+    },
+    {
+      "node": "amos-1-6",
+      "prerequisite": "lev-23-27",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Amos presumes knowledge of the Levitical feasts, jubilee and covenant sanctions (Lev 23–27) and repudiates those ritual observances without restating their institution, so skipping Leviticus will lead to a misreading of Amos’s critique."
+    },
+    {
+      "node": "amos-7-9",
+      "prerequisite": "amos-1-6",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The visions seal the case built by the oracles; Amaziah's pushback responds to that preaching."
+    },
+    {
+      "node": "obad",
+      "prerequisite": "gen-27-28",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Edom is Esau; the oracle's charge — violence 'against your brother Jacob' — runs on the Genesis twin story."
+    },
+    {
+      "node": "obad",
+      "prerequisite": "2kgs-24-25",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Assumes the historical setting of Edom's opportunistic violence at Jerusalem's fall (the exile/destruction ca. 586 BC), which Obadiah never narrates."
+    },
+    {
+      "node": "jonah",
+      "prerequisite": "exod-32-34",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Jonah's complaint quotes Exodus 34's creed — 'gracious and compassionate, slow to anger' — as his reason for fleeing: he knew God would forgive."
+    },
+    {
+      "node": "mic-1-3",
+      "prerequisite": "2kgs-11-16",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Micah preaches in the Assyrian crisis years, contemporary with Isaiah; Samaria falls during his ministry."
+    },
+    {
+      "node": "mic-4-7",
+      "prerequisite": "mic-1-3",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The hope oracles alternate against the judgment ones; the Bethlehem promise answers Zion's plowing."
+    },
+    {
+      "node": "nah",
+      "prerequisite": "jonah",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Nahum deliberately reworks Jonah's Exodus-34 creed about the same city — the two books balance each other."
+    },
+    {
+      "node": "nah",
+      "prerequisite": "2kgs-17",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Assyria's cruelty — the empire that erased the northern kingdom — is the moral backdrop of the celebration."
+    },
+    {
+      "node": "hab",
+      "prerequisite": "2kgs-24-25",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The rising Chaldeans God announces are Babylon on its way to 586 BC — Habakkuk stands just before the catastrophe."
+    },
+    {
+      "node": "zeph",
+      "prerequisite": "deut-27-30",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Zephaniah operates within the Deuteronomic covenant framework of curse-for-disobedience and restoration/remnant (the “choice of life”) and does not restate that legal-covenant sequence, so omitting Deuteronomy risks misreading its judgments as arbitrary rather than covenantal consequences."
+    },
+    {
+      "node": "zeph",
+      "prerequisite": "2kgs-21-23",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Zephaniah preaches under young Josiah, before the reform — the idolatry catalogued is pre-reform Jerusalem."
+    },
+    {
+      "node": "hag",
+      "prerequisite": "ezra-1-6",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Haggai preaches inside Ezra 5's stalled construction project; Ezra names him as the prophet who restarted the work."
+    },
+    {
+      "node": "zech-1-8",
+      "prerequisite": "ezra-1-6",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The visions encourage the same temple-rebuilding generation Ezra describes; Zechariah is named there alongside Haggai."
+    },
+    {
+      "node": "zech-9-14",
+      "prerequisite": "zech-1-8",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Zechariah 9–14 builds on the Branch/priest‑king and shepherd imagery established in Zechariah 1–8 and does not reintroduce that visionary program, so skipping 1–8 leads to misplacing key references."
+    },
+    {
+      "node": "zech-9-14",
+      "prerequisite": "2sam-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Zechariah 9–14 presumes the Davidic covenantal matrix of 2 Samuel 7 (an expected eternal/royal promise) for its king‑language and does not restate that foundational promise."
+    },
+    {
+      "node": "mal",
+      "prerequisite": "neh-8-13",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Malachi's complaints — mixed marriages, withheld tithes, listless priests — are the very failures Nehemiah 13 battles; same era, same drift."
+    },
+    {
+      "node": "mal",
+      "prerequisite": "ezra-1-6",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Malachi presumes the horizon of a restored yet faltering Second Temple—its priests, sacrifices, and temple worship established in the return from exile (Ezra 1–6)—a background Malachi never narrates but depends upon."
+    },
+    {
+      "node": "mal",
+      "prerequisite": "lev-1-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Malachi condemns corrupt and deficient sacrifices and assumes the reader knows the Levitical sacrificial system and its standards, information Malachi does not itself supply."
+    },
+    {
+      "node": "matt-1-2",
+      "prerequisite": "2sam-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Matthew 1–2’s genealogy and “Son of David” claims press the theological force of the Davidic covenant (2 Samuel 7)—an ongoing royal/ messianic promise Matthew assumes but does not restate."
+    },
+    {
+      "node": "matt-1-2",
+      "prerequisite": "isa-7-12",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "The virgin-Immanuel citation from Isaiah 7 is Matthew's first and framing fulfillment quotation."
+    },
+    {
+      "node": "matt-1-2",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "By styling Jesus “son of Abraham,” Matthew invokes the Abrahamic promise that through Abraham’s seed all nations are blessed (Genesis 12–17), a foundational covenantal claim the birth narrative assumes rather than retells."
+    },
+    {
+      "node": "matt-3-4",
+      "prerequisite": "mal",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "John the Baptist is Malachi's promised messenger and Elijah figure — the Old Testament's last page turned."
+    },
+    {
+      "node": "matt-3-4",
+      "prerequisite": "deut-5-11",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "quotation",
+      "reason": "Matthew 3–4 presumes the Deuteronomic wilderness-testing narrative and covenant pattern (Israel’s failure and God’s command) that it does not restate, so without Deuteronomy a reader can misread Jesus' temptations and role."
+    },
+    {
+      "node": "matt-5-7",
+      "prerequisite": "exod-19-24",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "'You have heard it said… but I say to you' engages the Sinai commands directly; the mountain setting is the allusion."
+    },
+    {
+      "node": "matt-5-7",
+      "prerequisite": "matt-3-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Matthew 5–7 treats life under Jesus’ inaugurated kingdom presupposed by the proclamation in Matthew 3–4, a prior claim the Sermon does not itself narrate, so skipping 3–4 risks reading the Sermon as abstract morality rather than instruction for the kingdom just announced."
+    },
+    {
+      "node": "matt-8-10",
+      "prerequisite": "matt-5-7",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Matthew alternates discourse and deed deliberately — the miracles enact the Sermon's announced kingdom."
+    },
+    {
+      "node": "matt-8-10",
+      "prerequisite": "lev-11-15",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Leviticus 11–15 supplies the Mosaic rules about ritual uncleanness and the priestly procedures that Matthew 8’s cleansing of the leper and the command to “show yourself to the priest” presuppose but do not explain, so omitting Leviticus leads to a misreading of the ritual and legal stakes."
+    },
+    {
+      "node": "matt-11-15",
+      "prerequisite": "matt-8-10",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The opposition responds to the miracle campaign; the parables answer why the kingdom meets resistance."
+    },
+    {
+      "node": "matt-16-18",
+      "prerequisite": "matt-11-15",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The confession is the answer to the identity question the opposition chapters keep raising — 'who is this?'"
+    },
+    {
+      "node": "matt-19-21",
+      "prerequisite": "matt-16-18",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The journey south unfolds under the passion predictions made at Caesarea Philippi."
+    },
+    {
+      "node": "matt-19-21",
+      "prerequisite": "zech-9-14",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "The triumphal entry is narrated as Zechariah 9:9 fulfilled — Matthew quotes it outright."
+    },
+    {
+      "node": "matt-22-25",
+      "prerequisite": "matt-19-21",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The controversies are the establishment's counterattack after the temple demonstration."
+    },
+    {
+      "node": "matt-22-25",
+      "prerequisite": "dan-8-12",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "quotation",
+      "reason": "Matthew's Olivet discourse invokes Daniel's \"abomination of desolation\" and its apocalyptic schema that he never explicates, so a reader ignorant of Daniel 8–12 will misunderstand the referent and structure of his warning."
+    },
+    {
+      "node": "matt-22-25",
+      "prerequisite": "dan-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Daniel 7 supplies the \"Son of Man\" as a cosmic, judging figure and the Ancient of Days imagery that Matthew's eschatological language presumes yet does not explicate."
+    },
+    {
+      "node": "matt-26-28",
+      "prerequisite": "matt-22-25",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The passion follows directly from the final week's collision with the authorities."
+    },
+    {
+      "node": "matt-26-28",
+      "prerequisite": "exod-12-15",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Matthew presumes the Exodus/Passover covenantal pattern (the paschal lamb, blood as covenant, deliverance from bondage) in the Last Supper language \"my blood of the covenant,\" which he reframes but does not retell, so skipping Exodus 12–15 leads to a misreading of the supper's meaning."
+    },
+    {
+      "node": "matt-26-28",
+      "prerequisite": "ps-22",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "quotation",
+      "reason": "Matthew invokes Psalm 22's narrative motifs (forsaken cry, mocking, divided garments and ultimate vindication) without rehearsing that psalm's storyline, so a reader who lacks Psalm 22 will miss the intended fulfillment framing of the Passion."
+    },
+    {
+      "node": "mark-1-3",
+      "prerequisite": "isa-40",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Mark's opening line splices Malachi with Isaiah 40's 'voice in the wilderness' — the new exodus begins."
+    },
+    {
+      "node": "mark-4-5",
+      "prerequisite": "mark-1-3",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The mounting question of Jesus' identity builds directly on the opening chapters' collisions."
+    },
+    {
+      "node": "mark-6-8",
+      "prerequisite": "mark-4-5",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The disciples' dullness escalates through the sequence; Peter's confession answers chapter 4's storm question."
+    },
+    {
+      "node": "mark-6-8",
+      "prerequisite": "lev-11-15",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Mark assumes the Jewish Levitical categories of ritual purity around clean/unclean foods and persons that he never pauses to teach, so a reader unfamiliar with Leviticus will misread the force of Jesus' \"all foods clean\" and the handwashing controversy."
+    },
+    {
+      "node": "mark-9-10",
+      "prerequisite": "mark-6-8",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The way-of-the-cross teaching begins at Peter's half-sighted confession and corrects it step by step."
+    },
+    {
+      "node": "mark-11-13",
+      "prerequisite": "mark-9-10",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The Jerusalem week is what the three passion predictions have been walking toward."
+    },
+    {
+      "node": "mark-11-13",
+      "prerequisite": "jer-7-10",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'A den of robbers' quotes Jeremiah's temple sermon — the same charge, the same building's fate."
+    },
+    {
+      "node": "mark-11-13",
+      "prerequisite": "dan-8-12",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Mark 11–13 invokes the Danielic apocalyptic motif (the “abomination of desolation” and related timetable from Daniel 8–12) in a way that presumes the reader knows Daniel's imagery and sequence, which Mark does not itself fully explain."
+    },
+    {
+      "node": "mark-14-16",
+      "prerequisite": "mark-11-13",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The passion executes the collision of the Jerusalem chapters."
+    },
+    {
+      "node": "mark-14-16",
+      "prerequisite": "exod-12-15",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "Mark frames the Last Supper and the Passion in Passover/Exodus imagery (deliverance through death, lamb‑like substitution) and assumes the Exodus/Passover pattern that the Passion narrative itself does not fully explain."
+    },
+    {
+      "node": "luke-1-2",
+      "prerequisite": "mal",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Gabriel frames John the Baptist in Malachi's Elijah prophecy — Luke opens by closing the Old Testament's last promise."
+    },
+    {
+      "node": "luke-1-2",
+      "prerequisite": "1sam-1-3",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Mary's Magnificat is modeled on Hannah's song, and the boy in the temple 'growing in favor' mirrors young Samuel."
+    },
+    {
+      "node": "luke-3-4",
+      "prerequisite": "isa-60-62",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "The Nazareth manifesto is a public reading of Isaiah 61 — the scroll quotation is the mission statement."
+    },
+    {
+      "node": "luke-3-4",
+      "prerequisite": "luke-1-2",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The adult ministry opens on the identity the infancy songs announced."
+    },
+    {
+      "node": "luke-5-9",
+      "prerequisite": "luke-3-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The Galilean ministry performs the Nazareth manifesto — good news to the poor, in deeds."
+    },
+    {
+      "node": "luke-10-14",
+      "prerequisite": "luke-5-9",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Everything here happens 'on the way' — inside the journey to Jerusalem begun at 9:51."
+    },
+    {
+      "node": "luke-15-19",
+      "prerequisite": "luke-10-14",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The parables answer the grumbling ('this man receives sinners') that the travel narrative's table scenes provoke."
+    },
+    {
+      "node": "luke-20-21",
+      "prerequisite": "luke-15-19",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The temple teaching follows the tearful entry that closes the travel narrative."
+    },
+    {
+      "node": "luke-22-24",
+      "prerequisite": "luke-20-21",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The passion follows the temple confrontations into the final Passover."
+    },
+    {
+      "node": "luke-22-24",
+      "prerequisite": "jer-30-33",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'The new covenant in my blood' takes up Jeremiah 31's promise in its exact words — the cup means that promise."
+    },
+    {
+      "node": "john-1",
+      "prerequisite": "gen-1-3",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "'In the beginning' is a deliberate rewrite of Genesis 1 — the prologue's whole force depends on hearing the echo."
+    },
+    {
+      "node": "john-2-4",
+      "prerequisite": "john-1",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The signs unpack the prologue's claims — glory revealed, the Word replacing temple and ritual."
+    },
+    {
+      "node": "john-2-4",
+      "prerequisite": "num-20-25",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "quotation",
+      "reason": "John 3's central image \"as Moses lifted up the serpent\" depends on the Numbers bronze‑serpent story (Numbers 21) that John does not retell, and without that prior story a reader will miss the typological force of \"lifted up.\""
+    },
+    {
+      "node": "john-5-8",
+      "prerequisite": "john-2-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The conflict escalates from the early signs; the claims deepen in sequence."
+    },
+    {
+      "node": "john-5-8",
+      "prerequisite": "exod-1-4",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'Before Abraham was, I AM' claims the divine name from the burning bush; without Exodus 3 the stoning makes no sense."
+    },
+    {
+      "node": "john-5-8",
+      "prerequisite": "exod-16-18",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "The bread-of-life discourse is a running midrash on the manna."
+    },
+    {
+      "node": "john-9-12",
+      "prerequisite": "john-5-8",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The Lazarus sign is the climax of the escalating signs-and-claims sequence, and triggers the death plot."
+    },
+    {
+      "node": "john-13-17",
+      "prerequisite": "john-9-12",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The farewell discourse is spoken under the arrived 'hour' the Lazarus events set in motion."
+    },
+    {
+      "node": "john-18-21",
+      "prerequisite": "john-13-17",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The passion follows the upper room into the garden the same night."
+    },
+    {
+      "node": "acts-1",
+      "prerequisite": "luke-22-24",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Acts is Luke's volume two; chapter 1 re-tells Luke 24's ending and continues the same sentence."
+    },
+    {
+      "node": "acts-2",
+      "prerequisite": "acts-1",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Pentecost is the promised baptism in the Spirit the disciples were told to wait for."
+    },
+    {
+      "node": "acts-2",
+      "prerequisite": "joel",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Peter's sermon is an exposition of Joel 2 — 'this is what was uttered through the prophet.'"
+    },
+    {
+      "node": "acts-3-5",
+      "prerequisite": "acts-2",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The Jerusalem church whose life these chapters portray is the community Pentecost created."
+    },
+    {
+      "node": "acts-6-7",
+      "prerequisite": "acts-3-5",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Stephen's trial escalates the council conflicts of the preceding chapters to their first death."
+    },
+    {
+      "node": "acts-6-7",
+      "prerequisite": "exod-1-4",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "Acts 6–7 presumes the Exodus narrative—Israelite bondage in Egypt, Moses’ call at the burning bush, and the covenant-deliverance pattern—that Stephen presumes but does not fully supply for a reader unfamiliar with Exodus (cf. Exod 1–4)."
+    },
+    {
+      "node": "acts-8-9",
+      "prerequisite": "acts-6-7",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The scattering follows Stephen's death directly, and Saul enters the story at that stoning."
+    },
+    {
+      "node": "acts-8-9",
+      "prerequisite": "isa-52-53",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "The Ethiopian is reading the Suffering Servant when Philip joins the chariot — the passage carries the scene."
+    },
+    {
+      "node": "acts-10-12",
+      "prerequisite": "acts-8-9",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The gospel's outward ripple continues — Samaria, an Ethiopian, now a Roman household."
+    },
+    {
+      "node": "acts-10-12",
+      "prerequisite": "lev-11-15",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Acts 10–12 assumes the covenant-boundary role of Levitical clean/unclean food laws that make Peter’s sheet-vision a shocking overturning of ethnic and ritual markers, a background Acts signals but never explicates."
+    },
+    {
+      "node": "acts-13-15",
+      "prerequisite": "acts-10-12",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The council ratifies what the Spirit did at Cornelius' house; Peter cites that event as the deciding evidence."
+    },
+    {
+      "node": "acts-16-20",
+      "prerequisite": "acts-13-15",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The second and third journeys carry the council's circumcision-free gospel westward."
+    },
+    {
+      "node": "acts-21-26",
+      "prerequisite": "acts-16-20",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The Jerusalem arrest fulfills the Spirit's warnings given throughout the final journey."
+    },
+    {
+      "node": "acts-27-28",
+      "prerequisite": "acts-21-26",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Paul is aboard this ship only because his appeal to Caesar before Festus and Agrippa sent him to Rome for trial."
+    },
+    {
+      "node": "rom-1-4",
+      "prerequisite": "gen-12-17",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Romans 4 is a sustained exposition of Genesis 15:6; Abraham's believing is the argument's cornerstone."
+    },
+    {
+      "node": "rom-1-4",
+      "prerequisite": "hab",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'The righteous shall live by faith' (Hab 2:4) is the letter's announced thesis."
+    },
+    {
+      "node": "rom-1-4",
+      "prerequisite": "lev-16",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "'Propitiation' (hilasterion) is the mercy seat of the Day of Atonement — the cross explained in Leviticus' terms."
+    },
+    {
+      "node": "rom-1-4",
+      "prerequisite": "exod-19-24",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Paul's exposition in Romans 1–4 assumes the existence and covenantal role of the Sinai law (the Ten Words and Mosaic covenant) as the standard that defines sin and covenantal obligation, which his argument presupposes rather than fully restates."
+    },
+    {
+      "node": "rom-5-8",
+      "prerequisite": "rom-1-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "'Therefore, since we have been justified' — chapters 5-8 build on the verdict argued in 1-4."
+    },
+    {
+      "node": "rom-5-8",
+      "prerequisite": "gen-1-3",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The Adam-Christ parallel of Romans 5 requires the Fall narrative as its first term."
+    },
+    {
+      "node": "rom-9-11",
+      "prerequisite": "rom-5-8",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "Chapter 8's unbreakable promises raise chapter 9's question: what about the people whose promises these were?"
+    },
+    {
+      "node": "rom-9-11",
+      "prerequisite": "gen-24-26",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'The older will serve the younger' — Jacob and Esau before birth — is Paul's opening exhibit on election."
+    },
+    {
+      "node": "rom-9-11",
+      "prerequisite": "exod-32-34",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "quotation",
+      "reason": "Romans 9–11 assumes the Exodus golden‑calf sequence and its demonstration of Israel’s failure and God’s merciful sovereign choice (the background of \"I will have mercy…\"), a narrative Paul does not retell but depends upon for his argument."
+    },
+    {
+      "node": "rom-9-11",
+      "prerequisite": "hos-1-3",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'Not-my-people… sons of the living God' — Hosea's children carry the Gentile-inclusion argument."
+    },
+    {
+      "node": "rom-9-11",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Romans 9–11 presumes familiarity with the Abrahamic promises and the patriarchal episodes (Isaac, Jacob, election) from Genesis 12–17, which Paul invokes without fully retelling, so omitting Genesis leads to misreading his argument about election and promise."
+    },
+    {
+      "node": "rom-12-16",
+      "prerequisite": "rom-5-8",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The 'therefore' of 12:1 stands on the mercies of God argued in the letter's first movement."
+    },
+    {
+      "node": "1cor-1-4",
+      "prerequisite": "acts-16-20",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Acts 18 narrates the founding of this church — the letter's disputes make sense against its origins."
+    },
+    {
+      "node": "1cor-5-7",
+      "prerequisite": "1cor-1-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The case rulings apply the cross-shaped wisdom of chapters 1-4 to the church's actual scandals."
+    },
+    {
+      "node": "1cor-5-7",
+      "prerequisite": "exod-12-15",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "'Christ, our Passover lamb, has been sacrificed — cleanse out the old leaven' runs on Passover's logic."
+    },
+    {
+      "node": "1cor-8-11",
+      "prerequisite": "1cor-5-7",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The letter works through the Corinthians' questions in sequence; the food disputes follow the body teaching."
+    },
+    {
+      "node": "1cor-8-11",
+      "prerequisite": "num-11-14",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Chapter 10's warnings — craving, idolatry, grumbling, the fallen generation — are the wilderness rebellions retold."
+    },
+    {
+      "node": "1cor-12-14",
+      "prerequisite": "1cor-8-11",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The gathered-worship problems continue from the Supper divisions into the gifts chaos."
+    },
+    {
+      "node": "1cor-15-16",
+      "prerequisite": "1cor-1-4",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The resurrection defense completes the letter; the cross-and-folly frame of chapter 1 is its premise."
+    },
+    {
+      "node": "1cor-15-16",
+      "prerequisite": "gen-1-3",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "1 Corinthians 15 assumes the Genesis portrayal of Adam as the historical, federal first man whose trespass brings death to humanity — a typological premise Paul invokes but does not reestablish for readers unfamiliar with Genesis."
+    },
+    {
+      "node": "2cor-1-7",
+      "prerequisite": "1cor-1-4",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The letter follows a painful visit and severe letter in the ongoing Corinthian relationship 1 Corinthians opens."
+    },
+    {
+      "node": "2cor-1-7",
+      "prerequisite": "exod-32-34",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "quotation",
+      "reason": "2 Corinthians 3 hinges on the image of Moses’ radiant, veiled face and the movement from the old covenant to a greater glory drawn from Exodus 34, a narrative and covenantal sequence Paul presumes but does not retell, so readers lacking Exodus will misconstrue the metaphor."
+    },
+    {
+      "node": "2cor-1-7",
+      "prerequisite": "jer-30-33",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "Paul’s charge that he ministers “a new covenant…of the Spirit” rests on Jeremiah’s promise (the law written on hearts, forgiveness of sins) that he assumes rather than restates, and without Jeremiah a reader can miss the covenantal grounding of his contrast between “letter” and “Spirit.”"
+    },
+    {
+      "node": "2cor-8-9",
+      "prerequisite": "2cor-1-7",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "2 Corinthians 8–9 presses an appeal built on the restored trust and reconciliation Paul wins in chapters 1–7, a prior relational narrative frame it assumes and does not fully repeat, so skipping 1–7 leads to misreading the appeal’s moral and rhetorical footing."
+    },
+    {
+      "node": "2cor-10-13",
+      "prerequisite": "2cor-1-7",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The clay-jar theology of chapters 1-7 is what the boasting-in-weakness finale defends against the super-apostles."
+    },
+    {
+      "node": "gal",
+      "prerequisite": "gen-12-17",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Galatians 3's whole case is Abraham's faith-before-circumcision and the promise to his 'seed.'"
+    },
+    {
+      "node": "gal",
+      "prerequisite": "acts-13-15",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The circumcision crisis is the letter's occasion — Acts 15 narrates the same fight from the outside."
+    },
+    {
+      "node": "gal",
+      "prerequisite": "deut-27-30",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'Cursed is everyone hanged on a tree' and the law's curse come from Deuteronomy 21 and 27."
+    },
+    {
+      "node": "eph-1-3",
+      "prerequisite": "gal",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "The Jew-Gentile-one-in-Christ argument assumes the law/faith settlement Galatians fights for."
+    },
+    {
+      "node": "eph-4-6",
+      "prerequisite": "eph-1-3",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "The 'therefore walk worthy' ethics of 4-6 stand entirely on the blessings enumerated in 1-3."
+    },
+    {
+      "node": "phil",
+      "prerequisite": "acts-16-20",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The church began in Acts 16's jailhouse midnight — a letter about joy in chains, to people converted through them."
+    },
+    {
+      "node": "col",
+      "prerequisite": "eph-1-3",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Colossians and Ephesians are twin letters sharing structure and vocabulary; each illuminates the other."
+    },
+    {
+      "node": "1thess",
+      "prerequisite": "acts-16-20",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Acts 17's three-sabbath ministry and riot explain both the church's youth and its persecution."
+    },
+    {
+      "node": "2thess",
+      "prerequisite": "1thess",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "The letter corrects a misreading of the first letter's second-coming teaching — it cannot be read alone."
+    },
+    {
+      "node": "2thess",
+      "prerequisite": "dan-8-12",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The self-exalting man of lawlessness draws on Daniel's desolating figure who magnifies himself above every god."
+    },
+    {
+      "node": "1tim",
+      "prerequisite": "acts-16-20",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Timothy is holding the Ephesian church Paul planted and warned ('wolves will come') in Acts 19-20."
+    },
+    {
+      "node": "2tim",
+      "prerequisite": "1tim",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The second letter to the same delegate assumes the first's charge and raises its stakes to a farewell."
+    },
+    {
+      "node": "titus",
+      "prerequisite": "1tim",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Titus condenses 1 Timothy's church-order manual for a rougher mission field; the letters pair."
+    },
+    {
+      "node": "phlm",
+      "prerequisite": "col",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The letter travels with Colossians to the same town; Onesimus and the named greeters overlap."
+    },
+    {
+      "node": "heb-1-4",
+      "prerequisite": "num-11-14",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The whole 'Today' exhortation runs on the Kadesh rebellion — the generation that refused to enter is the standing warning."
+    },
+    {
+      "node": "heb-1-4",
+      "prerequisite": "ps-93-100",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Hebrews 3-4 is a verse-by-verse exposition of Psalm 95's 'do not harden your hearts as at Meribah.'"
+    },
+    {
+      "node": "heb-5-7",
+      "prerequisite": "ps-110",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'A priest forever after the order of Melchizedek' — Psalm 110:4 is the text the entire section expounds."
+    },
+    {
+      "node": "heb-5-7",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Melchizedek's only scene is Genesis 14; the Abraham-tithes argument depends on it."
+    },
+    {
+      "node": "heb-5-7",
+      "prerequisite": "lev-8-10",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "The contrast with mortal, sinful Aaronic priests requires the Levitical priesthood as the foil."
+    },
+    {
+      "node": "heb-5-7",
+      "prerequisite": "heb-1-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "B's sustained argument for Christ's priesthood in the order of Melchizedek presumes the prior demonstration of Christ's superiority and the failure of the old way set out in chapters 1–4, which it does not reestablish."
+    },
+    {
+      "node": "heb-8-10",
+      "prerequisite": "heb-5-7",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The Melchizedek priesthood established in 5-7 is the priest whose offering 8-10 describes."
+    },
+    {
+      "node": "heb-8-10",
+      "prerequisite": "lev-16",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The once-for-all argument is a sustained contrast with the Day of Atonement's annual repetition."
+    },
+    {
+      "node": "heb-8-10",
+      "prerequisite": "jer-30-33",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Jeremiah 31's new covenant is quoted in full — the longest OT quotation in the NT — as the argument's charter."
+    },
+    {
+      "node": "heb-8-10",
+      "prerequisite": "exod-25-31",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "'Copy and shadow of the heavenly things' reads the tabernacle blueprint as pointing beyond itself."
+    },
+    {
+      "node": "heb-11",
+      "prerequisite": "heb-8-10",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The catalogue illustrates the 'live by faith' endurance the covenant argument just called for."
+    },
+    {
+      "node": "heb-11",
+      "prerequisite": "gen-12-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Hebrews 11 presumes the Genesis narrative of Abraham’s call, journey, covenant promises and acts (Gen 12–17) to make sense of its examples of faith, which the chapter does not restate."
+    },
+    {
+      "node": "heb-12-13",
+      "prerequisite": "heb-11",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "'Therefore, since we are surrounded by so great a cloud of witnesses' — the race exhortation stands on the roll call."
+    },
+    {
+      "node": "heb-12-13",
+      "prerequisite": "exod-19-24",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The Sinai-versus-Zion contrast reworks the trembling mountain of Exodus 19-20."
+    },
+    {
+      "node": "heb-12-13",
+      "prerequisite": "heb-8-10",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "theological",
+      "reason": "Hebrews 12–13 assumes the theological conclusions of Hebrews 8–10 (that Christ is the final high priest, his one sacrifice perfects believers, and a better covenant is enacted) and does not reestablish those foundations, so skipping 8–10 leads to a misreading of the exhortations."
+    },
+    {
+      "node": "heb-12-13",
+      "prerequisite": "heb-1-4",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "theological",
+      "reason": "Hebrews 12–13 begin with a “therefore” and presuppose the doctrinal case of Hebrews 1–4 (Christ’s superiority, the typology of rest and the warning structure), which those later chapters assume rather than re‑establish."
+    },
+    {
+      "node": "jas",
+      "prerequisite": "prov-10-22a",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "James writes in wisdom-literature register; Proverbs is his genre's home soil."
+    },
+    {
+      "node": "jas",
+      "prerequisite": "matt-5-7",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The letter reworks the Sermon on the Mount — oaths, treasure, judging, doing — at every turn."
+    },
+    {
+      "node": "1pet",
+      "prerequisite": "exod-19-24",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'Royal priesthood, holy nation' quotes Sinai's covenant charter — the letter's identity claim requires it."
+    },
+    {
+      "node": "1pet",
+      "prerequisite": "isa-52-53",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "Chapter 2's suffering-Christ passage is a running quotation of the Suffering Servant."
+    },
+    {
+      "node": "2pet",
+      "prerequisite": "1pet",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "'This is now the second letter I am writing to you' — it presents itself as the sequel."
+    },
+    {
+      "node": "2pet",
+      "prerequisite": "matt-16-18",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "'Eyewitnesses of his majesty… on the holy mountain' recalls the Transfiguration."
+    },
+    {
+      "node": "1john",
+      "prerequisite": "john-13-17",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "The letter is the upper-room discourse turned into pastoral tests — 'love one another' is its refrain and premise."
+    },
+    {
+      "node": "2john",
+      "prerequisite": "1john",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The letter compresses 1 John's flesh-denying-deceivers crisis into one page; it presumes that fuller treatment."
+    },
+    {
+      "node": "3john",
+      "prerequisite": "2john",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The twin postcard: 2 John says when to close the door, 3 John when to open it — they balance each other."
+    },
+    {
+      "node": "jude",
+      "prerequisite": "num-15-19",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'Perished in Korah's rebellion' — Jude's example-chain leans on the wilderness revolts."
+    },
+    {
+      "node": "jude",
+      "prerequisite": "num-20-25",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Jude assumes the reader knows Balaam’s “error” (how Balaam’s counsel led Israel into immorality/greed in the Numbers traditions) and does not recount that narrative, so skipping Numbers will lead to a misreading of Jude’s polemic."
+    },
+    {
+      "node": "rev-1-3",
+      "prerequisite": "dan-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "quotation",
+      "reason": "John's \"one like a son of man\" in Revelation presumes the Daniel 7 fusion of Son of Man and Ancient of Days—its courtroom/throne-of-judgment horizon is supplied by Daniel and not fully restated in Revelation."
+    },
+    {
+      "node": "rev-1-3",
+      "prerequisite": "zech-9-14",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "The theme verse — 'every eye will see him, even those who pierced him' — splices Daniel's clouds with Zechariah 12."
+    },
+    {
+      "node": "rev-4-5",
+      "prerequisite": "ezek-1-3",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "The throne room — living creatures, crystal sea, rainbow glory — is Ezekiel's chariot vision reprised."
+    },
+    {
+      "node": "rev-4-5",
+      "prerequisite": "isa-6",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "The creatures' unceasing 'Holy, holy, holy' comes from Isaiah's seraphim."
+    },
+    {
+      "node": "rev-4-5",
+      "prerequisite": "exod-12-15",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "The slain Lamb who purchases a people 'by his blood' is the Passover lamb enthroned."
+    },
+    {
+      "node": "rev-6-11",
+      "prerequisite": "rev-4-5",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The seals belong to the scroll only the Lamb was worthy to open — the throne scene is the engine of everything after."
+    },
+    {
+      "node": "rev-6-11",
+      "prerequisite": "zech-1-8",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The colored horsemen and the two olive trees are Zechariah's night visions redeployed."
+    },
+    {
+      "node": "rev-6-11",
+      "prerequisite": "exod-5-11",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The trumpet plagues — water to blood, darkness, locusts — replay the plagues of Egypt at cosmic scale."
+    },
+    {
+      "node": "rev-12-14",
+      "prerequisite": "rev-6-11",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Chapter 12 opens the book's second movement, unveiling the powers behind the judgments already narrated."
+    },
+    {
+      "node": "rev-12-14",
+      "prerequisite": "dan-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "The sea beast — leopard, bear, lion, ten horns — is Daniel 7's four beasts fused; the image is unreadable without them."
+    },
+    {
+      "node": "rev-12-14",
+      "prerequisite": "gen-1-3",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "'That ancient serpent' and the war on the woman's seed complete the enmity declared in Genesis 3:15."
+    },
+    {
+      "node": "rev-15-16",
+      "prerequisite": "rev-12-14",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The bowls fall on the beast's kingdom and its mark-bearers — the powers chapter 13 raised."
+    },
+    {
+      "node": "rev-15-16",
+      "prerequisite": "exod-12-15",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "Revelation's seven‑bowls and the victors' \"song\" presuppose the Exodus/Passover–Red Sea deliverance and plague motifs (the song of Moses) that Revelation alludes to but does not retell."
+    },
+    {
+      "node": "rev-17-19",
+      "prerequisite": "rev-15-16",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Babylon's fall executes the seventh bowl's sentence; the sequence is continuous."
+    },
+    {
+      "node": "rev-17-19",
+      "prerequisite": "jer-50-51",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The doom song — including the millstone hurled into the sea — reworks Jeremiah 50-51 against Babylon."
+    },
+    {
+      "node": "rev-17-19",
+      "prerequisite": "ezek-25-28",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The merchants' lament over the fallen city rewrites Ezekiel 27's shipwreck dirge for Tyre."
+    },
+    {
+      "node": "rev-20",
+      "prerequisite": "rev-17-19",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The dragon's binding follows the beast's defeat by the rider — the sequence of final judgments is continuous."
+    },
+    {
+      "node": "rev-20",
+      "prerequisite": "ezek-38-39",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "quotation",
+      "reason": "'Gog and Magog' is quoted by name; the final battle is Ezekiel's oracle compressed to a paragraph."
+    },
+    {
+      "node": "rev-20",
+      "prerequisite": "dan-7",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "Revelation 20 depends on the Danielic courtroom template (Ancient of Days, thrones, opened books, beast judgment) as its legal backdrop, a framework Daniel provides but Revelation does not fully restate."
+    },
+    {
+      "node": "rev-21-22",
+      "prerequisite": "rev-20",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The new creation follows the final judgment — the old order must pass before 'behold, I make all things new.'"
+    },
+    {
+      "node": "rev-21-22",
+      "prerequisite": "gen-1-3",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "The tree of life, the ended curse, the restored presence — the finale answers Eden element by element."
+    },
+    {
+      "node": "rev-21-22",
+      "prerequisite": "ezek-47-48",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "The measured city, the river deepening from the sanctuary, the healing trees — Ezekiel's vision is the blueprint."
+    },
+    {
+      "node": "rev-21-22",
+      "prerequisite": "isa-63-66",
+      "strength": "soft",
+      "type": "quotation",
+      "reason": "'New heavens and a new earth' quotes Isaiah 65; the no-more-tears promise is Isaiah 25."
+    },
+    {
+      "node": "tob",
+      "prerequisite": "2kgs-17",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Tobit is a Naphtali exile of the Assyrian deportation — the setting is 2 Kings 17's aftermath."
+    },
+    {
+      "node": "tob",
+      "prerequisite": "gen-24-26",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Tobias' guided journey to find a kinswoman bride deliberately patterns itself on the wooing of Rebekah."
+    },
+    {
+      "node": "jdt",
+      "prerequisite": "judg-3-8",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Judith stands in the deliverer line of Deborah and Jael — the tent-peg scene is her template."
+    },
+    {
+      "node": "esth-gk",
+      "prerequisite": "esth",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The additions are supplements to Esther's narrative — they are unreadable apart from the book they expand."
+    },
+    {
+      "node": "wis-1-9",
+      "prerequisite": "prov-1-9",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "The book develops Proverbs' Lady Wisdom into a full philosophical portrait; the personification starts there."
+    },
+    {
+      "node": "wis-1-9",
+      "prerequisite": "1kgs-1-4",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The speaker is a literary 'Solomon' — his prayer for wisdom expands 1 Kings 3's scene."
+    },
+    {
+      "node": "wis-10-19",
+      "prerequisite": "wis-1-9",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The historical survey demonstrates the Wisdom whom the first movement praised and prayed for."
+    },
+    {
+      "node": "wis-10-19",
+      "prerequisite": "exod-5-11",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "Chapters 11-19 are a sustained meditation on the plagues; the Exodus narrative is their entire subject."
+    },
+    {
+      "node": "sir-1-23",
+      "prerequisite": "prov-10-22a",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "literary",
+      "reason": "Ben Sira consciously writes in Proverbs' genre and quotes its themes; he is its direct heir."
+    },
+    {
+      "node": "sir-24-51",
+      "prerequisite": "sir-1-23",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The book's second half; the sage's method and voice are established in the first."
+    },
+    {
+      "node": "sir-24-51",
+      "prerequisite": "prov-1-9",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Wisdom's self-praise in chapter 24 is Proverbs 8's speech relocated to the Jerusalem temple."
+    },
+    {
+      "node": "bar",
+      "prerequisite": "jer-40-45",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "Baruch is Jeremiah's scribe, writing from the exile that book narrates; the fiction depends on it."
+    },
+    {
+      "node": "bar",
+      "prerequisite": "deut-27-30",
+      "strength": "soft",
+      "type": "theological",
+      "reason": "The confession prays Deuteronomy's curse-and-return script almost clause by clause."
+    },
+    {
+      "node": "dan-gk",
+      "prerequisite": "dan-3",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The Prayer of Azariah and Song of the Three are inserted directly into the furnace scene of Daniel 3."
+    },
+    {
+      "node": "dan-gk",
+      "prerequisite": "dan-4-6",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Bel and the Dragon extends the court-tale cycle — Daniel outwitting idolatrous power — of Daniel 4-6."
+    },
+    {
+      "node": "1macc",
+      "prerequisite": "dan-8-12",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "narrative",
+      "reason": "The desecration and tribulation these chapters narrate is the crisis Daniel 8 and 11 describe in vision."
+    },
+    {
+      "node": "1macc",
+      "prerequisite": "neh-8-13",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "The story presumes the post-exilic temple community the Ezra-Nehemiah reforms established."
+    },
+    {
+      "node": "2macc",
+      "prerequisite": "1macc",
+      "strength": "soft",
+      "type": "narrative",
+      "reason": "Parallel account of the same revolt; the political narrative there frames the martyr theology here."
+    },
+    {
+      "node": "2macc",
+      "prerequisite": "dan-8-12",
+      "strength": "hard",
+      "scope": "foundation",
+      "type": "theological",
+      "reason": "The martyrs' resurrection confession stands on Daniel 12's 'many who sleep in the dust shall awake.'"
+    },
+    {
+      "node": "1esd",
+      "prerequisite": "ezra-1-6",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The book is a variant telling of Ezra's return-and-rebuild narrative; it reads as commentary on it."
+    },
+    {
+      "node": "pr-man",
+      "prerequisite": "2chr-33-36",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The prayer exists to fill the gap in 2 Chronicles 33, which reports Manasseh's prayer without quoting it."
+    },
+    {
+      "node": "ps-151",
+      "prerequisite": "1sam-16-20",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "narrative",
+      "reason": "The psalm is a first-person retelling of 1 Samuel 16-17 — anointing and Goliath; the story is its entire content."
+    },
+    {
+      "node": "3macc",
+      "prerequisite": "esth",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "The genre — a decree of annihilation against diaspora Jews reversed into a festival — is Esther's, relocated to Egypt."
+    },
+    {
+      "node": "3macc",
+      "prerequisite": "dan-4-6",
+      "strength": "soft",
+      "type": "literary",
+      "reason": "Deliverance from a pagan king's spectacular execution device follows the furnace-and-lions pattern."
+    },
+    {
+      "node": "4macc",
+      "prerequisite": "2macc",
+      "strength": "hard",
+      "scope": "sequence",
+      "type": "literary",
+      "reason": "The book is an extended philosophical meditation on 2 Maccabees 6-7's martyr narratives; it assumes them in detail."
+    }
+  ]
+}

@@ -1,0 +1,1261 @@
+{
+  "book": "Genesis",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Law/Torah",
+  "nodes": [
+    {
+      "id": "gen-1-3",
+      "title": "Creation and Fall",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:24"
+      },
+      "difficulty_tier": 1,
+      "summary": "God creates a good world and places humanity in it as his image-bearers; the man and woman grasp at autonomy, and exile, death, and broken relationship enter the story. Nearly every major theme in the Bible — image of God, temple, marriage, sin, promise of a serpent-crusher — starts here.",
+      "key_themes": [
+        "creation",
+        "image of God",
+        "sin",
+        "exile",
+        "promise"
+      ],
+      "prerequisites": [],
+      "connections": [
+        {
+          "node": "john-1",
+          "reason": "John deliberately reopens with 'In the beginning' — the Word present at creation is the same figure entering it."
+        }
+      ],
+      "tradition_notes": "Traditions diverge on how to read the Fall's aftermath: Western (Catholic and much Protestant) theology follows Augustine in reading Genesis 3 as transmitting inherited guilt ('original sin'), while Orthodox theology speaks of inherited mortality and corruption ('ancestral sin') without inherited guilt. Genesis 3:15 is read by Catholics with a Marian dimension ('the woman') that Protestants generally do not adopt.",
+      "key_verses": [
+        "Genesis 1:27",
+        "Genesis 1:31",
+        "Genesis 3:15"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "sorrow"
+      ],
+      "discussion_prompt": "The serpent's first move is a question: 'Did God really say?' What is he trying to change in Eve before she ever touches the fruit?",
+      "assessment_questions": [
+        "What sets the humans apart from everything else God makes in Genesis 1?",
+        "What does the serpent go after first, before the fruit itself?",
+        "If sin began by doubting God’s word, where would restoration have to begin?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God is the sole Creator",
+          "explanation": "The world exists on purpose because one good God spoke it into being, so life has order and meaning instead of being an accident."
+        },
+        {
+          "concept": "The image of God",
+          "explanation": "Every human being carries God's image, which gives each person real dignity and a calling to reflect God's care over creation."
+        },
+        {
+          "concept": "Creation is good",
+          "explanation": "God declares the finished world very good, so evil is an intruder in creation rather than part of its original design."
+        },
+        {
+          "concept": "The origin of sin and the first promise",
+          "explanation": "Sin enters through willful distrust of God's word, and Genesis 3:15 immediately promises an offspring who will one day crush the serpent."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain in your own words what it means to be made in the image of God, and how Genesis 3 sets up the rest of the Bible's story.",
+      "comprehension_check": [
+        {
+          "question": "What does Genesis 3 present as the root of the first sin?",
+          "options": [
+            "They were overcome by hunger and the beauty of the fruit",
+            "They were forced by a power stronger than their own will",
+            "They stopped trusting God’s word and acted on their own judgment",
+            "They broke a command without grasping that it was truly wrong"
+          ],
+          "answer_index": 2,
+          "why": "The temptation first unsettles trust in what God said; the eating follows a choice to believe the serpent over God, not appetite, force, or ignorance.",
+          "hint": "Read Genesis 3:1-5 again. Notice what the serpent says before he says anything about the fruit."
+        },
+        {
+          "question": "Genesis 1 calls humanity the image of God. Within the chapter, what does that give them?",
+          "options": [
+            "A calling to represent God and steward his world",
+            "A freedom to use creation however they see fit",
+            "A guarantee of life that can never be taken away",
+            "A soul of a kind the animals were never given"
+          ],
+          "answer_index": 0,
+          "why": "The image is a royal commission, which is why ruling and keeping come with it; the other readings claim more or other than the chapter states.",
+          "hint": "Read Genesis 1:26-28. Notice the task God gives them in the same breath as the word \"image.\""
+        }
+      ]
+    },
+    {
+      "id": "gen-4-5",
+      "title": "Cain, Abel, and the Line of Death",
+      "chapters": [
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "4:1",
+        "to": "5:32"
+      },
+      "difficulty_tier": 1,
+      "summary": "Sin leaves the garden and moves into the family: Cain's envy of Abel ends in the first murder, and God confronts, judges, and still marks the killer with protection. Violence compounds through Cain's line to Lamech's boast, while the genealogy of chapter 5 tolls its refrain of death from Adam toward Noah. Yet a second line runs alongside the graves: Seth is born, people begin to call on the name of the LORD, and Enoch walks with God, signs that judgment has not silenced hope.",
+      "key_themes": [
+        "sin crouching at the door",
+        "the first murder",
+        "violence compounding",
+        "the line of Seth",
+        "the reign of death"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-1-3",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The spiral of violence and the flood only make sense as the outworking of the Fall.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Genesis 4:7",
+        "Genesis 4:26",
+        "Genesis 5:24"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "sorrow"
+      ],
+      "discussion_prompt": "God warns Cain that sin is waiting at his door before anything has happened, and Cain kills his brother anyway. Where have you seen the gap between being warned about something and actually mastering it, and what do you think lives in that gap?",
+      "assessment_questions": [
+        "What warning does God give Cain in Genesis 4:7 before the murder, and what does Cain do with it?",
+        "Genesis 5 repeats the same closing phrase over one long life after another, then breaks the pattern with Enoch. What is the chapter using all that repetition to say?",
+        "Cain answers God's question in Genesis 4:9 with a question of his own, shrugging off his brother. Where are you currently deflecting responsibility for someone the way Cain deflects his, and what would answering honestly look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Sin as a crouching predator",
+          "explanation": "God's warning in Genesis 4:7 pictures sin as an animal waiting at the door, desiring Cain yet still able to be mastered, so the first murder is told as a lost battle that could have been won."
+        },
+        {
+          "concept": "The offerer behind the offering",
+          "explanation": "The narrative ties God's regard to the brothers themselves along with their gifts, steering readers away from the idea that Abel's animals were simply the right category of sacrifice."
+        },
+        {
+          "concept": "Judgment that carries mercy",
+          "explanation": "Cain is driven from the ground yet marked against being killed, an early instance of the pattern where God's punishments arrive wrapped in protection."
+        },
+        {
+          "concept": "Two lines out of Eden",
+          "explanation": "Lamech's escalating vengeance and Seth's line calling on the LORD's name run side by side, setting up the whole Bible's question of which way humanity will walk."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what God's warning in Genesis 4:7 offers Cain before the murder, and describe what the refrain of Genesis 5 says about life after Eden.",
+      "comprehension_check": [
+        {
+          "question": "In Genesis 4:6-7, God speaks to Cain before the murder. What does that moment establish about the killing that follows?",
+          "options": [
+            "A fate God had already settled for Cain in advance",
+            "A choice Cain made against a warning he had heard",
+            "An outburst neither brother could have seen coming",
+            "A reaction God provoked by rejecting Cain unfairly"
+          ],
+          "answer_index": 1,
+          "why": "Genesis 4:7 puts the choice before the act: God shows Cain sin waiting at the door and tells him it can be mastered.",
+          "hint": "Read Genesis 4:6-7 again. Notice what God says Cain is able to do before Cain does anything."
+        },
+        {
+          "question": "Genesis 5 repeats one closing phrase across ten generations. What is the chapter built to show?",
+          "options": [
+            "How reliable Israel's earliest family records really were",
+            "How long steady obedience could stretch a human lifespan",
+            "How Eden's sentence of death now governs every generation",
+            "How quickly humanity forgot God after leaving Eden"
+          ],
+          "answer_index": 2,
+          "why": "Genesis 5:5 starts the toll and the chapter keeps it ringing: the death spoken over Eden now closes every life in the line.",
+          "hint": "Read Genesis 5:5-31 and watch for the phrase every paragraph shares. Then look at Genesis 5:24 for the one man it skips."
+        }
+      ]
+    },
+    {
+      "id": "gen-6-9",
+      "title": "The Flood and the Covenant with Noah",
+      "chapters": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_span": {
+        "from": "6:1",
+        "to": "9:29"
+      },
+      "difficulty_tier": 1,
+      "summary": "Human evil reaches saturation, every inclination of the heart, and God grieves over the world he made. The flood answers that corruption with un-creation, the waters returning over the earth, while the ark carries one family and the animal kinds through judgment into a washed world. What follows is the surprise: God binds himself by covenant to every living creature, hangs the bow in the clouds, and promises a stable world to a race whose hearts have not changed.",
+      "key_themes": [
+        "corruption filling the earth",
+        "judgment as un-creation",
+        "the ark and the remnant",
+        "the Noahic covenant",
+        "grace despite the heart"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-4-5",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The flood judges the corruption that has spread from Cain's violence through the generations.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Genesis 6:5",
+        "Genesis 8:21",
+        "Genesis 9:13"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "hopeful"
+      ],
+      "discussion_prompt": "Genesis 6:5 and Genesis 8:21 give almost the same diagnosis of the human heart, once before the flood and once after it. What do you make of God responding to the same diagnosis with judgment the first time and with a promise the second?",
+      "assessment_questions": [
+        "What does God see in Genesis 6:5, and what two responses of his does the chapter record?",
+        "The flood is told as waters rising until the world looks the way it did before creation began. Why would the writer present the judgment as Genesis 1 run backward?",
+        "After the flood, God promises seedtime and harvest to people whose hearts he says are still bent wrong. Where do you rely on that steady world without noticing, and what would it change to receive it as patience rather than as your due?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Judgment as un-creation",
+          "explanation": "The flood releases the waters creation had separated, telling the judgment as Genesis 1 in reverse and making the stakes of sin cosmic rather than private."
+        },
+        {
+          "concept": "The remnant carried through",
+          "explanation": "One family is preserved through the waters rather than exempted from them, a pattern of rescue through judgment the rest of Scripture keeps reusing."
+        },
+        {
+          "concept": "The Noahic covenant",
+          "explanation": "In Genesis 9:8-17 God binds himself to every living creature, guaranteeing a stable stage on which the whole story of redemption can be played out."
+        },
+        {
+          "concept": "Grace aimed at unchanged hearts",
+          "explanation": "Genesis 8:21 grounds the promise in God's own resolve while the human diagnosis stays the same, locating the world's security in God rather than in improvement."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the flood as judgment and rescue in a single story, and explain what God promises to every living creature in Genesis 9 and what he asks of humanity in return.",
+      "comprehension_check": [
+        {
+          "question": "Genesis 8:21 repeats the diagnosis of the human heart from Genesis 6:5. What does that repetition reveal about the covenant that follows?",
+          "options": [
+            "The flood has scrubbed the human heart clean for a fresh start",
+            "The promise rests on God's own resolve rather than our progress",
+            "God has quietly lowered his standard to match human weakness",
+            "The covenant is delayed until human hearts finally improve"
+          ],
+          "answer_index": 1,
+          "why": "Genesis 8:21 puts the promise in God's heart while the human heart stays as it was, so the world's stability hangs on him alone.",
+          "hint": "Read Genesis 6:5 and then Genesis 8:21. Notice what has changed between them and what has not."
+        },
+        {
+          "question": "What kind of commitment does God make in Genesis 9:8-17?",
+          "options": [
+            "A pledge to every living creature, signed by the bow",
+            "A private reward to Noah for his obedience on the ark",
+            "A conditional deal that lapses whenever violence returns",
+            "A protective charm placed in the sky to calm human fear"
+          ],
+          "answer_index": 0,
+          "why": "Genesis 9:12-13 stretches the covenant to every living creature for all generations, and Genesis 9:16 says God himself sees the bow and remembers.",
+          "hint": "Read Genesis 9:8-17 and count how many times God names who the covenant is with. Notice who looks at the bow in Genesis 9:16."
+        }
+      ]
+    },
+    {
+      "id": "gen-10-11",
+      "title": "The Table of Nations and Babel",
+      "chapters": [
+        10,
+        11
+      ],
+      "verse_span": {
+        "from": "10:1",
+        "to": "11:32"
+      },
+      "difficulty_tier": 2,
+      "summary": "Noah's sons become the seventy nations of the Table, mapped out before the story explains their scattering. At Babel a united humanity builds upward to make a name and to avoid being spread over the earth, and God answers by confusing the one language and dispersing the builders, the very thing they feared. Then the line of Shem narrows to Terah's household, and the primeval history hands the divided world a single thread of hope: a man named Abram, headed toward Canaan.",
+      "key_themes": [
+        "the spread of nations",
+        "the pride of Babel",
+        "scattering as judgment and design",
+        "one language confused",
+        "the line narrowing to Abram"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-6-9",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The nations of the Table descend from Noah's sons after the flood.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-2",
+          "reason": "Pentecost's many languages heard as one gospel is widely read as Babel's scattering reversed."
+        }
+      ],
+      "key_verses": [
+        "Genesis 10:32",
+        "Genesis 11:4",
+        "Genesis 11:9"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "hopeful"
+      ],
+      "discussion_prompt": "The builders at Babel pour their skill into a name for themselves and a defense against being scattered. When you look at what people build together today, cities, platforms, brands, movements, where do you see those same two motives at work, and what do you make of them?",
+      "assessment_questions": [
+        "What two goals do the builders state in Genesis 11:4, and what does God do in response?",
+        "Genesis 10 shows the nations already spread out with their own languages before chapter 11 explains how that happened. What does this ordering, result before cause, do to the way you read the Babel story?",
+        "Babel's builders worked to make a name for themselves, and the story closes by narrowing to Abram, a man whose name God will make great as a gift. Where are you working to make a name for yourself right now, and what would it mean to receive one instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Table of Nations",
+          "explanation": "Genesis 10 maps seventy nations descending from one family, insisting that the whole divided world is kin and inside God's story before Israel is ever chosen."
+        },
+        {
+          "concept": "The sin of Babel",
+          "explanation": "The builders' own words in Genesis 11:4 aim at fame and self-secured unity against the command to fill the earth, so the target is pride rather than cities or towers as such."
+        },
+        {
+          "concept": "Scattering as judgment and design",
+          "explanation": "The dispersal punishes the grasp at autonomy yet accomplishes the spreading God intended all along, judgment folded inside providence."
+        },
+        {
+          "concept": "From the nations to one family",
+          "explanation": "The genealogy of Shem funnels the story from seventy nations down to one household, setting up the call of Abram as God's answer to Babel."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the builders wanted at Babel and how God's response answers it, and describe why the chapters end by tracing Shem's line down to Abram.",
+      "comprehension_check": [
+        {
+          "question": "Genesis 10 pauses the story to map seventy nations descending from Noah's sons. What is the map there to establish?",
+          "options": [
+            "Which nations God had chosen and which he had passed over",
+            "The military rivals Israel would one day meet in Canaan",
+            "That every scattered nation is one family inside God's story",
+            "A precise ethnic record for tracing modern peoples"
+          ],
+          "answer_index": 2,
+          "why": "Genesis 10:32 sums the chapter up: all the nations spread out from one family after the flood, so the whole world stays inside the one story.",
+          "hint": "Read Genesis 10:1 and Genesis 10:32, the frame around the list. Notice what the frame says the seventy nations have in common."
+        },
+        {
+          "question": "God's response at Babel ends with the people spread over the earth, the outcome they built against. How does the story mean us to read that ending?",
+          "options": [
+            "As proof that human unity is a danger God will not allow",
+            "As the filling of the earth God wanted, arrived at through judgment",
+            "As a tragedy that permanently derailed God's plan for one people",
+            "As a warning that ambition in building is itself rebellion"
+          ],
+          "answer_index": 1,
+          "why": "Genesis 9:1 had already told Noah's family to fill the earth, and Genesis 11:9 shows the LORD accomplishing that spreading himself.",
+          "hint": "Read Genesis 11:4 for what the builders feared, then Genesis 11:8-9 for what happened. Compare both with Genesis 9:1."
+        }
+      ]
+    },
+    {
+      "id": "gen-12-17",
+      "title": "The Call of Abram and the Covenant",
+      "chapters": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_span": {
+        "from": "12:1",
+        "to": "17:27"
+      },
+      "difficulty_tier": 2,
+      "summary": "God answers Babel by calling one man, Abram, and binding himself by covenant: land, offspring, and blessing for all nations through his family. Abram believes and it is counted to him as righteousness — the verse on which Paul later builds his entire doctrine of justification.",
+      "key_themes": [
+        "covenant",
+        "faith",
+        "promise",
+        "blessing to the nations"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-10-11",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The call of Abram is God's answer to the scattered nations of Babel; without that backdrop it reads as an arbitrary beginning.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "gen-1-3",
+          "reason": "The covenant blessings (fruitfulness, land, presence) deliberately echo Eden — Abraham's family is a new humanity project."
+        }
+      ],
+      "key_verses": [
+        "Genesis 12:2-3",
+        "Genesis 15:6",
+        "Genesis 17:7"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful"
+      ],
+      "discussion_prompt": "God promises Abram land, children, and blessing, then decades pass with none of it. What is the waiting asking of him?",
+      "assessment_questions": [
+        "What does God ask Abram to leave, and what does he promise in return?",
+        "Genesis 15:6 credits Abram’s trust, not his record, as righteousness. Why does that distinction matter?",
+        "Is there a promise of God you are being asked to trust before you can see it? What would acting on it look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God takes the initiative",
+          "explanation": "The story of rescue begins with God's call, since Abram did nothing to earn it and simply received a promise."
+        },
+        {
+          "concept": "Blessing for all nations",
+          "explanation": "God's promise aims past one family at every family on earth, which makes Abram's call the answer to Babel's scattering."
+        },
+        {
+          "concept": "Faith counted as righteousness",
+          "explanation": "Genesis 15:6 shows Abram trusting God's promise and being counted righteous for it, a verse the New Testament returns to again and again."
+        },
+        {
+          "concept": "Covenant",
+          "explanation": "God formalizes his promise by binding himself in covenant and giving a sign, showing that his commitments are solemn and permanent."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what God promised Abram and why Genesis 15:6 matters so much to the rest of the Bible.",
+      "comprehension_check": [
+        {
+          "question": "Genesis 15:6 counts Abram righteous. On what basis, according to the passage?",
+          "options": [
+            "His long obedience on the road had finally earned God’s favor",
+            "God was repaying him for leaving his homeland and his people",
+            "His trust in God’s promise counted as righteousness, not his deeds",
+            "He had been made entirely sinless the moment that he believed"
+          ],
+          "answer_index": 2,
+          "why": "Righteousness here rests on trust, not achievement or reward; the works-based and sinlessness readings are what the verse sets aside.",
+          "hint": "Read Genesis 15:6 slowly. Notice what Abram does and what God counts it as, before Abram accomplishes anything."
+        },
+        {
+          "question": "God promises that through Abram all peoples will be blessed. What does this show?",
+          "options": [
+            "One family is chosen to carry blessing to every nation",
+            "One family is favored while the other nations are passed over",
+            "One family is promised rule over all the surrounding peoples",
+            "One family is blessed for the span of Abram’s own lifetime"
+          ],
+          "answer_index": 0,
+          "why": "The promise aims through Abram at all peoples; reading it as favoritism, dominion, or a one-generation gift misses its global reach.",
+          "hint": "Read Genesis 12:2-3. Notice who the blessing finally reaches, not only who receives it first."
+        }
+      ]
+    },
+    {
+      "id": "gen-18-23",
+      "title": "Sodom, Isaac, and the Binding",
+      "chapters": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "verse_span": {
+        "from": "18:1",
+        "to": "23:20"
+      },
+      "difficulty_tier": 2,
+      "summary": "The promised son finally arrives — and then God asks Abraham to give him back on Mount Moriah, the Bible's most searching test of faith. Around it: Abraham bargains with God over Sodom, and Sarah's death closes the era with the first plot of promised land actually owned.",
+      "key_themes": [
+        "testing",
+        "substitution",
+        "intercession",
+        "provision"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-12-17",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The Binding of Isaac has its force only if you know Isaac is the covenant son waited for over decades.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-11",
+          "reason": "Hebrews reads Abraham's willingness at Moriah as faith in God's power to raise the dead."
+        }
+      ],
+      "key_verses": [
+        "Genesis 18:25",
+        "Genesis 22:8",
+        "Genesis 22:14"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "reverent"
+      ],
+      "discussion_prompt": "God asks Abraham to give back the son he waited a lifetime for. What is actually being tested on that mountain?",
+      "assessment_questions": [
+        "What does Abraham tell Isaac when Isaac asks where the lamb is?",
+        "A ram dies in Isaac’s place. What does that substitution add to the meaning of the test?",
+        "Abraham obeyed before he could see how it would end. Where is trust hardest for you when the outcome is hidden?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God keeps impossible promises",
+          "explanation": "Isaac is born to a couple far too old for children, proving that God's promises do not depend on favorable circumstances."
+        },
+        {
+          "concept": "The Judge of all the earth",
+          "explanation": "Abraham's bold questions over Sodom show that God welcomes honest wrestling and that his judgment of evil is never careless."
+        },
+        {
+          "concept": "Tested faith",
+          "explanation": "The Binding of Isaac is the Bible's sharpest test of trust, and Abraham's obedience rests on believing God will keep his promise no matter what."
+        },
+        {
+          "concept": "God provides the substitute",
+          "explanation": "The ram offered in Isaac's place introduces substitution, a thread that runs from Moriah through the rest of Scripture."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the Binding of Isaac and explain what it reveals about trusting God's promises and God's provision.",
+      "comprehension_check": [
+        {
+          "question": "In the binding of Isaac (Genesis 22), what does the ram in the thicket most reveal?",
+          "options": [
+            "The test was empty, since God never truly wanted Isaac",
+            "Abraham had misheard what God had first asked of him",
+            "God values animal sacrifice more than a person’s obedience",
+            "God provides a substitute to die in Isaac’s place"
+          ],
+          "answer_index": 3,
+          "why": "The provided ram is where the story rests (“God will provide”); it introduces substitution, which the dismissive, mistaken-command, and ritual readings all miss.",
+          "hint": "Read Genesis 22:8 and 22:13. Notice what Abraham says God will do, and then what actually dies on the altar."
+        }
+      ]
+    },
+    {
+      "id": "gen-24-26",
+      "title": "Isaac and Rebekah",
+      "chapters": [
+        24,
+        25,
+        26
+      ],
+      "verse_span": {
+        "from": "24:1",
+        "to": "26:35"
+      },
+      "difficulty_tier": 2,
+      "summary": "The covenant passes to the second generation: a bride is found for Isaac, Abraham dies, and twin sons — Esau and Jacob — are born already in conflict, with the older destined to serve the younger. God renews the Abrahamic promises to Isaac directly.",
+      "key_themes": [
+        "covenant succession",
+        "providence",
+        "election"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-18-23",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "This is the direct continuation: the son spared at Moriah now carries the covenant line forward.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rom-9-11",
+          "reason": "Paul builds his argument about God's electing freedom on 'the older will serve the younger' from Genesis 25."
+        }
+      ],
+      "key_verses": [
+        "Genesis 24:27",
+        "Genesis 25:23",
+        "Genesis 26:24"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "light",
+      "emotional_tone": [
+        "reflective",
+        "comfort"
+      ],
+      "discussion_prompt": "There are no miracles in these chapters, just a servant praying beside a well. Where is God in a story this ordinary?",
+      "assessment_questions": [
+        "How does the servant know he has found the right woman for Isaac?",
+        "Nothing dramatic happens, yet the covenant moves forward. What does that say about how God usually works?",
+        "What ordinary decision are you facing that you have never thought to bring to God?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Providence in ordinary life",
+          "explanation": "God guides through prayer, timing, and everyday faithfulness, as the servant's search for Rebekah shows."
+        },
+        {
+          "concept": "The covenant crosses generations",
+          "explanation": "God renews the Abrahamic promises to Isaac personally, showing that his faithfulness outlives the people he first spoke to."
+        },
+        {
+          "concept": "God's surprising choice",
+          "explanation": "The oracle that the older will serve the younger shows God's purposes running ahead of human customs, a mystery Christians have pondered ever since."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how the covenant promise passes to Isaac, and explain one way these chapters show God guiding ordinary decisions.",
+      "comprehension_check": [
+        {
+          "question": "The servant prays for a sign and Rebekah fulfills it. What is the passage teaching?",
+          "options": [
+            "God rewards those who ask him for a clear sign",
+            "God quietly guides ordinary choices to move his promise forward",
+            "Rebekah is chosen because she is the fairest of the women",
+            "The servant happens on the right woman by good fortune"
+          ],
+          "answer_index": 1,
+          "why": "The scene shows unremarkable providence carrying the covenant on; a sign-formula or luck both miss the quiet way God works here.",
+          "hint": "Read Genesis 24:12-21. Notice how ordinary the whole scene is, and whom the servant credits when it works."
+        },
+        {
+          "question": "Before the twins are born, God says “the older will serve the younger.” What does this reveal?",
+          "options": [
+            "Jacob has already proven himself more deserving than his brother",
+            "Esau is being set aside for a sin he has committed",
+            "God’s purpose runs ahead of the custom of the firstborn",
+            "The word will fail, since the elder son normally ruled"
+          ],
+          "answer_index": 2,
+          "why": "The word comes before either child acts, so it rests on God’s purpose, not merit, prior sin, or human custom.",
+          "hint": "Read Genesis 25:23. Notice when God speaks this, in relation to the twins being born or doing anything."
+        }
+      ]
+    },
+    {
+      "id": "gen-27-28",
+      "title": "The Stolen Blessing and the Ladder at Bethel",
+      "chapters": [
+        27,
+        28
+      ],
+      "verse_span": {
+        "from": "27:1",
+        "to": "28:22"
+      },
+      "difficulty_tier": 2,
+      "summary": "Isaac plans to bless Esau, and Rebekah and Jacob get there first by disguise and lie. The theft works, and the family shatters: Esau plans murder, Rebekah loses her favorite son, and Jacob flees with nothing. Then at a stony nowhere on the road, God appears in a dream above the stairway and hands the fugitive the whole Abrahamic promise, unearned, with a personal pledge of presence and return. Jacob wakes afraid, names the place Bethel, and starts bargaining.",
+      "key_themes": [
+        "blessing by deceit",
+        "the cost of the lie",
+        "God meets the fugitive",
+        "the promise renewed at Bethel",
+        "vows and bargaining"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-24-26",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Jacob's story begins inside the rivalry with Esau established at their birth.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Genesis 27:36",
+        "Genesis 28:12",
+        "Genesis 28:15"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "hopeful"
+      ],
+      "discussion_prompt": "Jacob has just wrecked his family with a lie when God meets him at Bethel and promises him everything anyway. How do you hold together what Jacob did in chapter 27 with what God says in chapter 28, and what does that tension show you about how God works?",
+      "assessment_questions": [
+        "How does Jacob obtain Isaac's blessing in Genesis 27, and what does it immediately cost him?",
+        "At Bethel God repeats to Jacob the promise given to Abraham and adds a personal pledge in Genesis 28:15. What is the significance of God speaking these words to Jacob on this particular night of his life?",
+        "Jacob answers the dream with a vow in Genesis 28:20-22 that begins with the word if. What do you hear in that vow, faith, bargaining, or both, and how do your own prayers compare?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The blessing is covenantal",
+          "explanation": "What Jacob steals and God later confirms is the Abrahamic promise of land, offspring, and blessing for the nations, a vocation rather than mere prosperity."
+        },
+        {
+          "concept": "Grace takes the initiative",
+          "explanation": "Bethel comes to a man mid-flight from his own sin, showing the covenant sustained by God's choice and faithfulness rather than by Jacob's character."
+        },
+        {
+          "concept": "The lie is never endorsed",
+          "explanation": "The narrative lets the deceit succeed and then charges it full price in exile, fear, and a divided family, recording sin's cost without a single moralizing aside."
+        },
+        {
+          "concept": "Bethel as meeting place",
+          "explanation": "The stairway joins heaven and earth at an ordinary spot, giving Scripture one of its lasting images of God's nearness, the one John 1:51 picks up."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Tell how Jacob got the blessing and what it cost him, and explain what God promises at Bethel and why its timing matters.",
+      "comprehension_check": [
+        {
+          "question": "Jacob reaches Bethel as a fugitive from his own deception. What does God's speech in Genesis 28:13-15 do at that moment?",
+          "options": [
+            "It gives the promise to Jacob with no conditions attached",
+            "It rewards the boldness Jacob showed in seizing the blessing",
+            "It sets terms Jacob must meet before the promise applies",
+            "It warns Jacob of the punishment his lie has earned"
+          ],
+          "answer_index": 0,
+          "why": "Genesis 28:13-15 hands Jacob land, offspring, blessing, and presence as promise, and the only speaker making commitments is God.",
+          "hint": "Read Genesis 28:13-15 and notice who makes every pledge in the dream, and what Jacob is asked to contribute."
+        },
+        {
+          "question": "What kind of thing is the blessing that Jacob schemes for and Esau weeps over?",
+          "options": [
+            "A father's wish with only the force of family custom",
+            "A transfer of wealth from the older son to the younger",
+            "The carrying forward of God's promise to Abraham's line",
+            "A reward for the son who proved himself worthiest"
+          ],
+          "answer_index": 2,
+          "why": "When Isaac blesses Jacob again in Genesis 28:3-4, he names it the blessing of Abraham, the promise of offspring and land now resting on Jacob.",
+          "hint": "Read Genesis 28:3-4, where Isaac blesses Jacob a second time with open eyes. Notice whose blessing he says it is."
+        }
+      ]
+    },
+    {
+      "id": "gen-29-31",
+      "title": "Jacob and Laban: The Deceiver Deceived",
+      "chapters": [
+        29,
+        30,
+        31
+      ],
+      "verse_span": {
+        "from": "29:1",
+        "to": "31:55"
+      },
+      "difficulty_tier": 2,
+      "summary": "In Haran the trickster meets his match: Laban swaps Leah for Rachel on the wedding night, and Jacob wakes to a switched sibling and a disguised identity, his own methods turned against him. Twenty years of rivalry follow, two wives locked in a childbearing contest and wages changed again and again, yet through the mess eleven sons and a daughter are born and the flocks multiply. When Jacob finally flees for home, he can name the reason he survived it all: God saw his affliction and stayed with him.",
+      "key_themes": [
+        "the deceiver deceived",
+        "Leah and Rachel",
+        "the sons of Jacob born",
+        "blessing in hard service",
+        "flight from Haran"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-27-28",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Jacob is in Haran because the stolen blessing forced his flight.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Genesis 29:25",
+        "Genesis 30:22",
+        "Genesis 31:42"
+      ],
+      "reading_time_minutes": 18,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "Leah spends these chapters unloved, naming son after son out of her hope that this one will finally win her husband, until at Judah's birth she simply praises the LORD. What do you notice in the sequence of her four sons' names in Genesis 29:31-35, and where do you recognize her struggle?",
+      "assessment_questions": [
+        "What does Laban do on Jacob's wedding night in Genesis 29:21-27, and how does the excuse he gives echo Jacob's own history?",
+        "Both wives treat children as points in a contest, yet the narrator keeps crediting God with each birth. What are these chapters saying about where the family of Israel actually came from?",
+        "Jacob looks back in Genesis 31:42 and reads twenty hard years as God seeing his affliction and staying with him. Looking back over your own last hard stretch, what would it take to tell its story the way Jacob tells his?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The deceiver reaps deception",
+          "explanation": "Laban's switch of sisters mirrors Jacob's switch of brothers, and the wage games that follow show sin's consequences arriving as poetic justice without one editorial comment."
+        },
+        {
+          "concept": "God sees the unloved",
+          "explanation": "The narrative says God saw Leah's plight and gave her children, and from her come Levi and Judah, priesthood and kingship rising from the overlooked wife."
+        },
+        {
+          "concept": "The twelve tribes have messy origins",
+          "explanation": "Israel's sons are born amid rivalry, surrogacy, and bargaining, so the nation's very existence testifies to grace working through a real and broken family."
+        },
+        {
+          "concept": "Providence in the ordinary grind",
+          "explanation": "Apart from dreams at its edges, the Haran story runs on work, wages, and family strain, with God's faithfulness showing up as children, flocks, and protection inside two decades of labor."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how Laban's deception mirrors Jacob's own, and explain how Genesis 31:42 sums up what God was doing through the twenty years in Haran.",
+      "comprehension_check": [
+        {
+          "question": "What is the narrative doing when Laban gives Jacob the older sister in place of the younger on the wedding night?",
+          "options": [
+            "Showing that marriage customs mattered more than honesty in Haran",
+            "Proving Laban the one man clever enough to best Jacob",
+            "Excusing Jacob's earlier lie by showing everyone deceives",
+            "Serving Jacob's own trick back to him in reverse"
+          ],
+          "answer_index": 3,
+          "why": "Genesis 29:26 turns Jacob's weapon on him: Laban appeals to the precedence of the firstborn, the very order Jacob overturned in disguise at his father's bedside.",
+          "hint": "Read Genesis 29:25-26 beside Genesis 27:35-36. Notice which words in Laban's excuse could describe what happened in Isaac's tent."
+        },
+        {
+          "question": "Rivalry, bargaining, and jealousy fill the birth stories of Genesis 29-30. What do those chapters credit for the family that results?",
+          "options": [
+            "God giving children through a household at war with itself",
+            "The two sisters' schemes finally balancing each other out",
+            "Jacob's patient management of an impossible household",
+            "The natural growth any large ancient family shows over time"
+          ],
+          "answer_index": 0,
+          "why": "Genesis 29:31 and Genesis 30:22 put the births in God's hands: he sees, hears, remembers, and opens wombs while the household schemes.",
+          "hint": "Read Genesis 29:31 and Genesis 30:22. Notice who acts in those verses before any parent names a child."
+        }
+      ]
+    },
+    {
+      "id": "gen-32-36",
+      "title": "The Return: Wrestling at Peniel, Peace with Esau",
+      "chapters": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "verse_span": {
+        "from": "32:1",
+        "to": "36:43"
+      },
+      "difficulty_tier": 2,
+      "summary": "Jacob comes home the way he left, afraid of Esau, but the decisive struggle turns out to be with God: a night of wrestling at the Jabbok leaves him limping, renamed Israel, and blessed. The dreaded reunion dissolves in Esau's embrace, and Jacob returns to Bethel, where the promise is confirmed under his new name. The homecoming is shadowed all the same, Dinah violated and avenged in blood at Shechem, Rachel dying as Benjamin is born, Isaac buried, and Esau's generations closing the account as the covenant family settles in the land.",
+      "key_themes": [
+        "wrestling at the Jabbok",
+        "renamed Israel",
+        "reconciliation with Esau",
+        "violence at Shechem",
+        "back to Bethel"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-29-31",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Jacob returns to face Esau with the family gained in the Laban years.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "hos-11-14",
+          "reason": "Hosea 12 retells Jacob's wrestling as a mirror for the nation named after him."
+        }
+      ],
+      "key_verses": [
+        "Genesis 32:28",
+        "Genesis 33:4",
+        "Genesis 35:10"
+      ],
+      "reading_time_minutes": 24,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "Jacob spends the night before meeting Esau wrestling a stranger he later says was God, and he limps into the reunion he feared. Why do you think the story places that fight exactly there, on the border in the dark, and what difference do you see in Jacob by morning?",
+      "assessment_questions": [
+        "What does Jacob ask for during the night struggle in Genesis 32:26, and what does he receive by Genesis 32:28-29?",
+        "The new name Israel is explained as one who struggles with God and prevails, yet Jacob leaves the match limping. What does the story mean by calling that combination prevailing?",
+        "Jacob prepared gifts, strategies, and split camps for Esau, and what actually met him was an embrace. Think of a reunion or conversation you are bracing for. What does Jacob's night at the Jabbok suggest about where that kind of meeting is really decided?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Blessing that leaves a limp",
+          "explanation": "Jacob gets what he has grasped at all his life only by being wounded in the getting, and the limp marks the change as real and permanent."
+        },
+        {
+          "concept": "The name Israel",
+          "explanation": "The nation inherits the name of a man remade in struggle, so Israel's identity is defined by wrestling with God rather than by easy possession of him."
+        },
+        {
+          "concept": "The feared brother's embrace",
+          "explanation": "Esau's running welcome in Genesis 33:4 gives the cycle its picture of unforced forgiveness, and Jacob says that seeing his brother's face is like seeing the face of God."
+        },
+        {
+          "concept": "The chosen family is not sanitized",
+          "explanation": "Dinah's violation and her brothers' revenge sit unresolved inside the homecoming, Scripture refusing to airbrush the covenant household it tells the truth about."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what happened at the Jabbok and what the name Israel means, and describe how the feared meeting with Esau actually unfolded.",
+      "comprehension_check": [
+        {
+          "question": "By morning at the Jabbok, Jacob has a new name and a limp. What has the encounter done to him?",
+          "options": [
+            "Punished him at last for the blessing he stole",
+            "Proven his strength the equal of any rival",
+            "Completed his growth into a man beyond deceit",
+            "Left him remade, carrying blessing and wound together"
+          ],
+          "answer_index": 3,
+          "why": "Genesis 32:28-31 binds the change into one gift: a new name for striving with God, a blessing spoken, and a hip that makes him limp into the sunrise.",
+          "hint": "Read Genesis 32:25-31 again. Notice everything Jacob carries away from the night, and hold the pieces together instead of choosing one."
+        },
+        {
+          "question": "Genesis 32 spends the night before the reunion on a wrestling match with God rather than on Esau. What does that placement say about the story's real crisis?",
+          "options": [
+            "God stops Jacob at the river to test his obedience",
+            "Jacob's deepest unsettled account is with God himself",
+            "Esau had already forgiven him, making the fear needless",
+            "The night match rehearses Jacob for a fight with Esau"
+          ],
+          "answer_index": 1,
+          "why": "Genesis 32:30 names the night's true opponent: Jacob has seen God face to face, and only after that does he look into Esau's.",
+          "hint": "Read Genesis 32:24-30, then Genesis 33:10. Notice whose face Jacob speaks of in each place."
+        }
+      ]
+    },
+    {
+      "id": "gen-37-41",
+      "title": "Sold into Egypt: From the Pit to the Palace",
+      "chapters": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_span": {
+        "from": "37:1",
+        "to": "41:57"
+      },
+      "difficulty_tier": 2,
+      "summary": "Jacob's favoritism and Joseph's dreams ignite the brothers' hatred, and Joseph falls from favored son to slave in the space of one chapter. The descent continues through the Judah and Tamar interlude, false accusation in Potiphar's house, and a forgotten favor in prison, yet one refrain holds the story together: at every step down, the LORD stays with Joseph. When Pharaoh's dreams stump Egypt, the prisoner who credits God with every interpretation rises in a single day to govern the years of famine.",
+      "key_themes": [
+        "dreams and hatred",
+        "the descent into Egypt",
+        "the LORD's presence in exile",
+        "integrity under temptation",
+        "rise to power"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-32-36",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Joseph's story is the story of Jacob's sons; the brothers' rivalry continues their father's household conflicts.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-6-7",
+          "reason": "Stephen's speech retells Joseph as the pattern of the rejected deliverer whom God vindicates."
+        }
+      ],
+      "key_verses": [
+        "Genesis 39:9",
+        "Genesis 39:21",
+        "Genesis 41:16"
+      ],
+      "reading_time_minutes": 26,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "hopeful"
+      ],
+      "discussion_prompt": "Twice Joseph lands at the bottom, the pit and the prison, and both times the story says God was with him there, without rescuing him for years. What do you think God's presence actually consisted of in those years, and how would you recognize something like it in a low stretch of your own?",
+      "assessment_questions": [
+        "What sequence of causes lands Joseph in Egypt in Genesis 37, and who has a hand in it?",
+        "In refusing Potiphar's wife, Joseph names God as the one he would be sinning against in Genesis 39:9. What does that answer reveal about how he understands his life as a slave far from home?",
+        "Joseph tells Pharaoh in Genesis 41:16 that the interpretation is God's to give, in the one moment his gift could have made his name. Where does your competence most tempt you to take the credit, and what would Joseph's habit change there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Presence without rescue",
+          "explanation": "The narrator tracks God's faithfulness through slavery and prison rather than out of them, teaching that being kept is different from being spared."
+        },
+        {
+          "concept": "Integrity answers to God",
+          "explanation": "Joseph resists temptation because the sin would be against God, so his moral compass holds where no father, priest, or community can see him."
+        },
+        {
+          "concept": "Gifts held as stewardship",
+          "explanation": "Twice Joseph insists that interpretations belong to God, and that habit of handing back the credit is exactly what makes him trustworthy with Egypt's power."
+        },
+        {
+          "concept": "Judah's story runs in parallel",
+          "explanation": "Chapter 38 shows Judah failing Tamar and finally conceding that she is more righteous than he, planting the change that will flower when he offers himself for Benjamin."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Trace Joseph's path from the pit to the palace, and explain what the story means by saying God was with him during the descent.",
+      "comprehension_check": [
+        {
+          "question": "Joseph falls from favored son to slave to prisoner before he rises. What does the narrative present as the constant through the fall?",
+          "options": [
+            "Joseph's talent, which no injustice could suppress forever",
+            "Joseph's dreams, which he clung to as a guarantee",
+            "The LORD's presence, blessing Joseph at every level he falls to",
+            "A run of luck that turns exactly when Joseph needs it"
+          ],
+          "answer_index": 2,
+          "why": "Genesis 39:2 and Genesis 39:21 sound the refrain at each new low: the LORD is with Joseph, and even a prison starts to prosper under him.",
+          "hint": "Read Genesis 39:2-6 and Genesis 39:21-23. Notice what the narrator repeats in the great house and again in the dungeon."
+        },
+        {
+          "question": "Joseph's refusal in Genesis 39:8-9 climbs from his master's trust to a final, higher reason. What does the climb reveal about him?",
+          "options": [
+            "He fears Potiphar's punishment more than he feels the pull",
+            "He keeps his record clean with promotion in view",
+            "He sees refusal as the only option a slave has",
+            "He answers finally to God, even with no one watching"
+          ],
+          "answer_index": 3,
+          "why": "Genesis 39:9 ends the refusal by naming God as the one the sin would wound, so Joseph's integrity stands wherever God sees.",
+          "hint": "Read Genesis 39:8-9 again. Notice who is named last, at the peak of Joseph's reasons."
+        }
+      ]
+    },
+    {
+      "id": "gen-42-45",
+      "title": "The Brothers Tested and the Great Reveal",
+      "chapters": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "verse_span": {
+        "from": "42:1",
+        "to": "45:28"
+      },
+      "difficulty_tier": 2,
+      "summary": "Famine drives ten guilty men to Egypt, where the brother they sold now controls the grain and recognizes them at once. Joseph's strange severity, accusations, detentions, a planted cup, rebuilds the scene of the first betrayal with Benjamin in Joseph's old place, until Judah, once the seller, offers his own life in exchange for the favored son. At that, Joseph breaks. The reveal reframes everything, Joseph telling his brothers that behind their selling stood God's sending, for the preservation of life.",
+      "key_themes": [
+        "guilt awakened",
+        "the testing of the brothers",
+        "Judah's substitution",
+        "the reveal and the reframe",
+        "providence over betrayal"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-37-41",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The brothers come to Egypt because the famine and Joseph's rise have already unfolded.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Genesis 42:21",
+        "Genesis 44:33",
+        "Genesis 45:5"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "joy"
+      ],
+      "discussion_prompt": "Joseph weeps repeatedly through these chapters while running a test that looks cold from the outside. As you follow him from Genesis 42 to Genesis 45, what do you think he is trying to find out, and what tells you when he has found it?",
+      "assessment_questions": [
+        "What do the brothers say to one another in Genesis 42:21 when trouble first finds them in Egypt?",
+        "Joseph's tests keep placing Benjamin, the new favorite, in danger while the brothers watch. What is that design uncovering, and how does Judah's speech in Genesis 44 answer it?",
+        "Judah once proposed selling a brother and now offers himself in a brother's place. What produced that change across the story, and what does his arc suggest about how the worst thing you have done relates to who you can still become?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A test that retells the crime",
+          "explanation": "Joseph's demands place another favored son at the brothers' mercy, rebuilding the scene of the original sin so that what they do next reveals what they have become."
+        },
+        {
+          "concept": "Judah's substitution",
+          "explanation": "The brother who engineered the sale now pleads in Genesis 44:33 to take Benjamin's slavery on himself, the clearest sign that guilt has ripened into repentance."
+        },
+        {
+          "concept": "Guilt kept alive",
+          "explanation": "Twenty years have not silenced the brothers' conscience, and the narrative shows suppressed guilt surfacing at the first pressure, ready at last to be dealt with."
+        },
+        {
+          "concept": "Sold and sent",
+          "explanation": "Joseph's reframe in Genesis 45:5-8 lays human evil and divine purpose over the same events without excusing the evil, the interpretive key the whole novella has been building toward."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how Joseph's tests recreate the original betrayal with the roles changed, and explain what Judah's offer and Joseph's reveal each show.",
+      "comprehension_check": [
+        {
+          "question": "Across Genesis 42-44, Joseph engineers accusations, detentions, and a planted cup. What do his maneuvers accomplish in the story?",
+          "options": [
+            "They restage the old betrayal so the brothers' change can show",
+            "They repay the brothers a measured portion of Joseph's suffering",
+            "They protect Egypt's grain from men Joseph cannot yet trust",
+            "They delay the reunion until Jacob himself can be brought down"
+          ],
+          "answer_index": 0,
+          "why": "Genesis 44:33 is the payoff: with Benjamin standing where Joseph once stood, Judah offers himself, and the test has found what it sought.",
+          "hint": "Read Genesis 42:21 and then Genesis 44:30-34. Notice what has happened to the men between those two speeches."
+        },
+        {
+          "question": "In Genesis 45:5-8 Joseph tells his brothers three times that God sent him to Egypt. What does that way of telling it make possible?",
+          "options": [
+            "It reunites the family without the sale being named",
+            "It clears the brothers, since God was the true actor",
+            "It sets Joseph up as the ruler his dreams promised",
+            "It lets Joseph forgive while naming the wrong truthfully"
+          ],
+          "answer_index": 3,
+          "why": "Genesis 45:4-5 keeps both facts on the table, the selling and the sending, and mercy flows from seeing God's purpose over the same events.",
+          "hint": "Read Genesis 45:4-8. Notice that Joseph states plainly what the brothers did before he says what God did."
+        }
+      ]
+    },
+    {
+      "id": "gen-46-50",
+      "title": "Israel in Egypt: Blessings, Deaths, and Providence",
+      "chapters": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "verse_span": {
+        "from": "46:1",
+        "to": "50:26"
+      },
+      "difficulty_tier": 2,
+      "summary": "God meets Israel at Beersheba on the way down, turning the migration into a covenant act with a promise to bring the family back. In Egypt the household settles and thrives, Jacob blesses Pharaoh, crosses his hands over Ephraim and Manasseh, and speaks last words over all twelve sons. Two deathbeds close the book, and both look forward: Jacob is carried to Canaan for burial, and Joseph, after answering his brothers' fear with the book's summary sentence about evil meant and good intended, makes Israel swear to carry his bones home.",
+      "key_themes": [
+        "the covenant goes to Egypt",
+        "Jacob's blessings",
+        "crossed hands and reversed order",
+        "evil meant, good intended",
+        "bones awaiting the promise"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-42-45",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The family's move to Egypt rests on the reconciliation Joseph has just accomplished.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Genesis 46:3-4",
+        "Genesis 49:10",
+        "Genesis 50:20"
+      ],
+      "reading_time_minutes": 24,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "resolve"
+      ],
+      "discussion_prompt": "Dying Jacob and dying Joseph both give burial instructions that point away from Egypt, back to a land the family will not see for centuries. What do those instructions say about what the two men believed, and what would it look like to make one decision this year with that kind of horizon?",
+      "assessment_questions": [
+        "What does God say to Israel in the night vision at Beersheba in Genesis 46:3-4, and what does he promise about the journey down and the way back?",
+        "Jacob deliberately crosses his hands over Ephraim and Manasseh, and his blessings keep passing over elder sons. What pattern in God's choosing does the book close by underlining?",
+        "In Genesis 50:15-21 the brothers still expect payback once their father dies, and Joseph answers with tears, theology, and provision. Whose forgiveness are you quietly doubting the way they doubted his, and what does Joseph's triple answer suggest about giving or receiving assurance?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Egypt as waypoint",
+          "explanation": "The covenant promise travels down with the family and refuses to settle there, so Genesis ends with the land promise deferred yet firmly held, a coffin in Egypt waiting on God."
+        },
+        {
+          "concept": "The younger blessed again",
+          "explanation": "The crossed hands over Ephraim and Manasseh repeat the book's habit of reversed birth order, keeping blessing a matter of God's freedom rather than natural right."
+        },
+        {
+          "concept": "Judah's scepter",
+          "explanation": "Jacob's words over Judah in Genesis 49:10 hand the family's royal expectation to one tribe, a line the rest of Scripture follows to David and beyond."
+        },
+        {
+          "concept": "The grammar of providence",
+          "explanation": "Genesis 50:20 states the double truth the whole Joseph story has taught: the brothers meant the evil they did, and God meant the same events for the saving of many."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain Genesis 50:20 using the events of the whole Joseph story, and describe two ways these chapters keep the family pointed back toward the promised land.",
+      "comprehension_check": [
+        {
+          "question": "After Jacob's death the brothers fear revenge, and Joseph answers them in Genesis 50:19-21. What does his answer hold together?",
+          "options": [
+            "A pardon issued because the evil turned out well",
+            "The brothers' real guilt and God's good purpose together",
+            "His father's dying wish and his own right to rule",
+            "God's total control, which leaves no one at fault"
+          ],
+          "answer_index": 1,
+          "why": "Genesis 50:20 gives each side its full weight: what the brothers intended was evil, and God intended the same events for the life of many.",
+          "hint": "Read Genesis 50:15-21. Notice that two intentions are named over one set of events, and watch what Joseph does next for his brothers."
+        },
+        {
+          "question": "Genesis ends with Joseph's request about his bones in Genesis 50:24-25. Why close the book there?",
+          "options": [
+            "To mourn how far from Canaan the family has drifted",
+            "To confirm that Egypt is now the family's true home",
+            "To leave the story leaning on a promise still ahead",
+            "To show Egypt honoring Joseph to the very end"
+          ],
+          "answer_index": 2,
+          "why": "Genesis 50:24-25 turns a deathbed into a compass: Joseph stakes his burial on God's coming visitation and points the family at the land.",
+          "hint": "Read Genesis 50:24-26 beside Genesis 46:3-4. Notice the promise both passages share about coming back up."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+# Bible Graph — Licence
+
+Copyright (c) AfterPew (Bryan Leyenbeck). All rights reserved.
+
+Covers everything in this repository: the dataset in `data/` and `dist/`, the reading paths, the
+teaching content, the documentation, and the tooling.
+
+---
+
+## Free, and you do not need to ask
+
+Use, copy, modify, and build on Bible Graph at no cost, for:
+
+- **Personal use.** Your own study, your family, your reading.
+- **Churches and ministries.** Teaching, small groups, discipleship, curriculum.
+- **Non-profit organisations**, in the course of their work.
+- **Education.** Schools, seminaries, homeschools, classrooms.
+- **Research and academic work**, including publication.
+
+Attribution is appreciated where it fits naturally and never required in a way that gets in your
+way. Something like "prerequisite structure from Bible Graph (AfterPew)" on an about page is plenty.
+
+If you are a church, a student, a teacher, a homeschooling parent, a researcher, or a developer
+building something free: **this is yours. Use it.**
+
+## Commercial use needs permission first
+
+If Bible Graph is used in something that generates revenue, written permission is required. That
+includes paid apps, subscriptions, SaaS platforms, monetised sites, and products sold to churches or
+institutions.
+
+**Permission is not a formality and it is not a barrier.** Write to afterpew@gmail.com and say what
+you are building. Bryan reads these personally. Terms are set case by case and are usually generous
+for small builders and ministry-adjacent work.
+
+Why it works this way: this dataset took months of adjudicated judgment, and commercial licensing is
+what funds the work continuing. Giving it to everyone who is not making money from it is the point.
+Asking those who are is what makes that possible.
+
+## Redistributing the dataset itself
+
+Ship products built on Bible Graph freely, under the terms above. Do not republish the dataset
+itself as data -- public repository, public API, bulk download, or a training corpus made available
+to others -- without permission.
+
+An open-source product is welcome. The data files sitting in its public repository are a separate
+question. Ask first.
+
+## No warranty
+
+Provided as-is, with no warranty of any kind. Every prerequisite judgment here is an editorial
+claim, argued and reviewed, and still a judgment a competent teacher may reject. Check anything you
+intend to rely on.
+
+---
+
+Questions or anything this does not cover: **afterpew@gmail.com**
+
+Written plainly on purpose. Where the wording is imperfect, the intent governs.

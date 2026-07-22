@@ -1,0 +1,228 @@
+{
+  "book": "Wisdom of Solomon",
+  "testament": "OT",
+  "canon_layer": "catholic_deuterocanon",
+  "domain": "Wisdom/Poetry",
+  "nodes": [
+    {
+      "id": "wis-1-9",
+      "title": "Wisdom and the Righteous Sufferer",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "difficulty_tier": 3,
+      "summary": "Greek-speaking Jewish philosophy at its most eloquent: the ungodly plot against the righteous man who 'calls himself a child of God' — a passage early Christians heard as prophecy of the passion — while 'the souls of the righteous are in the hand of God.' The literary Solomon's praise of Wisdom describes her as 'a pure emanation of the glory of the Almighty,' language early Christians reached for to describe Christ.",
+      "key_themes": [
+        "immortality",
+        "righteous sufferer",
+        "wisdom personified",
+        "justice of God"
+      ],
+      "prerequisites": [
+        {
+          "node": "prov-1-9",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The book develops Proverbs' Lady Wisdom into a full philosophical portrait; the personification starts there.",
+          "scope": "foundation"
+        },
+        {
+          "node": "1kgs-1-4",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The speaker is a literary 'Solomon' — his prayer for wisdom expands 1 Kings 3's scene."
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-1-4",
+          "reason": "Hebrews' 'radiance of the glory of God' echoes Wisdom 7's 'pure emanation' vocabulary."
+        },
+        {
+          "node": "matt-26-28",
+          "reason": "The taunts against the righteous man ('let God deliver him, if he is his child') closely parallel the mockery at the cross."
+        }
+      ],
+      "tradition_notes": "Canonical for Catholics and Orthodox; apocryphal for Protestants. Wisdom 3:1-9 ('the souls of the righteous are in the hand of God') is a fixture of Catholic and Orthodox funeral liturgies and figures in discussions of purgatory and the intermediate state.",
+      "key_verses": [
+        "Wisdom 2:23-24",
+        "Wisdom 3:1",
+        "Wisdom 7:25-26"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "dense",
+      "emotional_tone": [
+        "reflective",
+        "hopeful"
+      ],
+      "discussion_prompt": "The ungodly in chapter 2 reason that life is short and death is the end, so power and pleasure are all that matter. The book answers that the righteous are in God's hand. Which voice sounds more like the world around you, and what would trusting the book's answer change about how you face suffering?",
+      "assessment_questions": [
+        "What do the ungodly plan to do to the righteous man in chapter 2, and what reasons do they give for it?",
+        "Wisdom 2:23-24 says God created humanity for incorruption and that death entered the world through the devil's envy. How does that claim undo the ungodly's argument that death makes goodness pointless?",
+        "The righteous man is mocked for calling God his father and living out of step with everyone around him. Where does faithfulness set you visibly apart, and how does the promise that the righteous are in God's hand steady you there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Made for incorruption",
+          "explanation": "God created humanity for unending life, so death is an intruder in his design and never gets the last word."
+        },
+        {
+          "concept": "The righteous are in God's hand",
+          "explanation": "God holds and will vindicate his faithful beyond death, an assurance the book sets against despair."
+        },
+        {
+          "concept": "Wisdom as God's radiance",
+          "explanation": "Wisdom is praised as a pure emanation of God's glory, language the New Testament later echoes when describing Christ."
+        },
+        {
+          "concept": "The cynic answered",
+          "explanation": "The book takes seriously the argument that virtue is pointless in a short life, and answers it with the justice of God."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Explain how Wisdom 1-9 answers the claim that death makes goodness pointless, using the righteous sufferer of chapter 2 and the promise of Wisdom 3:1.",
+      "comprehension_check": [
+        {
+          "question": "Wisdom 2 gives the ungodly a creed before it gives them a victim. What does that ordering show?",
+          "options": [
+            "Their creed is an excuse invented after the cruelty",
+            "Their unbelief and their cruelty are separate charges",
+            "Their creed is honest doubt that hardship forced upon them",
+            "Their cruelty is the conclusion of their creed about death"
+          ],
+          "answer_index": 3,
+          "why": "Wisdom 2:1-9 lets them reason that death ends all, and Wisdom 2:10-20 draws the program of oppression straight from it.",
+          "hint": "Read Wisdom 2:1-11 again. Notice what the speakers settle about death before anyone mentions the righteous man."
+        },
+        {
+          "question": "Wisdom 3:1-4 says the righteous only seemed, in foolish eyes, to have died. What is the passage claiming about that appearance?",
+          "options": [
+            "What looked like destruction was a passage into peace",
+            "Their virtue exempted the righteous from actually dying",
+            "The foolish judged rightly until God overturned the verdict",
+            "Their loss was real but later generations would redeem it"
+          ],
+          "answer_index": 0,
+          "why": "Wisdom 3:1-3 places the souls of the righteous in God's hand and at peace, so the visible ending told the wrong story.",
+          "hint": "Read Wisdom 3:1-5 again. Notice whose eyes call it destruction, and where the passage says the righteous actually are."
+        }
+      ]
+    },
+    {
+      "id": "wis-10-19",
+      "title": "Wisdom Retells the Exodus",
+      "chapters": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "difficulty_tier": 3,
+      "summary": "Wisdom is traced through the story — guarding Adam, steering Noah, standing by Joseph — and then the Exodus is retold as her masterwork, with a long detour dissecting how idolatry begins ('a father consumed with grief makes an image of his dead child'). The plagues fit the crimes: 'by the very things by which one sins, one is punished.'",
+      "key_themes": [
+        "wisdom in history",
+        "origin of idolatry",
+        "measured judgment",
+        "exodus retold"
+      ],
+      "prerequisites": [
+        {
+          "node": "wis-1-9",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The historical survey demonstrates the Wisdom whom the first movement praised and prayed for.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-5-11",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Chapters 11-19 are a sustained meditation on the plagues; the Exodus narrative is their entire subject.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rom-1-4",
+          "reason": "Romans 1's analysis of idolatry and its degradations tracks Wisdom 13-14 so closely that most scholars think Paul knew it."
+        }
+      ],
+      "key_verses": [
+        "Wisdom 11:16",
+        "Wisdom 11:24-26",
+        "Wisdom 13:1"
+      ],
+      "reading_time_minutes": 55,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "warning"
+      ],
+      "discussion_prompt": "Chapter 14 traces idolatry to understandable human moves, like a grieving father making an image of his dead child. What do these chapters reveal about how good things turn into substitutes for God, and what is playing that role in your life right now?",
+      "assessment_questions": [
+        "According to chapters 13 and 14, how does idol-making begin, and what examples does the author give?",
+        "Wisdom 11:16 says people are punished by the very things by which they sin. How do the retold plagues work that principle out, and what does it show about God's justice?",
+        "Wisdom 11:24-26 says God loves everything he has made and spares all things because they are his. How does holding that mercy together with the plagues change the way you read judgment, in Scripture and in your own hard seasons?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Wisdom steers history",
+          "explanation": "The survey from Adam to the Red Sea presents Wisdom as God's guiding presence rescuing the righteous in every generation."
+        },
+        {
+          "concept": "Judgment fits the sin",
+          "explanation": "The plagues are told as measured justice in which the instrument of the sin becomes the instrument of correction."
+        },
+        {
+          "concept": "Idolatry has a biography",
+          "explanation": "Idols grow out of grief, fear, and flattery, and they end up ruling the very people who invented them."
+        },
+        {
+          "concept": "God loves what he made",
+          "explanation": "Even while judging, God spares and corrects, because everything that exists belongs to him and he loves the living."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Explain how Wisdom 10-19 retells the Exodus as Wisdom's work, and describe the book's account of where idolatry comes from.",
+      "comprehension_check": [
+        {
+          "question": "Wisdom 11:15-16 says Egypt was punished through the very creatures it worshiped. What does the book see in that fit?",
+          "options": [
+            "Creation itself turns on idolaters without God needing to act",
+            "God mocks Egypt's gods for the delight of his people",
+            "Judgment mirrors the sin so the sinner can recognize it",
+            "The punishments were selected to be as painful as possible"
+          ],
+          "answer_index": 2,
+          "why": "Wisdom 11:16 fits the punishment to the sin, and Wisdom 12:2 names the aim, gradual correction that leaves room to turn.",
+          "hint": "Read Wisdom 11:15-16 and Wisdom 12:1-2 again. Notice what shape the punishments take, and what they are meant to produce."
+        },
+        {
+          "question": "Wisdom 13-14 traces idols back to grief, craft, and royal flattery. What does giving idolatry a human biography accomplish?",
+          "options": [
+            "It moves the guilt from worshipers onto the image makers",
+            "It shows how idols arise without excusing their worship",
+            "It treats grief and craftsmanship as sins in themselves"
+          ],
+          "answer_index": 1,
+          "why": "Wisdom 13:6-9 allows that seekers can go astray through what is seen and still finds them without excuse before God.",
+          "hint": "Read Wisdom 13:1-9 and Wisdom 14:15-16 again. Notice the sympathy in the diagnosis, and the verdict it still reaches."
+        }
+      ]
+    }
+  ]
+}

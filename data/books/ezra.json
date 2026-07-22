@@ -1,0 +1,214 @@
+{
+  "book": "Ezra",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "ezra-1-6",
+      "title": "The Return and the Second Temple",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "comprehension_check": [
+        {
+          "question": "Ezra 1:1 opens with the LORD stirring the spirit of Cyrus so the word through Jeremiah would be fulfilled. What claim starts the book?",
+          "options": [
+            "Cyrus had privately become a true worshiper of Israel's God",
+            "Persia's enlightened policy, rather than providence, freed the exiles",
+            "God keeps his word through kings who never knew him",
+            "The exiles' faithfulness in Babylon earned them their release"
+          ],
+          "answer_index": 2,
+          "why": "Ezra 1:1 sets the stirring of Cyrus inside the fulfillment of the word the LORD spoke through Jeremiah.",
+          "hint": "Read Ezra 1:1 again. Notice whose word is being fulfilled, and whose spirit is stirred to do it."
+        },
+        {
+          "question": "At the temple foundation, shouts of joy and the weeping of the old mix beyond telling apart (Ezra 3:12-13). What is the scene teaching?",
+          "options": [
+            "God's restoration can be real and still smaller than before",
+            "The old men's tears show the work lacked God's blessing",
+            "The young men's joy corrects their elders' backward glance",
+            "True worship requires grief to be kept outside it"
+          ],
+          "answer_index": 0,
+          "why": "Ezra 3:11-13 keeps the praise and the weeping in one scene, both honest responses to a work God truly began.",
+          "hint": "Read Ezra 3:12-13 again. Notice who is weeping, and what they are old enough to remember."
+        }
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "6:22"
+      },
+      "difficulty_tier": 3,
+      "summary": "Cyrus sends the exiles home, and the returnees rebuild the altar and then — through opposition, discouragement, and two prophets' prodding — the temple itself. The old men who remembered Solomon's house weep at the new one's smallness; restoration is real but underwhelming.",
+      "key_themes": [
+        "return from exile",
+        "rebuilding",
+        "opposition",
+        "diminished glory"
+      ],
+      "prerequisites": [
+        {
+          "node": "2chr-33-36",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Ezra 1 repeats Chronicles' closing decree verbatim; the return only means anything after the exile.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "hag",
+          "reason": "Haggai is one of the two prophets who restart this very construction project."
+        },
+        {
+          "node": "zech-1-8",
+          "reason": "Zechariah's night visions encourage the same rebuilding community."
+        }
+      ],
+      "key_verses": [
+        "Ezra 1:2-3",
+        "Ezra 3:11-13",
+        "Ezra 6:14"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "tension"
+      ],
+      "discussion_prompt": "When the temple foundation is laid, younger people shout for joy while the old men who remember Solomon's temple weep. Why do you think the story keeps both sounds together, and how do you respond when God's work in your life looks smaller than what you hoped for?",
+      "assessment_questions": [
+        "What does Cyrus decree in chapter 1, and what do the returnees build first when they arrive in Jerusalem?",
+        "Work on the temple stalls for years under opposition until the prophets Haggai and Zechariah speak. What does the story suggest about how God's promises and human effort work together?",
+        "The returnees rebuilt the altar and resumed worship before a single temple wall stood. What small act of faithfulness could you start now instead of waiting for better circumstances?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God moves history through unlikely rulers",
+          "explanation": "The rebuilding begins because God stirs the heart of Cyrus, a pagan emperor, showing that his purposes are never limited to his own people."
+        },
+        {
+          "concept": "Worship comes first",
+          "explanation": "The returnees restore the altar and the sacrifices before the temple has walls, putting relationship with God ahead of the finished building."
+        },
+        {
+          "concept": "Restoration meets opposition",
+          "explanation": "Enemies stall the work for years, and the project only finishes through perseverance, prophetic encouragement, and renewed royal backing."
+        },
+        {
+          "concept": "Joy and grief can share one moment",
+          "explanation": "Shouts and weeping mix at the foundation, teaching that real restoration can be genuinely from God and still smaller than what was lost."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell how the exiles returned and rebuilt the temple, and explain why the old men wept at its foundation."
+    },
+    {
+      "id": "ezra-7-10",
+      "title": "Ezra the Scribe and the Reform",
+      "chapters": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "comprehension_check": [
+        {
+          "question": "Ezra 7:10 gives Ezra's pattern in sequence: study the law, practice it, then teach it in Israel. Why does the sequence matter?",
+          "options": [
+            "Study must be completed before any obedience can begin",
+            "Practicing the law mainly prepares a scribe for his career",
+            "Teaching belongs to experts while the people simply listen",
+            "Teaching grows from a life the text has already shaped"
+          ],
+          "answer_index": 3,
+          "why": "Ezra 7:10 sets one resolve of heart behind all three verbs, with the living placed before the teaching.",
+          "hint": "Read Ezra 7:10 again. Notice what Ezra set his heart to, and which verb comes last."
+        },
+        {
+          "question": "Ezra married no foreign wife himself, yet his prayer speaks of our iniquities and our guilt (Ezra 9:6-7). What does that way of praying assume?",
+          "options": [
+            "A priest's confession can substitute for the people's own",
+            "A leader shares in the covenant guilt of his people",
+            "A hidden fault of his own was driving the prayer",
+            "God weighs each person only by personal choices made"
+          ],
+          "answer_index": 1,
+          "why": "Ezra 9:6 bows the leader under a guilt he owns by covenant, folding himself into his people's story.",
+          "hint": "Read Ezra 9:6-7 again. Notice the pronouns Ezra chooses when he names the sin."
+        }
+      ],
+      "verse_span": {
+        "from": "7:1",
+        "to": "10:44"
+      },
+      "difficulty_tier": 3,
+      "summary": "Sixty years later, Ezra — a scribe 'skilled in the law of Moses' who 'set his heart to study, do, and teach' it — leads a second return and confronts the community's intermarriage crisis with public confession and a wrenching reform. Post-exilic Israel reorganizes its life around the text.",
+      "key_themes": [
+        "scripture",
+        "confession",
+        "reform",
+        "holiness of the remnant"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezra-1-6",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Ezra arrives at a temple already rebuilt; his reform assumes the restored community of chapters 1-6.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "neh-8-13",
+          "reason": "Ezra reappears in Nehemiah 8 reading the law aloud — the two reforms are one movement."
+        }
+      ],
+      "key_verses": [
+        "Ezra 7:10",
+        "Ezra 8:22",
+        "Ezra 9:6"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "resolve"
+      ],
+      "discussion_prompt": "Ezra set his heart to study the Law, to do it, and then to teach it, in that order. Why does that order matter, and what would it look like for what you learn about God to reach your habits before it reaches your opinions?",
+      "assessment_questions": [
+        "What does Ezra do when he first hears about the intermarriage crisis, and how do the people respond?",
+        "In chapter 9 Ezra confesses the community's sin as his own, even though he did not commit it. What does his prayer show about how sin and repentance work in a community?",
+        "Ezra refused a royal escort because he had told the king that God protects those who seek him. When have your words about God committed you to actually trusting him, and what did it cost?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Formed by Scripture",
+          "explanation": "Ezra's pattern of studying the Law, doing it, and then teaching it shows that real spiritual leadership begins with personal formation."
+        },
+        {
+          "concept": "Corporate confession",
+          "explanation": "Ezra weeps and confesses on behalf of the whole community, showing that sin has a shared dimension and repentance can too."
+        },
+        {
+          "concept": "Costly repentance",
+          "explanation": "The reform demands painful separation from compromises that threatened Israel's covenant identity, showing that returning to God can carry a real price."
+        },
+        {
+          "concept": "Dependence over protection",
+          "explanation": "Ezra fasts and prays instead of taking soldiers for the journey, staking the community's safety on the God he had publicly trusted."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain Ezra 7:10 in your own words and describe how the restored community responds when its compromise is exposed."
+    }
+  ]
+}

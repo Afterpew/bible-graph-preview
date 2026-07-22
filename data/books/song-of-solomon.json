@@ -1,0 +1,112 @@
+{
+  "book": "Song of Solomon",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Wisdom/Poetry",
+  "nodes": [
+    {
+      "id": "song",
+      "title": "The Song of Songs",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "8:14"
+      },
+      "difficulty_tier": 3,
+      "summary": "An unabashed cycle of love poetry between a woman and her beloved — desire, search, garden imagery straight out of Eden, and the claim that love is 'strong as death… a very flame of the LORD.' The Bible's witness that erotic love, rightly ordered, is God's good creation.",
+      "key_themes": [
+        "love",
+        "desire",
+        "covenant faithfulness",
+        "Eden imagery"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-1-3",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The Song's garden, delight, and mutual belonging deliberately re-open Eden's 'bone of my bones' — love poetry as paradise remembered."
+        }
+      ],
+      "connections": [
+        {
+          "node": "eph-4-6",
+          "reason": "Ephesians 5's marriage-as-Christ-and-church gives the Song its long Christian allegorical afterlife."
+        }
+      ],
+      "tradition_notes": "Christians across the centuries have read the Song on two levels: as human love poetry and as an allegory of God and his people (Israel in Jewish reading; Christ and the church — or the soul — in Christian reading, especially patristic and medieval commentary such as Bernard of Clairvaux's eighty-six sermons). Modern Protestant interpretation tends to foreground the literal celebration of married love; Catholic and Orthodox traditions retain a stronger allegorical and mystical usage. The readings are layered rather than competing.",
+      "key_verses": [
+        "Song of Solomon 2:7",
+        "Song of Solomon 2:16",
+        "Song of Solomon 8:6-7"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "celebratory",
+        "tension"
+      ],
+      "discussion_prompt": "The Song declares that love is strong as death and many waters cannot quench it, yet it also warns three times not to awaken love before its time. What picture of love do those two claims give together, and how does it differ from the versions of love marketed to you every day?",
+      "assessment_questions": [
+        "What repeated charge does the woman give the daughters of Jerusalem, and what does chapter 8 say about the strength and the price of love?",
+        "The poetry keeps reaching for garden imagery, vineyards, fruit trees, and a locked garden in bloom. How do those echoes of Eden shape what the Song is saying about love?",
+        "The lovers say to each other, I am my beloved's and my beloved is mine. Whether you read the Song as human love or as God and his people, that kind of belonging is total. Where is love asking for that kind of undivided belonging from you, and what holds you back?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Desire is God's good creation",
+          "explanation": "The Song celebrates bodily love within faithful belonging, so the body and its longings are part of the good world God made."
+        },
+        {
+          "concept": "Love is mutual and faithful",
+          "explanation": "The lovers delight in each other and seek each other's good, giving a picture of covenant love that resists every casual version."
+        },
+        {
+          "concept": "A song that points beyond itself",
+          "explanation": "Christians have long read the Song on two levels, as human love poetry and as a window into God's love for his people, and each layer enriches the other."
+        },
+        {
+          "concept": "Love is strong as death",
+          "explanation": "Chapter 8 calls love a very flame of the LORD that many waters cannot quench and money cannot buy, the Song's boldest claim about what love is."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Song of Solomon 8:6-7 claims about love, and describe the two levels on which Christians have read the Song.",
+      "comprehension_check": [
+        {
+          "question": "Three times the Song warns against rousing love before its time, then crowns love with its fiercest praise. How do warning and praise fit together?",
+          "options": [
+            "Desire is a hazard the wise learn to suppress",
+            "Strong feeling proves that love's moment has arrived",
+            "Love's own power is why its timing matters",
+            "Praise belongs to love while warnings belong to lust"
+          ],
+          "answer_index": 2,
+          "why": "Song of Solomon 8:6 gives love the force of death and flame, and Song of Solomon 2:7 treats a force like that with reverence.",
+          "hint": "Read Song of Solomon 2:7, then Song of Solomon 8:6. Notice what kind of power the poems keep saying love has."
+        },
+        {
+          "question": "In Song of Solomon 8:7, floods fail against love and a man offering his whole fortune for it is despised. What is the poetry claiming?",
+          "options": [
+            "Love lasts only where wealth has secured it",
+            "Love can neither be drowned nor bought",
+            "Love fades unless both lovers keep tending it",
+            "Love rewards those patient enough to deserve it"
+          ],
+          "answer_index": 1,
+          "why": "Song of Solomon 8:7 places love beyond drowning and beyond purchase, a flame no fortune can price.",
+          "hint": "Read Song of Solomon 8:7 again. Notice what becomes of the man who tries to pay for love."
+        }
+      ]
+    }
+  ]
+}

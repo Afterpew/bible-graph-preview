@@ -1,0 +1,947 @@
+{
+  "book": "Matthew",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Gospel",
+  "nodes": [
+    {
+      "id": "matt-1-2",
+      "title": "The Genealogy and the Birth of the King",
+      "chapters": [
+        1,
+        2
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "2:23"
+      },
+      "difficulty_tier": 2,
+      "summary": "Matthew opens the New Testament with a family tree — Abraham to David to exile to Jesus — announcing that every Old Testament thread lands here. Virgin birth, magi following a star, Herod's massacre, flight to Egypt: five fulfillment quotations in two chapters, each re-reading Israel's story around one child.",
+      "key_themes": [
+        "fulfillment",
+        "son of David",
+        "Immanuel",
+        "gentile worshipers"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Matthew 1–2’s genealogy and “Son of David” claims press the theological force of the Davidic covenant (2 Samuel 7)—an ongoing royal/ messianic promise Matthew assumes but does not restate.",
+          "scope": "foundation"
+        },
+        {
+          "node": "isa-7-12",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "The virgin-Immanuel citation from Isaiah 7 is Matthew's first and framing fulfillment quotation."
+        },
+        {
+          "node": "gen-12-17",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "By styling Jesus “son of Abraham,” Matthew invokes the Abrahamic promise that through Abraham’s seed all nations are blessed (Genesis 12–17), a foundational covenantal claim the birth narrative assumes rather than retells.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Matthew 1:1",
+        "Matthew 1:21",
+        "Matthew 1:23"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "tension"
+      ],
+      "discussion_prompt": "Matthew names Jesus Immanuel, God with us, and within two chapters that child is being hunted by a king. What do these chapters show about how God enters the world, and where would you expect to find him entering yours?",
+      "assessment_questions": [
+        "Who travels to worship the child in chapter 2, and how does Herod respond to the news of a newborn king?",
+        "Matthew quotes the Old Testament five times in two chapters. What is he trying to convince his readers of by anchoring every scene in Israel's Scriptures?",
+        "The magi travel far on partial knowledge while Jerusalem's experts stay home with the full text. What keeps a person from acting on what they already know about God, and what would seeking like the magi look like for you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Jesus completes Israel's story",
+          "explanation": "The genealogy runs from Abraham through David to Jesus, presenting him as the Messiah in whom the whole Old Testament account lands."
+        },
+        {
+          "concept": "The virgin birth is God's initiative",
+          "explanation": "Conception by the Holy Spirit signals that this rescue begins with God stepping into history, since the child's very arrival is a divine act."
+        },
+        {
+          "concept": "A king recognized and opposed",
+          "explanation": "Gentile magi worship the child while Herod tries to kill him, so the kingdom meets both welcome and violence from its first pages."
+        },
+        {
+          "concept": "Providence in danger",
+          "explanation": "The flight to Egypt shows God guarding his plan through tragedy and exile, guiding events even when they look like disaster."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why Matthew begins with a genealogy, and what the names Jesus and Immanuel each claim about who this child is.",
+      "comprehension_check": [
+        {
+          "question": "Matthew opens his Gospel with a genealogy arranged from Abraham through David and the exile to the Christ. What is the family tree there to do?",
+          "options": [
+            "Certify that Jesus' ancestry was morally worthy of the Messiah",
+            "Trace how the royal line held the throne until Jesus could claim it",
+            "Present Jesus as the destination of Israel's whole story",
+            "Prove that the records behind Matthew's account are reliable"
+          ],
+          "answer_index": 2,
+          "why": "Matthew 1:17 counts the generations in three movements that all land on the Christ, reading Israel's whole history as one road that arrives at Jesus.",
+          "hint": "Read Matthew 1:17 again. Notice the three turning points Matthew counts by, and where the counting stops."
+        },
+        {
+          "question": "In Matthew 2, foreign magi worship the child while Jerusalem's king plots to kill him. What is Matthew signaling from the start?",
+          "options": [
+            "This king will draw outsiders' worship and rulers' violence",
+            "The stars can lead to God anyone who studies them",
+            "Israel as a nation had already refused its Messiah",
+            "God's plan advances only after its enemies are removed"
+          ],
+          "answer_index": 0,
+          "why": "Matthew 2:11 shows gentiles kneeling and Matthew 2:16 shows the sitting king killing, the two receptions that will follow Jesus to the cross.",
+          "hint": "Read Matthew 2:11 and Matthew 2:16 side by side. Notice who kneels before this king and who reaches for a sword."
+        }
+      ]
+    },
+    {
+      "id": "matt-3-4",
+      "title": "Baptism and the Wilderness Test",
+      "chapters": [
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "3:1",
+        "to": "4:25"
+      },
+      "difficulty_tier": 2,
+      "summary": "John the Baptist arrives in Elijah's camel hair announcing the kingdom; Jesus is baptized under an opened heaven — 'This is my beloved Son' — and then walks Israel's story backward: forty days in the wilderness, tempted where Israel fell for forty years, answering every test from Deuteronomy.",
+      "key_themes": [
+        "kingdom announced",
+        "beloved Son",
+        "temptation",
+        "recapitulating Israel"
+      ],
+      "prerequisites": [
+        {
+          "node": "mal",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "John the Baptist is Malachi's promised messenger and Elijah figure — the Old Testament's last page turned."
+        },
+        {
+          "node": "deut-5-11",
+          "strength": "hard",
+          "type": "quotation",
+          "reason": "Matthew 3–4 presumes the Deuteronomic wilderness-testing narrative and covenant pattern (Israel’s failure and God’s command) that it does not restate, so without Deuteronomy a reader can misread Jesus' temptations and role.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Matthew 3:17",
+        "Matthew 4:4",
+        "Matthew 4:17"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reverent",
+        "tension"
+      ],
+      "discussion_prompt": "At his baptism Jesus hears the Father call him beloved Son, and the very next scene is forty days of hunger and testing. What do these chapters show about the connection between knowing who you are before God and facing temptation, and how would that change the way you meet your own tests?",
+      "assessment_questions": [
+        "What happens when Jesus comes up out of the water at his baptism, and where does the Spirit lead him immediately afterward?",
+        "Jesus answers every temptation with words from Deuteronomy, the book of Israel's wilderness years. What is Matthew showing us by having Jesus succeed exactly where Israel failed?",
+        "Each temptation offers Jesus a shortcut around the Father's plan. What shortcut looks most attractive in your own life right now, and what would refusing it the way Jesus did require?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Son publicly confirmed",
+          "explanation": "At the baptism the Spirit descends and the Father speaks, announcing Jesus' identity before his ministry begins."
+        },
+        {
+          "concept": "Baptism as humble obedience",
+          "explanation": "The sinless Jesus joins repentant sinners in the water to fulfill all righteousness, modeling humility from his first public act."
+        },
+        {
+          "concept": "The faithful Israel in the wilderness",
+          "explanation": "Forty days replay Israel's forty years, and Jesus stands firm at every point where the nation once fell."
+        },
+        {
+          "concept": "Scripture defeats temptation",
+          "explanation": "Jesus meets real spiritual conflict by answering with God's word, showing how the fight against temptation is actually won."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the baptism and temptation scenes, and explain how Jesus relives Israel's wilderness story without repeating its failure.",
+      "comprehension_check": [
+        {
+          "question": "John's baptism was for repentant sinners, and John himself objects to baptizing Jesus. Why does Jesus insist on it?",
+          "options": [
+            "He wanted to test whether John would recognize him",
+            "He stood among the sinners he came to save",
+            "He needed the washing before his own ministry could begin",
+            "He was assuming command of John's renewal movement"
+          ],
+          "answer_index": 1,
+          "why": "In Matthew 3:15 Jesus calls the baptism fitting to fulfill all righteousness, his first public act placing him with the people he came for.",
+          "hint": "Read Matthew 3:13-15 again. Notice whose company Jesus chooses to be found in at the Jordan."
+        },
+        {
+          "question": "Matthew gives Jesus forty days in the wilderness answering every test from Deuteronomy. What is the pattern claiming?",
+          "options": [
+            "Fasting builds the spiritual strength that ministry requires",
+            "Memorized scripture makes a person immune to temptation",
+            "The wilderness is where God is most reliably found",
+            "Jesus succeeds as faithful Israel where the nation fell"
+          ],
+          "answer_index": 3,
+          "why": "The forty days replay Israel's forty years, and each answer in Matthew 4:4-10 comes from Deuteronomy, the wilderness book, obeyed this time.",
+          "hint": "Read Matthew 4:1-4 again. Notice how long Israel faced these same tests, and how that first testing went."
+        }
+      ]
+    },
+    {
+      "id": "matt-5-7",
+      "title": "The Sermon on the Mount",
+      "chapters": [
+        5,
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "5:1",
+        "to": "7:29"
+      },
+      "difficulty_tier": 2,
+      "summary": "From a mountainside, the kingdom's charter: blessed are the poor in spirit, salt and light, anger as murder's root, love for enemies, the Lord's Prayer, treasure in heaven, the golden rule, two houses on rock and sand. The most influential moral teaching ever delivered — and a deliberate echo of Sinai, spoken this time by the lawgiver in person.",
+      "key_themes": [
+        "beatitudes",
+        "kingdom ethics",
+        "law fulfilled",
+        "love of enemies"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-19-24",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "'You have heard it said… but I say to you' engages the Sinai commands directly; the mountain setting is the allusion."
+        },
+        {
+          "node": "matt-3-4",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Matthew 5–7 treats life under Jesus’ inaugurated kingdom presupposed by the proclamation in Matthew 3–4, a prior claim the Sermon does not itself narrate, so skipping 3–4 risks reading the Sermon as abstract morality rather than instruction for the kingdom just announced.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "jas",
+          "reason": "James is essentially the Sermon on the Mount turned into pastoral instruction — hearing and doing."
+        },
+        {
+          "node": "ps-1-2",
+          "reason": "The Beatitudes' 'blessed' opening and two-ways ending (rock vs. sand) mirror Psalm 1's architecture."
+        }
+      ],
+      "key_verses": [
+        "Matthew 5:17",
+        "Matthew 6:33",
+        "Matthew 7:24-25"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "hopeful",
+        "confrontational"
+      ],
+      "discussion_prompt": "Jesus ends the Sermon with two builders, and the only difference between them is doing what they heard. Which of the Sermon's commands would cost you the most to actually practice, and what does that resistance reveal about where your foundation currently sits?",
+      "assessment_questions": [
+        "How does the Sermon begin, and what two images does Jesus use for his disciples right after the Beatitudes?",
+        "Jesus repeatedly says you have heard it said, then traces each command down to anger, lust, and honesty in the heart. What is he claiming about where righteousness really lives?",
+        "Jesus commands love for enemies and prayer for persecutors. Who is the hardest person for you to want good for, and what small obedience would move you an inch toward that command?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Jesus teaches with divine authority",
+          "explanation": "The crowds notice that he speaks on his own authority, calling hearers into God's reign rather than offering moral advice."
+        },
+        {
+          "concept": "Righteousness of the heart",
+          "explanation": "God weighs motives as well as acts, so anger and lust already matter before murder and adultery ever happen."
+        },
+        {
+          "concept": "The law fulfilled and deepened",
+          "explanation": "Jesus raises the commands toward love, mercy, and truthful living instead of loosening them, fulfilling what the law was always after."
+        },
+        {
+          "concept": "Hearing must become doing",
+          "explanation": "The two-builders ending makes obedience the test of whether the Sermon has taken root, since both builders heard the same words."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Summarize the Sermon's picture of kingdom righteousness, and explain the difference between the two builders in your own words.",
+      "comprehension_check": [
+        {
+          "question": "In Matthew 5, Jesus sets anger beside murder and lust beside adultery. What is he teaching about God's commands?",
+          "options": [
+            "They reach the motives underneath the acts they forbid",
+            "They were too harsh, and the kingdom now relaxes them",
+            "They are satisfied by sincerity even when behavior fails",
+            "They list the works that earn a place in the kingdom"
+          ],
+          "answer_index": 0,
+          "why": "Matthew 5:21-22 and Matthew 5:27-28 move each command upstream to the anger and the look, where God has always weighed the heart.",
+          "hint": "Read Matthew 5:21-22 and Matthew 5:27-28 again. Notice where Jesus locates the sin before any act has happened."
+        },
+        {
+          "question": "The Sermon ends with two builders who hear the same words. Why does Jesus close that way?",
+          "options": [
+            "To reassure the crowd that careful listening lays a firm foundation",
+            "To promise that obedient disciples will be spared life's storms",
+            "To press hearers toward doing, since hearing alone builds nothing",
+            "To warn that storms fall hardest on those who build wrongly"
+          ],
+          "answer_index": 2,
+          "why": "In Matthew 7:24-27 the same storm strikes both houses, and only acting on the words keeps a house standing.",
+          "hint": "Read Matthew 7:24-27 again. Notice what the two builders share, and the single verb that separates them."
+        }
+      ]
+    },
+    {
+      "id": "matt-8-10",
+      "title": "Miracles and the Sending of the Twelve",
+      "chapters": [
+        8,
+        9,
+        10
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "10:42"
+      },
+      "difficulty_tier": 2,
+      "summary": "A rapid-fire run of miracles — leper, centurion's servant, storm stilled, paralytic forgiven, dead girl raised — then authority delegated: the Twelve sent out with the same message and power, warned to be 'wise as serpents and innocent as doves.' The kingdom in word (5-7) now moves in deed (8-9) and mission (10).",
+      "key_themes": [
+        "authority",
+        "healing",
+        "faith",
+        "mission"
+      ],
+      "prerequisites": [
+        {
+          "node": "matt-5-7",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Matthew alternates discourse and deed deliberately — the miracles enact the Sermon's announced kingdom."
+        },
+        {
+          "node": "lev-11-15",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Leviticus 11–15 supplies the Mosaic rules about ritual uncleanness and the priestly procedures that Matthew 8’s cleansing of the leper and the command to “show yourself to the priest” presuppose but do not explain, so omitting Leviticus leads to a misreading of the ritual and legal stakes.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "isa-52-53",
+          "reason": "Matthew reads the healings as Isaiah 53: 'He took our illnesses and bore our diseases.'"
+        }
+      ],
+      "key_verses": [
+        "Matthew 8:17",
+        "Matthew 9:6",
+        "Matthew 9:37-38"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "awe",
+        "urgent"
+      ],
+      "discussion_prompt": "The centurion trusts Jesus to heal with a word from a distance, and Jesus calls it the greatest faith he has found in Israel. What do the healing stories in these chapters teach about what faith actually is, and where is Jesus' authority hardest for you to take at his word?",
+      "assessment_questions": [
+        "Name three of the miracles in chapters 8 and 9, and describe what Jesus gives the Twelve when he sends them out in chapter 10.",
+        "Before healing the paralytic, Jesus first declares his sins forgiven and the scribes call it blasphemy. What does the healing that follows prove about who Jesus claims to be?",
+        "Jesus tells the disciples the harvest is plentiful and the workers few, then sends them into it. What need around you might be a harvest field you have prayed about without ever stepping into?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Authority over everything",
+          "explanation": "Jesus' word commands sickness, demons, the sea, and sin itself, revealing an identity no prophet before him claimed."
+        },
+        {
+          "concept": "Faith takes Jesus at his word",
+          "explanation": "The centurion and the bleeding woman receive healing by trusting what Jesus says and who he is, which is what Matthew means by faith."
+        },
+        {
+          "concept": "Delegated mission",
+          "explanation": "Jesus hands his own authority to the Twelve, turning the kingdom into a movement that sends ordinary people out with his message."
+        },
+        {
+          "concept": "Costly allegiance",
+          "explanation": "The mission speech promises opposition and asks for a loyalty to Jesus that outranks safety, reputation, and even family approval."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how the miracles of chapters 8 and 9 back up the Sermon's claims, and explain what Jesus commissions the Twelve to do.",
+      "comprehension_check": [
+        {
+          "question": "Matthew 8-9 runs together healings, a stilled storm, and a paralytic forgiven. What is the collection claiming?",
+          "options": [
+            "Compassion for sufferers was the whole aim of the miracles",
+            "Healing is dispensed in proportion to the strength of faith",
+            "The signs were staged to draw crowds his teaching could not",
+            "One authority commands sickness, sea, spirits, and sin alike"
+          ],
+          "answer_index": 3,
+          "why": "Matthew 9:6 makes the healing itself proof that the Son of Man has authority to forgive sins, the claim beneath the whole sequence.",
+          "hint": "Read Matthew 8:26-27 and Matthew 9:6 again. Notice the question the disciples ask, and what any answer must cover."
+        },
+        {
+          "question": "In Matthew 10, Jesus sends out the Twelve. What changes about the kingdom's work at that point?",
+          "options": [
+            "It pauses while the Twelve complete their training safely",
+            "It becomes a movement carried by people Jesus sends",
+            "It passes to the Twelve so Jesus can withdraw",
+            "It shrinks to what the Twelve alone can manage"
+          ],
+          "answer_index": 1,
+          "why": "Matthew 10:1 hands Jesus' own authority to the Twelve, and Matthew 10:7 gives them his own message to preach as they go.",
+          "hint": "Read Matthew 10:1 and Matthew 10:7 again. Notice whose authority and whose message the Twelve carry out the door."
+        }
+      ]
+    },
+    {
+      "id": "matt-11-15",
+      "title": "Opposition and Parables of the Kingdom",
+      "chapters": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_span": {
+        "from": "11:1",
+        "to": "15:39"
+      },
+      "difficulty_tier": 3,
+      "summary": "Doubt from John in prison, sabbath showdowns, a blasphemy accusation — and Jesus shifts to parables: sower, weeds, mustard seed, hidden treasure, pearl. 'Come to me, all who labor and are heavy laden.' Feeding five thousand and walking on the sea, he is misunderstood by crowds, Pharisees, and disciples alike.",
+      "key_themes": [
+        "rejection",
+        "parables",
+        "rest for the weary",
+        "hardened hearts"
+      ],
+      "prerequisites": [
+        {
+          "node": "matt-8-10",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The opposition responds to the miracle campaign; the parables answer why the kingdom meets resistance."
+        }
+      ],
+      "connections": [
+        {
+          "node": "isa-6",
+          "reason": "Jesus explains the parables' concealing effect by quoting Isaiah 6's hardening commission."
+        }
+      ],
+      "key_verses": [
+        "Matthew 11:28-30",
+        "Matthew 13:23",
+        "Matthew 15:8"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "comfort"
+      ],
+      "discussion_prompt": "In the middle of mounting rejection, Jesus invites the weary to come to him for rest. After watching crowds, Pharisees, and even John the Baptist wrestle with doubt in these chapters, what do you think keeps a heart soft toward Jesus, and what tends to harden yours?",
+      "assessment_questions": [
+        "What question does John the Baptist send from prison, and how does Jesus answer it?",
+        "The parable of the sower describes four soils receiving the same seed. What is Jesus explaining about why the same message meets such different responses?",
+        "Jesus says of some hearers that their lips honor God while their hearts stay far away. Where does your own faith run on autopilot, and what would bringing your heart back near actually involve?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Signs answer doubt",
+          "explanation": "Jesus points John's messengers to the healings and the good news itself, letting his works testify to his identity."
+        },
+        {
+          "concept": "The kingdom starts small",
+          "explanation": "Mustard seed and leaven show God's reign growing quietly and surely long before its final harvest."
+        },
+        {
+          "concept": "Parables reveal and conceal",
+          "explanation": "The same stories open the kingdom to receptive hearts and leave hardened hearers confirmed in their resistance."
+        },
+        {
+          "concept": "Persistent faith moves Jesus",
+          "explanation": "The Canaanite mother keeps asking past every apparent refusal, and Jesus publicly praises her faith and grants her request."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why Jesus shifts to teaching in parables in chapter 13, and what the parable of the sower says about hearing the kingdom's message.",
+      "comprehension_check": [
+        {
+          "question": "Asked why he teaches in parables, Jesus gives a surprising answer in Matthew 13. What does he say the stories do?",
+          "options": [
+            "They simplify the kingdom so every hearer can grasp it",
+            "They shield the message from informers until the right time",
+            "They reveal to receptive hearts and conceal from hardened ones",
+            "They persuade by story where plain commands had failed"
+          ],
+          "answer_index": 2,
+          "why": "Matthew 13:11-12 gives the kingdom's mysteries to some while even what others have is taken away, disclosure and judgment in one form of speech.",
+          "hint": "Read Matthew 13:10-13 again. Notice that Jesus names two audiences, and what the same stories do to each."
+        },
+        {
+          "question": "The mustard seed and the leaven picture the kingdom in Matthew 13. What are those parables teaching about God's reign?",
+          "options": [
+            "It begins almost invisibly and surely grows to fullness",
+            "It stays a small remnant until the very end",
+            "It arrives all at once in unmistakable public power",
+            "It grows exactly as fast as human effort feeds it"
+          ],
+          "answer_index": 0,
+          "why": "In Matthew 13:31-33 the smallest seed becomes the largest garden plant and the leaven works through all the flour it touches.",
+          "hint": "Read Matthew 13:31-33 again. Notice the size of each start, and how far each finish reaches."
+        }
+      ]
+    },
+    {
+      "id": "matt-16-18",
+      "title": "The Confession, the Transfiguration, and the Community",
+      "chapters": [
+        16,
+        17,
+        18
+      ],
+      "verse_span": {
+        "from": "16:1",
+        "to": "18:35"
+      },
+      "difficulty_tier": 3,
+      "summary": "At Caesarea Philippi, Peter confesses 'You are the Christ, the Son of the living God' — and immediately proves he doesn't understand it, rebuking the cross. Jesus shines with unveiled glory between Moses and Elijah, then teaches his new community the arithmetic of forgiveness: seventy times seven.",
+      "key_themes": [
+        "confession of Christ",
+        "the cross announced",
+        "transfiguration",
+        "forgiveness"
+      ],
+      "prerequisites": [
+        {
+          "node": "matt-11-15",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The confession is the answer to the identity question the opposition chapters keep raising — 'who is this?'"
+        }
+      ],
+      "connections": [
+        {
+          "node": "deut-31-34",
+          "reason": "Moses, once barred from the land, stands in it at the Transfiguration beside the prophet like him."
+        }
+      ],
+      "tradition_notes": "Matthew 16:18 — 'you are Peter, and on this rock I will build my church… I will give you the keys of the kingdom' — is the classic dividing text: Catholic teaching reads Peter and his successors (the papacy) as the rock; Orthodoxy honors Peter's primacy but locates it in his confession and rejects a universal Roman jurisdiction; most Protestants read the rock as Peter's confession of Christ, or Peter as representative of all the apostles. Each reading is ancient; the graph reports, not referees.",
+      "key_verses": [
+        "Matthew 16:16",
+        "Matthew 17:5",
+        "Matthew 18:21-22"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "resolve"
+      ],
+      "discussion_prompt": "Peter names Jesus as the Christ, then immediately tries to talk him out of the cross. What do these chapters suggest about the gap between saying the right thing about Jesus and understanding what it means, and where might that gap sit in your own faith?",
+      "assessment_questions": [
+        "What does Peter say when Jesus asks who the disciples believe he is, and what happens on the mountain in chapter 17?",
+        "Right after the confession, Jesus begins predicting his suffering and Peter objects. Why does Jesus treat the objection so seriously, and what does the exchange reveal about the kind of Messiah he is?",
+        "Jesus tells Peter to forgive seventy times seven and backs it with the parable of the unforgiving servant. Who are you keeping count against, and what would losing count actually require of you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The confession at the center",
+          "explanation": "Peter's declaration that Jesus is the Christ, the Son of the living God, names the claim the whole Gospel turns on."
+        },
+        {
+          "concept": "A church death cannot defeat",
+          "explanation": "Jesus promises to build his church on the rock of Matthew 16:18, words that Catholic, Orthodox, and Protestant readers understand differently, while all agree on what he promises: a church that death itself cannot defeat."
+        },
+        {
+          "concept": "Glory confirms the road of suffering",
+          "explanation": "The Transfiguration lets three disciples see the Son's unveiled glory so they can trust him through the cross he has just announced."
+        },
+        {
+          "concept": "A community of relentless forgiveness",
+          "explanation": "Chapter 18 gives concrete steps for reconciliation and a forgiveness that refuses to keep score, shaping how Jesus' people live together."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Peter's confession and the Transfiguration, and explain how chapter 18 describes life inside the community Jesus is building.",
+      "comprehension_check": [
+        {
+          "question": "Peter confesses Jesus as the Christ, then rebukes him for predicting the cross. What does that sequence show?",
+          "options": [
+            "Peter's confession was a lucky guess he did not believe",
+            "Jesus withdrew the blessing once Peter opposed his plan",
+            "Titles for Jesus matter less than sincere devotion to him",
+            "The confession was right while Peter's expectations were still wrong"
+          ],
+          "answer_index": 3,
+          "why": "Matthew 16:17 blesses the confession as revealed by the Father, and Matthew 16:21 begins teaching what kind of Christ has just been confessed.",
+          "hint": "Read Matthew 16:16-23 again. Notice what Jesus starts explaining from that time on, and how Peter receives it."
+        },
+        {
+          "question": "Christian traditions famously part ways over Matthew 16:18. What exactly do they disagree about?",
+          "options": [
+            "Whether the church Jesus builds can outlast death's assault",
+            "What the rock is and what authority follows from it",
+            "Whether Peter's confession truly came to him from God",
+            "Whether Jesus meant to found a lasting community at all"
+          ],
+          "answer_index": 1,
+          "why": "The wordplay in Matthew 16:18 lets readers locate the rock in Peter himself, in his confession, or in his office, and the ancient traditions divide right there.",
+          "hint": "Read Matthew 16:17-19 again. Notice which word the promise is built on, and ask what it points back to."
+        }
+      ]
+    },
+    {
+      "id": "matt-19-21",
+      "title": "The Road to Jerusalem and the Temple Cleared",
+      "chapters": [
+        19,
+        20,
+        21
+      ],
+      "verse_span": {
+        "from": "19:1",
+        "to": "21:46"
+      },
+      "difficulty_tier": 3,
+      "summary": "Hard teachings on the way up — marriage and divorce, the rich young man, vineyard laborers paid alike, 'the last will be first' — then Palm Sunday: the king on a donkey, the temple courts overturned, and parables (two sons, wicked tenants) aimed straight at the chief priests, who take the point.",
+      "key_themes": [
+        "discipleship's cost",
+        "humble king",
+        "temple judgment",
+        "vineyard"
+      ],
+      "prerequisites": [
+        {
+          "node": "matt-16-18",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The journey south unfolds under the passion predictions made at Caesarea Philippi."
+        },
+        {
+          "node": "zech-9-14",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "The triumphal entry is narrated as Zechariah 9:9 fulfilled — Matthew quotes it outright."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Matthew 19:26",
+        "Matthew 20:28",
+        "Matthew 21:5"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "celebratory",
+        "confrontational"
+      ],
+      "discussion_prompt": "The rich young man walks away sad, and days later Jerusalem cheers a king riding a donkey. What do these chapters say about what people want a king to be, and what would it cost you for Jesus to rule the part of your life you guard most?",
+      "assessment_questions": [
+        "What does Jesus tell the rich young man to do, and what does Jesus do when he enters the temple courts?",
+        "In the vineyard parable of chapter 20, latecomers receive the same pay as all-day workers. What is Jesus teaching about how the kingdom measures reward?",
+        "Jesus says the last will be first, and he enters the city on a borrowed donkey. Where do you chase being first, and what would practicing his kind of downward greatness look like this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The humble king",
+          "explanation": "The entry on a donkey fulfills Zechariah's prophecy, presenting a Messiah whose power arrives in lowliness rather than conquest."
+        },
+        {
+          "concept": "Entry by dependence",
+          "explanation": "The rich young man and the welcomed children show that the kingdom is entered with empty hands, since salvation is possible only with God."
+        },
+        {
+          "concept": "Worship must bear fruit",
+          "explanation": "Clearing the temple and cursing the fig tree condemn religion that looks busy while producing nothing God is seeking."
+        },
+        {
+          "concept": "The great reversal",
+          "explanation": "The kingdom overturns human rankings of merit and status, so the last become first and greatness is redefined as service."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the rich young man's story and the triumphal entry each reveal about the kind of king Jesus is.",
+      "comprehension_check": [
+        {
+          "question": "In Matthew 19 a commandment-keeping rich man walks away while children are received. What is Matthew teaching about entering the kingdom?",
+          "options": [
+            "It is received in dependence, since no one can achieve it",
+            "It is open to the poor and closed to the wealthy",
+            "It demands harder effort at the commands he already kept",
+            "It requires every disciple to sell all possessions first"
+          ],
+          "answer_index": 0,
+          "why": "Matthew 19:26 grounds entry in what God alone can do, the same dependence the welcomed children of Matthew 19:14 picture.",
+          "hint": "Read Matthew 19:13-15 and Matthew 19:23-26 again. Notice what the children bring with them, and what the disciples ask."
+        },
+        {
+          "question": "Matthew 21 stacks the temple clearing, the withered fig tree, and the tenant parable. What do the three announce together?",
+          "options": [
+            "A ban on trade conducted anywhere near sacred space",
+            "A zeal meant to ignite an uprising against Rome",
+            "A judgment on religion that is busy but fruitless",
+            "A rejection of temple sacrifice as inherently corrupt"
+          ],
+          "answer_index": 2,
+          "why": "Matthew 21:19 curses leaves without figs, and Matthew 21:43 gives the vineyard to those who will produce its fruit.",
+          "hint": "Read Matthew 21:12-19 and Matthew 21:33-43 again. Notice what the tree lacks, and what the tenants refuse to hand over."
+        }
+      ]
+    },
+    {
+      "id": "matt-22-25",
+      "title": "Final Controversies and the Olivet Discourse",
+      "chapters": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "verse_span": {
+        "from": "22:1",
+        "to": "25:46"
+      },
+      "difficulty_tier": 4,
+      "summary": "Every faction takes a swing — taxes to Caesar, resurrection riddles, the greatest commandment — and Jesus answers all comers, pronounces seven woes on the scribes and Pharisees, and delivers the Olivet Discourse: the temple's doom, the Son of Man's coming, and three parables of readiness ending with sheep, goats, and 'as you did it to the least of these.'",
+      "key_themes": [
+        "greatest commandment",
+        "woes",
+        "watchfulness",
+        "final judgment"
+      ],
+      "prerequisites": [
+        {
+          "node": "matt-19-21",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The controversies are the establishment's counterattack after the temple demonstration.",
+          "scope": "sequence"
+        },
+        {
+          "node": "dan-8-12",
+          "strength": "hard",
+          "type": "quotation",
+          "reason": "Matthew's Olivet discourse invokes Daniel's \"abomination of desolation\" and its apocalyptic schema that he never explicates, so a reader ignorant of Daniel 8–12 will misunderstand the referent and structure of his warning.",
+          "scope": "sequence"
+        },
+        {
+          "node": "dan-7",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Daniel 7 supplies the \"Son of Man\" as a cosmic, judging figure and the Ancient of Days imagery that Matthew's eschatological language presumes yet does not explicate.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Matthew 22:37-39",
+        "Matthew 24:42",
+        "Matthew 25:40"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "urgent"
+      ],
+      "discussion_prompt": "Asked for the greatest commandment, Jesus gives two that belong together, love of God and love of neighbor, then closes the discourse with sheep and goats separated by care for the least. What do these chapters teach about what God will actually weigh in the end, and how would living ready change your ordinary Tuesday?",
+      "assessment_questions": [
+        "What two commandments does Jesus say the whole Law and the Prophets hang on, and what does he predict about the temple?",
+        "The seven woes target leaders who look righteous on the outside while the inside stays unclean. What is Jesus diagnosing about religion that manages appearances?",
+        "In the final parable, the King identifies himself with the hungry, the stranger, and the prisoner. Who around you might be Christ in that disguise, and what would serving them cost you this month?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Love is the Law's summary",
+          "explanation": "Love of God with everything and love of neighbor as yourself hold every other command together."
+        },
+        {
+          "concept": "Hypocrisy under judgment",
+          "explanation": "Jesus reserves his sharpest words for pious performance without inward repentance, warning that God sees past appearances."
+        },
+        {
+          "concept": "Watchfulness over timetables",
+          "explanation": "The Olivet Discourse commands readiness and faithful stewardship rather than date-setting, and teachers still discuss how much of it aims at the temple's fall in AD 70 and how much at the end of the age."
+        },
+        {
+          "concept": "Judgment weighs mercy",
+          "explanation": "The sheep and goats scene makes concrete care for the needy the evidence of real allegiance to the King."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "State the two greatest commandments, and explain what the parables of Matthew 25 say readiness for the King's return looks like.",
+      "comprehension_check": [
+        {
+          "question": "Jesus answers the law question by naming love of God and love of neighbor. What does he claim for those two commands?",
+          "options": [
+            "They replace the older law, which is now retired",
+            "Every other command depends on them for its meaning",
+            "They give beginners the easiest place to start",
+            "They describe feelings that cannot really be commanded"
+          ],
+          "answer_index": 1,
+          "why": "Matthew 22:40 makes every command in the Law and the Prophets depend on these two loves, the center holding the rest together.",
+          "hint": "Read Matthew 22:37-40 again. Notice the relationship the final verse sets up between these two commands and all the others."
+        },
+        {
+          "question": "Across the Olivet parables in Matthew 24-25, what posture does Jesus command for the time the master is away?",
+          "options": [
+            "Careful study of the signs until the date is fixed",
+            "Withdrawal from daily duties into watchful prayer",
+            "Confidence that the long delay means he is not coming",
+            "Faithful work precisely because the hour is unknown"
+          ],
+          "answer_index": 3,
+          "why": "Matthew 24:42 and Matthew 25:13 command watch precisely because no one knows the day, and the parables fill the waiting with entrusted work.",
+          "hint": "Read Matthew 24:36 and Matthew 25:14-30 again. Notice what the master leaves behind, and what he checks on his return."
+        }
+      ]
+    },
+    {
+      "id": "matt-26-28",
+      "title": "The Passion and the Great Commission",
+      "chapters": [
+        26,
+        27,
+        28
+      ],
+      "verse_span": {
+        "from": "26:1",
+        "to": "28:20"
+      },
+      "difficulty_tier": 2,
+      "summary": "Betrayal for thirty silver pieces, a Passover meal become the Lord's Supper, Gethsemane, trials, Peter's denials, crucifixion under the cry of Psalm 22 — then the earthquake, the empty tomb, and the risen Jesus on a Galilean mountain: 'All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations.'",
+      "key_themes": [
+        "passion",
+        "atonement",
+        "resurrection",
+        "great commission"
+      ],
+      "prerequisites": [
+        {
+          "node": "matt-22-25",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The passion follows directly from the final week's collision with the authorities.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-12-15",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Matthew presumes the Exodus/Passover covenantal pattern (the paschal lamb, blood as covenant, deliverance from bondage) in the Last Supper language \"my blood of the covenant,\" which he reframes but does not retell, so skipping Exodus 12–15 leads to a misreading of the supper's meaning.",
+          "scope": "foundation"
+        },
+        {
+          "node": "ps-22",
+          "strength": "hard",
+          "type": "quotation",
+          "reason": "Matthew invokes Psalm 22's narrative motifs (forsaken cry, mocking, divided garments and ultimate vindication) without rehearsing that psalm's storyline, so a reader who lacks Psalm 22 will miss the intended fulfillment framing of the Passion.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "gen-12-17",
+          "reason": "'Make disciples of all nations' completes the promise that in Abraham's seed all nations would be blessed."
+        }
+      ],
+      "key_verses": [
+        "Matthew 26:28",
+        "Matthew 27:46",
+        "Matthew 28:18-20"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "joy"
+      ],
+      "discussion_prompt": "At the table Jesus calls the cup his blood of the covenant poured out for the forgiveness of sins, and on the mountain he claims all authority in heaven and on earth. Reading the passion and resurrection as one story, what did Jesus accomplish that no one else could, and what does his commission ask of you specifically?",
+      "assessment_questions": [
+        "What does Jesus do with the bread and cup at the Passover meal, and what do the women find at the tomb on the first day of the week?",
+        "Jesus prays in Gethsemane for the cup to pass, then rises and walks toward his betrayer. What does that prayer reveal about how willingly Jesus went to the cross?",
+        "Peter denies Jesus three times, and the risen Jesus still includes him in the mission. What failure makes you feel disqualified, and what does the Great Commission's promise of Jesus' presence say back to it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A covenant meal",
+          "explanation": "The Last Supper ties Jesus' coming death to the forgiveness of sins and gives his people an ongoing meal that points to it."
+        },
+        {
+          "concept": "Willing obedience in agony",
+          "explanation": "Gethsemane shows Jesus honestly dreading the cup and still choosing the Father's will with full knowledge of the cost."
+        },
+        {
+          "concept": "The cross deals with sin",
+          "explanation": "Matthew presents the crucifixion as the decisive act where God's justice and mercy meet, the work the whole Gospel has been walking toward."
+        },
+        {
+          "concept": "Resurrection authorizes mission",
+          "explanation": "The risen Jesus claims all authority, sends his people to every nation, and promises his presence to the end of the age."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the passion story from the Last Supper to the empty tomb, and explain what the Great Commission sends disciples to do.",
+      "comprehension_check": [
+        {
+          "question": "In Gethsemane Jesus prays in open anguish, then rises to meet his betrayer. What does the scene show about his death?",
+          "options": [
+            "He performed the dread to prepare his disciples",
+            "He hoped to escape and was simply overtaken",
+            "He chose the Father's will with full knowledge",
+            "He steadied himself once the disciples encouraged him"
+          ],
+          "answer_index": 2,
+          "why": "Matthew 26:39 holds real dread and real surrender in one prayer, and Matthew 26:46 has Jesus rising to walk toward what he accepted.",
+          "hint": "Read Matthew 26:39-46 again. Notice how the prayer changes across its three rounds, and who is leading when it ends."
+        },
+        {
+          "question": "On the mountain some worship and some doubt, and Jesus commissions them all anyway. What is the mission resting on?",
+          "options": [
+            "His own complete authority and his continuing presence",
+            "The training the Eleven have now fully completed",
+            "The nations' proven readiness to hear the message",
+            "The disciples' need to repay their desertion of him"
+          ],
+          "answer_index": 0,
+          "why": "Matthew 28:18 opens the commission with all authority given to Jesus, and Matthew 28:20 closes it with his presence to the end of the age.",
+          "hint": "Read Matthew 28:16-20 again. Notice the word that links the claim of authority to the command to go."
+        }
+      ]
+    }
+  ]
+}

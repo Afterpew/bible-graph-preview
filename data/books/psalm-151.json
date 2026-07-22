@@ -1,0 +1,80 @@
+{
+  "book": "Psalm 151",
+  "testament": "OT",
+  "canon_layer": "orthodox_addition",
+  "domain": "Wisdom/Poetry",
+  "nodes": [
+    {
+      "id": "ps-151",
+      "title": "Psalm 151: David's Own Postscript",
+      "chapters": [
+        1
+      ],
+      "difficulty_tier": 1,
+      "summary": "A short autobiographical psalm in David's voice — 'I was small among my brothers… my hands made a harp' — retelling his anointing and the defeat of Goliath. Found in the Greek Psalter and, in Hebrew, among the Dead Sea Scrolls at Qumran.",
+      "key_themes": [
+        "David's anointing",
+        "the least chosen",
+        "victory over Goliath"
+      ],
+      "prerequisites": [
+        {
+          "node": "1sam-16-20",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The psalm is a first-person retelling of 1 Samuel 16-17 — anointing and Goliath; the story is its entire content.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "Canonical in Orthodox Bibles (labeled 'outside the number'); not in Catholic or Protestant canons.",
+      "key_verses": [
+        "Psalm 151:1",
+        "Psalm 151:4",
+        "Psalm 151:7"
+      ],
+      "reading_time_minutes": 3,
+      "content_density": "light",
+      "emotional_tone": [
+        "reflective",
+        "joy"
+      ],
+      "discussion_prompt": "David remembers being the smallest brother with the least impressive job, and God chose him anyway. What does this little psalm say about how God measures a person, and where do you catch yourself measuring people by size and status instead?",
+      "assessment_questions": [
+        "How does David describe himself and his daily work before God's messenger comes for him?",
+        "David says his brothers were handsome and tall, yet the Lord took no pleasure in them. What does the psalm suggest God saw when he sent for the youngest instead?",
+        "David turns his own story into a short song of praise. What has God done in your life that you could tell just as simply, and who needs to hear it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God chooses by the heart",
+          "explanation": "The anointing passes over the tall and handsome brothers to reach a shepherd boy, showing that outward appearance carries no weight with God."
+        },
+        {
+          "concept": "God works through the weak",
+          "explanation": "A boy with a sling defeats the giant who cursed God's people, so deliverance comes through what the world counts small."
+        },
+        {
+          "concept": "Testimony is worship",
+          "explanation": "David simply tells what God did for him, and the telling itself becomes praise, a pattern anyone's story can follow."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Retell David's story as Psalm 151 tells it, and explain what it shows about how God chooses people.",
+      "comprehension_check": [
+        {
+          "question": "The psalm lingers on David's smallness and his brothers' looks before the anointing. What is the little psalm built to show?",
+          "options": [
+            "That years of faithful shepherd work earn God's notice",
+            "That God chooses by his own sight, not ours",
+            "That being overlooked is itself the mark of election",
+            "That the humble are rewarded once they prove brave"
+          ],
+          "answer_index": 1,
+          "why": "Psalm 151:4 gives the Lord all the initiative, sending for the boy the household left with the sheep.",
+          "hint": "Read Psalm 151:1 and Psalm 151:4 again. Notice who acts between the pasture and the anointing."
+        }
+      ]
+    }
+  ]
+}

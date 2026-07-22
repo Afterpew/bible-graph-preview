@@ -1,0 +1,712 @@
+{
+  "book": "2 Kings",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "2kgs-1-8",
+      "title": "Elisha: Double Portion",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "8:29"
+      },
+      "difficulty_tier": 2,
+      "summary": "Elijah ascends in a whirlwind amid chariots of fire and Elisha inherits a double portion of his spirit: oil that doesn't run out, a Shunammite's son raised, Naaman the Syrian general healed of leprosy in the Jordan. Grace keeps leaking across Israel's borders to outsiders.",
+      "key_themes": [
+        "prophetic succession",
+        "miracles",
+        "grace to outsiders",
+        "provision"
+      ],
+      "prerequisites": [
+        {
+          "node": "1kgs-17-22",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Elisha's ministry is the continuation of Elijah's; the mantle passes literally.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "luke-3-4",
+          "reason": "Jesus cites Naaman and the widow of Zarephath at Nazareth — God's pattern of blessing outsiders — and nearly gets thrown off a cliff for it."
+        }
+      ],
+      "key_verses": [
+        "2 Kings 2:9",
+        "2 Kings 5:15",
+        "2 Kings 6:16"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "awe",
+        "hopeful"
+      ],
+      "discussion_prompt": "Naaman almost misses his healing because the instruction is too simple and the river too ordinary. What do Elisha's miracles keep showing about the kinds of people God helps and the means he uses, and where might you be despising a simple obedience God has put in front of you?",
+      "assessment_questions": [
+        "What does Elisha ask for before Elijah is taken up, and how does he receive it?",
+        "Naaman is a foreign general with leprosy, and a captive Israelite servant girl points him to the prophet. What does his healing say about how far God's mercy reaches?",
+        "Gehazi turns Naaman's healing into a chance for personal profit and walks away carrying the leprosy. What does his story warn about using sacred things for private gain, and where does that temptation touch you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The prophetic work continues",
+          "explanation": "Elisha's double portion marks God carrying the same Spirit-empowered ministry forward after Elijah, so the mission outlives the man."
+        },
+        {
+          "concept": "Miracles aimed at mercy",
+          "explanation": "Elisha's signs multiply a widow's oil, raise a dead boy, and cleanse a leper, showing God's power directed at ordinary and desperate people."
+        },
+        {
+          "concept": "Grace crosses borders",
+          "explanation": "Naaman the Syrian is healed through humble obedience in the Jordan, proof that God's mercy was never fenced inside Israel."
+        },
+        {
+          "concept": "Spiritual privilege can be abused",
+          "explanation": "Gehazi's greed shows that closeness to God's work is no license to exploit it, and signs must be matched by character."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the healing of Naaman and explain what it, together with Elisha's other miracles, reveals about who God's mercy is for.",
+      "comprehension_check": [
+        {
+          "question": "Naaman nearly walks away from his healing in 2 Kings 5. What does the story treat as the real obstacle?",
+          "options": [
+            "The prophet's distance, since Elisha would not meet an enemy commander",
+            "His own expectation of a cure as grand as his standing",
+            "Israel's king, who read the request as a pretext for war",
+            "His people's gods, whom he had to renounce before the cure"
+          ],
+          "answer_index": 1,
+          "why": "2 Kings 5:11-14 shows the healing waiting only on humble obedience to the simple word the prophet sent.",
+          "hint": "Read 2 Kings 5:10-14 again. Notice what Naaman says he expected, and what finally happens instead."
+        },
+        {
+          "question": "Elisha asks for a double portion of Elijah's spirit in 2 Kings 2. Within these chapters, what does the request turn out to mean?",
+          "options": [
+            "The firstborn heir's share, carrying the same ministry forward",
+            "A standing above his master, proved by mightier public wonders",
+            "A guarantee that Israel would never lack a miracle worker",
+            "A private gift of power for the hardest cases ahead"
+          ],
+          "answer_index": 0,
+          "why": "In 2 Kings 2:15 the watching prophets recognize that the spirit of Elijah now rests on Elisha, the heir carrying his master's work forward.",
+          "hint": "Read 2 Kings 2:9-15 again. Notice what the watching prophets conclude when Elisha strikes the water."
+        }
+      ]
+    },
+    {
+      "id": "2kgs-9-10",
+      "title": "Jehu's Purge",
+      "chapters": [
+        9,
+        10
+      ],
+      "verse_span": {
+        "from": "9:1",
+        "to": "10:36"
+      },
+      "difficulty_tier": 3,
+      "summary": "A young prophet from Elisha's circle anoints Jehu in secret, and the purge that follows is swift and total: Joram shot on Naboth's ground, Ahaziah of Judah caught in the sweep, Jezebel thrown from her window, seventy sons of Ahab beheaded, and the Baal temple turned into a latrine. The narrator counts each blow as the fulfillment of Elijah's word against Ahab's house, and God grants Jehu four generations on Israel's throne. Yet the verdict is double: Jehu destroys Baal and walks on in Jeroboam's calf worship, zeal against evil without a heart careful for God's law.",
+      "key_themes": [
+        "judgment executed",
+        "prophetic word fulfilled",
+        "zeal without wholeheartedness",
+        "covenant unfaithfulness"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-1-8",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Jehu's revolution is commissioned through Elisha's circle; the sequence is continuous.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Kings 9:7",
+        "2 Kings 9:36",
+        "2 Kings 10:30-31"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "warning"
+      ],
+      "discussion_prompt": "God commends Jehu for carrying out everything that was in his heart against Ahab's house, and the same paragraph says Jehu was not careful to follow God's law with all his heart. What is the difference between being zealous against evil and being devoted to God, and where could that gap open in your own life?",
+      "assessment_questions": [
+        "What is Jehu anointed to do in 2 Kings 9:6-7, and what has happened to Ahab's house and to Baal worship by the end of chapter 10?",
+        "The narrator keeps pausing the violence to note that each blow fulfills words spoken through Elijah. Why does the account insist the purge is the LORD's sentence rather than Jehu's ambition, and what does 10:29-31 add to that picture?",
+        "Jehu tears down what is evil with total energy and never builds wholehearted obedience of his own. Where are you more defined by what you are against than by devotion to God, and what would careful attention to his instruction look like there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The word against Ahab lands",
+          "explanation": "Elijah's sentence from Naboth's vineyard is executed detail by detail, presenting the prophetic word as history written in advance."
+        },
+        {
+          "concept": "God's instrument, not God's portrait",
+          "explanation": "Jehu carries out judgment without being righteous himself, and the text holds divine justice and human violence in real, unresolved tension."
+        },
+        {
+          "concept": "Zeal is not devotion",
+          "explanation": "Destroying Baal's temple coexists with keeping the state calves at Bethel and Dan, so being against idolatry still falls short of seeking God."
+        },
+        {
+          "concept": "Four generations granted",
+          "explanation": "God rewards the obedience Jehu did render, and the limit set on the promise quietly announces that instruments of judgment are also judged."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Jehu's purge fulfills, and why the narrator's final verdict on him is double rather than simple praise.",
+      "comprehension_check": [
+        {
+          "question": "The narrator repeatedly ties each death in Jehu's purge back to words spoken through Elijah. What is that framing establishing?",
+          "options": [
+            "The prophets held the real political power in Israel",
+            "Jehu's ambition conveniently matched an old prophecy",
+            "The purge executes a sentence God had already passed",
+            "Israel's dynasties always ended in prophetic bloodshed"
+          ],
+          "answer_index": 2,
+          "why": "2 Kings 9:7 gives the commission before a single blow falls: strike down the house of Ahab so the LORD may avenge his servants' blood.",
+          "hint": "Read 2 Kings 9:6-10 again. Notice whose words define Jehu's task before he acts, and whose blood is being answered for."
+        },
+        {
+          "question": "How does 2 Kings 10:28-31 finally weigh Jehu?",
+          "options": [
+            "A flawed king whose zeal fully atoned for his sins",
+            "A failure whose obedience God refused to acknowledge",
+            "A king too violent for God to ever use again",
+            "God's instrument who still withheld his heart"
+          ],
+          "answer_index": 3,
+          "why": "2 Kings 10:30-31 grants Jehu four generations for work well done, then records that he was not careful to follow the LORD wholeheartedly.",
+          "hint": "Read 2 Kings 10:28-31 again. Notice what Jehu destroys, what he keeps, and what the LORD says about each."
+        }
+      ]
+    },
+    {
+      "id": "2kgs-11-16",
+      "title": "Two Kingdoms Sliding toward Assyria",
+      "chapters": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_span": {
+        "from": "11:1",
+        "to": "16:20"
+      },
+      "difficulty_tier": 3,
+      "summary": "Athaliah slaughters the royal seed and rules Judah until the priest Jehoiada, having hidden the infant Joash in the temple for six years, crowns him and renews the covenant. From there the story alternates north and south through a century: Joash repairs the temple and then buys off Aram with its treasures, Jehu's line runs four generations to Jeroboam II's prosperous hollow reign, and after Zechariah the north churns through assassinations while Assyria's shadow lengthens. It ends with Ahaz of Judah stripping the temple and copying a Damascus altar to please his new master, a vassal remodeling the house of the LORD.",
+      "key_themes": [
+        "the promise kept by a thread",
+        "leadership and drift",
+        "Assyria's shadow",
+        "covenant unfaithfulness"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-9-10",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Athaliah's coup and the long slide follow directly from Jehu's purge and its aftermath.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Kings 11:17",
+        "2 Kings 13:23",
+        "2 Kings 16:7"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "tension"
+      ],
+      "discussion_prompt": "In the middle of the collapse, the narrator says the LORD was gracious to Israel because of his covenant with Abraham and was unwilling to destroy them. As coups, buy-offs, and vassal deals pile up in these chapters, what difference does that one sentence make to how you read the era, and to how you read your own worst seasons?",
+      "assessment_questions": [
+        "How does the Davidic line survive Athaliah in 2 Kings 11, and what covenant does Jehoiada make when Joash is crowned?",
+        "The narrator credits Israel's survival to the covenant with Abraham even while kings fail on both sides of the border. How do 2 Kings 13:23 and the era's steady decline fit together?",
+        "Ahaz answers a military threat by calling himself Assyria's servant and refitting God's altar to match Damascus. When pressure comes, what do you reshape to please the powers you fear, and what would trust have looked like instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A lamp barely kept burning",
+          "explanation": "One hidden infant is all that remains of David's line under Athaliah, and God's promise proves stronger than a palace massacre."
+        },
+        {
+          "concept": "Covenant renewal from the temple",
+          "explanation": "Jehoiada's covenant makes king and people the LORD's people again, a renewal that flows out of the sanctuary rather than the throne."
+        },
+        {
+          "concept": "Grace behind the history",
+          "explanation": "The narrator's aside in 2 Kings 13:23 credits the covenant with Abraham for Israel's survival, mercy underwriting even the north's final century."
+        },
+        {
+          "concept": "Vassalage reshapes worship",
+          "explanation": "Ahaz's Damascus altar shows political fear redesigning the sanctuary itself, a surrender of trust that feeds the very power it courts."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Trace how David's line survives Athaliah, and explain what 2 Kings 13:23 and Ahaz's altar each reveal about the era's real struggle.",
+      "comprehension_check": [
+        {
+          "question": "What is at stake in the hiding and crowning of Joash in 2 Kings 11?",
+          "options": [
+            "Whether the priesthood can overrule a reigning queen",
+            "Whether Judah will copy the north's rotating dynasties",
+            "Whether a child king can hold power over his elders",
+            "Whether God's promise to David survives the massacre"
+          ],
+          "answer_index": 3,
+          "why": "2 Kings 11:1-3 leaves one hidden son between Athaliah and the extinction of the royal line God had pledged himself to.",
+          "hint": "Read 2 Kings 11:1-4 again. Notice how much of David's house is left, and where the survivor is kept for six years."
+        },
+        {
+          "question": "Amid the coups and losses of these chapters, 2 Kings 13:23 explains why Israel is not simply erased. What does it credit?",
+          "options": [
+            "The repentance each new king briefly displayed",
+            "The LORD's covenant with Abraham, Isaac, and Jacob",
+            "Elisha's continued intercession for the northern kings",
+            "Israel's value to Assyria as a buffer state"
+          ],
+          "answer_index": 1,
+          "why": "2 Kings 13:23 says the LORD was gracious and turned toward Israel because of his covenant with Abraham, Isaac, and Jacob.",
+          "hint": "Read 2 Kings 13:22-23 again. Notice the reason the narrator gives for Israel's survival, and how old that reason is."
+        }
+      ]
+    },
+    {
+      "id": "2kgs-17",
+      "title": "Samaria Falls: The Covenant Autopsy",
+      "chapters": [
+        17
+      ],
+      "verse_span": {
+        "from": "17:1",
+        "to": "17:41"
+      },
+      "difficulty_tier": 3,
+      "summary": "Samaria falls to Assyria in a few verses, and then the narrator stops the history to explain it: Israel sinned against the God of the exodus, walked in the nations' customs, ignored every prophet, and stiffened its neck until the LORD removed it from his presence. The chapter is the interpretive key of Kings, reading the exile of 722 BC as the covenant's own sanctions executed rather than an accident of empire. It closes with Assyria's resettled peoples learning a hybrid worship, fearing the LORD while serving their own gods, the seedbed of the later Samaritans.",
+      "key_themes": [
+        "exile explained",
+        "judgment",
+        "covenant unfaithfulness",
+        "syncretism"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-11-16",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The fall of Samaria is the end of the slide the preceding reigns narrate.",
+          "scope": "sequence"
+        },
+        {
+          "node": "deut-27-30",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "2 Kings 17 explicitly reads the exile as the Deuteronomy 28 curses executed — the theology drives the history.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "hos-4-10",
+          "reason": "Hosea preached into exactly this collapse; the two texts narrate the same catastrophe from prophet's and historian's angles."
+        },
+        {
+          "node": "john-2-4",
+          "reason": "The Samaritans of Jesus' day descend from chapter 17's resettlement — the backstory of the woman at the well."
+        }
+      ],
+      "key_verses": [
+        "2 Kings 17:7-8",
+        "2 Kings 17:13-14",
+        "2 Kings 17:33"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "sorrow"
+      ],
+      "discussion_prompt": "The autopsy says God warned Israel through every prophet and seer, generation after generation, before the end came. If a narrator wrote this kind of honest postmortem about your community's drift, what would it name, and which warnings are currently being tuned out?",
+      "assessment_questions": [
+        "According to 2 Kings 17:7-18, what reasons does the narrator give for Israel's exile, and what happens in the land afterward?",
+        "The chapter reports the fall in two verses and spends dozens explaining it. Why does the writer care more about the why than the how, and what does that priority say about how Kings understands history?",
+        "The resettled peoples feared the LORD while serving their own gods, an arrangement the chapter refuses to bless. Where does that both-and pattern show up in your own life, and what would undivided loyalty require?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Covenant warnings come true",
+          "explanation": "The exile of 722 BC lands exactly where Deuteronomy said unfaithfulness would lead, so God's warnings prove to be history in advance."
+        },
+        {
+          "concept": "Prophets are mercy before judgment",
+          "explanation": "God keeps sending messengers for centuries before the end comes, so the fall testifies to long-refused mercy rather than a short temper."
+        },
+        {
+          "concept": "History with a verdict",
+          "explanation": "The narrator orders the evidence like a covenant lawsuit, writing theology as history so the reader cannot mistake the cause of the catastrophe."
+        },
+        {
+          "concept": "Syncretism is not conversion",
+          "explanation": "The settlers' mixed devotion, fearing the LORD while serving their gods, names the exact compromise Israel itself had died of."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain, using 2 Kings 17, why the northern kingdom fell, and what the chapter's closing picture of mixed worship warns about.",
+      "comprehension_check": [
+        {
+          "question": "2 Kings 17 halts the story to explain Samaria's fall at length. What explanation does the narrator rule out by writing it?",
+          "options": [
+            "That God's patience had run out too quickly",
+            "That exile was the fate of every small kingdom",
+            "That the fall was ordinary imperial politics",
+            "That Israel's sin was too recent to deserve exile"
+          ],
+          "answer_index": 2,
+          "why": "2 Kings 17:7 opens the explanation with a cause no empire supplies: all this happened because Israel sinned against the LORD their God.",
+          "hint": "Read 2 Kings 17:7-8 again. Notice what the narrator names as the cause before any army is mentioned."
+        },
+        {
+          "question": "What role do the prophets play in the autopsy of 2 Kings 17:13-14?",
+          "options": [
+            "They are the evidence that God warned before he judged",
+            "They are the leaders who should have replaced the kings",
+            "They are the last resort God tried once judgment began",
+            "They are proof that some in Israel stayed faithful"
+          ],
+          "answer_index": 0,
+          "why": "2 Kings 17:13 records the standing appeal through all his prophets and seers, turn from your wicked ways, sent long before the end.",
+          "hint": "Read 2 Kings 17:13-15 again. Notice when the warnings come in the story, and how the people answer them."
+        }
+      ]
+    },
+    {
+      "id": "2kgs-18-20",
+      "title": "Hezekiah and the Assyrian Siege",
+      "chapters": [
+        18,
+        19,
+        20
+      ],
+      "verse_span": {
+        "from": "18:1",
+        "to": "20:21"
+      },
+      "difficulty_tier": 3,
+      "summary": "Hezekiah trusts the LORD like no king before him, removes the high places, and rebels against Assyria; Sennacherib's field commander answers beneath the walls, mocking every god who failed to save its city. Hezekiah spreads the blasphemous letter before the LORD, Isaiah carries God's answer, and the angel of the LORD empties the Assyrian camp in a night. Two further scenes complicate the triumph: a mortal illness reversed with fifteen added years, and Babylonian envoys shown every treasure, drawing Isaiah's quiet word that Babylon, not Assyria, will one day carry it all away.",
+      "key_themes": [
+        "trust under siege",
+        "prayer and deliverance",
+        "reform",
+        "the seed of Babylon"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-17",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Judah's fall parallels and completes the north's; Assyria's threat carries directly into Hezekiah's crisis.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "isa-36-39",
+          "reason": "Isaiah 36-39 retells the Hezekiah-Sennacherib crisis nearly word for word; the prophet is a character in it."
+        }
+      ],
+      "key_verses": [
+        "2 Kings 18:5-6",
+        "2 Kings 19:19",
+        "2 Kings 20:17"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "hopeful"
+      ],
+      "discussion_prompt": "Face to face with the empire's propaganda, Hezekiah's move is to spread the letter before the LORD and pray that all kingdoms may know who alone is God. What does his prayer ask for beyond survival, and what would it change to pray about your own crises with that larger goal in view?",
+      "assessment_questions": [
+        "What does Hezekiah do with Sennacherib's letter in 2 Kings 19, and how is Jerusalem delivered from the Assyrian army?",
+        "The Rabshakeh's speech lists the gods of conquered cities and files the LORD among them. How does the deliverance answer that taunt, and why does Hezekiah's prayer in 19:19 make the nations' knowledge its goal?",
+        "After deliverance and healing, Hezekiah shows Babylon's envoys everything he has. Where does gratitude in your life shade into display, and what would stewarding a blessing humbly look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God answers humble prayer",
+          "explanation": "Hezekiah takes Assyria's threat straight to God, and the deliverance that follows shows prayer as a real act with real consequences."
+        },
+        {
+          "concept": "The taunt misfiles the LORD",
+          "explanation": "Assyrian theology treats every god as a local failure waiting its turn, and the emptied camp answers with the difference between idols and the living God."
+        },
+        {
+          "concept": "Deliverance is not immunity",
+          "explanation": "The same reign that sees Jerusalem saved also awakens Babylon's interest in its treasures, and the book lets the triumph and the seed of exile stand together."
+        },
+        {
+          "concept": "Trust as the measure of a reign",
+          "explanation": "2 Kings 18:5-6 summarizes Hezekiah by his trusting and holding fast to the LORD, the rubric by which every king of Judah is weighed."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell how Jerusalem was delivered from Sennacherib, and explain how the Babylonian envoy scene plants the seed of the book's ending.",
+      "comprehension_check": [
+        {
+          "question": "The Rabshakeh's taunt in 2 Kings 18 files the LORD among the gods that failed their cities. What does the deliverance of chapter 19 answer?",
+          "options": [
+            "Jerusalem's temple made the city impossible to conquer",
+            "Assyria's cruelty had finally gone too far for heaven",
+            "Kings who trust the LORD are always rescued from enemies",
+            "The LORD is no local god; he alone is God"
+          ],
+          "answer_index": 3,
+          "why": "2 Kings 19:19 asks deliverance so that all kingdoms may know that the LORD alone is God, and 19:35 gives heaven's answer.",
+          "hint": "Read 2 Kings 18:33-35 and 19:19 again. Notice the claim the taunt makes about the LORD, and what Hezekiah asks God to prove."
+        },
+        {
+          "question": "What does the visit of the Babylonian envoys in 2 Kings 20 contribute to the book?",
+          "options": [
+            "It shows Judah wisely courting a counterweight to Assyria",
+            "It proves Hezekiah's faith failed at the very end",
+            "It plants the word naming Babylon as the coming exile",
+            "It records a routine diplomatic courtesy with no larger meaning"
+          ],
+          "answer_index": 2,
+          "why": "2 Kings 20:17-18 turns the tour of treasures into the book's forecast: everything shown will one day be carried off to Babylon.",
+          "hint": "Read 2 Kings 20:12-19 again. Notice what Hezekiah shows, and what Isaiah says will happen to exactly those things."
+        }
+      ]
+    },
+    {
+      "id": "2kgs-21-23",
+      "title": "Manasseh's Ruin and Josiah's Reform",
+      "chapters": [
+        21,
+        22,
+        23
+      ],
+      "verse_span": {
+        "from": "21:1",
+        "to": "23:37"
+      },
+      "difficulty_tier": 3,
+      "summary": "Manasseh reverses everything his father built: altars for Baal inside the temple courts, his son through the fire, innocent blood filling Jerusalem, until the LORD announces a judgment that will make both ears tingle. Two generations later the boy king Josiah hears the rediscovered Book of the Law read aloud, tears his robes, and leads the most sweeping reform in Judah's history, from the temple to Bethel's altar to a covenant renewed with all the people. The narrator honors him beyond every king and still records the verdict: the fury kindled by Manasseh does not turn back, and Josiah dies at Megiddo with the end already in motion.",
+      "key_themes": [
+        "reform",
+        "judgment made irreversible",
+        "the rediscovered word",
+        "exile approaching"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-18-20",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Manasseh's reign opens as the direct sequel and reversal of his father Hezekiah's.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Kings 22:11",
+        "2 Kings 23:25",
+        "2 Kings 23:26-27"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "resolve"
+      ],
+      "discussion_prompt": "Josiah turns to the LORD with all his heart, soul, and strength, and the narrator says the coming judgment still stands. If obedience cannot be measured by whether it changes the outcome, what is it for, and what would it mean for you to obey like Josiah inside a story you cannot fix?",
+      "assessment_questions": [
+        "What does Manasseh do in 2 Kings 21, and what happens when the Book of the Law is read to Josiah in chapter 22?",
+        "Josiah's reform is the most thorough in Judah's history, yet 23:26-27 says the LORD's anger over Manasseh remains. How do the reform and the verdict fit together, and what does Huldah's word to Josiah add?",
+        "Josiah tears his robes at words his nation had owned all along and forgotten. What Scripture have you effectively lost through familiarity, and what would letting it read you the way the scroll read Josiah involve?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Scripture fuels reform",
+          "explanation": "The revival begins when the lost book is read aloud, showing the word's power to remake first a king and then a kingdom."
+        },
+        {
+          "concept": "Persistent sin has consequences",
+          "explanation": "Manasseh's generation-deep damage outlasts even Josiah's obedience, teaching that God's patience never makes sin harmless."
+        },
+        {
+          "concept": "Wholehearted anyway",
+          "explanation": "2 Kings 23:25 crowns Josiah as the king who turned with all his heart when turning could no longer avert the end, obedience honored apart from outcomes."
+        },
+        {
+          "concept": "Ears that tingle",
+          "explanation": "The sentence of 2 Kings 21:12-13 stretches Samaria's measuring line over Jerusalem, so the reader watches the reform knowing what is already coming."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Manasseh's reign and Josiah's reform relate, and why the book honors Josiah supremely while judgment still falls.",
+      "comprehension_check": [
+        {
+          "question": "When the Book of the Law is read to Josiah in 2 Kings 22, he tears his robes. What does his reaction show he understood?",
+          "options": [
+            "The scroll put his nation under unkept covenant terms",
+            "The scroll was a lost relic requiring proper ceremonial honor",
+            "The scroll had predicted his own coming death at Megiddo",
+            "The scroll condemned the generations before his own reign"
+          ],
+          "answer_index": 0,
+          "why": "2 Kings 22:13 is Josiah's own reading: great is the wrath against us, because our fathers have not obeyed the words of this book.",
+          "hint": "Read 2 Kings 22:11-13 again. Notice who Josiah says the book's words are about."
+        },
+        {
+          "question": "2 Kings 23 praises Josiah beyond every king, then says the LORD's fierce anger did not turn back. What is the narrative teaching?",
+          "options": [
+            "Reform was pointless once exile had already been decreed",
+            "Public displays of reform count less than private repentance",
+            "God simply valued Manasseh's offense above Josiah's devotion",
+            "Centuries of sin carry weight no reign can lift"
+          ],
+          "answer_index": 3,
+          "why": "2 Kings 23:25-26 sets the two facts side by side: a king without equal in turning to the LORD, and a judgment whose causes lay generations deep.",
+          "hint": "Read 2 Kings 23:25-27 again. Notice whose deeds the LORD's remaining anger is tied to."
+        }
+      ]
+    },
+    {
+      "id": "2kgs-24-25",
+      "title": "The Fall of Jerusalem and the Exile",
+      "chapters": [
+        24,
+        25
+      ],
+      "verse_span": {
+        "from": "24:1",
+        "to": "25:30"
+      },
+      "difficulty_tier": 3,
+      "summary": "The end comes in waves: Jehoiakim's revolt, the first deportation with Jehoiachin, Zedekiah's doomed rebellion, and then the nineteenth year of Nebuchadnezzar, when the walls are breached, the king's sons are killed before his blinded eyes, and the house of the LORD is burned to the ground. The narrator insists this happened at the LORD's command, the sentence for Manasseh's sin, and follows the survivors through Gedaliah's murder down into Egypt. Then the last four verses lift Jehoiachin from prison to the king of Babylon's table, a Davidic heir alive and eating bread, the book's one small light left burning.",
+      "key_themes": [
+        "exile",
+        "judgment",
+        "the temple burned",
+        "surviving hope"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-21-23",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The catastrophe follows straight from Josiah's death and the last kings' misrule.",
+          "scope": "sequence"
+        },
+        {
+          "node": "1kgs-5-8",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "2 Kings 24–25 assumes the reader understands Solomon’s temple — its construction, cultic centrality, and splendor as given in 1 Kings 5–8 — without which the temple’s destruction will be misunderstood in magnitude and meaning.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "jer-37-39",
+          "reason": "Jeremiah's narrative chapters cover the same siege and fall from inside the doomed city."
+        },
+        {
+          "node": "lam",
+          "reason": "Lamentations is the poetry of the destruction 2 Kings 25 reports as history."
+        }
+      ],
+      "key_verses": [
+        "2 Kings 24:3-4",
+        "2 Kings 25:9",
+        "2 Kings 25:27-30"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "hopeful"
+      ],
+      "discussion_prompt": "Kings ends with a deposed heir of David eating daily bread at his conqueror's table, and the writer thought that worth recording after the temple burned. Why end there, and what does it teach about the size of hope God's people are sometimes given to live on?",
+      "assessment_questions": [
+        "What happens to Jerusalem, the temple, and the last kings of Judah in 2 Kings 24-25?",
+        "The narrator says the catastrophe came at the LORD's command for the sins of Manasseh, even naming innocent blood the LORD would not pardon. What is gained, and what is hard, about reading 586 BC that way?",
+        "The book closes on Jehoiachin's small mercy rather than on the flames. When a season of your life ends in real loss, what would it mean to hold the Jehoiachin-sized mercies without pretending the loss is smaller than it is?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Judgment keeps its word",
+          "explanation": "The fall executes the sentence announced since Manasseh, so the catastrophe vindicates the word of the LORD rather than defeating it."
+        },
+        {
+          "concept": "The temple is not a talisman",
+          "explanation": "The house where the LORD set his name burns like any building once the covenant behind it is dead, the end of a presumption the prophets had long attacked."
+        },
+        {
+          "concept": "Babylon is an instrument",
+          "explanation": "Nebuchadnezzar wins no contest of gods; the narrator keeps the LORD as the actor throughout, which is the only reason hope can survive the defeat."
+        },
+        {
+          "concept": "Hope survives judgment",
+          "explanation": "The exiled Davidic king raised to Babylon's table leaves the covenant promise alive, ending the book with a door still ajar."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how 2 Kings presents Jerusalem's fall as the LORD's own act, and name the flicker of hope the book chooses for its final scene.",
+      "comprehension_check": [
+        {
+          "question": "2 Kings 24:3 interrupts the invasions to say this came upon Judah at the command of the LORD. What is the narrator securing with that line?",
+          "options": [
+            "That resistance to Babylon was always a doomed policy",
+            "That the LORD, not Babylon, governs Judah's fall",
+            "That readers should accept imperial rule as God's order",
+            "That the LORD had transferred his favor to Babylon"
+          ],
+          "answer_index": 1,
+          "why": "2 Kings 24:3-4 roots the catastrophe in the LORD's own sentence on Manasseh's sins, keeping God the actor even in defeat.",
+          "hint": "Read 2 Kings 24:2-4 again. Notice who sends the raiders, and for what stated reason."
+        },
+        {
+          "question": "After the temple burns, the book ends with Jehoiachin freed to eat at Babylon's table. Why close there?",
+          "options": [
+            "To show that surrender to Babylon brought reward",
+            "To soften the horror of the fall for future readers",
+            "To leave David's line alive and the promise breathing",
+            "To record one exile's fortune among the many losses"
+          ],
+          "answer_index": 2,
+          "why": "2 Kings 25:27-30 lifts a son of David from prison to the king's table, a sign that the covenant line survives the catastrophe.",
+          "hint": "Read 2 Kings 25:27-30 again. Notice whose descendant is being kept alive, fed, and honored as the book ends."
+        }
+      ]
+    }
+  ]
+}

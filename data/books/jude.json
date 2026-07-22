@@ -1,0 +1,112 @@
+{
+  "book": "Jude",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "jude",
+      "title": "Jude: Contend for the Faith",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:25"
+      },
+      "difficulty_tier": 3,
+      "summary": "Jesus' brother, intending a friendly letter, writes an emergency one instead: 'contend for the faith once for all delivered to the saints' against infiltrators turning grace into license. A barrage of examples — the wilderness generation, Korah, Cain, Balaam, and citations of extra-biblical texts (1 Enoch, the Assumption of Moses) — ends in the New Testament's most beloved benediction: 'to him who is able to keep you from stumbling.'",
+      "key_themes": [
+        "contending",
+        "false teachers",
+        "judgment examples",
+        "kept by God"
+      ],
+      "prerequisites": [
+        {
+          "node": "num-15-19",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'Perished in Korah's rebellion' — Jude's example-chain leans on the wilderness revolts."
+        },
+        {
+          "node": "num-20-25",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Jude assumes the reader knows Balaam’s “error” (how Balaam’s counsel led Israel into immorality/greed in the Numbers traditions) and does not recount that narrative, so skipping Numbers will lead to a misreading of Jude’s polemic.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "2pet",
+          "reason": "2 Peter 2 parallels Jude nearly verse for verse; the letters interpret each other."
+        }
+      ],
+      "tradition_notes": "Jude quotes 1 Enoch as prophecy and alludes to the Assumption of Moses — neither book is canonical in Catholic, Orthodox, or Protestant Bibles (1 Enoch is canonical only in the Ethiopian Orthodox tradition). All major traditions read the citations as apt use of known literature rather than canonization of it.",
+      "key_verses": [
+        "Jude 1:3",
+        "Jude 1:20-21",
+        "Jude 1:24-25"
+      ],
+      "reading_time_minutes": 5,
+      "content_density": "dense",
+      "emotional_tone": [
+        "urgent",
+        "warning"
+      ],
+      "discussion_prompt": "Jude wanted to write a friendly letter about shared salvation and instead had to write an urgent one about contending for the faith. He ends by telling believers to keep themselves in God's love while showing mercy to those who doubt. How can a person fight for the truth and stay merciful at the same time, and where do you find that balance hardest?",
+      "assessment_questions": [
+        "What does Jude urge his readers to contend for, and what does he say the intruders are turning God's grace into?",
+        "Jude piles up examples of judgment, from the wilderness generation to Korah, then closes with a promise that God is able to keep you from stumbling. Why do the warning and the promise belong together in one short letter?",
+        "Jude tells believers to have mercy on those who doubt. Who in your life is wavering, and what would reaching them with both urgency and care look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A faith once delivered",
+          "explanation": "The apostolic faith is a fixed deposit entrusted to the church, worth defending because it does not change with fashion."
+        },
+        {
+          "concept": "Grace twisted into license",
+          "explanation": "The false teachers treat God's grace as permission to sin, and Jude insists that doctrine and morals rise or fall together."
+        },
+        {
+          "concept": "Kept by God",
+          "explanation": "The letter's final confidence rests on God's power to keep believers from stumbling and present them blameless with great joy."
+        },
+        {
+          "concept": "Contend with mercy",
+          "explanation": "Defending the faith includes building yourself up in prayer and showing mercy to doubters, so vigilance never hardens into cruelty."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Jude means by contending for the faith once for all delivered, and paraphrase the closing benediction about the God who keeps.",
+      "comprehension_check": [
+        {
+          "question": "Jude meant to write about the salvation he shared with his readers and wrote an emergency appeal instead. What set off the alarm?",
+          "options": [
+            "Roman officials had begun arresting believers across the churches",
+            "Rival teachers were splitting the church over disputed writings",
+            "Insiders were treating God's grace as cover for immorality",
+            "Most of the congregation had quietly abandoned the faith"
+          ],
+          "answer_index": 2,
+          "why": "Jude 1:4 names the crisis: people slipped in unnoticed and are bending God's grace into a license, so Jude 1:3 turns the letter into an urgent defense of what was entrusted.",
+          "hint": "Read Jude 1:4 again. Notice how the trouble arrived and what it does with grace."
+        },
+        {
+          "question": "After piling up examples of judgment, Jude 1:20-23 finally says what contending looks like. What shape does it take?",
+          "options": [
+            "Building up their faith and showing mercy to doubters",
+            "Publicly naming the intruders and driving them out",
+            "Withdrawing from fellowship until the churches are pure",
+            "Mastering the stories of judgment well enough to repeat them"
+          ],
+          "answer_index": 0,
+          "why": "Jude 1:20-21 points every command at the readers, building, praying, staying in God's love, and Jude 1:22 turns the fight outward as mercy.",
+          "hint": "Read Jude 1:20-23 again. Notice who all the verbs are addressed to."
+        }
+      ]
+    }
+  ]
+}

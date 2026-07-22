@@ -1,0 +1,115 @@
+{
+  "book": "Tobit",
+  "testament": "OT",
+  "canon_layer": "catholic_deuterocanon",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "tob",
+      "title": "Tobit: The Angel on the Road",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "difficulty_tier": 2,
+      "summary": "A pious blind exile in Nineveh and a tormented bride in Media are healed by one journey: Tobit's son Tobias travels with a hired companion who turns out to be the angel Raphael, marries Sarah, and returns with the cure for his father's eyes. A warm domestic tale of almsgiving, marriage, and providence in the diaspora.",
+      "key_themes": [
+        "providence",
+        "almsgiving",
+        "marriage",
+        "angelic help"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-17",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Tobit is a Naphtali exile of the Assyrian deportation — the setting is 2 Kings 17's aftermath."
+        },
+        {
+          "node": "gen-24-26",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Tobias' guided journey to find a kinswoman bride deliberately patterns itself on the wooing of Rebekah."
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "Canonical in Catholic and Orthodox Bibles; among the 'apocrypha' for Protestants (Luther's Bible printed it as 'useful and good to read' but not Scripture). Raphael's role makes it a key text in Catholic and Orthodox angelology.",
+      "key_verses": [
+        "Tobit 4:15",
+        "Tobit 12:8-9",
+        "Tobit 12:15"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "light",
+      "emotional_tone": [
+        "comfort",
+        "joy"
+      ],
+      "discussion_prompt": "Raphael walks beside Tobias for the whole journey, and no one knows who he is until the end. Where in this story does God's help hide inside ordinary things, and what would change this week if you expected his help to arrive that way?",
+      "assessment_questions": [
+        "Who turns out to be Tobias' traveling companion, and what two healings does the journey bring about?",
+        "Raphael tells the family that prayer with fasting is good, and that almsgiving delivers from death. Looking at the whole story, how does the book connect Tobit's years of quiet mercy with the rescue his family receives?",
+        "Tobit buried the dead and shared his bread even when it cost him his safety and his sight. What habit of quiet mercy could you take up, and what might it cost you this month?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Providence in hidden ways",
+          "explanation": "God directs small events, chance meetings, and even setbacks toward a healing that no one saw coming."
+        },
+        {
+          "concept": "Prayer and almsgiving belong together",
+          "explanation": "The book presents faithful prayer and concrete generosity as the twin marks of a righteous life that God honors."
+        },
+        {
+          "concept": "God sends help through ordinary means",
+          "explanation": "An angel travels in disguise and a fish becomes medicine, showing that God's care often arrives through unremarkable channels."
+        },
+        {
+          "concept": "Faithfulness in exile",
+          "explanation": "Tobit keeps trusting and obeying far from home, showing that hard circumstances call for endurance rather than proof of God's absence."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Retell Tobias' journey with Raphael and explain how the story shows God's providence working through ordinary things.",
+      "comprehension_check": [
+        {
+          "question": "Raphael walks the whole road as plain hired help, unmasked only at the end. What does the disguise say about God's care in this book?",
+          "options": [
+            "The family's rescue was chance they later credited to heaven",
+            "Angelic aid comes only to those who discern it",
+            "God's help moves through ordinary things until hindsight names it",
+            "God keeps distance because holiness cannot touch daily life"
+          ],
+          "answer_index": 2,
+          "why": "Tobit 12:15 lifts the veil at journey's end: the ordinary hired companion was heaven's messenger the whole way.",
+          "hint": "Read Tobit 12:15 again. Notice how long the help had been walking beside them before anyone knew."
+        },
+        {
+          "question": "Raphael's farewell speech sets prayer, fasting, and almsgiving side by side. What picture of the righteous life is the book leaving its readers?",
+          "options": [
+            "Inner devotion first, with works of mercy optional extras",
+            "Godward devotion and mercy to people form one life",
+            "Generous deeds can stand in when prayer feels empty",
+            "Mercy to neighbors earns the right to petition God"
+          ],
+          "answer_index": 1,
+          "why": "Tobit 12:8 keeps prayer and almsgiving in one breath, the pairing the family's whole story has been living out.",
+          "hint": "Read Tobit 12:8-9 again. Notice which practices the angel names together."
+        }
+      ]
+    }
+  ]
+}

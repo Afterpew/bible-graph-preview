@@ -1,0 +1,507 @@
+{
+  "book": "1 Chronicles",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "1chr-1-9",
+      "title": "The Genealogies: Adam to the Return",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "9:44"
+      },
+      "difficulty_tier": 4,
+      "summary": "Nine chapters of names running from Adam to the families resettling Jerusalem after exile — the post-exilic community proving to itself that it is still Israel, still carrying David's line and Aaron's priesthood. Tedious until you see what's at stake: identity after catastrophe.",
+      "key_themes": [
+        "identity",
+        "continuity",
+        "Davidic line",
+        "restoration"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-24-25",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Chronicles is written for the community after the exile; its whole purpose is invisible without knowing the catastrophe it answers.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-1-2",
+          "reason": "Matthew's opening genealogy works the same way — using a family tree to claim the whole story for its subject."
+        }
+      ],
+      "key_verses": [
+        "1 Chronicles 1:1",
+        "1 Chronicles 9:1-2"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "light",
+      "emotional_tone": [
+        "reflective",
+        "hopeful"
+      ],
+      "discussion_prompt": "Nine chapters of names look tedious until you remember who first read them: families back from exile wondering if they were still Israel. Why does a list of ancestors answer that fear, and where do you look when you need proof that you belong to something that survives?",
+      "assessment_questions": [
+        "With whom does the genealogy begin, and with which community does it end in chapter 9?",
+        "The Chronicler chooses to open his whole book with family lists tracing kingship and priesthood through the exile. What is he trying to prove to his first readers by arranging names this way?",
+        "These lists insist that God did not forget a single generation of his people. When you feel anonymous or disconnected, what would it change to believe your name is kept in a story like this?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A people preserved",
+          "explanation": "The unbroken line from Adam to the returned exiles shows God keeping a people and a promise alive through every catastrophe."
+        },
+        {
+          "concept": "Kingship and priesthood still stand",
+          "explanation": "The lists trace David's royal line and Aaron's priestly line through the exile, proving that Israel's God-given institutions survived it."
+        },
+        {
+          "concept": "Names as testimony",
+          "explanation": "Recording names is an act of theology, since remembering each family declares that exile could not erase who Israel is."
+        },
+        {
+          "concept": "Lists shaped with a purpose",
+          "explanation": "The Chronicler selects and arranges his sources to make an argument about identity and hope, so the shape of the list is part of its message."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why the Chronicler opens with nine chapters of genealogies and what those lists were meant to prove to families returning from exile.",
+      "comprehension_check": [
+        {
+          "question": "1 Chronicles opens with nine chapters of names before any story is told. What are the lists doing for the community that first received them?",
+          "options": [
+            "Preserving family records the exile had nearly destroyed",
+            "Ranking the tribes by honor within the restored community",
+            "Tracing how sin spread through the generations from Adam",
+            "Anchoring the returned remnant in Israel's unbroken line"
+          ],
+          "answer_index": 3,
+          "why": "1 Chronicles 9:1-2 lands the whole genealogy on the families resettling their towns, one Israel running from Adam to the return.",
+          "hint": "Read 1 Chronicles 9:1-2 again. Notice where the long line of names finally arrives, and who is living there."
+        },
+        {
+          "question": "Within the genealogies, Judah with David's line and Levi with Aaron's receive by far the most space. What does that weighting signal?",
+          "options": [
+            "The promises carried by king and priest still stand",
+            "The compiler simply used the fullest archives available",
+            "The northern tribes had forfeited their place in Israel",
+            "Only Judah and Levi kept their lines pure through exile"
+          ],
+          "answer_index": 0,
+          "why": "1 Chronicles 3:17-24 carries David's line beyond the exile, and 1 Chronicles 6 keeps Aaron's, so both offices outlive the catastrophe.",
+          "hint": "Read 1 Chronicles 3:17-24, then skim 1 Chronicles 6:1-15. Notice which two family lines refuse to stop at the exile."
+        }
+      ]
+    },
+    {
+      "id": "1chr-10-12",
+      "title": "David Crowned by All Israel",
+      "chapters": [
+        10,
+        11,
+        12
+      ],
+      "verse_span": {
+        "from": "10:1",
+        "to": "12:40"
+      },
+      "difficulty_tier": 3,
+      "summary": "The Chronicler compresses Saul to a single chapter: his death on Gilboa, read as unfaithfulness, he did not seek the LORD, so the kingdom is turned over to David. Then the account builds David's coronation as a national act of glad consensus: all Israel gathers at Hebron, the mighty men are honored, and long musters count off warriors from every tribe who come with undivided hearts to make David king. For the post-exilic audience the lists argue a thesis: the true king is the one all Israel, seeking God, unites around.",
+      "key_themes": [
+        "kingship transferred",
+        "seeking the LORD",
+        "all Israel united",
+        "idealized kingship"
+      ],
+      "prerequisites": [
+        {
+          "node": "1chr-1-9",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The genealogies establish the audience and stakes for the retelling."
+        }
+      ],
+      "connections": [
+        {
+          "node": "2sam-1-6",
+          "reason": "Reading Samuel's warts-and-all account beside the Chronicler's curated one teaches how biblical historiography works."
+        }
+      ],
+      "key_verses": [
+        "1 Chronicles 10:13-14",
+        "1 Chronicles 12:32",
+        "1 Chronicles 12:38"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "light",
+      "emotional_tone": [
+        "celebratory",
+        "resolve"
+      ],
+      "discussion_prompt": "The Chronicler explains Saul's death with a single phrase, he did not seek the LORD, then spends two chapters naming the people who gathered to crown David. Why do you think seeking and gathering are the two measures this historian cares about, and which one is weaker in your own life right now?",
+      "assessment_questions": [
+        "How does 1 Chronicles 10:13-14 explain Saul's death, and what happens at Hebron in chapters 11-12?",
+        "The muster lists name warriors from every tribe, including Issachar's men who understood the times, all of one mind to make David king. What are these lists arguing to the Chronicler's post-exilic readers?",
+        "Saul's epitaph is about failing to seek the LORD; David's rise begins with a whole people gathering in shared purpose. Where do you need to move from drift to deliberate seeking, and whose kingdom-work needs you to show up the way the tribes did at Hebron?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "An epitaph with a thesis",
+          "explanation": "Saul's one-chapter treatment ends in the verdict of unfaithfulness, announcing the rubric, seeking the LORD or not, that will govern the whole retelling."
+        },
+        {
+          "concept": "All Israel around one king",
+          "explanation": "The Chronicler's favorite phrase gathers every tribe at Hebron, painting the unity a scattered post-exilic community needed to imagine again."
+        },
+        {
+          "concept": "Lists as argument",
+          "explanation": "The musters are anything but military bookkeeping; counting every tribe's volunteers is how the Chronicler proves the kingdom's consensus under God."
+        },
+        {
+          "concept": "Understanding the times",
+          "explanation": "Issachar's small company, famous for knowing what Israel should do, models discernment joined to commitment rather than commentary from the sidelines."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how the Chronicler reads Saul's death, and what the Hebron gathering and tribal musters are meant to prove about David's kingship.",
+      "comprehension_check": [
+        {
+          "question": "The Chronicler gives Saul a single chapter and closes it with a verdict in 1 Chronicles 10:13-14. What is that compression doing?",
+          "options": [
+            "Sparing the returned exiles a painful chapter of national memory",
+            "Correcting Samuel's fuller account of Saul's long decline",
+            "Setting seeking the LORD as the measure of every reign",
+            "Marking the monarchy itself as Israel's great mistake"
+          ],
+          "answer_index": 2,
+          "why": "1 Chronicles 10:13-14 turns Saul's whole story into one lesson, he did not seek the LORD, the standard the Chronicler will apply to every king.",
+          "hint": "Read 1 Chronicles 10:13-14 again. Notice the reason given for the kingdom changing hands, and how little else about Saul is kept."
+        },
+        {
+          "question": "Chapters 11-12 pile up names and numbers from every tribe coming to Hebron. What is the Chronicler establishing with the lists?",
+          "options": [
+            "That all Israel, wholehearted, stood behind God's chosen king",
+            "That David's army was too strong for rivals to resist",
+            "That each tribe earned its place by military contribution",
+            "That the true records of the kingdom survived the exile"
+          ],
+          "answer_index": 0,
+          "why": "1 Chronicles 12:38 sums the lists up: men of war came to Hebron fully determined, and all the rest of Israel was of one mind to make David king.",
+          "hint": "Read 1 Chronicles 12:38-40 again. Notice the phrase describing the gathered nation's mind, and the mood of the days at Hebron."
+        }
+      ]
+    },
+    {
+      "id": "1chr-13-16",
+      "title": "The Ark Comes to Jerusalem",
+      "chapters": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_span": {
+        "from": "13:1",
+        "to": "16:43"
+      },
+      "difficulty_tier": 3,
+      "summary": "David's first great project is bringing the ark up to his new capital, and the first attempt fails at the cost of Uzzah's life: a new cart instead of Levite shoulders, enthusiasm without the prescribed order. Three months at Obed-edom's blessed house later, David tries again the commanded way, Levites carrying, sacrifices offered, the city dancing, and the ark comes to its tent with a psalm of thanksgiving appointed for daily worship. The Chronicler expands this far beyond its Samuel parallel because it is his heart: Israel's life reordered around the presence of God, sought in the way God prescribes.",
+      "key_themes": [
+        "worship in God's way",
+        "holiness",
+        "joy before the ark",
+        "temple preparation"
+      ],
+      "prerequisites": [
+        {
+          "node": "1chr-10-12",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The newly crowned king's first project is bringing the ark to his new capital.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "1 Chronicles 15:13",
+        "1 Chronicles 16:11",
+        "1 Chronicles 16:34"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "awe",
+        "celebratory"
+      ],
+      "discussion_prompt": "The same ark that broke out against Uzzah's steadying hand blesses Obed-edom's whole house for three months. As David studies that contrast and changes his approach, what is he learning about God, and what would seeking God in his way rather than in your preferred way look like for you?",
+      "assessment_questions": [
+        "What goes wrong the first time David moves the ark in 1 Chronicles 13, and what does he do differently in chapter 15?",
+        "David concludes that the LORD broke out against them because we did not seek him about the proper order. What does the episode teach about the relationship between good intentions and God's instructions in worship?",
+        "The appointed psalm of chapter 16 calls Israel to seek the LORD's face always and to give thanks, and it becomes the pattern of daily ministry before the ark. What fixed rhythm of seeking and thanks could you appoint for yourself, and what would it change?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Holiness is not hostility",
+          "explanation": "Uzzah's death and Obed-edom's blessing flow from the same presence, teaching that how God is approached matters because of who he is."
+        },
+        {
+          "concept": "The proper order",
+          "explanation": "1 Chronicles 15:13 locates the failure in unconsulted procedure, and the second procession succeeds by seeking God about the way as well as the goal."
+        },
+        {
+          "concept": "Joy and reverence together",
+          "explanation": "The successful ascent is louder than the failed one, showing that ordered worship and exuberant celebration are allies rather than rivals."
+        },
+        {
+          "concept": "A psalm for every day",
+          "explanation": "David institutionalizes gratitude, appointing thanksgiving as Israel's regular work before the ark, worship built into the calendar."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Contrast the two attempts to move the ark and explain what 1 Chronicles 15:13 identifies as the difference, and what chapter 16 establishes in response.",
+      "comprehension_check": [
+        {
+          "question": "Between the failed procession of 1 Chronicles 13 and the successful one of chapter 15, what changes?",
+          "options": [
+            "David's enthusiasm gives way to a quieter reverence",
+            "The people's hearts are finally ready for the ark",
+            "God's anger simply subsides during the three months",
+            "Israel seeks and follows God's prescribed way of carrying"
+          ],
+          "answer_index": 3,
+          "why": "1 Chronicles 15:13 names the earlier failure as not seeking God about the proper order, and 15:14-15 shows the Levites carrying as Moses commanded.",
+          "hint": "Read 1 Chronicles 15:11-15 again. Notice who carries the ark this time, and on whose instructions."
+        },
+        {
+          "question": "David's psalm in 1 Chronicles 16 is appointed for regular ministry before the ark. What does that institution say worship is for?",
+          "options": [
+            "Guarding the ark's holiness from another deadly mistake",
+            "Keeping Israel's memory, thanks, and seeking constantly before God",
+            "Giving the Levites a role now the carrying is finished",
+            "Marking the capital as the kingdom's one lawful shrine"
+          ],
+          "answer_index": 1,
+          "why": "1 Chronicles 16:8-11 sets the appointed work: give thanks, make known his deeds, seek the LORD and his strength, seek his face always.",
+          "hint": "Read 1 Chronicles 16:8-12 and 16:37 again. Notice which verbs the psalm commands, and how often the ministry is to happen."
+        }
+      ]
+    },
+    {
+      "id": "1chr-17-21",
+      "title": "Covenant, Conquest, and the Chosen Site",
+      "chapters": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_span": {
+        "from": "17:1",
+        "to": "21:30"
+      },
+      "difficulty_tier": 3,
+      "summary": "David wants to build God a house, and God answers with the reverse: a promise to build David a house, a son whose throne will be established forever, a covenant David can only sit before in astonished prayer. The wars of chapters 18-20 then give the land rest on every side, and the census David orders over Joab's protest brings plague, an angel with drawn sword, and an altar raised at Ornan's threshing floor, where David refuses to offer what costs him nothing. The Chronicler ends the movement at that floor on purpose: judgment met by mercy has just chosen the temple site.",
+      "key_themes": [
+        "the dynastic covenant",
+        "rest from enemies",
+        "costly worship",
+        "the temple site chosen"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Chronicles' retelling orbits the dynastic covenant, re-quoted at its center (1 Chr 17).",
+          "scope": "foundation"
+        },
+        {
+          "node": "1chr-13-16",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The covenant promise answers David's desire to house the ark he has just installed.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "1 Chronicles 17:11-14",
+        "1 Chronicles 17:16",
+        "1 Chronicles 21:24"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reverent",
+        "hopeful"
+      ],
+      "discussion_prompt": "David plans to give God a building and instead receives a promise reaching generations he will never see. When he prays, who am I, that you have brought me this far, what has he understood about grace, and what would sitting before the LORD with your own version of that question sound like?",
+      "assessment_questions": [
+        "What does David want to build in 1 Chronicles 17, and what does God promise to build instead?",
+        "The census ends with plague halted at Ornan's threshing floor, where David buys the site at full price and sacrifice answers judgment. Why does the Chronicler want this exact spot remembered as the place the temple will stand?",
+        "David refuses to offer burnt offerings that cost him nothing. Name what your own worship currently costs you, and what a full-price offering, of time, money, or pride, might look like this month."
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The covenant at the center",
+          "explanation": "God's promise to build David a lasting house anchors the whole retelling, and its forever reaches past Solomon toward Israel's messianic hope."
+        },
+        {
+          "concept": "A house he will not build",
+          "explanation": "David's plan is denied without his hope being denied, modeling how God redirects devotion without despising it."
+        },
+        {
+          "concept": "Rest prepares worship",
+          "explanation": "The wars of chapters 18-20 secure rest on every side, the condition Israel's law set for establishing central worship, so even the war chapters serve the temple story."
+        },
+        {
+          "concept": "The threshing floor",
+          "explanation": "Judgment stayed, mercy received, and full price paid mark the site of the future altar, so the temple's location itself preaches atonement."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what God promises David in 1 Chronicles 17, and how the census story ends by identifying and consecrating the future temple site.",
+      "comprehension_check": [
+        {
+          "question": "David proposes to build God a house in 1 Chronicles 17. What shape does God's answer take?",
+          "options": [
+            "A refusal until David's wars have made Israel safe",
+            "A demand for a costlier site than David had chosen",
+            "A promise that God will establish David's house instead",
+            "An instruction to wait until the ark's wanderings end"
+          ],
+          "answer_index": 2,
+          "why": "1 Chronicles 17:10-14 turns the offer around: the LORD will build David a house, raising up a son whose throne stands forever.",
+          "hint": "Read 1 Chronicles 17:4 and 17:10-14 again. Notice who ends up doing the building in God's answer."
+        },
+        {
+          "question": "The census brings plague, and the story ends with an altar at Ornan's threshing floor. Why does the Chronicler close this movement there?",
+          "options": [
+            "To warn kings against numbering what belongs to God",
+            "To show Joab vindicated against his king's command",
+            "To explain how Jerusalem absorbed its Jebusite population",
+            "To ground the future temple where mercy met judgment"
+          ],
+          "answer_index": 3,
+          "why": "1 Chronicles 21:26-27 shows sacrifice answered and the sword sheathed at that floor, the spot the next chapter names as the house of the LORD.",
+          "hint": "Read 1 Chronicles 21:24-27 again. Notice what happens at the floor David buys, and what he declares about the site right after."
+        }
+      ]
+    },
+    {
+      "id": "1chr-22-29",
+      "title": "David Prepares the Temple and Passes the Crown",
+      "chapters": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_span": {
+        "from": "22:1",
+        "to": "29:30"
+      },
+      "difficulty_tier": 3,
+      "summary": "None of this material appears in Samuel: David, told he cannot build because he has shed much blood, pours his final years into preparing what Solomon will finish. He stockpiles gold, silver, iron, and cedar, organizes the Levites, priests, musicians, gatekeepers, and officials into courses, hands Solomon the plans, and charges king and assembly to seek God with a whole heart. The freewill offerings cascade, David prays the doxology that everything in heaven and earth is the LORD's, and Solomon is enthroned; the Chronicler's David dies as the founder of Israel's worship.",
+      "key_themes": [
+        "temple preparation",
+        "generosity",
+        "wholehearted service",
+        "succession"
+      ],
+      "prerequisites": [
+        {
+          "node": "1chr-17-21",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The preparations begin at the threshing floor the census story has just secured.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "1 Chronicles 28:9",
+        "1 Chronicles 29:11",
+        "1 Chronicles 29:14"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "celebratory",
+        "reverent"
+      ],
+      "discussion_prompt": "David spends his last strength gathering materials, drafting rosters, and blessing a project he is barred from finishing. What does it mean to pour yourself into something you will never personally enjoy, and what is the version of that work sitting in front of you?",
+      "assessment_questions": [
+        "Why can David not build the temple himself according to 1 Chronicles 22:8, and what does he prepare and organize instead?",
+        "David's charge in 28:9 tells Solomon to know God and serve him wholeheartedly because the LORD searches every heart. How does that charge reframe all the lists of materials, courses, and duties around it?",
+        "In the offering prayer David says everything comes from God and giving only returns what was his. Try restating 1 Chronicles 29:14 in your own words, and name one possession or ability it would change your grip on this week."
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Preparing what others will finish",
+          "explanation": "David stockpiles materials and organizes ministries for a temple Solomon will build, modeling generosity toward a future he will not see."
+        },
+        {
+          "concept": "Wholehearted and searched",
+          "explanation": "The charge of 1 Chronicles 28:9 makes the heart the temple project's true foundation, since the LORD searches every heart and understands every intent."
+        },
+        {
+          "concept": "Giving returns what is God's",
+          "explanation": "The doxology of chapter 29 reframes generosity as stewardship, for everything in heaven and earth already belongs to the LORD."
+        },
+        {
+          "concept": "Order in worship is devotion",
+          "explanation": "Courses of priests, musicians, and gatekeepers turn devotion into institutions that outlast their founder, the Chronicler's blueprint for his own community."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what David prepares and organizes for the temple, and explain how 1 Chronicles 28:9 and 29:14 give the preparation its theological meaning.",
+      "comprehension_check": [
+        {
+          "question": "Chapters 23-27 are rosters: Levites, priests, singers, gatekeepers, treasurers, officers. What is the Chronicler doing with them?",
+          "options": [
+            "Preserving personnel records the exile nearly destroyed",
+            "Proving David's administration rivaled other ancient courts",
+            "Filling narrative space until Solomon can take the throne",
+            "Founding the temple's ministry before one stone is laid"
+          ],
+          "answer_index": 3,
+          "why": "1 Chronicles 28:11-13 has David handing Solomon plans for the courses of priests and Levites along with the buildings, one prepared whole.",
+          "hint": "Read 1 Chronicles 28:11-13 and 28:19-21 again. Notice what the plans cover besides architecture, and who stands ready when the charge ends."
+        },
+        {
+          "question": "In David's prayer over the offerings, what makes the people's giving acceptable?",
+          "options": [
+            "The staggering totals that their generosity finally reached",
+            "It completes the vow David made about the temple",
+            "It returns to God what was always his, gladly",
+            "It offsets the bloodshed that barred David from building"
+          ],
+          "answer_index": 2,
+          "why": "1 Chronicles 29:14 says it plainly: everything comes from you, and from your own hand we have given to you.",
+          "hint": "Read 1 Chronicles 29:14-17 again. Notice whose hand the gifts come from, and what God is said to test in the giver."
+        }
+      ]
+    }
+  ]
+}

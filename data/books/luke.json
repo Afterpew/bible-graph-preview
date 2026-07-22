@@ -1,0 +1,690 @@
+{
+  "book": "Luke",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Gospel",
+  "nodes": [
+    {
+      "id": "luke-1-2",
+      "title": "The Songs of Christmas",
+      "chapters": [
+        1,
+        2
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "2:52"
+      },
+      "difficulty_tier": 1,
+      "summary": "Two miraculous pregnancies, four songs — Mary's Magnificat, Zechariah's Benedictus, the angels' Gloria, Simeon's Nunc Dimittis — and a birth announced first to shepherds working the night shift. Luke's overture sounds every theme to come: the lowly lifted, the hungry filled, a light for the Gentiles.",
+      "key_themes": [
+        "incarnation",
+        "reversal",
+        "joy",
+        "fulfillment"
+      ],
+      "prerequisites": [
+        {
+          "node": "mal",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "Gabriel frames John the Baptist in Malachi's Elijah prophecy — Luke opens by closing the Old Testament's last promise."
+        },
+        {
+          "node": "1sam-1-3",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Mary's Magnificat is modeled on Hannah's song, and the boy in the temple 'growing in favor' mirrors young Samuel."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Luke 1:52-53",
+        "Luke 2:10-11",
+        "Luke 2:30-32"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "joy",
+        "celebratory"
+      ],
+      "discussion_prompt": "Mary sings that God has brought down rulers and lifted the humble, and the first birth announcement goes to shepherds on the night shift. What do these chapters show about the kind of people God chooses to notice, and who would you expect God to overlook today?",
+      "assessment_questions": [
+        "Who receives the angelic announcement of Jesus' birth, and what sign are they told to look for?",
+        "Mary's song praises God for filling the hungry and sending the rich away empty. Why does Luke open the story of Jesus with a song about reversal?",
+        "Simeon waited his whole life to see God's promise and finally held it as a baby in his arms. What promise of God would take patience like Simeon's for you to keep trusting, and what would that patience look like this year?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The incarnation begins in real history",
+          "explanation": "God enters the human condition in an actual birth, with a census, a manger, and a real family."
+        },
+        {
+          "concept": "Promises kept",
+          "explanation": "The songs of Mary, Zechariah, and Simeon all praise God for keeping promises made to Israel centuries earlier."
+        },
+        {
+          "concept": "God lifts the lowly",
+          "explanation": "The good news comes first to shepherds and to a young woman from a small town, showing that God's kingdom reverses worldly rankings."
+        },
+        {
+          "concept": "A Savior for all peoples",
+          "explanation": "Simeon names the child a light for the Gentiles, so from the first pages this salvation reaches past Israel to every nation."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Name the four songs of Luke 1-2 and explain what the Magnificat says about how God treats the lowly and the proud.",
+      "comprehension_check": [
+        {
+          "question": "The songs of Mary, Zechariah, and Simeon look backward as much as forward. What do the four songs of Luke 1-2 together claim about this birth?",
+          "options": [
+            "God is rewarding two families for their faithful obedience",
+            "God is starting over, setting Israel's old story aside",
+            "God is keeping promises he made to Israel long ago",
+            "God is raising Israel to rule over the other nations"
+          ],
+          "answer_index": 2,
+          "why": "Mary and Zechariah both end on Abraham and the covenant, and Simeon holds the long-promised consolation in his arms (Luke 1:54-55).",
+          "hint": "Read Luke 1:54-55 and Luke 1:72-73 again. Notice whose names and promises close both songs."
+        },
+        {
+          "question": "The first birth announcement goes to shepherds on a night shift rather than to Jerusalem's leading men. In Luke's telling, what does that choice signal?",
+          "options": [
+            "It previews a kingdom that lifts up the lowly first",
+            "It honors the shepherds for humility the city lacked",
+            "It hides the child from rulers who would harm him",
+            "It shows the leaders had already refused God's messenger"
+          ],
+          "answer_index": 0,
+          "why": "The sign matches the song: a baby laid in a manger fits the God who exalts the humble (Luke 1:52, Luke 2:12).",
+          "hint": "Read Luke 1:52-53 and then Luke 2:8-12 again. Notice how the song's pattern plays out in who hears the news first."
+        }
+      ]
+    },
+    {
+      "id": "luke-3-4",
+      "title": "Baptism, Genealogy to Adam, and Nazareth",
+      "chapters": [
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "3:1",
+        "to": "4:44"
+      },
+      "difficulty_tier": 2,
+      "summary": "Luke traces Jesus' line past Abraham all the way to 'Adam, the son of God' — this Messiah is for the human race. After baptism and wilderness testing, Jesus reads Isaiah 61 in his hometown synagogue — 'good news to the poor… today this scripture is fulfilled' — and the congregation tries to throw him off a cliff for mentioning God's history of blessing outsiders.",
+      "key_themes": [
+        "son of Adam",
+        "Spirit anointing",
+        "jubilee announced",
+        "hometown rejection"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-60-62",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "The Nazareth manifesto is a public reading of Isaiah 61 — the scroll quotation is the mission statement."
+        },
+        {
+          "node": "luke-1-2",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The adult ministry opens on the identity the infancy songs announced."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Luke 3:22",
+        "Luke 4:18-19",
+        "Luke 4:21"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "confrontational"
+      ],
+      "discussion_prompt": "Jesus announces good news to the poor and freedom for the oppressed, and his hometown cheers until he reminds them that God has a history of blessing outsiders. Why do you think the same message turned the crowd from admiration to fury, and where might it test you the same way?",
+      "assessment_questions": [
+        "What happens at Jesus' baptism, and what does the voice from heaven say?",
+        "Luke traces Jesus' genealogy all the way back to Adam instead of stopping at Abraham. What is Luke saying about who this Messiah is for?",
+        "In the wilderness Jesus answers every temptation with Scripture. What would it take for God's word to be that ready in your own moments of testing?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Baptism marks the mission",
+          "explanation": "At his baptism Jesus identifies with sinners, receives the Spirit, and hears the Father publicly claim him as Son."
+        },
+        {
+          "concept": "Son of Adam, Savior of all",
+          "explanation": "By running the family line back to Adam, Luke presents Jesus as the Messiah for the whole human race."
+        },
+        {
+          "concept": "Tempted yet obedient",
+          "explanation": "Jesus resists the wilderness temptations with Scripture, refusing every shortcut to power that bypasses the Father's will."
+        },
+        {
+          "concept": "The Nazareth manifesto",
+          "explanation": "Reading Isaiah 61, Jesus defines his mission as good news for the poor and freedom for the oppressed, and he declares it fulfilled that very day."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Jesus claims when he reads Isaiah 61 in Nazareth and why the congregation turns on him.",
+      "comprehension_check": [
+        {
+          "question": "Luke traces Jesus' family line back beyond Abraham, ending at Adam. What does that extra reach claim?",
+          "options": [
+            "It secures the royal descent his throne required",
+            "It displays the thoroughness of Luke's historical research",
+            "It roots the Messiah in Israel's deepest ancestry",
+            "It claims the Messiah for the human race"
+          ],
+          "answer_index": 3,
+          "why": "The line ends at Adam, named the son of God, so this Messiah's reach is as wide as humanity (Luke 3:38).",
+          "hint": "Read Luke 3:38 again. Notice where the list finally stops, and how its last name is described."
+        },
+        {
+          "question": "In the Nazareth synagogue Jesus reads Isaiah's promise of good news for the poor and tells the room it is coming true as they listen. What is he claiming?",
+          "options": [
+            "The congregation must now enact the program Isaiah announced",
+            "The mission Isaiah promised has arrived in his own person",
+            "The synagogue's faithfulness has finally earned the promised visit",
+            "An end to poverty across the land has now begun"
+          ],
+          "answer_index": 1,
+          "why": "He announces the scripture fulfilled in their hearing, locating Isaiah's anointed mission in himself (Luke 4:18, Luke 4:21).",
+          "hint": "Read Luke 4:18-21 again. Notice who the Spirit-anointed speaker of Isaiah's lines turns out to be."
+        }
+      ]
+    },
+    {
+      "id": "luke-5-9",
+      "title": "Galilee: Sinners Called, Storms Stilled",
+      "chapters": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_span": {
+        "from": "5:1",
+        "to": "9:62"
+      },
+      "difficulty_tier": 2,
+      "summary": "Peter's boat-sinking catch ('depart from me, for I am a sinful man'), Levi's party, the sermon on the plain, a centurion's faith, a sinful woman forgiven at a Pharisee's table, and a widow's son raised. Luke's Jesus eats with everyone the righteous avoid — until the confession, the Transfiguration, and the hinge: 'he set his face to go to Jerusalem.'",
+      "key_themes": [
+        "calling sinners",
+        "table fellowship",
+        "faith of outsiders",
+        "face toward Jerusalem"
+      ],
+      "prerequisites": [
+        {
+          "node": "luke-3-4",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The Galilean ministry performs the Nazareth manifesto — good news to the poor, in deeds.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Luke 5:31-32",
+        "Luke 7:47",
+        "Luke 9:51"
+      ],
+      "reading_time_minutes": 50,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "joy",
+        "resolve"
+      ],
+      "discussion_prompt": "Jesus keeps ending up at dinner tables with people the religious avoid, and the grumbling follows him from party to party. What do these meals say about what mercy actually looks like in practice, and whose table would it stretch you to share?",
+      "assessment_questions": [
+        "Who does Jesus call from a tax booth, and what does the man do to celebrate?",
+        "When the sinful woman weeps at Jesus' feet, Jesus says her great love flows from great forgiveness. What does that scene teach about the connection between being forgiven and being able to love?",
+        "Jesus says anyone who wants to follow him must take up a cross daily. What is one comfort or ambition following him would actually cost you this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Mercy comes before merit",
+          "explanation": "Jesus calls Levi and forgives the sinful woman before either has anything to show, because his call creates the change it asks for."
+        },
+        {
+          "concept": "The upside-down kingdom",
+          "explanation": "The sermon on the plain blesses the poor and hungry and warns the rich, reversing every assumption about who is doing well."
+        },
+        {
+          "concept": "Outsider faith",
+          "explanation": "A Roman centurion trusts Jesus' bare word and is praised above anyone in Israel, showing that faith counts for more than pedigree."
+        },
+        {
+          "concept": "Glory bound to suffering",
+          "explanation": "The Transfiguration reveals Jesus' glory just as he sets his face toward Jerusalem, so the shining and the cross belong to one mission."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell one table scene from these chapters and explain why eating with sinners was central to Jesus' mission.",
+      "comprehension_check": [
+        {
+          "question": "Jesus keeps sharing tables with tax collectors and sinners while the religious grumble. What do the meals themselves declare about his mission?",
+          "options": [
+            "Acceptance is offered with nothing asked of anyone afterward",
+            "Mercy goes first to the sick to make them well",
+            "The meals reward repentance already completed in private",
+            "He turned to the sinners after the righteous refused him"
+          ],
+          "answer_index": 1,
+          "why": "Jesus answers the grumbling by casting himself as a doctor whose place is with the sick he came to call (Luke 5:31-32).",
+          "hint": "Read Luke 5:29-32 again. Notice the picture Jesus uses to explain why he sits at that table."
+        },
+        {
+          "question": "At the Transfiguration, Moses and Elijah speak with the glorified Jesus about what he will accomplish at Jerusalem. What is Luke binding together?",
+          "options": [
+            "The shining shows his death was never truly required",
+            "The shining marks the throne he will claim by force",
+            "The shining rewards the faithfulness of the Galilean years",
+            "The shining and the cross belong to a single mission"
+          ],
+          "answer_index": 3,
+          "why": "Even in glory the subject is his departure at Jerusalem, and days later he sets his face toward it (Luke 9:31, Luke 9:51).",
+          "hint": "Read Luke 9:28-31 and Luke 9:51 again. Notice what the glorified figures discuss, and where Jesus heads next."
+        }
+      ]
+    },
+    {
+      "id": "luke-10-14",
+      "title": "On the Way: Samaritans, Prayer, and Banquets",
+      "chapters": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_span": {
+        "from": "10:1",
+        "to": "14:35"
+      },
+      "difficulty_tier": 2,
+      "summary": "The travel narrative's first movement: seventy-two sent out, the Good Samaritan, Mary and Martha, the Lord's Prayer and the friend at midnight, the rich fool's barns, the narrow door, and a banquet where the invited make excuses and the poor and lame fill the hall. 'Count the cost' of following.",
+      "key_themes": [
+        "neighbor love",
+        "prayer",
+        "possessions",
+        "the great banquet"
+      ],
+      "prerequisites": [
+        {
+          "node": "luke-5-9",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Everything here happens 'on the way' — inside the journey to Jerusalem begun at 9:51.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Luke 10:27",
+        "Luke 12:15",
+        "Luke 14:27"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reflective",
+        "urgent"
+      ],
+      "discussion_prompt": "In these chapters God's invitation is wide open and the demands of following are steep. The banquet hall fills with the poor while the invited make excuses about fields and oxen. What separates the people who come from the people who excuse themselves, and which excuse sounds most like yours?",
+      "assessment_questions": [
+        "In the parable of the Good Samaritan, who stops to help the wounded man, and who passes by?",
+        "The rich fool builds bigger barns and dies that night. What is Jesus warning about when he says life does not consist in an abundance of possessions?",
+        "Jesus tells would-be followers to count the cost like a builder planning a tower. What would an honest cost estimate of following Jesus include for you right now?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Neighbor love has no fence",
+          "explanation": "The Good Samaritan makes mercy the measure of the Law and sends it across every ethnic and social boundary."
+        },
+        {
+          "concept": "The better part",
+          "explanation": "Mary sitting at Jesus' feet shows that attention to Christ comes before busy service, even good service."
+        },
+        {
+          "concept": "Prayer as dependence",
+          "explanation": "The Lord's Prayer and the friend at midnight teach prayer as a child's persistent asking from a Father who loves to give."
+        },
+        {
+          "concept": "The open invitation costs everything",
+          "explanation": "The banquet is thrown wide to the poor and lame, yet Jesus insists that those who come must count the cost of discipleship."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the parable of the Good Samaritan and explain how these chapters hold together a wide-open invitation and a costly call to follow.",
+      "comprehension_check": [
+        {
+          "question": "Luke 14 throws a banquet open to the poor and, on the same journey, demands that followers count the cost. How do those fit together?",
+          "options": [
+            "The feast is free to enter and claims everyone who comes",
+            "The cost is an entry fee the guests must pay first",
+            "The poor earned through hardship the places the rich forfeited",
+            "The demands fall on the twelve, the welcome on the crowd"
+          ],
+          "answer_index": 0,
+          "why": "The hall fills with people who cannot repay, and the cost speech goes to the large crowds traveling with him (Luke 14:21, Luke 14:25-27).",
+          "hint": "Read Luke 14:21-24 and Luke 14:25-28 again. Notice who fills the hall, and who is addressed by the sayings that follow."
+        },
+        {
+          "question": "Right after teaching the Lord's Prayer, Jesus tells of a man pounding on a friend's door at midnight. What is the story teaching about prayer?",
+          "options": [
+            "Keep on asking until God's reluctance finally gives way",
+            "Pray with exactly the right words to secure the answer",
+            "Ask boldly, for the Father gives more freely than friends",
+            "Prayers prevail by the proven merit of the one praying"
+          ],
+          "answer_index": 2,
+          "why": "The argument runs from lesser to greater: if even a grudging neighbor gets up, how much more will the Father give (Luke 11:13).",
+          "hint": "Read Luke 11:11-13 again. Notice what kind of father the story finally sets beside the sleepy friend."
+        }
+      ]
+    },
+    {
+      "id": "luke-15-19",
+      "title": "The Lost and Found Chapters",
+      "chapters": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_span": {
+        "from": "15:1",
+        "to": "19:48"
+      },
+      "difficulty_tier": 2,
+      "summary": "Luke's crown jewels: the lost sheep, the lost coin, and the prodigal son with his fattened calf and furious older brother; then the shrewd manager, the rich man and Lazarus, the Pharisee and the tax collector, and little Zacchaeus up a tree — 'the Son of Man came to seek and to save the lost.' The journey ends riding into Jerusalem in tears.",
+      "key_themes": [
+        "lostness and grace",
+        "the father's heart",
+        "wealth and Lazarus",
+        "seeking the lost"
+      ],
+      "prerequisites": [
+        {
+          "node": "luke-10-14",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The parables answer the grumbling ('this man receives sinners') that the travel narrative's table scenes provoke.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Luke 15:20",
+        "Luke 18:14",
+        "Luke 19:10"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "joy",
+        "comfort"
+      ],
+      "discussion_prompt": "The father in Luke 15 runs to one son and goes out to plead with the other. Which brother do you find easier to understand, the one who wasted everything or the one who resents the party, and what does the father's response to each one show about God?",
+      "assessment_questions": [
+        "What three things are lost and found in Luke 15, and what happens each time the lost one is found?",
+        "The Pharisee thanks God for his own righteousness while the tax collector begs for mercy, and Jesus says the tax collector goes home justified. What does this parable teach about how a person becomes right with God?",
+        "Zacchaeus responds to Jesus by giving half his possessions to the poor and repaying fourfold what he stole. What would grace changing your relationship to money actually look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God seeks the lost",
+          "explanation": "The shepherd, the woman, and the father all go after what is lost, and heaven celebrates every single recovery."
+        },
+        {
+          "concept": "Grace welcomes and transforms",
+          "explanation": "The prodigal is embraced before he can finish his rehearsed speech, and Zacchaeus shows that welcomed people start living differently."
+        },
+        {
+          "concept": "Wealth can harden the heart",
+          "explanation": "The rich man steps past Lazarus every day without seeing him, a warning that comfort can blind a person to both neighbors and judgment."
+        },
+        {
+          "concept": "Humility goes home justified",
+          "explanation": "The tax collector's plea for mercy makes him right with God, while the Pharisee's list of achievements earns nothing."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the parable of the prodigal son, including the older brother, and explain what Luke 19:10 says the Son of Man came to do.",
+      "comprehension_check": [
+        {
+          "question": "The parable of the prodigal son does not end with the feast. Why does Luke 15 close on the older brother standing outside?",
+          "options": [
+            "It shows the years of obedience counted for nothing",
+            "It proves the father's heart belonged to the younger son",
+            "It concedes the father's welcome was unfair to the obedient",
+            "It turns the story toward the grumblers listening to it"
+          ],
+          "answer_index": 3,
+          "why": "The chapter opens with the righteous grumbling over who Jesus welcomes, and the father goes out to plead with just such a son (Luke 15:1-2, Luke 15:28).",
+          "hint": "Read Luke 15:1-2 and Luke 15:28-32 again. Notice whose complaint the older son is echoing."
+        },
+        {
+          "question": "In Luke 18 the tax collector goes home justified and the Pharisee does not. What made the difference?",
+          "options": [
+            "One pleaded for mercy, the other presented his record",
+            "One prayed sincerely, the other lied about his disciplines",
+            "One promised restitution, the other offered only his fasting",
+            "One prayed hidden and humble, the other for an audience"
+          ],
+          "answer_index": 0,
+          "why": "Jesus gives the verdict to the man who would not look up but begged God for mercy as a sinner (Luke 18:13-14).",
+          "hint": "Read Luke 18:11-13 again. Notice what each man's prayer is actually about, and who gets mentioned in it."
+        }
+      ]
+    },
+    {
+      "id": "luke-20-21",
+      "title": "Questions in the Temple",
+      "chapters": [
+        20,
+        21
+      ],
+      "verse_span": {
+        "from": "20:1",
+        "to": "21:38"
+      },
+      "difficulty_tier": 3,
+      "summary": "Teaching daily in the temple courts, Jesus fields the authorities' traps — his authority, Caesar's coin, the resurrection and seven brothers — and watches a poor widow out-give the wealthy. Then the temple's fate: 'not one stone,' Jerusalem surrounded by armies, and the call to 'straighten up and raise your heads, because your redemption is drawing near.'",
+      "key_themes": [
+        "authority contested",
+        "widow's offering",
+        "temple's fall",
+        "watchfulness"
+      ],
+      "prerequisites": [
+        {
+          "node": "luke-15-19",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The temple teaching follows the tearful entry that closes the travel narrative.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Luke 20:25",
+        "Luke 20:38",
+        "Luke 21:28"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "warning"
+      ],
+      "discussion_prompt": "Jesus spends these chapters answering trick questions from powerful men, then points to a widow dropping two small coins as the moment worth noticing. What do you think Jesus sees in her gift that the wealthy givers missed, and what would giving that God notices look like from you?",
+      "assessment_questions": [
+        "What question do the authorities ask about paying taxes to Caesar, and how does Jesus answer it?",
+        "When the Sadducees pose their riddle about seven brothers, Jesus answers that God is the God of the living. What does his answer reveal about the resurrection?",
+        "Jesus tells his disciples to stand up and raise their heads when frightening things happen, because redemption is drawing near. How would that posture change the way you face bad news?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Authority that cannot be trapped",
+          "explanation": "Every trap set in the temple courts turns back on the questioners, because Jesus speaks with an authority they can neither match nor dismiss."
+        },
+        {
+          "concept": "God above Caesar",
+          "explanation": "Giving Caesar his coin while giving God what bears God's image sets a limit on every earthly power's claim."
+        },
+        {
+          "concept": "The God of the living",
+          "explanation": "Jesus grounds resurrection hope in God's own character, since the God of Abraham, Isaac, and Jacob keeps his people alive to him."
+        },
+        {
+          "concept": "Watchfulness under pressure",
+          "explanation": "The temple's coming fall and the world's shaking call for prayerful alertness and lifted heads instead of panic."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Jesus handles the question about Caesar's coin and what the widow's offering teaches about how God measures a gift.",
+      "comprehension_check": [
+        {
+          "question": "Handed a trap question about the tribute tax, Jesus asks whose image the coin bears, then divides what belongs to Caesar from what belongs to God. What does his answer do?",
+          "options": [
+            "It hands the state whatever it decides to demand",
+            "It pays the tax and limits Caesar's larger claims",
+            "It sidesteps a trap without teaching anything at all",
+            "It backs the protesters who refused the Roman tax"
+          ],
+          "answer_index": 1,
+          "why": "The coin stamped with Caesar's image can go back to him, while what carries God's image belongs to God (Luke 20:24-25).",
+          "hint": "Read Luke 20:23-26 again. Notice what Jesus asks to see, and what his question about its image implies."
+        },
+        {
+          "question": "Jesus says the widow's two small coins amount to more than all the large gifts. What measure is he using?",
+          "options": [
+            "It was multiplied by God beyond its face value",
+            "Her poverty made her offering more deserving of honor",
+            "It cost her everything she had to live on",
+            "She gave in secret while the rich gave for display"
+          ],
+          "answer_index": 2,
+          "why": "Jesus points at the source of each gift, surplus for the rich and her whole living for her (Luke 21:4).",
+          "hint": "Read Luke 21:1-4 again. Notice what Jesus says each gift came out of."
+        }
+      ]
+    },
+    {
+      "id": "luke-22-24",
+      "title": "The Passion and Emmaus",
+      "chapters": [
+        22,
+        23,
+        24
+      ],
+      "verse_span": {
+        "from": "22:1",
+        "to": "24:53"
+      },
+      "difficulty_tier": 2,
+      "summary": "'This cup is the new covenant in my blood'; a sweat like drops of blood; 'Father, forgive them'; paradise promised to a dying thief. Then Luke's masterpiece ending: two heartbroken disciples on the Emmaus road, joined by a stranger who 'beginning with Moses and all the Prophets, interpreted to them in all the Scriptures the things concerning himself' — and is known in the breaking of the bread.",
+      "key_themes": [
+        "new covenant",
+        "forgiveness from the cross",
+        "resurrection",
+        "Scripture opened"
+      ],
+      "prerequisites": [
+        {
+          "node": "luke-20-21",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The passion follows the temple confrontations into the final Passover.",
+          "scope": "sequence"
+        },
+        {
+          "node": "jer-30-33",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'The new covenant in my blood' takes up Jeremiah 31's promise in its exact words — the cup means that promise."
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-1",
+          "reason": "Luke's second volume opens exactly where this ends — same author, same Jerusalem, the ascension told twice."
+        }
+      ],
+      "key_verses": [
+        "Luke 22:19-20",
+        "Luke 23:34",
+        "Luke 24:27"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "joy"
+      ],
+      "discussion_prompt": "The two on the Emmaus road knew every fact about the crucifixion and still walked away hopeless, until the stranger opened the Scriptures and broke the bread. What made the difference between knowing the story and recognizing him, and where do you go to have your own eyes opened?",
+      "assessment_questions": [
+        "What does Jesus say about the bread and the cup at the Last Supper?",
+        "On the cross Jesus prays for the forgiveness of the men killing him and promises paradise to a dying thief. What do those two sayings show about what his death accomplishes?",
+        "On the Emmaus road Jesus explains that Moses and all the Prophets point to him. How would reading the Old Testament that way change the way you read the Bible this month?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The new covenant sealed",
+          "explanation": "At the table Jesus takes up Jeremiah's promised new covenant and locates it in his own body and blood given for his people."
+        },
+        {
+          "concept": "Praying through anguish",
+          "explanation": "In Gethsemane Jesus asks for the cup to pass and still surrenders to the Father's will, modeling honest prayer under dread."
+        },
+        {
+          "concept": "Forgiveness from the cross",
+          "explanation": "Jesus dies praying for his executioners and welcoming a thief, so the cross itself becomes the place where forgiveness is spoken."
+        },
+        {
+          "concept": "The risen Lord opens the Scriptures",
+          "explanation": "At Emmaus the whole Old Testament becomes a book about Christ, and the disciples recognize him in the breaking of the bread."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the Emmaus road story and explain why Jesus calls the cup the new covenant in his blood.",
+      "comprehension_check": [
+        {
+          "question": "On the Emmaus road the stranger chides the two disciples, then works through Moses and all the Prophets. What is he correcting?",
+          "options": [
+            "Their neglect of the report the women brought back",
+            "Their knowledge of the week's events, which was incomplete",
+            "Their belief that the cross meant the hope had failed",
+            "Their grief, which had crowded out any room for hope"
+          ],
+          "answer_index": 2,
+          "why": "He argues from all the Scriptures that the suffering was necessary on the way to the Messiah's glory (Luke 24:26-27).",
+          "hint": "Read Luke 24:19-27 again. Notice what the two say they had been hoping, and what the stranger says was necessary."
+        },
+        {
+          "question": "Luke's crucifixion scene shows Jesus praying for his executioners and promising paradise to a thief. What is Luke showing about the cross?",
+          "options": [
+            "The cross is an injustice that only the resurrection will answer",
+            "The cross displays a calm his followers are to imitate",
+            "The cross ends his mission until God restores him",
+            "The cross itself is where he forgives and seeks the lost"
+          ],
+          "answer_index": 3,
+          "why": "Dying, Jesus prays pardon for his killers and promises a criminal a place with him that very day (Luke 23:34, Luke 23:43).",
+          "hint": "Read Luke 23:34 and Luke 23:39-43 again. Notice what Jesus is doing for other people in his own dying hours."
+        }
+      ]
+    }
+  ]
+}

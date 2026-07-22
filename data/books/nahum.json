@@ -1,0 +1,107 @@
+{
+  "book": "Nahum",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "nah",
+      "title": "Nahum: Nineveh's Hour Comes",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:19"
+      },
+      "difficulty_tier": 3,
+      "summary": "Roughly a century after Jonah, Nineveh's repentance is long dead and Assyria's atrocities have filled the ledger; Nahum announces the empire's end in some of the Bible's most vivid battle poetry. 'The LORD is slow to anger' — Jonah's creed — 'but great in power, and will by no means clear the guilty.' Patience is not indifference.",
+      "key_themes": [
+        "justice for atrocity",
+        "end of empire",
+        "God's patience and its limit",
+        "comfort for the oppressed"
+      ],
+      "prerequisites": [
+        {
+          "node": "jonah",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Nahum deliberately reworks Jonah's Exodus-34 creed about the same city — the two books balance each other."
+        },
+        {
+          "node": "2kgs-17",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Assyria's cruelty — the empire that erased the northern kingdom — is the moral backdrop of the celebration."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Nahum 1:3",
+        "Nahum 1:7",
+        "Nahum 3:19"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "comfort"
+      ],
+      "discussion_prompt": "Nahum celebrates the fall of an empire whose cruelty was legendary, and the nations clap at the news. What does this book say to people suffering under powers too big to fight, and how do you hold onto hope for justice without becoming cruel yourself?",
+      "assessment_questions": [
+        "What city does Nahum announce judgment against, and what had its empire done to deserve it?",
+        "Nahum repeats that the LORD is slow to anger, then adds that he will by no means clear the guilty. How does this book complete what Jonah showed about the same city?",
+        "Nahum 1:7 calls the LORD a stronghold in the day of trouble for those who take refuge in him. When injustice seems to be winning around you, what does taking refuge in God actually look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God rules the empires",
+          "explanation": "The LORD brings down powers that persist in violent pride, so even history's strongest remain accountable to him."
+        },
+        {
+          "concept": "Patience has a limit",
+          "explanation": "God's slowness to anger never means the guilty escape, so his mercy and his justice hold together."
+        },
+        {
+          "concept": "Comfort for the crushed",
+          "explanation": "Nineveh's fall is good news to its victims, showing that God sees atrocity and will vindicate the oppressed."
+        },
+        {
+          "concept": "Repentance must last",
+          "explanation": "The city that repented under Jonah returned to cruelty, warning that a single turning cannot substitute for lasting faithfulness."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Nahum and Jonah together show God's patience and its limit, using the story of Nineveh.",
+      "comprehension_check": [
+        {
+          "question": "A century after Jonah, Nahum reworks the same creed about the same city, adding that the guilty are never simply cleared. What do the two books teach together?",
+          "options": [
+            "God's patience is real and never indifference",
+            "God's mercy was withdrawn once Israel needed vengeance",
+            "God changed his mind about sparing Nineveh",
+            "God's warnings through Jonah failed and judgment followed"
+          ],
+          "answer_index": 0,
+          "why": "Nahum 1:3 holds God's slowness to anger and his refusal to acquit persistent guilt in one sentence.",
+          "hint": "Read Nahum 1:3 again. Notice the two claims placed side by side in a single verse."
+        },
+        {
+          "question": "Nahum ends with nations applauding Nineveh's fall, and near its start calls the LORD a refuge in distress. Who is this book good news for?",
+          "options": [
+            "Any nation strong enough to replace the fallen empire",
+            "Israel alone, since judgment is reserved for foreigners",
+            "Every people crushed under a cruelty God has seen",
+            "Nobody, since it only celebrates an enemy's ruin"
+          ],
+          "answer_index": 2,
+          "why": "Nahum 3:19 explains the applause: no nation escaped Assyria's cruelty, and Nahum 1:7 offers refuge to any who trust God.",
+          "hint": "Read Nahum 3:19 again. Notice the reason the verse gives for the applause."
+        }
+      ]
+    }
+  ]
+}

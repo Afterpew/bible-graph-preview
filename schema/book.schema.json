@@ -1,0 +1,357 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/afterpew/bible-graph/schema/book.schema.json",
+  "title": "Bible Graph \u2014 book source file",
+  "description": "One source file per Bible book. Nodes carry their own incoming prerequisite edges (the edge lives with the dependent node). Compiled by scripts/build.mjs into dist/nodes.json and dist/edges.json.",
+  "type": "object",
+  "required": [
+    "book",
+    "testament",
+    "canon_layer",
+    "domain",
+    "nodes"
+  ],
+  "properties": {
+    "book": {
+      "type": "string"
+    },
+    "testament": {
+      "type": "string",
+      "enum": [
+        "OT",
+        "NT"
+      ]
+    },
+    "canon_layer": {
+      "type": "string",
+      "enum": [
+        "core",
+        "catholic_deuterocanon",
+        "orthodox_addition"
+      ]
+    },
+    "domain": {
+      "type": "string",
+      "enum": [
+        "Law/Torah",
+        "Historical Narrative",
+        "Wisdom/Poetry",
+        "Prophetic",
+        "Gospel",
+        "Acts/Church History",
+        "Epistle/Doctrinal",
+        "Apocalyptic"
+      ],
+      "description": "Default domain for nodes in this book; a node may override it."
+    },
+    "nodes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "chapters",
+          "difficulty_tier",
+          "summary",
+          "key_themes"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+            "description": "Stable slug, e.g. gen-1-3, rom-8, ps-110, wis-1-9."
+          },
+          "title": {
+            "type": "string"
+          },
+          "chapters": {
+            "type": "array",
+            "items": {
+              "type": [
+                "integer",
+                "string"
+              ]
+            },
+            "minItems": 1,
+            "description": "Chapter numbers covered. Strings allowed for special units (e.g. \"Additions A-F\" in Greek Esther)."
+          },
+          "domain": {
+            "type": "string",
+            "enum": [
+              "Law/Torah",
+              "Historical Narrative",
+              "Wisdom/Poetry",
+              "Prophetic",
+              "Gospel",
+              "Acts/Church History",
+              "Epistle/Doctrinal",
+              "Apocalyptic"
+            ],
+            "description": "Override of the book-level domain for mixed-genre books."
+          },
+          "difficulty_tier": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5,
+            "description": "How hard this passage is to UNDERSTAND, 1 (entry level) to 5 (hardest). This is intrinsic difficulty, NOT position in the graph \u2014 a node may sit deep in the prerequisite chain and still be easy to read (Revelation 21-22), or sit early and be hard (Job). For 'what is a reader ready for', use the derived prerequisite_depth field in dist/nodes.json, not this."
+          },
+          "summary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "key_themes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 3,
+            "maxItems": 5
+          },
+          "prerequisites": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "node",
+                "strength",
+                "type",
+                "reason"
+              ],
+              "properties": {
+                "node": {
+                  "type": "string"
+                },
+                "strength": {
+                  "type": "string",
+                  "enum": [
+                    "hard",
+                    "soft"
+                  ]
+                },
+                "scope": {
+                  "type": "string",
+                  "enum": [
+                    "sequence",
+                    "foundation"
+                  ],
+                  "description": "Why this passage stands behind the other, and how far the requirement travels. \"sequence\" means because it is a story: the later passage continues one the earlier began, which binds those two and stops there. \"foundation\" means because it is an idea: the later passage uses something the earlier establishes and never re-establishes, so the requirement carries onward to anything that needs the later passage. Present on hard edges only; a soft edge constrains nothing and has nothing to pass along."
+                },
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "narrative",
+                    "theological",
+                    "literary",
+                    "quotation"
+                  ]
+                },
+                "reason": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            },
+            "description": "Directional: read these before this node. Core nodes may only point at core nodes (enforced by validate.mjs)."
+          },
+          "connections": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "node",
+                "reason"
+              ],
+              "properties": {
+                "node": {
+                  "type": "string"
+                },
+                "reason": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            },
+            "description": "Bidirectional enrichment links \u2014 related, not required. Declared on one side; build materializes both directions."
+          },
+          "tradition_notes": {
+            "type": "string",
+            "description": "Optional. Where Catholic/Orthodox/Protestant readings genuinely diverge on this passage. Neutral and factual; notes the divergence, never adjudicates it."
+          },
+          "key_verses": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 2,
+            "maxItems": 3,
+            "description": "Verse REFERENCES only (e.g. \"Genesis 1:27\", \"Romans 8:38-39\") \u2014 never verse text. The consuming app renders text from the Berean Standard Bible. These are the verses most cited when teaching the passage."
+          },
+          "reading_time_minutes": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Estimated careful study-reading time for the passage (~200 wpm plus study margin; law/poetry/apocalyptic read slower than narrative/epistle)."
+          },
+          "discussion_prompt": {
+            "type": "string",
+            "minLength": 1,
+            "description": "One open-ended reflection question answerable from the passage alone. Works across ages and traditions; engages a key theme; never yes/no."
+          },
+          "assessment_questions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 3,
+            "maxItems": 3,
+            "description": "Exactly three questions progressing in depth: factual, interpretive, applied. All answerable from the passage."
+          },
+          "teaching_concepts": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 4,
+            "items": {
+              "type": "object",
+              "required": [
+                "concept",
+                "explanation"
+              ],
+              "properties": {
+                "concept": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "explanation": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            },
+            "description": "2-4 distinct teaching or apologetics concepts tied to this passage, sourced per teaching_source. Tradition-neutral above the Nicene floor."
+          },
+          "teaching_source": {
+            "type": "string",
+            "enum": [
+              "apologist.ai",
+              "cross-tradition",
+              "fallback"
+            ],
+            "description": "Provenance of the teaching-layer content. \"apologist.ai\" = The Apologist Project's curated Fusion corpus (authoritative for the 66-book canon only); \"cross-tradition\" = mainstream scholarship of the traditions that hold the book, used deliberately for deuterocanonical nodes where the corpus is not the authority; \"fallback\" = mainstream cross-tradition understanding used because the corpus was unreachable."
+          },
+          "completion_criteria": {
+            "type": "string",
+            "minLength": 1,
+            "description": "One demonstrable outcome \u2014 something the learner could explain to another person or write a short reflection on after this node."
+          },
+          "content_density": {
+            "type": "string",
+            "enum": [
+              "light",
+              "moderate",
+              "dense"
+            ],
+            "description": "How much conceptual weight the passage carries per page."
+          },
+          "emotional_tone": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 2,
+            "items": {
+              "type": "string",
+              "enum": [
+                "hopeful",
+                "lament",
+                "celebratory",
+                "confrontational",
+                "reflective",
+                "awe",
+                "warning",
+                "comfort",
+                "tension",
+                "resolve",
+                "sorrow",
+                "joy",
+                "reverent",
+                "urgent"
+              ]
+            },
+            "description": "One or two tones from the controlled list, so the UI stays clean."
+          },
+          "comprehension_check": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 2,
+            "description": "Machine-checkable mastery gate. HARD RULES: (1) each question tests the HINGE (the passage's main point), never trivia; (2) every distractor is a plausible-but-wrong READING of the passage, not a wrong fact; (3) if the question can be answered by keyword-scanning the text without understanding it, it fails; (4) options must be BALANCED in length, specificity, and confidence \u2014 a distractor is stated as fully and thoughtfully as the correct answer, so the answer is never identifiable by its shape alone (longest / most nuanced / most hedged); (5) vary the position of the correct answer across questions so answer_index is not always the same slot. answer_index is 0-based into options.",
+            "items": {
+              "type": "object",
+              "required": [
+                "question",
+                "options",
+                "answer_index",
+                "why",
+                "hint"
+              ],
+              "properties": {
+                "question": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "options": {
+                  "type": "array",
+                  "minItems": 3,
+                  "maxItems": 4,
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "answer_index": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "why": {
+                  "type": "string",
+                  "minLength": 1,
+                  "description": "One line: why the answer is right and the plausible distractors fall short. Shown after a correct answer."
+                },
+                "hint": {
+                  "type": "string",
+                  "minLength": 1,
+                  "description": "Shown after a wrong answer. Names the specific verses to re-read and what to notice there, WITHOUT revealing the answer. It points; it does not tell. e.g. 'Read Genesis 3:1-5 again. Notice what the serpent says before he says anything about the fruit.'"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "verse_span": {
+            "type": "object",
+            "required": [
+              "from",
+              "to"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "from": {
+                "type": "string",
+                "description": "First verse, e.g. '22:17'. Present on every node after the 2026-07 restructure; REQUIRED when the node shares a chapter with a sibling (verse-bounded child)."
+              },
+              "to": {
+                "type": "string",
+                "description": "Last verse, e.g. '24:34'."
+              }
+            },
+            "description": "Authoritative verse boundary. The id is a label; this span is the truth. BSB-verified in Phase 2B."
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

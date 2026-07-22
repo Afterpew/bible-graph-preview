@@ -1,0 +1,204 @@
+{
+  "book": "Micah",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "mic-1-3",
+      "title": "The Case Against Both Capitals",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:12"
+      },
+      "difficulty_tier": 3,
+      "summary": "A village prophet indicts Samaria and Jerusalem together: land-grabbers who lie awake devising evil, rulers who 'tear the skin off my people,' prophets who preach for pay. Micah says aloud what no one else dared — Zion will be plowed like a field.",
+      "key_themes": [
+        "oppression of the poor",
+        "corrupt leadership",
+        "false prophets",
+        "judgment on Zion"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-11-16",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Micah preaches in the Assyrian crisis years, contemporary with Isaiah; Samaria falls during his ministry."
+        }
+      ],
+      "connections": [
+        {
+          "node": "jer-26-29",
+          "reason": "A century later, elders quote Micah's 'Zion plowed like a field' to save Jeremiah's life — proof one prophet's word protected another."
+        }
+      ],
+      "key_verses": [
+        "Micah 2:1-2",
+        "Micah 3:8",
+        "Micah 3:12"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "lament"
+      ],
+      "discussion_prompt": "Micah names people who lie awake at night planning how to seize fields, and prophets who tailor their message to whoever pays. What makes injustice by respectable people so hard to see from the inside, and who tells your community the truth when it profits no one?",
+      "assessment_questions": [
+        "What groups does Micah accuse in chapters 2 and 3, and what does he say will happen to Zion?",
+        "Micah says he is filled with power and the Spirit of the LORD to declare Israel's sin, while other prophets preach for pay. What separates a true prophet from a false one in these chapters?",
+        "The land-grabbers coveted fields and seized them because it was in their power to do so. Where do you hold power that could be used to take advantage of someone, and what would using it justly look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God calls nations to account",
+          "explanation": "Micah opens with God stepping forward as witness against both capitals, so no city stands above his court."
+        },
+        {
+          "concept": "Injustice starts in the heart",
+          "explanation": "Coveting on the bed becomes seizing in the morning, showing how private desire matures into public oppression."
+        },
+        {
+          "concept": "Bought prophets ruin cities",
+          "explanation": "Leaders and preachers who twist truth for pay multiply the destruction of the very people they serve."
+        },
+        {
+          "concept": "The unthinkable word",
+          "explanation": "Micah dares to say Zion itself will be plowed like a field, proving no sacred status protects persistent injustice."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Summarize Micah's charges against the leaders of Samaria and Jerusalem, and explain why his word about Zion being plowed was so shocking.",
+      "comprehension_check": [
+        {
+          "question": "In Micah 3:11, rulers, priests, and prophets all work for a price, yet lean on the LORD being among them. What is Micah exposing?",
+          "options": [
+            "They kept the worship pure while letting the courts rot",
+            "They turned God's nearness into insurance against every judgment",
+            "They mistook the city's prosperity for proof of God's favor"
+          ],
+          "answer_index": 1,
+          "why": "Micah 3:11-12 sets their confidence that no disaster can come beside the sentence that Zion will be plowed like a field.",
+          "hint": "Read Micah 3:9-12 again. Notice what the leaders say about the LORD, and what the very next verse announces."
+        },
+        {
+          "question": "Micah 3:5-8 sets Micah against prophets who preach for pay. By his own account, what marks his word as the LORD's?",
+          "options": [
+            "His forecasts come true where the paid prophets' visions fail",
+            "He refuses every fee so his message stays uncorrupted",
+            "He is filled with power to name Jacob's sin plainly"
+          ],
+          "answer_index": 2,
+          "why": "Micah 3:8 grounds the difference in the Spirit of the LORD, power given for declaring to Jacob his transgression.",
+          "hint": "Read Micah 3:5 and Micah 3:8 again. Notice what shapes the hired message, and what fills Micah instead."
+        }
+      ]
+    },
+    {
+      "id": "mic-4-7",
+      "title": "Bethlehem, the Mountain, and Who Is Like God?",
+      "chapters": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "4:1",
+        "to": "7:20"
+      },
+      "difficulty_tier": 3,
+      "summary": "Swords to plowshares, a ruler from little Bethlehem 'whose origin is from of old,' the covenant lawsuit answered by the Bible's most quoted summary of true religion — 'do justice, love mercy, walk humbly with your God' — and a closing play on the prophet's own name: 'Who is a God like you, pardoning iniquity?'",
+      "key_themes": [
+        "messiah from Bethlehem",
+        "peace",
+        "true religion",
+        "pardoning God"
+      ],
+      "prerequisites": [
+        {
+          "node": "mic-1-3",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The hope oracles alternate against the judgment ones; the Bethlehem promise answers Zion's plowing.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-1-2",
+          "reason": "The chief priests answer Herod's 'where will the Christ be born?' by quoting Micah 5:2 — Bethlehem."
+        }
+      ],
+      "key_verses": [
+        "Micah 5:2",
+        "Micah 6:8",
+        "Micah 7:18-19"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "hopeful",
+        "reverent"
+      ],
+      "discussion_prompt": "Micah answers the question of what the LORD requires with three plain things: do justice, love mercy, walk humbly with your God. Which of the three comes hardest for you, and what would practicing it cost you this month?",
+      "assessment_questions": [
+        "What does Micah promise will come from Bethlehem, and what picture of the last days opens chapter 4?",
+        "In chapter 6 God puts his case to Israel by recounting what he has done for them, and the answer lands on Micah 6:8. Why does God want justice, mercy, and humility more than extravagant sacrifices?",
+        "Micah ends by marveling that God pardons iniquity and casts sins into the depths of the sea. How does being that fully forgiven change the way you treat people who wrong you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Peace beyond war",
+          "explanation": "God promises a day when weapons become farm tools, so his future bends toward peace among the nations."
+        },
+        {
+          "concept": "The ruler from Bethlehem",
+          "explanation": "A deliverer whose origin is from of old comes from a small town, showing God working greatness through the overlooked."
+        },
+        {
+          "concept": "Religion measured in ethics",
+          "explanation": "Doing justice, loving mercy, and walking humbly summarize what God requires of a covenant people."
+        },
+        {
+          "concept": "The God who pardons",
+          "explanation": "Micah's closing question, who is a God like you, celebrates a God whose delight is steadfast love and forgiveness."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Micah 6:8 requires in your own words, and how the book grounds it in the ruler from Bethlehem and the God who pardons.",
+      "comprehension_check": [
+        {
+          "question": "Micah 6:6-7 piles up offers, from burnt calves to rivers of oil to a firstborn child. What does the answer in Micah 6:8 do to that escalation?",
+          "options": [
+            "It ends the escalation by setting sacrifice itself aside",
+            "It accepts the offerings but adds justice as a requirement",
+            "It scales the demand down to what the poor can afford",
+            "It turns the question from payment offered to a life walked"
+          ],
+          "answer_index": 3,
+          "why": "Micah 6:8 answers the mounting bids with what the LORD seeks, justice done, mercy loved, a humble walk with God.",
+          "hint": "Read Micah 6:6-8 again. Notice which direction the offers grow, and what kind of thing the answer asks for instead."
+        },
+        {
+          "question": "Micah 7:18 asks who is a God like you. In the book's closing lines, what makes God beyond compare?",
+          "options": [
+            "His pardon, passing over sin and delighting in mercy",
+            "His power, scattering every nation that tramples his people",
+            "His justice, repaying each wrong down to the last deed",
+            "His patience, delaying the judgment Israel had fully earned"
+          ],
+          "answer_index": 0,
+          "why": "Micah 7:18-19 answers its own question with forgiveness, a God who lets anger go and casts sin into the sea.",
+          "hint": "Read Micah 7:18-19 again. Notice which divine actions the passage lists after asking its question."
+        }
+      ]
+    }
+  ]
+}

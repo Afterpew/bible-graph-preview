@@ -1,0 +1,87 @@
+{
+  "book": "3 Maccabees",
+  "testament": "OT",
+  "canon_layer": "orthodox_addition",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "3macc",
+      "title": "3 Maccabees: The Elephants That Would Not Charge",
+      "chapters": [1, 2, 3, 4, 5, 6, 7],
+      "difficulty_tier": 3,
+      "summary": "Despite the title, not about the Maccabees: Ptolemy IV of Egypt, barred from the Jerusalem sanctuary, rounds up Alexandria's Jews in the hippodrome to be trampled by drugged war elephants — and prayer turns the beasts back on his own troops. A diaspora deliverance tale in the spirit of Esther and Daniel.",
+      "key_themes": ["persecution", "deliverance", "prayer", "diaspora"],
+      "prerequisites": [
+        {
+          "node": "esth",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The genre — a decree of annihilation against diaspora Jews reversed into a festival — is Esther's, relocated to Egypt."
+        },
+        {
+          "node": "dan-4-6",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Deliverance from a pagan king's spectacular execution device follows the furnace-and-lions pattern."
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "Canonical in Orthodox Bibles; not in the Catholic or Protestant canons.",
+      "key_verses": ["3 Maccabees 2:2", "3 Maccabees 6:18", "3 Maccabees 6:28"],
+      "reading_time_minutes": 40,
+      "content_density": "moderate",
+      "emotional_tone": ["tension", "celebratory"],
+      "discussion_prompt": "Twice in this book, when the people are cornered and every human option is gone, everything turns on a single prayer. What does 3 Maccabees suggest prayer actually does in the face of hostile power, and what would praying like old Eleazar look like when you are the one cornered?",
+      "assessment_questions": [
+        "Why does Ptolemy turn against the Jews of Alexandria, and how does his plan with the war elephants fail?",
+        "Eleazar's prayer recalls Pharaoh at the sea, Sennacherib's army, and the three men in the furnace. Why does remembering past deliverances matter so much at the moment of crisis?",
+        "The community's first response to persecution is to pray together, and their last act is to celebrate together. What would it take for the people around you to face pressure that way, and where could that start this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God guards the scattered",
+          "explanation": "The story shows God's providential care reaching his people far from Jerusalem, even when an empire holds all the visible power."
+        },
+        {
+          "concept": "Prayer is the weapon of the powerless",
+          "explanation": "The Jews of Alexandria have no army or advocate, and their communal prayer brings the deliverance no human plan could."
+        },
+        {
+          "concept": "Faithfulness under pressure",
+          "explanation": "The community refuses to abandon their God even when compliance would buy safety, defending the dignity of conscience against coercion."
+        },
+        {
+          "concept": "Deliverance becomes celebration",
+          "explanation": "The rescued community founds a festival of remembrance, turning a near annihilation into lasting witness the way Esther's story does."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Retell how Alexandria's Jews go from the hippodrome to a festival, and explain the role prayer plays at each turning point.",
+      "comprehension_check": [
+        {
+          "question": "3 Maccabees begins with God defending the Jerusalem sanctuary and ends with him rescuing Jews in an Egyptian hippodrome. What is the story teaching by that arc?",
+          "options": [
+            "Egypt's Jews were spared for the sake of the temple's honor",
+            "Only return to the land could put them out of danger",
+            "The scattered survive by shrewd politics more than by open prayer",
+            "God's protection travels with his scattered people, far beyond the temple"
+          ],
+          "answer_index": 3,
+          "why": "3 Maccabees 6:18 has heaven answer prayer inside the hippodrome itself, God appearing for his people on Egyptian ground.",
+          "hint": "Read 3 Maccabees 6:18 again. Notice where God answers, and how far that spot is from the sanctuary."
+        },
+        {
+          "question": "After the rescue, 3 Maccabees ends with the king feasting the Jews he had condemned and the community keeping days of joy. What is that ending doing?",
+          "options": [
+            "Marking rescue into kept memory, a festival for the community",
+            "Showing the king's full conversion to the God of Israel",
+            "Proving that loyalty to the crown was their real protection"
+          ],
+          "answer_index": 0,
+          "why": "3 Maccabees 6:28 marks the turn from death sentence to release, and the delivered answer it with lasting celebration.",
+          "hint": "Read 3 Maccabees 6:28 again. Notice what the king now calls the people he had condemned."
+        }
+      ]
+    }
+  ]
+}

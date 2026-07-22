@@ -1,0 +1,213 @@
+{
+  "book": "Nehemiah",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "neh-1-7",
+      "title": "Rebuilding the Walls",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "7:73"
+      },
+      "difficulty_tier": 2,
+      "summary": "A Jewish cupbearer to the Persian king weeps over Jerusalem's broken walls, prays, and asks for a leave of absence that changes history. Nehemiah rebuilds the walls in fifty-two days against mockery, conspiracy, and internal exploitation — trowel in one hand, sword in the other.",
+      "key_themes": [
+        "prayer and action",
+        "leadership",
+        "opposition",
+        "restoration"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezra-1-6",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Nehemiah's Jerusalem is the struggling post-return community; the temple stands but the city lies open.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Nehemiah 1:4",
+        "Nehemiah 2:17-18",
+        "Nehemiah 6:15-16"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "light",
+      "emotional_tone": [
+        "resolve",
+        "urgent"
+      ],
+      "discussion_prompt": "Nehemiah prays for months before he says a word to the king, then plans, inspects, and organizes once he arrives. How do prayer and practical action feed each other in these chapters, and which of the two comes harder for you when something you love is broken?",
+      "assessment_questions": [
+        "What news moves Nehemiah to tears, and what does he ask of King Artaxerxes?",
+        "When enemies mock and threaten, the builders work with a tool in one hand and a weapon in the other. What does that picture say about how trusting God's protection and staying vigilant fit together?",
+        "In chapter 5 Nehemiah stops the wall work to confront wealthy Jews exploiting their own people. Why can the wall never matter more than the people behind it, and where might you be tempted to finish a project at someone else's expense?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Prayer before action",
+          "explanation": "Nehemiah mourns, confesses, and prays long before he makes a single request or plan, grounding the whole project in dependence on God."
+        },
+        {
+          "concept": "Faithful planning is spiritual",
+          "explanation": "Nehemiah secures letters, inspects the walls at night, and assigns families to sections, showing that careful organization can be an act of faith."
+        },
+        {
+          "concept": "Perseverance under opposition",
+          "explanation": "Mockery, conspiracy, and intimidation all fail because the people keep building with their whole heart until the wall is finished in fifty-two days."
+        },
+        {
+          "concept": "Justice inside the walls",
+          "explanation": "Nehemiah halts construction to end the exploitation of the poor, insisting that a restored city needs a reformed community."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell how Nehemiah rebuilt Jerusalem's walls in fifty-two days, and explain how prayer and planning worked together in the project.",
+      "comprehension_check": [
+        {
+          "question": "Nehemiah prays for months before speaking to the king, then prays again in the moment he is asked (Nehemiah 1:4, Nehemiah 2:4). How do prayer and planning relate in his account?",
+          "options": [
+            "Faith prays and then waits for God to move the king",
+            "Prayer and careful preparation act together as one dependence",
+            "Planning secures whatever prayer by itself cannot reach",
+            "Prayer blesses decisions Nehemiah had already settled on"
+          ],
+          "answer_index": 1,
+          "why": "Nehemiah 2:4-5 holds the pattern in one breath, a prayer to the God of heaven and a request fully prepared for the king.",
+          "hint": "Read Nehemiah 2:4-8 again. Notice what Nehemiah does between the king's question and his answer, and how detailed the answer already is."
+        },
+        {
+          "question": "Mid-crisis, Nehemiah 5 stops the wall story for a dispute over loans and interest among the Jews. Why does the story treat this as wall business?",
+          "options": [
+            "Because injustice within would hand the enemies their true victory",
+            "Because unpaid workers were beginning to abandon their stations",
+            "Because only the Persian king could remedy so severe a famine",
+            "Because the law on interest needed a public formal ruling"
+          ],
+          "answer_index": 0,
+          "why": "Nehemiah 5:9 ties the lending to the taunts of the nations, making justice inside the walls part of the city's defense.",
+          "hint": "Read Nehemiah 5:6-9 again. Notice whose watching eyes Nehemiah brings into an argument among fellow Jews."
+        }
+      ]
+    },
+    {
+      "id": "neh-8-13",
+      "title": "The Law Read; the Covenant Renewed",
+      "chapters": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "13:31"
+      },
+      "difficulty_tier": 3,
+      "summary": "Ezra reads the Torah aloud from dawn to noon while Levites explain it, and the people weep, feast — 'the joy of the LORD is your strength' — and sign a renewed covenant after the Bible's longest recorded prayer of confession. Then the last chapter shows the reforms already unraveling: the Old Testament's story ends still waiting for a changed heart.",
+      "key_themes": [
+        "scripture",
+        "covenant renewal",
+        "confession",
+        "incompleteness"
+      ],
+      "prerequisites": [
+        {
+          "node": "neh-1-7",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The assembly at the Water Gate happens inside the walls just rebuilt.",
+          "scope": "sequence"
+        },
+        {
+          "node": "ezra-7-10",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Ezra the reader arrives in the previous book; the two reformers' work interleaves."
+        }
+      ],
+      "connections": [
+        {
+          "node": "deut-27-30",
+          "reason": "The great confession of Nehemiah 9 retells Israel's whole history in Deuteronomy's blessing-and-curse categories — and the closing failures show why Deuteronomy 30's promised heart-circumcision is still outstanding."
+        }
+      ],
+      "key_verses": [
+        "Nehemiah 8:8",
+        "Nehemiah 8:10",
+        "Nehemiah 9:33"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "joy",
+        "lament"
+      ],
+      "discussion_prompt": "The people weep when they hear the Law, feast because the joy of the LORD is their strength, sign a covenant, and still drift back into old failures by the last chapter. What do you think genuine change requires that even this renewal lacked, and where do you feel that gap in your own commitments?",
+      "assessment_questions": [
+        "What happens at the Water Gate assembly in chapter 8, and how do the people first react to hearing the Law?",
+        "The great prayer of chapter 9 retells Israel's whole history as a cycle of God's faithfulness and the people's failure. Why does honest remembering like that belong at the heart of repentance?",
+        "The reforms of chapters 10 and 13 unravel almost as fast as they were signed. What safeguards or relationships could help your own resolutions outlast the emotion that started them?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Scripture read and explained",
+          "explanation": "Ezra reads the Law aloud while the Levites give the sense, showing that understanding God's word together shapes a people's whole life."
+        },
+        {
+          "concept": "Joy and repentance belong together",
+          "explanation": "The weeping people are sent home to feast because the joy of the LORD is their strength, so celebration is a fitting response to grace."
+        },
+        {
+          "concept": "Covenant renewal takes concrete form",
+          "explanation": "The people sign specific commitments about worship, sabbath, and giving, tying what they believe to what they do each day."
+        },
+        {
+          "concept": "Reform without a new heart unravels",
+          "explanation": "Chapter 13 shows the promises already breaking down, leaving the Old Testament's story waiting for a deeper change only God can work."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the Water Gate reading and the covenant that follows, and explain why the book ends with the reforms unraveling.",
+      "comprehension_check": [
+        {
+          "question": "When the people weep at the reading of the law, Nehemiah 8:9-12 sends them off to feast. What is that instruction teaching?",
+          "options": [
+            "Sorrow over sin has no place under the law",
+            "The feast was a concession granted to a weary people",
+            "A day of understanding God's words rightly ends in joy",
+            "Joy was commanded so the reforms would not stall"
+          ],
+          "answer_index": 2,
+          "why": "Nehemiah 8:12 gives the reason for the celebration, they understood the words, and Nehemiah 8:10 calls that joy their strength.",
+          "hint": "Read Nehemiah 8:9-12 again. Notice the reason verse 12 gives for the great rejoicing."
+        },
+        {
+          "question": "Nehemiah 13 finds every pledge of the signed covenant already broken. What does the book do by ending there?",
+          "options": [
+            "It exposes the covenant ceremony as an insincere performance",
+            "It leaves Israel waiting for hearts vows could not change",
+            "It shows the community failed only while leadership was away"
+          ],
+          "answer_index": 1,
+          "why": "Nehemiah 13:10-27 walks back through the promises of Nehemiah 10 as broken ones, closing the story on a need deeper than reform.",
+          "hint": "Read Nehemiah 10:30-39, then Nehemiah 13:10-27. Notice what has become of each promise by the end."
+        }
+      ]
+    }
+  ]
+}

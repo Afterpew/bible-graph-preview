@@ -1,0 +1,114 @@
+{
+  "book": "Habakkuk",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "hab",
+      "title": "Habakkuk: The Righteous Shall Live by Faith",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:19"
+      },
+      "difficulty_tier": 3,
+      "summary": "A prophet argues with God: why do you tolerate Judah's violence — and worse, why answer it with Babylon, a nation more wicked still? The reply from the watchtower becomes one of the New Testament's load-bearing sentences: 'the righteous shall live by his faith.' The book ends with the Bible's greatest though-statement: though the fig tree does not blossom… yet I will rejoice in the LORD.",
+      "key_themes": [
+        "faith amid injustice",
+        "questioning God",
+        "waiting",
+        "joy without evidence"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-24-25",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The rising Chaldeans God announces are Babylon on its way to 586 BC — Habakkuk stands just before the catastrophe."
+        }
+      ],
+      "connections": [
+        {
+          "node": "rom-1-4",
+          "reason": "'The righteous shall live by faith' is the thesis-verse of Romans (1:17)."
+        },
+        {
+          "node": "gal",
+          "reason": "Paul quotes Habakkuk 2:4 again in Galatians 3 against justification by law."
+        },
+        {
+          "node": "heb-8-10",
+          "reason": "Hebrews 10 cites the same verse to steel a wavering church for endurance."
+        }
+      ],
+      "key_verses": [
+        "Habakkuk 1:2",
+        "Habakkuk 2:4",
+        "Habakkuk 3:17-18"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "Habakkuk complains to God twice, and the answers make the problem harder before they make it better. What does his honest arguing teach about what faithful prayer can sound like, and what complaint would you bring to God if you believed he welcomed it?",
+      "assessment_questions": [
+        "What two complaints does Habakkuk bring to God, and how does God answer each one?",
+        "God tells Habakkuk that the righteous shall live by his faith. In a book about waiting for justice that has not yet arrived, what does living by faith mean?",
+        "Habakkuk ends by rejoicing even if the fig tree fails and the fields produce nothing. What would it take for your joy to survive the loss of the things you currently count on?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Complaint can be prayer",
+          "explanation": "Scripture models bringing honest anger and confusion directly to God, as the prophet does from his watchtower."
+        },
+        {
+          "concept": "God's baffling instruments",
+          "explanation": "God may use even a wicked nation for his purposes without approving its evil, a mystery the book faces head on."
+        },
+        {
+          "concept": "Living by faith",
+          "explanation": "The righteous live by trusting God's promise before they can see it, a sentence the New Testament builds on three times."
+        },
+        {
+          "concept": "Joy without evidence",
+          "explanation": "The closing hymn shows worship that still stands when every visible blessing fails."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Habakkuk's two complaints and God's answers, and explain what the righteous living by faith means in that setting.",
+      "comprehension_check": [
+        {
+          "question": "Habakkuk asks why God would use Babylon and receives the watchtower answer in chapter 2. What does the answer give him instead of an explanation?",
+          "options": [
+            "A promise the vision holds, and a way to live meanwhile",
+            "A defense of Babylon's role as a just instrument of discipline",
+            "A timetable naming when Babylon's turn to fall would come",
+            "A rebuke for daring to question the Judge of all"
+          ],
+          "answer_index": 0,
+          "why": "Habakkuk 2:3-4 promises the vision will arrive at its appointed time and gives the righteous faith to live by until then.",
+          "hint": "Read Habakkuk 2:2-4 again. Notice what the waiting one is told to do while the vision lingers."
+        },
+        {
+          "question": "Habakkuk ends with crops failed, flocks gone, and the prophet rejoicing anyway in 3:17-18. What holds that sentence together?",
+          "options": [
+            "Confidence that the fields and flocks will shortly be restored",
+            "Joy anchored in God himself rather than in his gifts",
+            "Resignation that has stopped expecting anything from the land",
+            "Gratitude that Judah was spared the worst Babylon could do"
+          ],
+          "answer_index": 1,
+          "why": "Habakkuk 3:18 fixes the rejoicing on the God of his salvation while every named support is stripped away.",
+          "hint": "Read Habakkuk 3:17-19 again. Notice what each though-clause removes, and what the yet-clause keeps."
+        }
+      ]
+    }
+  ]
+}

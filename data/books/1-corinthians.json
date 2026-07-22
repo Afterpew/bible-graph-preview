@@ -1,0 +1,513 @@
+{
+  "book": "1 Corinthians",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "1cor-1-4",
+      "title": "The Foolishness of the Cross",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:21"
+      },
+      "difficulty_tier": 3,
+      "summary": "A gifted, quarreling church sorting itself by favorite preacher gets Paul's countermove: 'we preach Christ crucified, a stumbling block to Jews and folly to Gentiles' — God choosing the foolish, weak, and low to shame the impressive. Leaders are field hands and stewards; the church is God's temple; the Spirit alone knows the mind of God.",
+      "key_themes": [
+        "cross as wisdom",
+        "factions",
+        "boasting excluded",
+        "servant leadership"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-16-20",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Acts 18 narrates the founding of this church — the letter's disputes make sense against its origins."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "1 Corinthians 1:18",
+        "1 Corinthians 1:27",
+        "1 Corinthians 4:1-2"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "reflective"
+      ],
+      "discussion_prompt": "Paul says God chose the foolish and weak things of the world to shame the wise and strong. Where do you see people ranking each other by impressiveness, in church or anywhere else, and what would it cost you to start measuring by the cross instead?",
+      "assessment_questions": [
+        "What slogans were the Corinthians using to divide themselves in chapter 1, and how does Paul respond to them?",
+        "Paul calls the message of the cross foolishness to those who are perishing and the power of God to those being saved. Why does a crucified Messiah overturn worldly ideas of wisdom and power?",
+        "Paul describes leaders as servants and stewards whom God alone will judge. How would seeing every leader you admire that way change the loyalty you give them?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The cross is God's wisdom",
+          "explanation": "Christ crucified looks like folly to worldly reason, yet Paul insists it is the true wisdom and power of God."
+        },
+        {
+          "concept": "Unity over factions",
+          "explanation": "Loyalty belongs to Christ rather than to favorite teachers, so party spirit in the church contradicts the gospel itself."
+        },
+        {
+          "concept": "God chooses the lowly",
+          "explanation": "God deliberately works through the weak and unimpressive to shame the strong, which removes every ground for human boasting."
+        },
+        {
+          "concept": "Ministers are stewards",
+          "explanation": "Christian leaders are field hands and household managers accountable to God, so ministry is service rather than a stage."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why Paul answers the church's factions with the message of Christ crucified, and what that says about how God defines wisdom and power.",
+      "comprehension_check": [
+        {
+          "question": "Corinth ranked its teachers like rival philosophers. Why does Paul answer the factions with a message on the crucified Christ?",
+          "options": [
+            "The cross gives every faction a symbol they already share",
+            "Paul wants loyalty transferred from Apollos back to himself",
+            "The cross overturns the status game the factions are playing",
+            "Eloquence itself is sinful, so plain speech alone pleases God"
+          ],
+          "answer_index": 2,
+          "why": "1 Corinthians 1:27-29 says God chose the low and despised so that no one could boast before him.",
+          "hint": "Read 1 Corinthians 1:26-31 again. Notice what God's way of choosing does to boasting, then reread the slogans of 1 Corinthians 1:12."
+        },
+        {
+          "question": "In 1 Corinthians 3:5-9 Paul reduces himself and Apollos to field hands in someone else's field. What does the picture do to the party slogans?",
+          "options": [
+            "It sorts them, giving each teacher his own separate field",
+            "It ranks them, since planting must come before any watering",
+            "It excuses them, since quarrels are natural among fellow workers",
+            "It deflates them, since only God makes anything grow"
+          ],
+          "answer_index": 3,
+          "why": "1 Corinthians 3:7 locates all the increase with God, leaving no teacher worth a slogan.",
+          "hint": "Read 1 Corinthians 3:5-9 again. Notice what the workers share, and what belongs to God alone."
+        }
+      ]
+    },
+    {
+      "id": "1cor-5-7",
+      "title": "Bodies That Belong to the Lord",
+      "chapters": [
+        5,
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "5:1",
+        "to": "7:40"
+      },
+      "difficulty_tier": 3,
+      "summary": "Scandal ('a man has his father's wife'), lawsuits between believers, and prostitution answered by a bombshell premise: 'your body is a temple of the Holy Spirit… you were bought with a price.' Then the Bible's longest treatment of marriage, singleness, and divorce — both states honored as callings.",
+      "key_themes": [
+        "holiness of the body",
+        "church discipline",
+        "marriage and singleness",
+        "bought with a price"
+      ],
+      "prerequisites": [
+        {
+          "node": "1cor-1-4",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The case rulings apply the cross-shaped wisdom of chapters 1-4 to the church's actual scandals.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-12-15",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "'Christ, our Passover lamb, has been sacrificed — cleanse out the old leaven' runs on Passover's logic."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "1 Corinthians 5:7",
+        "1 Corinthians 6:19-20",
+        "1 Corinthians 7:7"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "reflective"
+      ],
+      "discussion_prompt": "Paul says you are not your own because you were bought with a price. If your body actually belongs to God, what changes about how you treat it and what you do with it, and which of your current habits would that force you to look at differently?",
+      "assessment_questions": [
+        "What scandal does Paul confront in chapter 5, and what does he tell the church to do about it?",
+        "Paul calls the believer's body a temple of the Holy Spirit and says you were bought with a price. Why does belonging to Christ change what a person may do with their own body?",
+        "Paul honors both marriage and singleness as callings with real advantages. How does treating both as gifts change the way you view your own current season of life?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Discipline aims at restoration",
+          "explanation": "The church removes the unrepentant to protect its holiness and to wake the sinner up, so corrective love always hopes for a return."
+        },
+        {
+          "concept": "The body is a temple",
+          "explanation": "The Holy Spirit lives in the believer's body, which makes sexual sin a betrayal of union with Christ rather than a private matter."
+        },
+        {
+          "concept": "Disputes stay in the family",
+          "explanation": "Believers settle grievances with one another inside the church, since dragging a brother before secular courts already means defeat."
+        },
+        {
+          "concept": "Marriage and singleness are callings",
+          "explanation": "Paul treats both states as gifts from God with distinct freedoms and duties, so neither is a lesser form of Christian life."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Paul means by calling the body a temple of the Holy Spirit, and how that premise drives his rulings on discipline, sexuality, and marriage.",
+      "comprehension_check": [
+        {
+          "question": "Paul answers sexual sin in Corinth by pointing to the Spirit's dwelling in the body and the price paid for it. What is his argument?",
+          "options": [
+            "The body is a passing shell, so only the spirit's purity counts",
+            "The body is joined to Christ, so sin there denies him",
+            "Sexual sin is worse because it cannot be forgiven",
+            "Bodily desires are shameful and are best refused entirely"
+          ],
+          "answer_index": 1,
+          "why": "1 Corinthians 6:19-20 grounds the command: the Spirit indwells the body and God has paid for it.",
+          "hint": "Read 1 Corinthians 6:13-20 again. Notice what Paul says the body is for, and whose it is."
+        },
+        {
+          "question": "Paul orders the church to remove the unrepentant man in 1 Corinthians 5. What outcome is the removal aimed at?",
+          "options": [
+            "The man's rescue and the church's protection from spreading sin",
+            "A public example deterring others from attempting similar sins",
+            "The permanent exclusion of a man now beyond recovery",
+            "Proof to outsiders that the church judges the world's morals"
+          ],
+          "answer_index": 0,
+          "why": "1 Corinthians 5:5 aims the act at the man's final salvation, and 1 Corinthians 5:6-7 at the health of the whole batch.",
+          "hint": "Read 1 Corinthians 5:4-7 and 1 Corinthians 5:12 again. Notice the two hoped-for results Paul names."
+        }
+      ]
+    },
+    {
+      "id": "1cor-8-11",
+      "title": "Freedom, Idol Feasts, and the Lord's Table",
+      "chapters": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "11:34"
+      },
+      "difficulty_tier": 3,
+      "summary": "May Christians eat meat sacrificed to idols? Paul's answer trains freedom on love: knowledge puffs up, love builds up; 'I have become all things to all people'; Israel's wilderness falls are 'examples for us.' It climaxes at the table: divisions at the Lord's Supper mean 'it is not the Lord's supper you eat' — discern the body.",
+      "key_themes": [
+        "freedom limited by love",
+        "idolatry",
+        "Lord's Supper",
+        "warning from Israel"
+      ],
+      "prerequisites": [
+        {
+          "node": "1cor-5-7",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The letter works through the Corinthians' questions in sequence; the food disputes follow the body teaching."
+        },
+        {
+          "node": "num-11-14",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "Chapter 10's warnings — craving, idolatry, grumbling, the fallen generation — are the wilderness rebellions retold."
+        }
+      ],
+      "connections": [
+        {
+          "node": "luke-22-24",
+          "reason": "Paul's account of the Supper's institution — the earliest written — matches Luke's wording."
+        }
+      ],
+      "tradition_notes": "1 Corinthians 10-11's eucharistic language ('a participation in the body of Christ,' 'discerning the body') is read with realist weight in Catholic and Orthodox theology and a spectrum of views among Protestants, from real presence (Lutheran, Anglican) to memorial (Zwinglian and much evangelicalism).",
+      "key_verses": [
+        "1 Corinthians 8:1",
+        "1 Corinthians 10:31",
+        "1 Corinthians 11:26"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "tension",
+        "warning"
+      ],
+      "discussion_prompt": "Paul has the knowledge to eat anything with a clear conscience, yet he says he would never eat meat again if it made a brother stumble. When has your freedom collided with someone else's conscience, and what would laying down a real right for their sake cost you?",
+      "assessment_questions": [
+        "What question about food runs through chapters 8 to 10, and which episodes from Israel's wilderness story does Paul hold up as warnings?",
+        "Paul says knowledge puffs up while love builds up. Why does he treat care for a weaker brother's conscience as more decisive than being correct about idols?",
+        "Paul tells the church to examine themselves before eating the bread and drinking the cup. What would honest self-examination before worship look like for you this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Love limits liberty",
+          "explanation": "A Christian's freedom bends whenever using it would wound another person's conscience or pull them back toward idols."
+        },
+        {
+          "concept": "Idols and conscience",
+          "explanation": "Food itself is morally neutral because an idol is nothing, yet conscience and context decide whether eating honors God or betrays him."
+        },
+        {
+          "concept": "Rights surrendered for the gospel",
+          "explanation": "Paul gives up pay, comfort, and preference to win people for Christ, modeling that freedom is for service rather than self."
+        },
+        {
+          "concept": "The Supper demands unity",
+          "explanation": "The Lord's Supper proclaims Christ's death and binds the church together, so divisions and selfishness at the table contradict the very thing it declares."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain in your own words how love limits Christian freedom across these chapters, from idol food to divisions at the Lord's Supper.",
+      "comprehension_check": [
+        {
+          "question": "In 1 Corinthians 8 Paul agrees that an idol is nothing, yet tells the knowing not to eat in certain settings. What governs his ruling?",
+          "options": [
+            "Ritual defilement that idol meat carries in itself",
+            "The church's reputation among the pagan neighbors watching it",
+            "Moderation, since lawful pleasures corrupt when freely indulged",
+            "The conscience of the weaker brother watching him eat"
+          ],
+          "answer_index": 3,
+          "why": "1 Corinthians 8:9-12 moves the question from knowledge to the brother, since wounding his conscience is sin against Christ.",
+          "hint": "Read 1 Corinthians 8:9-13 again. Notice who keeps appearing in Paul's reasoning about whether to eat."
+        },
+        {
+          "question": "Paul tells the Corinthians that when they gather, it is not really the Lord's supper they eat. What has emptied the meal?",
+          "options": [
+            "Neglect of the appointed words over the bread and cup",
+            "The unworthiness of sinners daring to approach the table",
+            "A table split into factions, some feasting, some hungry"
+          ],
+          "answer_index": 2,
+          "why": "1 Corinthians 11:20-22 says a divided, humiliating meal contradicts the supper it claims to be.",
+          "hint": "Read 1 Corinthians 11:17-22 and 1 Corinthians 11:33 again. Notice what Paul tells them to do for one another when they gather."
+        }
+      ]
+    },
+    {
+      "id": "1cor-12-14",
+      "title": "One Body, Many Gifts — and the More Excellent Way",
+      "chapters": [
+        12,
+        13,
+        14
+      ],
+      "verse_span": {
+        "from": "12:1",
+        "to": "14:40"
+      },
+      "difficulty_tier": 3,
+      "summary": "Spiritual gifts distributed by one Spirit to one body — eye, hand, and unpresentable parts all indispensable — interrupted by the greatest thing Paul ever wrote: 'Love is patient and kind… the greatest of these is love.' Chapter 14 then referees tongues and prophecy: everything for building up, everything in order.",
+      "key_themes": [
+        "one body",
+        "spiritual gifts",
+        "love",
+        "edification"
+      ],
+      "prerequisites": [
+        {
+          "node": "1cor-8-11",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The gathered-worship problems continue from the Supper divisions into the gifts chaos."
+        }
+      ],
+      "connections": [
+        {
+          "node": "eph-4-6",
+          "reason": "Ephesians 4's gifts-for-building-the-body teaching parallels and extends this section."
+        }
+      ],
+      "key_verses": [
+        "1 Corinthians 12:7",
+        "1 Corinthians 13:4-7",
+        "1 Corinthians 14:26"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "reflective",
+        "joy"
+      ],
+      "discussion_prompt": "Paul says even the most spectacular gifts amount to nothing without love. Think about the abilities you most want to be known for. What would it look like to aim them at building someone else up, and would the people around you notice the difference?",
+      "assessment_questions": [
+        "What image does Paul use in chapter 12 to describe how different gifts fit together in the church, and which members does he call indispensable?",
+        "Paul interrupts his teaching on gifts to say that tongues, prophecy, and knowledge without love are nothing. What does that placement reveal about what makes any gift valuable?",
+        "Paul's rule for worship is that everything be done for building up. Which of your abilities are you mostly using for yourself, and what would redirecting one of them toward others require this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "One Spirit, many gifts",
+          "explanation": "The Holy Spirit distributes different gifts to different believers on purpose, and every one of them exists for the common good."
+        },
+        {
+          "concept": "The body needs every member",
+          "explanation": "Eye, hand, and the parts nobody showcases all belong together, so rivalry and shame both misread how God built the church."
+        },
+        {
+          "concept": "Love gives gifts their worth",
+          "explanation": "Chapter 13 sits between the gifts chapters because self-giving love is what makes any gift count for anything lasting."
+        },
+        {
+          "concept": "Worship builds up",
+          "explanation": "Public worship is ordered toward intelligibility and mutual edification, so everything done in the gathering should leave the church stronger."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe why chapter 13 sits between the two gifts chapters, and explain what makes any spiritual gift valuable in Paul's argument.",
+      "comprehension_check": [
+        {
+          "question": "Paul sets the love chapter between two chapters on spiritual gifts. What does the placement argue?",
+          "options": [
+            "Without love the most impressive gifts amount to nothing",
+            "Love is itself the greatest of the spiritual gifts",
+            "The gifts caused the quarrels, so Paul quietly retires them",
+            "The gifts themselves divide the church while love unites it"
+          ],
+          "answer_index": 0,
+          "why": "1 Corinthians 13:1-3 weighs the showiest gifts and finds them worth nothing without love.",
+          "hint": "Read 1 Corinthians 12:31 and 1 Corinthians 13:1-3 again. Notice what Paul calls love, and what the gifts become without it."
+        },
+        {
+          "question": "In the body imagery of 1 Corinthians 12, the foot wants to resign and the eye dismisses the hand. What do both mistakes miss?",
+          "options": [
+            "That humbler parts should settle for a quieter, lesser place",
+            "That God arranged the body, and every part is needed",
+            "That maturity means every member doing every function",
+            "That belonging depends on how much a member contributes"
+          ],
+          "answer_index": 1,
+          "why": "1 Corinthians 12:18 grounds it: the members sit where God placed them, by his own design.",
+          "hint": "Read 1 Corinthians 12:14-26 again. Notice who did the arranging, and which parts get called indispensable."
+        }
+      ]
+    },
+    {
+      "id": "1cor-15-16",
+      "title": "The Resurrection Chapter",
+      "chapters": [
+        15,
+        16
+      ],
+      "verse_span": {
+        "from": "15:1",
+        "to": "16:24"
+      },
+      "difficulty_tier": 3,
+      "summary": "The gospel 'of first importance' — died, buried, raised on the third day, seen by Cephas, the Twelve, five hundred at once — and the stakes stated baldly: 'if Christ has not been raised, your faith is futile.' Christ the firstfruits, the last Adam, the trumpet, the mortal putting on immortality: 'O death, where is your sting?' Therefore: be steadfast; your labor is not in vain.",
+      "key_themes": [
+        "resurrection",
+        "firstfruits",
+        "last Adam",
+        "victory over death"
+      ],
+      "prerequisites": [
+        {
+          "node": "1cor-1-4",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The resurrection defense completes the letter; the cross-and-folly frame of chapter 1 is its premise."
+        },
+        {
+          "node": "gen-1-3",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "1 Corinthians 15 assumes the Genesis portrayal of Adam as the historical, federal first man whose trespass brings death to humanity — a typological premise Paul invokes but does not reestablish for readers unfamiliar with Genesis.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "isa-24-27",
+          "reason": "'Death is swallowed up in victory' quotes Isaiah 25's mountain feast."
+        },
+        {
+          "node": "hos-11-14",
+          "reason": "'O death, where is your sting?' takes up Hosea 13:14's taunt."
+        }
+      ],
+      "key_verses": [
+        "1 Corinthians 15:3-4",
+        "1 Corinthians 15:20-22",
+        "1 Corinthians 15:58"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "hopeful",
+        "celebratory"
+      ],
+      "discussion_prompt": "Paul ends the resurrection chapter with a command: be steadfast, because your labor in the Lord is not in vain. How does believing your body will actually be raised change what counts as wasted effort, and what would you pour yourself into if you believed it fully?",
+      "assessment_questions": [
+        "What events does Paul list as the gospel of first importance, and who does he say saw the risen Christ?",
+        "Paul calls Christ the firstfruits of those who have fallen asleep. What does that harvest image claim about the connection between his resurrection and ours?",
+        "Paul answers the defeat of death with a call to steadfast work rather than relaxation. What work in your life would you approach differently if you were certain it carries into resurrection?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The resurrection is the foundation",
+          "explanation": "Paul stakes the whole faith on a historical claim with named witnesses, saying plainly that if Christ was not raised, faith is futile."
+        },
+        {
+          "concept": "Christ the firstfruits",
+          "explanation": "His rising is the first sheaf of a whole harvest, a guarantee that those who belong to him will be raised in their turn."
+        },
+        {
+          "concept": "Transformed bodies",
+          "explanation": "The raised body is both continuous with this one and profoundly changed, as the perishable puts on the imperishable."
+        },
+        {
+          "concept": "Victory fuels work",
+          "explanation": "Because death is already defeated in Christ, Christians can labor with steady courage, knowing nothing done in the Lord is lost."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why Paul says everything depends on Christ's resurrection, and what the firstfruits image promises about believers who have died.",
+      "comprehension_check": [
+        {
+          "question": "Paul opens 1 Corinthians 15 with a list of witnesses who saw the risen Christ, many still living. What is the list doing?",
+          "options": [
+            "Honoring the apostles in the order of their seniority",
+            "Showing that visions of Jesus continued long after Easter",
+            "Grounding the gospel in an event with living witnesses",
+            "Proving Paul's own encounter outranked the other appearances"
+          ],
+          "answer_index": 2,
+          "why": "1 Corinthians 15:6 notes that most of the five hundred remain alive, witnesses who could still be asked.",
+          "hint": "Read 1 Corinthians 15:3-8 again. Notice the detail Paul adds about the five hundred."
+        },
+        {
+          "question": "Paul calls the risen Christ the firstfruits. What does the image claim about believers who have died?",
+          "options": [
+            "His rising was unique, a glory no one else will share",
+            "The dead are already raised, so nothing further remains",
+            "Their souls survive while their bodies stay behind forever",
+            "His rising begins a harvest that will include them"
+          ],
+          "answer_index": 3,
+          "why": "1 Corinthians 15:20-23 presents his resurrection as the first share of a harvest completed at his coming.",
+          "hint": "Read 1 Corinthians 15:20-23 again. Notice the order of events the farming image sets out."
+        }
+      ]
+    }
+  ]
+}

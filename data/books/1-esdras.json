@@ -1,0 +1,104 @@
+{
+  "book": "1 Esdras",
+  "testament": "OT",
+  "canon_layer": "orthodox_addition",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "1esd",
+      "title": "1 Esdras: The Return Retold",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "difficulty_tier": 3,
+      "summary": "A Greek retelling of the return from exile (overlapping 2 Chronicles, Ezra, and Nehemiah) with one famous original scene: three bodyguards debate what is strongest — wine, the king, or women — and Zerubbabel wins with a fourth answer: 'Truth is great, and strongest of all.' His prize is permission to rebuild Jerusalem.",
+      "key_themes": [
+        "return from exile",
+        "truth's supremacy",
+        "temple rebuilt"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezra-1-6",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The book is a variant telling of Ezra's return-and-rebuild narrative; it reads as commentary on it.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "In Orthodox canons (often as '2 Esdras' in Slavonic numbering); an appendix to the Latin Vulgate; apocryphal for Catholics and Protestants alike — one of the places the Catholic and Orthodox canons themselves differ.",
+      "key_verses": [
+        "1 Esdras 2:3-5",
+        "1 Esdras 4:38-40",
+        "1 Esdras 4:41"
+      ],
+      "reading_time_minutes": 55,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "celebratory"
+      ],
+      "discussion_prompt": "Three young guards debate what rules the world: wine, the king, or women. Zerubbabel answers that truth outlasts them all, and the whole court ends up blessing the God of truth. Where have you watched power or charm win in the short run while truth won in the end, and what would it take to build your next big decision on that?",
+      "assessment_questions": [
+        "What contest do the three bodyguards hold at King Darius's court, and what does Zerubbabel ask for when he wins?",
+        "Zerubbabel closes his speech with the cry 'Blessed be the God of truth!' Why does a debate about what is strongest end in worship, and what does that reveal about where the author believes truth comes from?",
+        "Zerubbabel spends his one moment of royal favor asking for Jerusalem to be rebuilt. If you suddenly had that kind of favor, what would you ask for, and what does your answer show about what you treasure?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Providence governs history",
+          "explanation": "The return from exile unfolds through the decrees of foreign kings, showing God's purposes at work even through rulers who do not know him."
+        },
+        {
+          "concept": "Truth is strongest of all",
+          "explanation": "Zerubbabel's winning answer teaches that truth outlasts wine, kings, and every earthly power, and the speech ends by tracing all truth back to God."
+        },
+        {
+          "concept": "Faithful restoration",
+          "explanation": "Rebuilding the temple and restoring worship is the people's right response to God's saving acts, so the story treats renewal as covenant obedience."
+        },
+        {
+          "concept": "God uses unexpected instruments",
+          "explanation": "Cyrus, Darius, and even a palace debating game become means by which God brings his people home."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Retell the bodyguards' debate and Zerubbabel's answer, and explain how the book connects the victory of truth to the rebuilding of Jerusalem.",
+      "comprehension_check": [
+        {
+          "question": "In 1 Esdras 4, Zerubbabel's speech crowns truth above wine, kings, and women. What gives truth the victory in his argument?",
+          "options": [
+            "Truth wins debates where force and charm eventually fail",
+            "Truth endures forever, and it belongs to God",
+            "Truth is strongest because kings are bound to reward it",
+            "Truth means keeping vows, as Darius must keep his"
+          ],
+          "answer_index": 1,
+          "why": "1 Esdras 4:38-40 grounds truth's greatness in its endurance and ends by blessing the God of truth.",
+          "hint": "Read 1 Esdras 4:34-40 again. Notice what the speech says outlasts everything else, and how its final sentence turns."
+        },
+        {
+          "question": "1 Esdras plants a court contest at the center of its return story, with Jerusalem's rebuilding as the prize. What does that placement say?",
+          "options": [
+            "The restoration turned on wit as much as on faithfulness",
+            "The empire deserved the credit for the temple's rebuilding",
+            "God's providence moves an empire's court to restore Jerusalem",
+            "Jerusalem's fate hung on the chance outcomes of palace games"
+          ],
+          "answer_index": 2,
+          "why": "1 Esdras 4:58-60 has the winner thank the Lord at once, naming victory and wisdom as gifts from him.",
+          "hint": "Read 1 Esdras 4:42-46 and 1 Esdras 4:58-60 again. Notice what Zerubbabel asks for, and whom he thanks for winning."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "book": "4 Maccabees",
+  "testament": "OT",
+  "canon_layer": "orthodox_addition",
+  "domain": "Wisdom/Poetry",
+  "nodes": [
+    {
+      "id": "4macc",
+      "title": "4 Maccabees: Reason Over the Passions",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "difficulty_tier": 4,
+      "summary": "A philosophical sermon arguing a Stoic-sounding thesis with Jewish martyrs as proof: 'devout reason is master of the passions.' The Maccabean martyrdoms of Eleazar and the seven brothers are retold at length, and their deaths described as 'an exchange for the sin of the nation' — atonement language that fascinated early Christian readers.",
+      "key_themes": [
+        "reason and passion",
+        "martyrdom",
+        "vicarious suffering",
+        "philosophy and faith"
+      ],
+      "prerequisites": [
+        {
+          "node": "2macc",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The book is an extended philosophical meditation on 2 Maccabees 6-7's martyr narratives; it assumes them in detail.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "Printed as an appendix in Greek Orthodox Bibles (canonical in the Georgian tradition); not in Catholic or Protestant canons. Its martyr-as-ransom language (4 Maccabees 17:21-22, the martyrs' deaths 'a ransom for the sin of the nation') is the book's most-cited text, and readers who receive it divide over its weight: a typological anticipation of Christ's atonement, an illustration of faithful death on behalf of others, or a martyr-theology claiming more for the martyrs than the New Testament grants. The book is studied across traditions as key background to New Testament atonement vocabulary; none of these readings is adjudicated here.",
+      "key_verses": [
+        "4 Maccabees 1:1",
+        "4 Maccabees 17:21-22",
+        "4 Maccabees 9:18"
+      ],
+      "reading_time_minutes": 75,
+      "content_density": "dense",
+      "emotional_tone": [
+        "resolve",
+        "reverent"
+      ],
+      "discussion_prompt": "The author claims that reason devoted to God can rule fear, anger, and desire, and he offers people under torture as his proof. What do Eleazar and the seven brothers show about where that kind of self-mastery comes from, and which of your own passions would test the claim hardest?",
+      "assessment_questions": [
+        "What thesis does the author announce in his opening line, and whose stories does he retell to prove it?",
+        "Eleazar is offered a way to save his life by eating permitted food while pretending it is pork, and he refuses. What does his reasoning reveal about what the author means by devout reason?",
+        "The seven brothers encourage one another as each faces the tyrant, and their mother urges every one of them on. How does the company you keep shape your ability to hold a conviction under pressure, and who plays that role for you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Devout reason masters the passions",
+          "explanation": "The book's thesis is that reason trained by reverence for God can govern anger, desire, and fear, so true piety involves the whole disciplined mind."
+        },
+        {
+          "concept": "Martyrdom as moral testimony",
+          "explanation": "The steadfast deaths of Eleazar, the seven brothers, and their mother are presented as the highest witness to truth, examples meant to form courage and fidelity in those who hear them."
+        },
+        {
+          "concept": "Faith in conversation with philosophy",
+          "explanation": "The author argues in Stoic vocabulary to commend Jewish faithfulness, an early model of belief engaging the best thought of its culture."
+        },
+        {
+          "concept": "The language of ransom",
+          "explanation": "The book describes the martyrs' deaths as an exchange for the nation's sin, a strand of ancient Jewish thought that later readers studied as background to New Testament language about atonement."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Explain the book's thesis that devout reason masters the passions, and show how the stories of Eleazar, the seven brothers, and their mother are meant to prove it.",
+      "comprehension_check": [
+        {
+          "question": "4 Maccabees opens with a philosophical thesis and then retells the martyrdoms at length. What are the martyr stories doing in the argument?",
+          "options": [
+            "They interrupt the treatise with history the author felt obliged to add",
+            "They show where reason finally breaks once real torture begins",
+            "They replace argument with story, since narrative persuades where logic cannot",
+            "They demonstrate the thesis, devout reason unbeaten by extreme suffering"
+          ],
+          "answer_index": 3,
+          "why": "4 Maccabees 1:1 states the claim about reason ruling the passions, and the martyrdoms are presented as its living proof.",
+          "hint": "Read 4 Maccabees 1:1 and 9:18 again. Notice the opening claim, and what the dying brother insists his tortures have proven."
+        },
+        {
+          "question": "4 Maccabees 17:21-22 describes the martyrs' deaths as purifying and ransoming the nation. Why has that language drawn so much attention?",
+          "options": [
+            "It contradicts the book's own insistence that reason masters the passions",
+            "It settles the meaning of sacrifice, closing debate for later readers",
+            "Its ransom vocabulary anticipates how the New Testament speaks of Christ"
+          ],
+          "answer_index": 2,
+          "why": "4 Maccabees 17:21-22 applies sacrificial language to the martyrs' deaths, a key background to New Testament atonement vocabulary.",
+          "hint": "Read 4 Maccabees 17:21-22 again. Notice the sacrificial words applied to deaths far from any altar."
+        }
+      ]
+    }
+  ]
+}

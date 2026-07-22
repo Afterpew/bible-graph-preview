@@ -1,0 +1,901 @@
+{
+  "id": "bible-in-a-year",
+  "title": "Bible in a Year",
+  "description": "Every node of the 66-book core (the canon shared by all Christian traditions; deuterocanonical layers can be added alongside) in a year-long sequence that alternates Old and New Testament blocks — the OT in narrative-historical order with the prophets placed in their historical moments and psalms woven in beside the events they voice; the NT in canonical order alongside. Ordered for daily rhythm rather than by dependency: this is order: advisory on purpose. Interleaving the Gospels from January means the New Testament is regularly read ahead of the Old Testament passages it builds on, which is the trade a year-long plan makes so that no reader spends the first four months in Leviticus. Where a passage assumes something not yet read, the node's own prerequisite edges say so and a reader can follow them at any point.",
+  "audience": "A reader committing to the whole Bible in roughly a year, at four to five nodes a week.",
+  "coverage": "full",
+  "order": "advisory",
+  "canon_layers": [
+    "core"
+  ],
+  "sequence": [
+    {
+      "node": "gen-1-3",
+      "note": "Weeks 1-2: beginnings — and Matthew alongside from day one."
+    },
+    {
+      "node": "gen-4-5"
+    },
+    {
+      "node": "gen-6-9"
+    },
+    {
+      "node": "gen-10-11"
+    },
+    {
+      "node": "gen-12-17"
+    },
+    {
+      "node": "gen-18-23"
+    },
+    {
+      "node": "gen-24-26"
+    },
+    {
+      "node": "gen-27-28"
+    },
+    {
+      "node": "gen-29-31"
+    },
+    {
+      "node": "gen-32-36"
+    },
+    {
+      "node": "gen-37-41"
+    },
+    {
+      "node": "gen-42-45"
+    },
+    {
+      "node": "gen-46-50"
+    },
+    {
+      "node": "matt-1-2"
+    },
+    {
+      "node": "matt-3-4"
+    },
+    {
+      "node": "matt-5-7"
+    },
+    {
+      "node": "job-1-2",
+      "note": "Job sits here in its traditional patriarchal-era setting."
+    },
+    {
+      "node": "job-3-14"
+    },
+    {
+      "node": "job-15-21"
+    },
+    {
+      "node": "job-22-27"
+    },
+    {
+      "node": "job-28"
+    },
+    {
+      "node": "job-29-31"
+    },
+    {
+      "node": "job-32-37"
+    },
+    {
+      "node": "job-38-42"
+    },
+    {
+      "node": "matt-8-10"
+    },
+    {
+      "node": "matt-11-15"
+    },
+    {
+      "node": "exod-1-4",
+      "note": "Out of Egypt."
+    },
+    {
+      "node": "exod-5-11"
+    },
+    {
+      "node": "exod-12-15"
+    },
+    {
+      "node": "exod-16-18"
+    },
+    {
+      "node": "exod-19-24"
+    },
+    {
+      "node": "exod-25-31"
+    },
+    {
+      "node": "exod-32-34"
+    },
+    {
+      "node": "exod-35-40"
+    },
+    {
+      "node": "matt-16-18"
+    },
+    {
+      "node": "matt-19-21"
+    },
+    {
+      "node": "matt-22-25"
+    },
+    {
+      "node": "lev-1-7",
+      "note": "Leviticus reads differently right after the glory fills the tabernacle."
+    },
+    {
+      "node": "lev-8-10"
+    },
+    {
+      "node": "lev-11-15"
+    },
+    {
+      "node": "lev-16"
+    },
+    {
+      "node": "lev-17-22"
+    },
+    {
+      "node": "lev-23-27"
+    },
+    {
+      "node": "matt-26-28"
+    },
+    {
+      "node": "mark-1-3"
+    },
+    {
+      "node": "num-1-4"
+    },
+    {
+      "node": "num-5-10"
+    },
+    {
+      "node": "num-11-14"
+    },
+    {
+      "node": "num-15-19"
+    },
+    {
+      "node": "num-20-25"
+    },
+    {
+      "node": "num-26-27"
+    },
+    {
+      "node": "num-28-30"
+    },
+    {
+      "node": "num-31-36"
+    },
+    {
+      "node": "mark-4-5"
+    },
+    {
+      "node": "mark-6-8"
+    },
+    {
+      "node": "deut-1-4"
+    },
+    {
+      "node": "deut-5-11"
+    },
+    {
+      "node": "deut-12-16a"
+    },
+    {
+      "node": "deut-16b-18"
+    },
+    {
+      "node": "deut-19-26"
+    },
+    {
+      "node": "deut-27-30"
+    },
+    {
+      "node": "deut-31-34"
+    },
+    {
+      "node": "mark-9-10"
+    },
+    {
+      "node": "mark-11-13"
+    },
+    {
+      "node": "josh-1-5",
+      "note": "Into the land."
+    },
+    {
+      "node": "josh-6-8"
+    },
+    {
+      "node": "josh-9-12"
+    },
+    {
+      "node": "josh-13-19"
+    },
+    {
+      "node": "josh-20-21"
+    },
+    {
+      "node": "josh-22-24"
+    },
+    {
+      "node": "mark-14-16"
+    },
+    {
+      "node": "luke-1-2"
+    },
+    {
+      "node": "judg-1-2"
+    },
+    {
+      "node": "judg-3-8"
+    },
+    {
+      "node": "judg-9-12"
+    },
+    {
+      "node": "judg-13-16"
+    },
+    {
+      "node": "judg-17-21"
+    },
+    {
+      "node": "ruth"
+    },
+    {
+      "node": "luke-3-4"
+    },
+    {
+      "node": "luke-5-9"
+    },
+    {
+      "node": "1sam-1-3",
+      "note": "The monarchy — with David's psalms read beside David's life."
+    },
+    {
+      "node": "1sam-4-7"
+    },
+    {
+      "node": "1sam-8-12"
+    },
+    {
+      "node": "1sam-13-15"
+    },
+    {
+      "node": "1sam-16-20"
+    },
+    {
+      "node": "ps-23"
+    },
+    {
+      "node": "1sam-21-26"
+    },
+    {
+      "node": "1sam-27-31"
+    },
+    {
+      "node": "ps-1-2"
+    },
+    {
+      "node": "ps-3-8"
+    },
+    {
+      "node": "ps-9-14"
+    },
+    {
+      "node": "ps-15-24"
+    },
+    {
+      "node": "ps-25-34"
+    },
+    {
+      "node": "ps-35-41"
+    },
+    {
+      "node": "luke-10-14"
+    },
+    {
+      "node": "luke-15-19"
+    },
+    {
+      "node": "2sam-1-6"
+    },
+    {
+      "node": "2sam-7"
+    },
+    {
+      "node": "ps-110"
+    },
+    {
+      "node": "2sam-8-10"
+    },
+    {
+      "node": "2sam-11-12"
+    },
+    {
+      "node": "ps-51"
+    },
+    {
+      "node": "2sam-13-20"
+    },
+    {
+      "node": "ps-22"
+    },
+    {
+      "node": "2sam-21-24"
+    },
+    {
+      "node": "ps-42-49"
+    },
+    {
+      "node": "ps-50"
+    },
+    {
+      "node": "ps-52-60"
+    },
+    {
+      "node": "ps-61-68"
+    },
+    {
+      "node": "ps-69-72"
+    },
+    {
+      "node": "luke-20-21"
+    },
+    {
+      "node": "luke-22-24"
+    },
+    {
+      "node": "acts-1"
+    },
+    {
+      "node": "1kgs-1-4",
+      "note": "Solomon — read the wisdom books inside his reign."
+    },
+    {
+      "node": "prov-1-9"
+    },
+    {
+      "node": "prov-10-22a"
+    },
+    {
+      "node": "prov-22b-24"
+    },
+    {
+      "node": "prov-25-29"
+    },
+    {
+      "node": "prov-30-31"
+    },
+    {
+      "node": "acts-2"
+    },
+    {
+      "node": "acts-3-5"
+    },
+    {
+      "node": "eccl-1-6"
+    },
+    {
+      "node": "eccl-7-12"
+    },
+    {
+      "node": "song"
+    },
+    {
+      "node": "1kgs-5-8"
+    },
+    {
+      "node": "ps-120-134"
+    },
+    {
+      "node": "acts-6-7"
+    },
+    {
+      "node": "acts-8-9"
+    },
+    {
+      "node": "1kgs-9-11"
+    },
+    {
+      "node": "1kgs-12-16"
+    },
+    {
+      "node": "1kgs-17-22"
+    },
+    {
+      "node": "2kgs-1-8"
+    },
+    {
+      "node": "acts-10-12"
+    },
+    {
+      "node": "acts-13-15"
+    },
+    {
+      "node": "amos-1-6",
+      "note": "The prophets now speak from inside the history — Amos and Hosea to the doomed north."
+    },
+    {
+      "node": "amos-7-9"
+    },
+    {
+      "node": "hos-1-3"
+    },
+    {
+      "node": "hos-4-10"
+    },
+    {
+      "node": "hos-11-14"
+    },
+    {
+      "node": "jonah"
+    },
+    {
+      "node": "gal"
+    },
+    {
+      "node": "acts-16-20"
+    },
+    {
+      "node": "2kgs-9-10"
+    },
+    {
+      "node": "2kgs-11-16"
+    },
+    {
+      "node": "2kgs-17"
+    },
+    {
+      "node": "mic-1-3"
+    },
+    {
+      "node": "mic-4-7"
+    },
+    {
+      "node": "1thess"
+    },
+    {
+      "node": "2thess"
+    },
+    {
+      "node": "isa-1-5",
+      "note": "Isaiah against the Assyrian storm."
+    },
+    {
+      "node": "isa-6"
+    },
+    {
+      "node": "isa-7-12"
+    },
+    {
+      "node": "isa-13-20"
+    },
+    {
+      "node": "isa-21-23"
+    },
+    {
+      "node": "isa-24-27"
+    },
+    {
+      "node": "isa-28-33"
+    },
+    {
+      "node": "isa-34-35"
+    },
+    {
+      "node": "1cor-1-4"
+    },
+    {
+      "node": "1cor-5-7"
+    },
+    {
+      "node": "1cor-8-11"
+    },
+    {
+      "node": "2kgs-18-20"
+    },
+    {
+      "node": "2kgs-21-23"
+    },
+    {
+      "node": "2kgs-24-25"
+    },
+    {
+      "node": "isa-36-39"
+    },
+    {
+      "node": "isa-40"
+    },
+    {
+      "node": "isa-41-48"
+    },
+    {
+      "node": "1cor-12-14"
+    },
+    {
+      "node": "1cor-15-16"
+    },
+    {
+      "node": "isa-49-51"
+    },
+    {
+      "node": "isa-52-53"
+    },
+    {
+      "node": "isa-54-55"
+    },
+    {
+      "node": "isa-56-59"
+    },
+    {
+      "node": "isa-60-62"
+    },
+    {
+      "node": "isa-63-66"
+    },
+    {
+      "node": "2cor-1-7"
+    },
+    {
+      "node": "2cor-8-9"
+    },
+    {
+      "node": "2cor-10-13"
+    },
+    {
+      "node": "nah"
+    },
+    {
+      "node": "zeph"
+    },
+    {
+      "node": "hab"
+    },
+    {
+      "node": "acts-21-26"
+    },
+    {
+      "node": "acts-27-28"
+    },
+    {
+      "node": "rom-1-4"
+    },
+    {
+      "node": "jer-1",
+      "note": "Jeremiah and the fall of Jerusalem."
+    },
+    {
+      "node": "jer-2-6"
+    },
+    {
+      "node": "jer-7-10"
+    },
+    {
+      "node": "jer-11-13"
+    },
+    {
+      "node": "jer-14-17"
+    },
+    {
+      "node": "jer-18-20"
+    },
+    {
+      "node": "jer-21-25"
+    },
+    {
+      "node": "jer-26-29"
+    },
+    {
+      "node": "rom-5-8"
+    },
+    {
+      "node": "rom-9-11"
+    },
+    {
+      "node": "jer-30-33"
+    },
+    {
+      "node": "jer-34-36"
+    },
+    {
+      "node": "jer-37-39"
+    },
+    {
+      "node": "jer-40-45"
+    },
+    {
+      "node": "jer-46-49"
+    },
+    {
+      "node": "jer-50-51"
+    },
+    {
+      "node": "jer-52"
+    },
+    {
+      "node": "lam"
+    },
+    {
+      "node": "obad"
+    },
+    {
+      "node": "rom-12-16"
+    },
+    {
+      "node": "col"
+    },
+    {
+      "node": "phlm"
+    },
+    {
+      "node": "ezek-1-3",
+      "note": "Exile — and the visions of glory departing and returning."
+    },
+    {
+      "node": "ezek-4-7"
+    },
+    {
+      "node": "ezek-8-11"
+    },
+    {
+      "node": "ezek-12-19"
+    },
+    {
+      "node": "ezek-20-24"
+    },
+    {
+      "node": "ezek-25-28"
+    },
+    {
+      "node": "ezek-29-32"
+    },
+    {
+      "node": "eph-1-3"
+    },
+    {
+      "node": "eph-4-6"
+    },
+    {
+      "node": "phil"
+    },
+    {
+      "node": "ezek-33-37"
+    },
+    {
+      "node": "ezek-38-39"
+    },
+    {
+      "node": "ezek-40-42"
+    },
+    {
+      "node": "ezek-43-46"
+    },
+    {
+      "node": "ezek-47-48"
+    },
+    {
+      "node": "ps-73-83"
+    },
+    {
+      "node": "ps-84-89"
+    },
+    {
+      "node": "john-1",
+      "note": "John's Gospel for the year's final quarter — read slowly."
+    },
+    {
+      "node": "john-2-4"
+    },
+    {
+      "node": "john-5-8"
+    },
+    {
+      "node": "dan-1"
+    },
+    {
+      "node": "dan-2"
+    },
+    {
+      "node": "dan-3"
+    },
+    {
+      "node": "dan-4-6"
+    },
+    {
+      "node": "dan-7"
+    },
+    {
+      "node": "dan-8-12"
+    },
+    {
+      "node": "ps-90-92"
+    },
+    {
+      "node": "ps-93-100"
+    },
+    {
+      "node": "ps-101-106"
+    },
+    {
+      "node": "john-9-12"
+    },
+    {
+      "node": "john-13-17"
+    },
+    {
+      "node": "john-18-21"
+    },
+    {
+      "node": "1chr-1-9",
+      "note": "The Chronicler retells the whole story for the returned community."
+    },
+    {
+      "node": "1chr-10-12"
+    },
+    {
+      "node": "1chr-13-16"
+    },
+    {
+      "node": "1chr-17-21"
+    },
+    {
+      "node": "1chr-22-29"
+    },
+    {
+      "node": "2chr-1"
+    },
+    {
+      "node": "2chr-2-7"
+    },
+    {
+      "node": "2chr-8-9"
+    },
+    {
+      "node": "2chr-10-16"
+    },
+    {
+      "node": "2chr-17-20"
+    },
+    {
+      "node": "2chr-21-24"
+    },
+    {
+      "node": "2chr-25-28"
+    },
+    {
+      "node": "2chr-29-32"
+    },
+    {
+      "node": "2chr-33-36"
+    },
+    {
+      "node": "1tim"
+    },
+    {
+      "node": "titus"
+    },
+    {
+      "node": "2tim"
+    },
+    {
+      "node": "ezra-1-6",
+      "note": "Return and rebuild."
+    },
+    {
+      "node": "hag"
+    },
+    {
+      "node": "zech-1-8"
+    },
+    {
+      "node": "zech-9-14"
+    },
+    {
+      "node": "ps-113-118"
+    },
+    {
+      "node": "heb-1-4"
+    },
+    {
+      "node": "heb-5-7"
+    },
+    {
+      "node": "heb-8-10"
+    },
+    {
+      "node": "ezra-7-10"
+    },
+    {
+      "node": "neh-1-7"
+    },
+    {
+      "node": "neh-8-13"
+    },
+    {
+      "node": "ps-119"
+    },
+    {
+      "node": "esth"
+    },
+    {
+      "node": "ps-107-112"
+    },
+    {
+      "node": "ps-135-137"
+    },
+    {
+      "node": "ps-138-145"
+    },
+    {
+      "node": "heb-11"
+    },
+    {
+      "node": "heb-12-13"
+    },
+    {
+      "node": "jas"
+    },
+    {
+      "node": "1pet"
+    },
+    {
+      "node": "2pet"
+    },
+    {
+      "node": "jude"
+    },
+    {
+      "node": "joel",
+      "note": "Closing the Old Testament reading: the Spirit poured out (Joel), then the canon's final page (Malachi)."
+    },
+    {
+      "node": "mal"
+    },
+    {
+      "node": "1john"
+    },
+    {
+      "node": "2john"
+    },
+    {
+      "node": "3john"
+    },
+    {
+      "node": "rev-1-3",
+      "note": "The final weeks: Revelation, with the whole year's imagery now in your ears."
+    },
+    {
+      "node": "rev-4-5"
+    },
+    {
+      "node": "rev-6-11"
+    },
+    {
+      "node": "rev-12-14"
+    },
+    {
+      "node": "rev-15-16"
+    },
+    {
+      "node": "rev-17-19"
+    },
+    {
+      "node": "rev-20"
+    },
+    {
+      "node": "ps-146-150",
+      "note": "The Psalter's doxology, saved for the year's last breath before the last page."
+    },
+    {
+      "node": "rev-21-22",
+      "note": "New creation. The tree of life, open again. Come."
+    }
+  ]
+}

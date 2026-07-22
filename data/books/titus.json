@@ -1,0 +1,101 @@
+{
+  "book": "Titus",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "titus",
+      "title": "Titus: Grace That Trains",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:15"
+      },
+      "difficulty_tier": 3,
+      "summary": "Titus is left in Crete — whose own poet called Cretans 'liars, evil beasts, lazy gluttons' — to appoint elders and build a culture of good works on a foundation of pure grace: 'the grace of God has appeared… training us to renounce ungodliness,' and 'he saved us, not because of works done by us in righteousness, but according to his own mercy.'",
+      "key_themes": [
+        "eldership",
+        "grace and good works",
+        "sound teaching",
+        "regeneration"
+      ],
+      "prerequisites": [
+        {
+          "node": "1tim",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Titus condenses 1 Timothy's church-order manual for a rougher mission field; the letters pair."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Titus 1:9",
+        "Titus 2:11-12",
+        "Titus 3:5"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "resolve"
+      ],
+      "discussion_prompt": "Paul says the same grace that saves people also trains them to renounce ungodliness. How can kindness change a person's behavior in ways that rules alone cannot, and where have you seen that happen?",
+      "assessment_questions": [
+        "Why did Paul leave Titus in Crete, and what did he tell him to do there?",
+        "Titus 3 says God saved us according to his own mercy, and a few verses later insists believers devote themselves to good works. How does the letter hold mercy and good works together?",
+        "Paul wants Christians in a culture famous for lying and laziness to be known for good works. What good work could make the gospel visible where you live, and what stops you from starting it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Leaders tested by character",
+          "explanation": "Elders are judged by proven lives and faithful doctrine rather than charm, because false teaching corrupts whole households."
+        },
+        {
+          "concept": "Grace that trains",
+          "explanation": "The grace that brings salvation also teaches believers to renounce ungodliness and live self-controlled, godly lives now."
+        },
+        {
+          "concept": "Saved by mercy",
+          "explanation": "Rescue comes from God's kindness and the Spirit's renewing work, never from works we perform to earn it."
+        },
+        {
+          "concept": "Zealous for good works",
+          "explanation": "Mercy received turns into visible good works, so the lives of believers adorn the teaching about God in public."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Titus holds together salvation by God's mercy and a life devoted to good works.",
+      "comprehension_check": [
+        {
+          "question": "Titus is told to build churches out of people famous for lying and laziness. Where does the letter say the changed life comes from?",
+          "options": [
+            "From rules firm enough to restrain old habits",
+            "From godly training that earns saving grace",
+            "From leaders strict enough to model the standard",
+            "From the same grace that brought the salvation"
+          ],
+          "answer_index": 3,
+          "why": "Titus 2:11-12 gives grace the teacher's chair: what appeared bringing salvation now trains believers out of the old life.",
+          "hint": "Read Titus 2:11-12 again. Notice what grace does after it brings salvation."
+        },
+        {
+          "question": "Titus 2:10 gives ordinary working people a surprising power over the church's message. What can their conduct do?",
+          "options": [
+            "Make the teaching about God credible to watching outsiders",
+            "Repay a portion of the mercy God has shown",
+            "Complete the salvation that mercy only began in them",
+            "Shield the young churches from imperial suspicion"
+          ],
+          "answer_index": 0,
+          "why": "Titus 2:10 lets honest daily work put the teaching about God on public display at its most attractive.",
+          "hint": "Read Titus 2:9-10 again. Notice where the verse says the effect of honest work finally lands."
+        }
+      ]
+    }
+  ]
+}

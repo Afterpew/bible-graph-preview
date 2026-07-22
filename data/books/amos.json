@@ -1,0 +1,217 @@
+{
+  "book": "Amos",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "amos-1-6",
+      "title": "Let Justice Roll Down",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "comprehension_check": [
+        {
+          "question": "Amos 3:2 reasons that because God has known Israel out of all the families of earth, he will punish them. What is the logic?",
+          "options": [
+            "Privilege with God carries obligation rather than exemption",
+            "Election was revoked, so Israel now counts as a foreign nation",
+            "Punishment falls only on the nations God has chosen to know",
+            "Being chosen shields Israel from the fate of the nations"
+          ],
+          "answer_index": 0,
+          "why": "Amos 3:2 joins the knowing and the punishing in one sentence, privilege carrying responsibility with it.",
+          "hint": "Read Amos 1:3-2:8 in outline, then Amos 3:2. Notice who else faces judgment, and what makes Israel's case sharper."
+        },
+        {
+          "question": "In Amos 5:21-24 God says he despises Israel's feasts and offerings. What makes the worship hateful?",
+          "options": [
+            "It proves sacrifice was never what God wanted from anyone",
+            "It is sincere in feeling but confused in its doctrine",
+            "It coexists with an injustice the worshipers intend to keep",
+            "It asks God for blessing instead of giving him praise"
+          ],
+          "answer_index": 2,
+          "why": "Amos 5:24 names the missing thing, a justice that rolls through common life like a stream that does not fail.",
+          "hint": "Read Amos 5:21-24 again. Notice what God asks to have in place of the noise."
+        }
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "6:14"
+      },
+      "difficulty_tier": 3,
+      "summary": "A shepherd from Judah circles the nations with judgment oracles and then lands the hammer on prosperous Israel itself: the poor sold for sandals, worship divorced from justice. 'I hate, I despise your feasts… but let justice roll down like waters, and righteousness like an ever-flowing stream.'",
+      "key_themes": [
+        "social justice",
+        "hollow worship",
+        "complacency",
+        "judgment begins at home"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-11-16",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Amos preaches into Jeroboam II's boom years — the northern prosperity 2 Kings 14 records is his target."
+        },
+        {
+          "node": "lev-17-22",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Amos presumes the covenantal holiness code's concrete justice statutes (gleaning, honest weights, protection of the poor and neighbor-love, cf. Lev 19:9–18; Lev 19:35–36) as the legal and theological standard it indicts, which Amos never restates and thus risks being read as mere moral complaint without that law-context.",
+          "scope": "foundation"
+        },
+        {
+          "node": "lev-23-27",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Amos presumes knowledge of the Levitical feasts, jubilee and covenant sanctions (Lev 23–27) and repudiates those ritual observances without restating their institution, so skipping Leviticus will lead to a misreading of Amos’s critique.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Amos 3:2",
+        "Amos 5:14-15",
+        "Amos 5:24"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "urgent"
+      ],
+      "discussion_prompt": "Amos tells people who love their worship services that God despises them, because the poor are being crushed outside the sanctuary doors. What does it mean for justice to roll down like waters, and where would that stream have to run through your own community?",
+      "assessment_questions": [
+        "How does Amos structure his opening oracles against the nations, and which nation does the final and longest judgment land on?",
+        "Amos 3:2 says that because God chose Israel out of all the families of the earth, he will punish them for their sins. Why does being God's people increase responsibility instead of granting exemption?",
+        "God rejects feasts and songs that coexist with injustice. What would change in how you worship if God measured it by how the vulnerable around you are treated?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God judges all nations",
+          "explanation": "The opening oracles hold every nation accountable for violence, so God's moral rule covers the whole world."
+        },
+        {
+          "concept": "Election means responsibility",
+          "explanation": "Being chosen exposes Israel to stricter judgment rather than shielding them from it."
+        },
+        {
+          "concept": "Worship divorced from justice",
+          "explanation": "God hates religious performance that lives comfortably beside oppression of the poor."
+        },
+        {
+          "concept": "Warning before the end",
+          "explanation": "The fierce oracles are a summons to repent, since God announces judgment so that people can still turn."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why Amos says God despises Israel's worship, and what Amos 5:24 demands instead."
+    },
+    {
+      "id": "amos-7-9",
+      "title": "The Plumb Line and the Rebuilt Booth",
+      "chapters": [
+        7,
+        8,
+        9
+      ],
+      "comprehension_check": [
+        {
+          "question": "Ordered by Amaziah to go earn his bread prophesying elsewhere, Amos answers with his own story (Amos 7:14-15). What is the force of the reply?",
+          "options": [
+            "His guild credentials outrank a royal sanctuary's priest",
+            "The LORD who took him from the flock outranks Bethel",
+            "He will withdraw to Judah once this vision is delivered",
+            "Judah's king has granted him protection Bethel must honor"
+          ],
+          "answer_index": 1,
+          "why": "Amos 7:15 rests the commission on the LORD taking him from behind the flock and sending him to prophesy to Israel.",
+          "hint": "Read Amos 7:14-15 again. Notice what Amos denies being, and who he says sent him."
+        },
+        {
+          "question": "After chapters of demolition, Amos ends with David's fallen booth rebuilt and nations bearing God's name (Amos 9:11-12). What does the ending do to the book?",
+          "options": [
+            "It cancels the earlier judgments as threats never carried out",
+            "It repays the nation for repentance recorded in the visions",
+            "It restricts the promised restoration to David's royal line alone",
+            "It shows the tearing down served a rebuilding all along"
+          ],
+          "answer_index": 3,
+          "why": "Amos 9:11-12 raises what fell and widens the rebuilt house to nations called by God's name.",
+          "hint": "Read Amos 9:11-12 again. Notice what is rebuilt, and who ends up inside it."
+        }
+      ],
+      "verse_span": {
+        "from": "7:1",
+        "to": "9:15"
+      },
+      "difficulty_tier": 3,
+      "summary": "Five visions of the end — plumb line, ripe fruit basket, the Lord beside the altar — and a showdown with the establishment priest of Bethel, who tells Amos to go prophesy somewhere else. The book that thunders judgment ends with David's fallen booth rebuilt and all the nations called by God's name.",
+      "key_themes": [
+        "visions of judgment",
+        "prophet vs. establishment",
+        "remnant",
+        "restoration"
+      ],
+      "prerequisites": [
+        {
+          "node": "amos-1-6",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The visions seal the case built by the oracles; Amaziah's pushback responds to that preaching.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-13-15",
+          "reason": "At the Jerusalem council, James quotes the rebuilt booth of David to justify welcoming the Gentiles."
+        }
+      ],
+      "key_verses": [
+        "Amos 7:8",
+        "Amos 8:11",
+        "Amos 9:11"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "hopeful"
+      ],
+      "discussion_prompt": "God holds a plumb line against a wall his people built crooked. If God set that same measuring line against your community's life this week, what would it expose, and what does the rebuilt booth at the book's end say about why he measures at all?",
+      "assessment_questions": [
+        "What visions does Amos see in chapters 7 through 9, and how does the priest Amaziah respond to his preaching?",
+        "Amaziah tells Amos to go prophesy somewhere else, and Amos answers that he was a shepherd whom God took from following the flock. What does their clash reveal about where prophetic authority comes from?",
+        "Amos warns of a famine of hearing the words of the LORD. What are you doing now with the access to God's word that others once starved for?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The plumb line",
+          "explanation": "God measures his people against his own straight standard rather than their status or their rituals."
+        },
+        {
+          "concept": "Prophets answer to God",
+          "explanation": "Amos confronts the establishment priest at Bethel because his commission comes from God rather than any institution."
+        },
+        {
+          "concept": "A famine of the word",
+          "explanation": "Amos warns that persistently ignoring God's word can end in losing access to it altogether."
+        },
+        {
+          "concept": "Judgment ends in rebuilding",
+          "explanation": "The fallen booth of David is raised and the nations included, so God's pruning aims at renewal."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the vision of the plumb line and the clash with Amaziah, and explain how a book of judgment can end with the booth of David rebuilt."
+    }
+  ]
+}

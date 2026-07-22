@@ -1,0 +1,125 @@
+{
+  "book": "Malachi",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "mal",
+      "title": "Malachi: The Old Testament's Last Word",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:6"
+      },
+      "difficulty_tier": 3,
+      "summary": "A disputation with a jaded post-exilic community — blemished sacrifices, broken marriages, 'it is vain to serve God' — answered by promise: 'Behold, I send my messenger to prepare the way before me, and the Lord whom you seek will suddenly come to his temple.' The Old Testament closes waiting for Elijah to come 'before the great and awesome day of the LORD.'",
+      "key_themes": [
+        "half-hearted worship",
+        "coming messenger",
+        "refiner's fire",
+        "Elijah expected"
+      ],
+      "prerequisites": [
+        {
+          "node": "neh-8-13",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Malachi's complaints — mixed marriages, withheld tithes, listless priests — are the very failures Nehemiah 13 battles; same era, same drift."
+        },
+        {
+          "node": "ezra-1-6",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Malachi presumes the horizon of a restored yet faltering Second Temple—its priests, sacrifices, and temple worship established in the return from exile (Ezra 1–6)—a background Malachi never narrates but depends upon.",
+          "scope": "foundation"
+        },
+        {
+          "node": "lev-1-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Malachi condemns corrupt and deficient sacrifices and assumes the reader knows the Levitical sacrificial system and its standards, information Malachi does not itself supply.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-3-4",
+          "reason": "The Gospels open where Malachi ends: John the Baptist is the promised messenger and the Elijah to come."
+        },
+        {
+          "node": "luke-1-2",
+          "reason": "Gabriel describes John 'in the spirit and power of Elijah, to turn the hearts of fathers to children' — quoting Malachi 4."
+        }
+      ],
+      "key_verses": [
+        "Malachi 3:1",
+        "Malachi 3:6",
+        "Malachi 4:5-6"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "hopeful"
+      ],
+      "discussion_prompt": "Malachi's audience keeps answering God's charges with the same weary question: how have we done that? What makes worship go stale without anyone deciding to quit, and where has your own service to God drifted into leftovers?",
+      "assessment_questions": [
+        "What complaints does God raise against the priests and people in Malachi, and how do they keep responding to him?",
+        "God promises a messenger to prepare the way and describes the coming one as a refiner's fire. Why does the answer to half-hearted worship arrive as purification rather than simple punishment?",
+        "The people said it is vain to serve God because the arrogant seemed to prosper. When serving God feels pointless, what would it mean to keep bringing him your best anyway?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Worship God can refuse",
+          "explanation": "Blemished offerings insult God's honor, and he would rather have no fire on the altar than careless fire."
+        },
+        {
+          "concept": "Covenant covers the home",
+          "explanation": "God counts broken marriages and injustice to workers as worship failures, since covenant faithfulness spans the whole of life."
+        },
+        {
+          "concept": "The refiner's fire",
+          "explanation": "God's coming purifies before it condemns, aiming to restore a people who can offer right worship again."
+        },
+        {
+          "concept": "Waiting for Elijah",
+          "explanation": "The Old Testament closes on a promised messenger and Elijah's return, leaving the story leaning forward to what comes next."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the disputation pattern of Malachi and explain the promise of the coming messenger that closes the Old Testament.",
+      "comprehension_check": [
+        {
+          "question": "Six times God states a charge and the people answer with the same weary question, asking how they have done any such thing. What does the pattern reveal about them?",
+          "options": [
+            "They are openly defying God and proud of it",
+            "They are innocent and the charges are overstated",
+            "They never learned what the law actually required",
+            "Their drift has become invisible to them"
+          ],
+          "answer_index": 3,
+          "why": "Malachi 1:6-7 shows priests serving contemptuously while genuinely unable to see it, a drift too slow to feel.",
+          "hint": "Read Malachi 1:6-7 again. Notice what the priests are doing at the moment they ask their question."
+        },
+        {
+          "question": "Malachi answers stale worship with the promise of one who comes like a refiner's fire. What is that fire for?",
+          "options": [
+            "To sort out which worshipers deserve to survive the day",
+            "To purify a people until their offerings are right again",
+            "To frighten the careless back into proper observance",
+            "To repay the priests for years of contempt"
+          ],
+          "answer_index": 1,
+          "why": "Malachi 3:2-3 sets the refiner over the priesthood until right offerings return, so the fire works restoration.",
+          "hint": "Read Malachi 3:2-3 again. Notice what the refiner is after in the silver."
+        }
+      ]
+    }
+  ]
+}

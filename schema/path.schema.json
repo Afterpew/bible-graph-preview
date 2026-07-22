@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/afterpew/bible-graph/schema/path.schema.json",
+  "title": "Bible Graph — reading path source file",
+  "description": "A curated, ordered sequence of nodes through the graph. Paths are the source of truth; each node's suggested_reading_paths field in dist/ is derived from these files at build time.",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "description",
+    "audience",
+    "coverage",
+    "order",
+    "sequence"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "audience": {
+      "type": "string",
+      "description": "Who this path is for, in one sentence."
+    },
+    "coverage": {
+      "type": "string",
+      "enum": [
+        "full",
+        "slice"
+      ],
+      "description": "'full' = the path walks every node of its declared canon layers (coverage is enforced). 'slice' = deliberately partial (a doorway or themed selection); coverage is not enforced, but steps resting on hard prerequisites the path never covers are reported."
+    },
+    "order": {
+      "type": "string",
+      "enum": [
+        "enforced",
+        "advisory"
+      ],
+      "description": "'enforced' = every hard prerequisite must appear earlier in the sequence (build fails otherwise). 'advisory' = the path deliberately orders by something other than the prerequisite graph; breaks are reported, never fatal. Use sparingly and say why in the description."
+    },
+    "canon_layers": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "core",
+          "catholic_deuterocanon",
+          "orthodox_addition"
+        ]
+      },
+      "default": [
+        "core"
+      ],
+      "description": "Layers this path draws from. Core-only paths must reference only core nodes (enforced by validate.mjs)."
+    },
+    "movements": {
+      "type": "array",
+      "description": "Optional. Named chapters of a long journey path, in order. Each movement covers a contiguous block of the sequence, so the app can show journey-scale progress without exposing graph structure. Sum of node_count must equal the sequence length, and each start_node must match the first node of its block (enforced by validate.mjs). Absent on short linear paths.",
+      "items": {
+        "type": "object",
+        "required": [
+          "numeral",
+          "title",
+          "blurb",
+          "start_node",
+          "node_count"
+        ],
+        "properties": {
+          "numeral": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "blurb": {
+            "type": "string"
+          },
+          "start_node": {
+            "type": "string",
+            "description": "Node id of the first sequence step in this movement; integrity anchor."
+          },
+          "node_count": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "sequence": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": [
+          "node"
+        ],
+        "properties": {
+          "node": {
+            "type": "string"
+          },
+          "note": {
+            "type": "string",
+            "description": "Optional: why this node sits here in the sequence."
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

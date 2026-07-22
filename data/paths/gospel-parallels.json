@@ -1,0 +1,109 @@
+{
+  "id": "gospel-parallels",
+  "title": "Gospel Parallels",
+  "description": "The life, death, and resurrection of Jesus across all four Gospels, harmonized into one reading sequence — each evangelist contributing the movement he tells best.",
+  "audience": "Anyone who wants to read the whole story of Jesus once, in order, using all four witnesses.",
+  "coverage": "slice",
+  "order": "enforced",
+  "canon_layers": [
+    "core"
+  ],
+  "sequence": [
+    {
+      "node": "john-1",
+      "note": "Begin before Bethlehem: who this child actually is."
+    },
+    {
+      "node": "luke-1-2",
+      "note": "The fullest birth narrative — annunciation, Magnificat, manger, Simeon."
+    },
+    {
+      "node": "matt-1-2",
+      "note": "Matthew adds the magi, Herod, and the flight to Egypt."
+    },
+    {
+      "node": "matt-3-4",
+      "note": "Baptism and the wilderness temptation."
+    },
+    {
+      "node": "john-2-4",
+      "note": "The early ministry the synoptics skip: Cana, Nicodemus, the Samaritan woman."
+    },
+    {
+      "node": "mark-1-3",
+      "note": "Galilee at Mark's breakneck pace."
+    },
+    {
+      "node": "matt-5-7",
+      "note": "The Sermon on the Mount."
+    },
+    {
+      "node": "matt-8-10",
+      "note": "The miracles and the sending of the Twelve."
+    },
+    {
+      "node": "mark-4-5",
+      "note": "Parables by the sea; the storm, the demoniac, Jairus' daughter."
+    },
+    {
+      "node": "luke-10-14",
+      "note": "Luke's road teaching: Good Samaritan, Lord's Prayer, banquets."
+    },
+    {
+      "node": "mark-6-8",
+      "note": "Loaves, blindness, and Peter's half-sighted confession."
+    },
+    {
+      "node": "john-5-8",
+      "note": "The great claims: bread of life, light of the world, I AM."
+    },
+    {
+      "node": "matt-16-18",
+      "note": "The confession and the Transfiguration."
+    },
+    {
+      "node": "mark-9-10",
+      "note": "Down the mountain toward Jerusalem: the way of the cross."
+    },
+    {
+      "node": "luke-15-19",
+      "note": "The lost-and-found parables and Zacchaeus, on the final approach."
+    },
+    {
+      "node": "john-9-12",
+      "note": "The man born blind, the good shepherd, Lazarus — the sign that seals the plot."
+    },
+    {
+      "node": "matt-19-21",
+      "note": "Palm Sunday and the temple cleared."
+    },
+    {
+      "node": "mark-11-13",
+      "note": "The fig tree, the widow's coins, the temple's doom."
+    },
+    {
+      "node": "matt-22-25",
+      "note": "Final controversies and the Olivet Discourse."
+    },
+    {
+      "node": "john-13-17",
+      "note": "The upper room: foot-washing, farewell, the great prayer."
+    },
+    {
+      "node": "luke-22-24",
+      "note": "The Last Supper, Gethsemane, the cross — and Emmaus."
+    },
+    {
+      "node": "mark-14-16",
+      "note": "Mark's stark passion: the cry, the torn curtain, the centurion."
+    },
+    {
+      "node": "matt-26-28",
+      "note": "Matthew's passion and the earthquake at the empty tomb."
+    },
+    {
+      "node": "john-18-21",
+      "note": "'It is finished' — then Mary, Thomas, and breakfast on the shore."
+    }
+  ]
+}

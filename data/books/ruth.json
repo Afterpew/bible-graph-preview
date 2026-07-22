@@ -1,0 +1,111 @@
+{
+  "book": "Ruth",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "ruth",
+      "title": "Ruth: Loyal Love in the Days of the Judges",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:22"
+      },
+      "difficulty_tier": 1,
+      "summary": "A Moabite widow binds herself to her broken mother-in-law — 'your people will be my people, your God my God' — and is folded into Israel through Boaz, the kinsman-redeemer. Set in the era of Judges' chaos, it's a small story of hesed (loyal love) that ends by naming King David's great-grandmother.",
+      "key_themes": [
+        "loyal love",
+        "redemption",
+        "outsider welcomed",
+        "providence"
+      ],
+      "prerequisites": [
+        {
+          "node": "judg-1-2",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The opening line sets the story 'in the days when the judges ruled' — its gentleness reads against that dark backdrop."
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-1-2",
+          "reason": "Ruth the Moabite stands in Jesus' genealogy alongside Rahab — outsiders written into the messianic line."
+        },
+        {
+          "node": "1sam-16-20",
+          "reason": "The closing genealogy hands the story to David, whom Samuel will anoint."
+        }
+      ],
+      "key_verses": [
+        "Ruth 1:16-17",
+        "Ruth 2:12",
+        "Ruth 4:14"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "light",
+      "emotional_tone": [
+        "comfort",
+        "joy"
+      ],
+      "discussion_prompt": "Naomi comes home calling herself bitter and empty, and by the end the neighborhood women are naming her grandson. Nothing miraculous happens in between, just Ruth's loyalty and Boaz's generosity. What does that show about how God's providence usually works, and whose emptiness are you positioned to help fill?",
+      "assessment_questions": [
+        "What does Ruth promise Naomi on the road to Bethlehem, and how does Boaz redeem the family in chapter 4?",
+        "Boaz prays that Ruth will be repaid by the God under whose wings she has taken refuge, and then he himself becomes the answer to that prayer. What does the book teach about God working through human faithfulness?",
+        "Ruth binds herself to a bitter widow who has nothing to offer her. What would loyal love like that cost you, and who in your life is asking for it right now?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Hesed, loyal love",
+          "explanation": "Ruth's vow to Naomi models self-giving covenant loyalty that goes far beyond duty, and that kind of love drives everything good in the story."
+        },
+        {
+          "concept": "Providence through ordinary choices",
+          "explanation": "God never speaks or performs a miracle in this book, yet gleaning laws, harvest timing, and faithful people quietly deliver his redemption."
+        },
+        {
+          "concept": "The kinsman-redeemer",
+          "explanation": "Boaz uses Israel's law of the go'el to rescue a destitute family, and his costly, willing redemption becomes a pattern the rest of Scripture builds on."
+        },
+        {
+          "concept": "The outsider grafted in",
+          "explanation": "A Moabite widow becomes the great-grandmother of King David, showing that God's grace reaches past ethnic boundaries and writes outsiders into his central story."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Ruth's story in your own words, and explain what a kinsman-redeemer is and why the closing genealogy matters.",
+      "comprehension_check": [
+        {
+          "question": "God never speaks and no miracle interrupts the story of Ruth. How does the book show him at work?",
+          "options": [
+            "Through chance events the story leaves unexplained",
+            "Through signs that guide each character's next step",
+            "Through rewards paid out as each kindness earns them",
+            "Through gleaning law, harvest timing, and kept promises"
+          ],
+          "answer_index": 3,
+          "why": "Ruth 2:12 prays for the LORD's repayment, and the book delivers it through ordinary fields, laws, and faithful people.",
+          "hint": "Read Ruth 2:3 and Ruth 2:12 again. Notice how the narrator frames her arrival at that field, and how Boaz frames it."
+        },
+        {
+          "question": "Ruth closes with a formal genealogy running from Perez to David. What is that list for?",
+          "options": [
+            "To carry the family's quiet faithfulness into Israel's kingship",
+            "To certify Boaz's legal claim to Elimelech's land",
+            "To prove the family kept its bloodline records intact",
+            "To anchor the story firmly in the judges' era"
+          ],
+          "answer_index": 0,
+          "why": "Ruth 4:22 ends the list at David, revealing the quiet story as part of how God prepared Israel's king.",
+          "hint": "Read Ruth 4:18-22 again. Notice where the list chooses to stop."
+        }
+      ]
+    }
+  ]
+}

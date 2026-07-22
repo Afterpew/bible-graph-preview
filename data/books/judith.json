@@ -1,0 +1,87 @@
+{
+  "book": "Judith",
+  "testament": "OT",
+  "canon_layer": "catholic_deuterocanon",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "jdt",
+      "title": "Judith: The Widow Who Beheaded a General",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+      "difficulty_tier": 2,
+      "summary": "With her town besieged and its elders ready to surrender, the devout widow Judith walks into the enemy camp armed with beauty, nerve, and prayer — and returns with the head of the general Holofernes in her food bag. A deliberately stylized tale (its 'history' is scrambled on purpose) celebrating faith's courage when the strong seem unbeatable.",
+      "key_themes": ["courage", "deliverance through the weak", "prayer", "reversal"],
+      "prerequisites": [
+        {
+          "node": "judg-3-8",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Judith stands in the deliverer line of Deborah and Jael — the tent-peg scene is her template."
+        }
+      ],
+      "connections": [
+        {
+          "node": "esth",
+          "reason": "Esther and Judith are sister stories: a woman's courage before a hostile power saves the covenant people."
+        }
+      ],
+      "tradition_notes": "Canonical for Catholics and Orthodox; apocryphal for Protestants. Its openly fictionalized setting (a 'Nebuchadnezzar king of Assyria') is read across traditions as intentional storytelling rather than failed history.",
+      "key_verses": ["Judith 8:25", "Judith 9:11", "Judith 13:18"],
+      "reading_time_minutes": 55,
+      "content_density": "light",
+      "emotional_tone": ["tension", "celebratory"],
+      "discussion_prompt": "Judith rebukes the elders for giving God a five-day deadline, then prays to the God of the lowly before she acts. What does her story show about how deep trust and bold action feed each other, and where do you feel too small to act right now?",
+      "assessment_questions": [
+        "How does Judith deliver her besieged town, and how do the people respond when she returns?",
+        "In her prayer, Judith calls God the helper of the oppressed, whose strength does not depend on numbers. How does the rest of the story bear out that prayer?",
+        "The elders gave God five days to act before they would surrender. Where are you tempted to put God on a deadline, and what would patient trust look like there instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God saves through the unlikely",
+          "explanation": "Deliverance comes through an overlooked widow, which overturns every human ranking of strength."
+        },
+        {
+          "concept": "Prayer comes before boldness",
+          "explanation": "Judith fasts and prays before she moves, so her daring grows out of dependence on God rather than self-confidence."
+        },
+        {
+          "concept": "Trust waits on God's freedom",
+          "explanation": "Judith rebukes the elders for putting God on a five-day deadline, teaching that faith trusts God's timing instead of demanding proof."
+        },
+        {
+          "concept": "A crafted tale that teaches",
+          "explanation": "The story scrambles its history on purpose, signaling that it teaches how God delivers his people rather than reporting a campaign."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Retell how Judith delivered Bethulia and explain what her prayer in chapter 9 claims about how God saves.",
+      "comprehension_check": [
+        {
+          "question": "Bethulia's elders agree to surrender unless God acts within five days. Why does Judith call that a mistake?",
+          "options": [
+            "They should have allowed God more time than five days",
+            "They tried to bind God's freedom to their own schedule",
+            "They should have consulted the priests before deciding anything",
+            "They gave up hope before the siege got truly desperate"
+          ],
+          "answer_index": 1,
+          "why": "Judith 8:25 turns the siege right side up: God is testing his people, and the faithful answer is thanks and trust.",
+          "hint": "Read Judith 8:25 again. Notice who Judith says is testing whom."
+        },
+        {
+          "question": "Before she acts, Judith prays to a God whose strength is not in numbers. How does the rest of the book back her prayer?",
+          "options": [
+            "Israel's army proves stronger than the Assyrian host after all",
+            "Heaven sends visible wonders that scatter the enemy camp",
+            "Holofernes' own cruelty turns his officers against him",
+            "One overlooked widow undoes the empire's strongest general"
+          ],
+          "answer_index": 3,
+          "why": "Judith 9:11 claims God's strength never depended on numbers, and the deliverance that follows proves it through the least likely hand.",
+          "hint": "Read Judith 9:11 again. Notice the kind of strength Judith says God does not need."
+        }
+      ]
+    }
+  ]
+}

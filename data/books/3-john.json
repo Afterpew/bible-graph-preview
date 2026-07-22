@@ -1,0 +1,83 @@
+{
+  "book": "3 John",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "3john",
+      "title": "3 John: Gaius, Diotrephes, and Demetrius",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:14"
+      },
+      "difficulty_tier": 2,
+      "summary": "The New Testament's shortest book: praise for Gaius who supports traveling gospel workers ('fellow workers for the truth'), a rebuke for Diotrephes 'who likes to put himself first' and blocks hospitality, and a reference for Demetrius. Church politics, first-century edition — 'I have no greater joy than to hear that my children are walking in the truth.'",
+      "key_themes": [
+        "hospitality",
+        "supporting workers",
+        "power grabbed",
+        "walking in truth"
+      ],
+      "prerequisites": [
+        {
+          "node": "2john",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The twin postcard: 2 John says when to close the door, 3 John when to open it — they balance each other."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "3 John 1:4",
+        "3 John 1:8",
+        "3 John 1:11"
+      ],
+      "reading_time_minutes": 3,
+      "content_density": "light",
+      "emotional_tone": [
+        "joy",
+        "confrontational"
+      ],
+      "discussion_prompt": "John praises Gaius for opening his home to traveling gospel workers, then Diotrephes appears, a man who loves to be first. What do these two men show about how ordinary hospitality and quiet ambition each shape a church, and which one do your own habits look more like?",
+      "assessment_questions": [
+        "What does Gaius do that John praises, and what does Diotrephes do that John promises to confront?",
+        "John writes that whoever supports gospel workers becomes a fellow worker for the truth. What does that say about the value of hospitality and giving alongside more visible forms of ministry?",
+        "John tells Gaius to imitate what is good. Whose faithfulness could you copy this month, and what one act of support for someone doing gospel work could you take on?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Hospitality as partnership",
+          "explanation": "Housing and supplying gospel workers makes the giver a fellow worker in the truth, so open homes advance the mission itself."
+        },
+        {
+          "concept": "The danger of loving first place",
+          "explanation": "Diotrephes shows how a leader's appetite for preeminence can block ministry and bully a church."
+        },
+        {
+          "concept": "Walking in the truth",
+          "explanation": "John's greatest joy is hearing that his children walk in the truth, a life where integrity and love match profession."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the contrast between Gaius and Diotrephes, and explain what 3 John teaches about supporting gospel workers.",
+      "comprehension_check": [
+        {
+          "question": "3 John praises Gaius for supporting traveling workers and condemns Diotrephes for blocking them. Why does hospitality carry so much weight here?",
+          "options": [
+            "Hosting displays the blessing God grants churches that honor him",
+            "Support makes the host a fellow worker for the truth itself",
+            "Refusing shelter breaks an ancient law binding every desert people",
+            "Welcoming teachers earns the host a share in their apostolic rank"
+          ],
+          "answer_index": 1,
+          "why": "3 John 1:8 counts support for the traveling workers as a share in their labor for the truth.",
+          "hint": "Read 3 John 1:5-8 again. Notice what John says supporters become when they send the workers on their way."
+        }
+      ]
+    }
+  ]
+}

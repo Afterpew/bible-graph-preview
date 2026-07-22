@@ -1,0 +1,206 @@
+{
+  "book": "Ecclesiastes",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Wisdom/Poetry",
+  "nodes": [
+    {
+      "id": "eccl-1-6",
+      "title": "Vapor of Vapors",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "comprehension_check": [
+        {
+          "question": "The Teacher tests pleasure, work, wealth, and wisdom, and files the same one-word report: hevel, vapor. What is the verdict claiming?",
+          "options": [
+            "Life's goods are worthless and any joy in them is illusion",
+            "Life's goods turn meaningful once devoted to religious ends",
+            "Life's goods are real but cannot be gripped or made ultimate",
+            "Life's goods satisfy only those wise enough to manage them"
+          ],
+          "answer_index": 2,
+          "why": "Ecclesiastes 2:10-11 grants that the pleasures were really enjoyed and still finds nothing to hold, breath instead of gain.",
+          "hint": "Read Ecclesiastes 2:10-11 again. Notice that the delights were genuine, and what the Teacher still could not keep."
+        },
+        {
+          "question": "Inside the bleak audit, the Teacher keeps commending eating, drinking, and finding joy in one's toil (Ecclesiastes 5:18-19). How do those counsels function?",
+          "options": [
+            "They receive each day's goods as gifts from God's hand",
+            "They surrender to pleasure once meaning has proven unreachable",
+            "They rerun the pleasure test in case wisdom missed something",
+            "They promise that contentment will finally produce lasting gain"
+          ],
+          "answer_index": 0,
+          "why": "Ecclesiastes 5:19 calls the very power to enjoy one's lot a gift of God, joy received rather than achieved.",
+          "hint": "Read Ecclesiastes 5:18-19 again. Notice where the ability to enjoy anything is said to come from."
+        }
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "6:12"
+      },
+      "difficulty_tier": 3,
+      "summary": "The Teacher runs the great experiment — pleasure, work, wealth, wisdom itself — and files the same report on everything: hevel, vapor, here and gone. Yet inside the bleakness: 'a time for everything under heaven,' and the counsel to eat, drink, and find joy in your toil as God's gift.",
+      "key_themes": [
+        "vapor/hevel",
+        "mortality",
+        "toil",
+        "joy as gift"
+      ],
+      "prerequisites": [
+        {
+          "node": "prov-10-22a",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Ecclesiastes deliberately stress-tests Proverbs' tidy patterns — you need the rule to feel the exceptions."
+        }
+      ],
+      "connections": [
+        {
+          "node": "1kgs-9-11",
+          "reason": "The Teacher's persona — a king of unmatched wisdom and wealth who tried everything — is Solomon's biography turned into an argument."
+        }
+      ],
+      "key_verses": [
+        "Ecclesiastes 1:2",
+        "Ecclesiastes 3:11",
+        "Ecclesiastes 5:18-19"
+      ],
+      "reading_time_minutes": 50,
+      "content_density": "dense",
+      "emotional_tone": [
+        "lament",
+        "reflective"
+      ],
+      "discussion_prompt": "The Teacher tried pleasure, work, wealth, and wisdom, and called every one of them vapor, here and gone. Yet he also says to eat, drink, and enjoy your work as a gift from God. How can both verdicts be true at once, and where have you already tasted each one?",
+      "assessment_questions": [
+        "What does the Teacher try in his great experiment in chapters 1 and 2, and what one word does he use for the result every time?",
+        "Ecclesiastes 3:11 says God has set eternity in the human heart, yet no one can fathom what God has done from beginning to end. How does that verse explain both the restlessness and the hope running through these chapters?",
+        "The Teacher calls the simple things, food, drink, and honest work, a gift from God. What ordinary gift are you rushing past right now, and what would receiving it with gratitude look like this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Hevel: life is vapor",
+          "explanation": "The Teacher's key word pictures life as breath or mist, real and even beautiful, yet impossible to grasp or keep."
+        },
+        {
+          "concept": "The experiment exposes the limits",
+          "explanation": "Pleasure, wealth, and even wisdom are tested honestly and found unable to carry ultimate meaning, which pushes the reader to look beyond them."
+        },
+        {
+          "concept": "Appointed times and human limits",
+          "explanation": "The poem of chapter 3 sets life inside seasons we do not control, so wisdom includes accepting finitude and trusting God's ordering."
+        },
+        {
+          "concept": "Joy is a gift",
+          "explanation": "Eating, drinking, and finding satisfaction in work go right when they are received as daily gifts from God rather than seized as prizes."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the Teacher means by calling everything hevel, and how his counsel to enjoy food, drink, and work fits with that verdict."
+    },
+    {
+      "id": "eccl-7-12",
+      "title": "Wisdom Under the Sun; Fear God",
+      "chapters": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "comprehension_check": [
+        {
+          "question": "Ecclesiastes 7:15 and 8:14 record righteous people perishing while the wicked prosper. What is the book doing with such observations?",
+          "options": [
+            "Proving that righteousness is a losing strategy to abandon",
+            "Tracing each reversal back to some hidden fault in the sufferer",
+            "Concluding that God has stepped away from so crooked a world",
+            "Refusing to force life's crooked data into a tidy reward formula"
+          ],
+          "answer_index": 3,
+          "why": "Ecclesiastes 8:12-14 keeps the crooked data and confidence in fearing God inside one breath.",
+          "hint": "Read Ecclesiastes 8:12-14 again. Notice the two things the Teacher affirms almost in the same sentence."
+        },
+        {
+          "question": "After the poem on aging, the book lands on fearing God and keeping his commandments (Ecclesiastes 12:13). How does that ending sit with the vapor verdict?",
+          "options": [
+            "It retracts the vapor verdict as the error of a younger man",
+            "It names the duty that still stands inside a life of vapor",
+            "It swaps the book's honest questioning for unquestioned obedience",
+            "It promises that duty will finally yield gain under the sun"
+          ],
+          "answer_index": 1,
+          "why": "Ecclesiastes 12:8 repeats the vapor verdict just before Ecclesiastes 12:13-14 grounds duty in the God who judges every deed.",
+          "hint": "Read Ecclesiastes 12:8 and 12:13-14 together. Notice what is repeated and what is added right after it."
+        }
+      ],
+      "verse_span": {
+        "from": "7:1",
+        "to": "12:14"
+      },
+      "difficulty_tier": 3,
+      "summary": "Sharper proverbs for a crooked world — no one is righteous, timing is everything, dead flies spoil the perfume — closing with the Bible's most haunting poem on aging and death and the epilogue's landing: 'Fear God and keep his commandments, for this is the whole duty of humanity.'",
+      "key_themes": [
+        "death",
+        "limits of wisdom",
+        "aging",
+        "fear of God"
+      ],
+      "prerequisites": [
+        {
+          "node": "eccl-1-6",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The conclusion answers the experiment of the first half; the epilogue only lands after the vapor verdicts.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Ecclesiastes 9:7",
+        "Ecclesiastes 12:1",
+        "Ecclesiastes 12:13-14"
+      ],
+      "reading_time_minutes": 50,
+      "content_density": "dense",
+      "emotional_tone": [
+        "reflective",
+        "resolve"
+      ],
+      "discussion_prompt": "The Teacher says it is better to go to a house of mourning than a house of feasting, because death teaches the living how to live. What would change about your plans this year if you took your own mortality that seriously, and why do we work so hard to avoid thinking about it?",
+      "assessment_questions": [
+        "What does the epilogue in chapter 12 give as the conclusion of the whole matter, and what does it say God will do with every deed?",
+        "Chapter 12 pictures aging as a house falling apart, keepers trembling and windows growing dim, and then tells readers to remember their Creator in the days of their youth. Why does the book aim its final appeal at the young rather than the old?",
+        "After every illusion is stripped away, the book lands on fearing God and keeping his commandments. Which illusion has the strongest grip on you right now, success, control, or endless time, and what would ordering your life by that conclusion change first?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Wisdom has limits",
+          "explanation": "Honest observation exposes paradoxes no one can untangle, so real wisdom includes humility about what we cannot know."
+        },
+        {
+          "concept": "Remembering death rightly",
+          "explanation": "Keeping mortality in view is a tool for living well, because numbered days teach the heart to weigh what actually matters."
+        },
+        {
+          "concept": "A crooked world resists formulas",
+          "explanation": "The righteous sometimes suffer and the wicked sometimes prosper, so both pride and simple optimism are dangerous."
+        },
+        {
+          "concept": "Fear God and keep his commandments",
+          "explanation": "After testing everything under the sun, the book lands on trustful duty toward God as the whole calling of a human being."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the closing poem on aging in your own words and explain why the command to fear God and keep his commandments answers everything the Teacher observed."
+    }
+  ]
+}

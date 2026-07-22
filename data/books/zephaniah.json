@@ -1,0 +1,108 @@
+{
+  "book": "Zephaniah",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "zeph",
+      "title": "Zephaniah: The Day of the LORD and the Singing God",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:20"
+      },
+      "difficulty_tier": 3,
+      "summary": "The Day of the LORD at its darkest — 'a day of wrath, a day of distress and anguish' sweeping from Judah across the nations — resolving into the Old Testament's tenderest picture of God: rejoicing over his remnant 'with gladness… exulting over you with loud singing.' Judgment and joy from the same throne.",
+      "key_themes": [
+        "day of the LORD",
+        "humble remnant",
+        "purified speech",
+        "God who sings"
+      ],
+      "prerequisites": [
+        {
+          "node": "deut-27-30",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Zephaniah operates within the Deuteronomic covenant framework of curse-for-disobedience and restoration/remnant (the “choice of life”) and does not restate that legal-covenant sequence, so omitting Deuteronomy risks misreading its judgments as arbitrary rather than covenantal consequences.",
+          "scope": "foundation"
+        },
+        {
+          "node": "2kgs-21-23",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Zephaniah preaches under young Josiah, before the reform — the idolatry catalogued is pre-reform Jerusalem."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Zephaniah 1:14",
+        "Zephaniah 2:3",
+        "Zephaniah 3:17"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "joy"
+      ],
+      "discussion_prompt": "Zephaniah paints the darkest Day of the LORD in the prophets, then ends with God singing loudly over his people. How can both scenes come from the same God, and which of the two pictures is harder for you to believe about him?",
+      "assessment_questions": [
+        "What does Zephaniah say the Day of the LORD will be like, and who does he say may be hidden on that day?",
+        "Chapter 3 describes God rejoicing over his remnant with gladness and loud singing. What does it mean that this joy and the earlier judgment come from the same throne?",
+        "Zephaniah calls the humble of the land to seek the LORD, seek righteousness, seek humility. What would seeking humility on purpose look like in your habits this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The day of wrath is real",
+          "explanation": "God's holiness means idolatry and injustice face an actual day of reckoning that spares no nation."
+        },
+        {
+          "concept": "Judgment begins at home",
+          "explanation": "The sweep of judgment starts with God's own people, so belonging to him brings scrutiny before it brings privilege."
+        },
+        {
+          "concept": "The humble remnant",
+          "explanation": "God preserves a people marked by humility and honest speech, and he calls hearers to join them now."
+        },
+        {
+          "concept": "The God who sings",
+          "explanation": "The book resolves in God exulting over his people with loud singing, one of Scripture's tenderest pictures of his delight."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the Day of the LORD means in Zephaniah and how the book moves from a day of wrath to a God who sings over his people.",
+      "comprehension_check": [
+        {
+          "question": "Zephaniah opens with the fiercest day-of-wrath poetry in the prophets and closes with God rejoicing over his people in song. What does that movement claim?",
+          "options": [
+            "God's anger burns itself out and gives way to relenting",
+            "The joy belongs to a new people replacing the judged",
+            "The singing repays those who endured their punishment well",
+            "The fire aims at a people God can delight in"
+          ],
+          "answer_index": 3,
+          "why": "Zephaniah 3:17 shows the destination: the LORD at home among a humbled remnant, rejoicing over them with song.",
+          "hint": "Read Zephaniah 3:17 again, with Zephaniah 1:14 in mind. Notice who stands beside God once the singing starts."
+        },
+        {
+          "question": "Zephaniah 2:3 urges seeking the LORD, righteousness, and humility, yet attaches no guarantee to the shelter it holds out. What does the reservation teach?",
+          "options": [
+            "That seeking God can never become a bargaining formula",
+            "That God had not yet decided Judah's final outcome",
+            "That most of those who seek will still be refused",
+            "That the prophet doubted his own message of rescue"
+          ],
+          "answer_index": 0,
+          "why": "Zephaniah 2:3 leaves the shelter in God's free hands, so humility marks even the manner of hoping.",
+          "hint": "Read Zephaniah 2:3 again. Notice the small word standing between the seeking and the shelter."
+        }
+      ]
+    }
+  ]
+}

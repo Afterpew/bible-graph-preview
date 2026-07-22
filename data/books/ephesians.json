@@ -1,0 +1,209 @@
+{
+  "book": "Ephesians",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "eph-1-3",
+      "title": "Every Spiritual Blessing: The Church in God's Plan",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "comprehension_check": [
+        {
+          "question": "Ephesians 1:4-5 speaks of God choosing and predestining his people in Christ before creation. Christian traditions all affirm the words and still divide over them. Where does the disagreement actually sit?",
+          "options": [
+            "Over how God's choice and a person's faith fit together",
+            "Over whether the choosing took place before creation began",
+            "Over whether Gentiles are included among the chosen people",
+            "Over whether the choosing is located in Christ at all"
+          ],
+          "answer_index": 0,
+          "why": "Ephesians 1:4-5 states the choosing plainly, and the church's long discussion concerns how that choice and human believing belong together.",
+          "hint": "Read Ephesians 1:4-5 and then 1:13. Notice what the text asserts outright, and what it leaves the reader to fit together."
+        },
+        {
+          "question": "Ephesians 2:8-10 places good works after salvation rather than before it. What role does that give them?",
+          "options": [
+            "A ladder the diligent climb toward acceptance with God",
+            "An optional extra for the especially devoted believer",
+            "A prepared path the saved are created to walk",
+            "A debt repaid to God for the cost of grace"
+          ],
+          "answer_index": 2,
+          "why": "Ephesians 2:10 makes good works the road God laid out in advance for people his grace has remade.",
+          "hint": "Read Ephesians 2:8-10 again. Notice the order of saving and working, and who prepared what in advance."
+        }
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:21"
+      },
+      "difficulty_tier": 3,
+      "summary": "One long exhale of praise: chosen before the foundation of the world, dead in trespasses then made alive — 'by grace you have been saved through faith… not a result of works' — and the dividing wall between Jew and Gentile demolished into 'one new man.' The church, of all things, is how God's manifold wisdom is displayed to the cosmic powers.",
+      "key_themes": [
+        "election and adoption",
+        "grace through faith",
+        "one new humanity",
+        "the church's cosmic role"
+      ],
+      "prerequisites": [
+        {
+          "node": "gal",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "The Jew-Gentile-one-in-Christ argument assumes the law/faith settlement Galatians fights for."
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-16-20",
+          "reason": "Acts 19-20 narrates Paul's years in Ephesus and his farewell to these elders."
+        }
+      ],
+      "key_verses": [
+        "Ephesians 1:3",
+        "Ephesians 2:8-10",
+        "Ephesians 2:14"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "celebratory"
+      ],
+      "discussion_prompt": "Paul spends three chapters listing what God has already done for those in Christ before asking anything of them. As you trace that list, which blessing is hardest for you to believe applies to you, and how would really believing it change where you look for security?",
+      "assessment_questions": [
+        "According to chapter 2, what was the condition of the Ephesians before Christ, and what did God do about it?",
+        "Paul says Christ has broken down the dividing wall between Jew and Gentile to create one new humanity. Why does he treat this reconciliation as part of the gospel itself rather than a side effect?",
+        "Ephesians 2:10 says we are God's workmanship, created for good works God prepared beforehand. How does knowing the works were prepared for you change the way you look for them?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Chosen in Christ",
+          "explanation": "God blessed and chose his people in Christ before the world began, so Christian identity rests on God's eternal purpose rather than on human achievement."
+        },
+        {
+          "concept": "Saved by grace through faith",
+          "explanation": "Salvation is God's gift received through faith, and it produces the good works God prepared in advance for his people to walk in."
+        },
+        {
+          "concept": "One new humanity",
+          "explanation": "Christ's cross demolishes the wall between Jew and Gentile, reconciling both into a single new people at peace with God and each other."
+        },
+        {
+          "concept": "The church in God's plan",
+          "explanation": "God displays his manifold wisdom to the cosmic powers through the church, which makes the church central to his purpose rather than optional."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what it means to be saved by grace through faith, and describe the one new humanity God creates in Christ."
+    },
+    {
+      "id": "eph-4-6",
+      "title": "Walk Worthy: Body, Household, Armor",
+      "chapters": [
+        4,
+        5,
+        6
+      ],
+      "comprehension_check": [
+        {
+          "question": "Ephesians 4:13-16 gives the aim of all the gifts Christ pours into the church. What is the growth toward?",
+          "options": [
+            "A membership large enough to fill out the body's frame",
+            "A mature body, stable in truth and knit in love",
+            "A leadership strong enough to silence every rival teacher",
+            "A uniformity of practice enforced from the top down"
+          ],
+          "answer_index": 1,
+          "why": "Ephesians 4:14-16 pictures the goal as a body no longer tossed by every wind, building itself up in love.",
+          "hint": "Read Ephesians 4:13-16 again. Notice what the grown body can no longer be tossed by, and what each part contributes."
+        },
+        {
+          "question": "Ephesians 6:12 relocates the believer's real struggle away from flesh and blood. What follows for how the fight is fought?",
+          "options": [
+            "Fight hostile people harder, since dark powers drive them",
+            "Withdraw from society until the evil day has passed",
+            "Leave the contest to angels better matched to the enemy",
+            "Stand firm in God's own armor and keep praying"
+          ],
+          "answer_index": 3,
+          "why": "Ephesians 6:13-18 turns the relocation into practice, armor from God, a repeated call to stand, and constant prayer.",
+          "hint": "Read Ephesians 6:13-18 again. Notice the verb the passage keeps repeating about what armored believers do."
+        }
+      ],
+      "verse_span": {
+        "from": "4:1",
+        "to": "6:24"
+      },
+      "difficulty_tier": 3,
+      "summary": "The calling walked out: one body with gifts for building itself in love, the old self put off like clothes, marriage mapped onto Christ and the church ('this mystery is profound'), children and parents, and the whole armor of God — 'for we do not wrestle against flesh and blood.' Stand, therefore.",
+      "key_themes": [
+        "unity and maturity",
+        "new self",
+        "marriage as mystery",
+        "spiritual warfare"
+      ],
+      "prerequisites": [
+        {
+          "node": "eph-1-3",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The 'therefore walk worthy' ethics of 4-6 stand entirely on the blessings enumerated in 1-3.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "isa-56-59",
+          "reason": "The armor of God is borrowed from the LORD's own armor in Isaiah 59."
+        },
+        {
+          "node": "gen-1-3",
+          "reason": "'The two shall become one flesh' — Paul quotes Eden's marriage charter and reads Christ and the church in it."
+        }
+      ],
+      "key_verses": [
+        "Ephesians 4:1-3",
+        "Ephesians 4:22-24",
+        "Ephesians 6:12"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "resolve",
+        "urgent"
+      ],
+      "discussion_prompt": "Paul pictures the old way of life as clothes you take off and the new self as clothes you put on. What does that picture suggest about how change actually happens, and what would putting on the new self look like in one of your relationships this week?",
+      "assessment_questions": [
+        "What pieces make up the whole armor of God in chapter 6, and what does Paul say the real struggle is against?",
+        "Chapters 4 through 6 open with a 'therefore.' How do the commands to walk worthy depend on everything God has already done in chapters 1 through 3?",
+        "Paul calls believers to speak the truth in love so the body builds itself up. Which half of that pairing do you tend to drop, and what would holding both together require of you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Walk worthy of the calling",
+          "explanation": "Because believers share one Lord, one faith, and one baptism, their lives are to show humility, patience, and a hard-working unity."
+        },
+        {
+          "concept": "Gifts for maturity",
+          "explanation": "Christ gives gifts to the church so the whole body grows up into maturity instead of being tossed around by every new teaching."
+        },
+        {
+          "concept": "Marriage points to Christ and the church",
+          "explanation": "Paul reads Eden's one-flesh charter as a living picture of Christ's self-giving love for the church, which reorders every household relationship."
+        },
+        {
+          "concept": "The real battle",
+          "explanation": "The struggle behind daily life is spiritual, so believers stand in God's own armor of truth, righteousness, faith, and prayer rather than fighting people."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what it means to put off the old self and put on the new, and explain what the armor of God is for."
+    }
+  ]
+}

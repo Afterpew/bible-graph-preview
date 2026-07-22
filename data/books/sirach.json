@@ -1,0 +1,254 @@
+{
+  "book": "Sirach",
+  "testament": "OT",
+  "canon_layer": "catholic_deuterocanon",
+  "domain": "Wisdom/Poetry",
+  "nodes": [
+    {
+      "id": "sir-1-23",
+      "title": "Sirach: The Fear of the Lord Is Glory",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "difficulty_tier": 3,
+      "summary": "Ben Sira, a Jerusalem sage around 180 BC, runs a wisdom school in writing: honoring parents, testing friends, guarding the tongue, humility, almsgiving, raising children — Proverbs' tradition carried into the Greek age. 'My child, when you come to serve the Lord, prepare yourself for testing.'",
+      "key_themes": [
+        "fear of the Lord",
+        "friendship",
+        "speech",
+        "practical piety"
+      ],
+      "prerequisites": [
+        {
+          "node": "prov-10-22a",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Ben Sira consciously writes in Proverbs' genre and quotes its themes; he is its direct heir.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "jas",
+          "reason": "James' teaching on the tongue, testing, and the poor repeatedly parallels Sirach — many scholars hear direct influence."
+        }
+      ],
+      "tradition_notes": "Called Ecclesiasticus ('the church book') in the Latin tradition for its heavy catechetical use. Canonical for Catholics and Orthodox; apocryphal for Protestants, though the Anglican tradition retained it for reading 'for example of life.'",
+      "key_verses": [
+        "Sirach 1:14",
+        "Sirach 2:1",
+        "Sirach 6:14"
+      ],
+      "reading_time_minutes": 120,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reflective",
+        "warning"
+      ],
+      "discussion_prompt": "Ben Sira treats wisdom as something built from small habits, like how you speak, whom you befriend, and how you treat your parents. Which of his counsels lands closest to home for you, and what would practicing it for a month actually require?",
+      "assessment_questions": [
+        "Where does Ben Sira say wisdom begins, and what does he tell his student to prepare for when coming to serve the Lord?",
+        "Sirach calls a faithful friend a sturdy shelter and a treasure. Why does he insist that friends be tested before they are trusted, and what does that reveal about how wisdom handles relationships?",
+        "Ben Sira returns again and again to guarding the tongue. Where does your own speech most need a guard, and what would holding one word back this week cost you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Fear of the Lord comes first",
+          "explanation": "Reverence toward God is the root wisdom grows from, and it comes before cleverness or learning."
+        },
+        {
+          "concept": "Prepare for testing",
+          "explanation": "Anyone who sets out to serve the Lord should expect trials, because testing is how faithfulness matures."
+        },
+        {
+          "concept": "Wisdom lives in relationships",
+          "explanation": "Honoring parents, choosing friends slowly, and staying humble are where wisdom becomes visible in daily life."
+        },
+        {
+          "concept": "Words carry weight",
+          "explanation": "Guarded, honest speech marks the wise, and an unguarded tongue can undo years of good."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Describe what the fear of the Lord means in Sirach, and restate two of Ben Sira's practical counsels in your own words.",
+      "comprehension_check": [
+        {
+          "question": "Sirach 2:1 tells anyone coming to serve the Lord to prepare for testing. What is that warning doing at the door of the book?",
+          "options": [
+            "It teaches that testing belongs to service and refines trust",
+            "It warns that God tests to expose those serving falsely",
+            "It concedes that wisdom cannot shield anyone from blind chance",
+            "It screens the halfhearted out before the teaching begins"
+          ],
+          "answer_index": 0,
+          "why": "Sirach 2:1-6 sets trials inside the life of service, a furnace where trust in the Lord is proved rather than voided.",
+          "hint": "Read Sirach 2:1-6 again. Notice what the tested servant is compared to, and what the testing is said to produce."
+        },
+        {
+          "question": "Sirach 1:14 places the fear of the Lord at wisdom's beginning. What claim does that make about the whole curriculum that follows?",
+          "options": [
+            "Dread of punishment is what keeps a student learning",
+            "Religious duty must be finished before study can begin",
+            "Wisdom was given to Israel alone and hidden from outsiders",
+            "Skill in living grows out of reverence before God"
+          ],
+          "answer_index": 3,
+          "why": "Sirach 1:14 roots wisdom at its very beginning in reverence, so every practical lesson in the book grows from that soil.",
+          "hint": "Read Sirach 1:9-14 again. Notice where wisdom comes from, and with whom it is said to abide."
+        }
+      ]
+    },
+    {
+      "id": "sir-24-51",
+      "title": "Wisdom's Self-Praise and the Praise of the Ancestors",
+      "chapters": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "difficulty_tier": 3,
+      "summary": "Wisdom sings her own aria — 'I came forth from the mouth of the Most High' — and settles in Zion, identified with 'the book of the covenant, the law of Moses.' Then the famous roll call, 'Let us now praise famous men': Enoch to Nehemiah, climaxing in the high priest Simon shining in the temple like the morning star.",
+      "key_themes": [
+        "wisdom dwelling in Israel",
+        "Torah as wisdom",
+        "heroes remembered",
+        "priesthood glorified"
+      ],
+      "prerequisites": [
+        {
+          "node": "sir-1-23",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The book's second half; the sage's method and voice are established in the first.",
+          "scope": "sequence"
+        },
+        {
+          "node": "prov-1-9",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Wisdom's self-praise in chapter 24 is Proverbs 8's speech relocated to the Jerusalem temple."
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-11",
+          "reason": "'Let us now praise famous men' is the nearest literary ancestor of Hebrews 11's roll call of faith."
+        },
+        {
+          "node": "john-1",
+          "reason": "Wisdom coming forth from God to 'tabernacle' in Israel (24:8) prefigures the Word made flesh who dwelt among us."
+        }
+      ],
+      "key_verses": [
+        "Sirach 24:3",
+        "Sirach 24:23",
+        "Sirach 44:1"
+      ],
+      "reading_time_minutes": 140,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "celebratory",
+        "reverent"
+      ],
+      "discussion_prompt": "Sirach 44 admits that some of the faithful left no memorial and perished as though they had never lived, yet it praises them alongside the famous. Whose quiet faithfulness has shaped you, and how would you want your own line to read in a roll call like this?",
+      "assessment_questions": [
+        "In chapter 24, where does Wisdom say she came from, and where does she finally make her home?",
+        "Sirach identifies Wisdom with the book of the covenant, the law of Moses. What is he claiming about where wisdom can actually be found, and how is that different from treating wisdom as a private talent?",
+        "The praise of the ancestors runs from Enoch to the high priest Simon shining in the temple. What does rehearsing a long line of faithful lives do for a community, and who belongs in yours?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Wisdom speaks from God",
+          "explanation": "Wisdom comes forth from the mouth of the Most High and is sent to make her dwelling among people."
+        },
+        {
+          "concept": "Wisdom settles in the Torah",
+          "explanation": "Ben Sira locates wisdom concretely in Israel's covenant law, so seeking wisdom means living by God's instruction."
+        },
+        {
+          "concept": "Memory forms a people",
+          "explanation": "The roll call of ancestors turns history into instruction by holding up lives worth imitating."
+        },
+        {
+          "concept": "Worship crowns wisdom",
+          "explanation": "The portrait of Simon ministering in the temple presents worship as wisdom's most radiant public act."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Explain what Sirach 24 claims about Wisdom and the Torah, and describe what the praise of the ancestors in chapters 44-50 is for.",
+      "comprehension_check": [
+        {
+          "question": "In Sirach 24, Wisdom tours creation, settles in Zion, and Sirach 24:23 identifies her with the covenant book. What is that identification claiming?",
+          "options": [
+            "Israel's law replaced an older universal wisdom that failed",
+            "Wisdom's settling in Zion withdrew her from the nations",
+            "The wisdom ordering all creation is readable in Israel's law",
+            "The law's authority rests on its great age among nations"
+          ],
+          "answer_index": 2,
+          "why": "Sirach 24:3-23 moves Wisdom from the mouth of the Most High to the law Moses commanded, a cosmic voice given an address.",
+          "hint": "Read Sirach 24:8-12 and Sirach 24:23 again. Notice where Wisdom is told to dwell, and what she is finally said to be."
+        },
+        {
+          "question": "Sirach 44-50 parades Israel's heroes and ends with the high priest Simon at the temple liturgy. What is the long roll call for?",
+          "options": [
+            "It ranks the ancestors so students know whom to imitate",
+            "It forms a people by memory that finishes in worship",
+            "It argues Israel's story outshines the achievements of Greece",
+            "It preserves records that the exile had nearly erased"
+          ],
+          "answer_index": 1,
+          "why": "Sirach 44:1-15 calls the living to praise their ancestors, and the line of names ends in Sirach 50:1-21 at worship.",
+          "hint": "Read Sirach 44:1-15 again, then Sirach 50:1-21. Notice where all the remembering finally lands."
+        }
+      ]
+    }
+  ]
+}

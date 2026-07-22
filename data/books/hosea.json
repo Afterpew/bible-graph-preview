@@ -1,0 +1,324 @@
+{
+  "book": "Hosea",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "hos-1-3",
+      "title": "Marry a Woman Who Will Break Your Heart",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "comprehension_check": [
+        {
+          "question": "Why does the book open with God commanding Hosea to marry a woman who will be unfaithful?",
+          "options": [
+            "So the prophet's marriage acts out God's bond with Israel",
+            "So Hosea's obedience can be proven by a costly command",
+            "So Israel receives a public warning against unfaithful spouses",
+            "So the prophet can suffer enough to earn his authority"
+          ],
+          "answer_index": 0,
+          "why": "Hosea 1:2 ties the command to the land's own unfaithfulness to the LORD, making the marriage a lived picture of the covenant.",
+          "hint": "Read Hosea 1:2 again. Notice the reason God himself attaches to the command."
+        },
+        {
+          "question": "After the judgment of chapter 2, Hosea is told to love and buy back his wife (Hosea 3:1-2). What does the act show about God's love?",
+          "options": [
+            "It waits to receive the wayward once they have reformed",
+            "It overlooks betrayal rather than bringing it to judgment",
+            "It pursues and pays to recover the still unfaithful",
+            "It starts over with a new covenant on cleaner terms"
+          ],
+          "answer_index": 2,
+          "why": "Hosea 3:1 commands love for a woman still loved by another, just as the LORD loves Israel while they turn away.",
+          "hint": "Read Hosea 3:1-2 again. Notice when the buying back happens, and what it costs."
+        }
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:5"
+      },
+      "difficulty_tier": 2,
+      "summary": "God commands his prophet to live the message: marry Gomer, who will be unfaithful, name the children Not-Loved and Not-My-People — and then buy her back from the auction block and love her again. Israel's idolatry is not law-breaking first; it is adultery against a husband who won't stop loving.",
+      "key_themes": [
+        "covenant as marriage",
+        "unfaithfulness",
+        "redeeming love",
+        "restoration"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-19-24",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The marriage metaphor recasts the Sinai covenant; the betrayal only registers as adultery if the vows are known.",
+          "scope": "foundation"
+        },
+        {
+          "node": "2kgs-11-16",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Hosea preaches to the northern kingdom in its final decades; its looming collapse to Assyria is his backdrop."
+        }
+      ],
+      "connections": [
+        {
+          "node": "rom-9-11",
+          "reason": "Paul quotes 'Not-My-People will be called sons of the living God' for the Gentiles' inclusion."
+        },
+        {
+          "node": "1pet",
+          "reason": "Peter applies 'once you were not a people, but now you are God's people' to the church."
+        }
+      ],
+      "key_verses": [
+        "Hosea 1:2",
+        "Hosea 2:19-20",
+        "Hosea 3:1"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "hopeful"
+      ],
+      "discussion_prompt": "God asks Hosea to live out the pain of loving someone who keeps leaving. What does telling Israel's story as a marriage, rather than a courtroom case, change about how you understand sin, and what does it reveal about how God feels when people walk away from him?",
+      "assessment_questions": [
+        "What does God command Hosea to do in chapter 1, and what names does he give the children?",
+        "In chapter 3 Hosea buys Gomer back and loves her again. Why does God choose a broken marriage, rather than a broken law, as the picture of Israel's idolatry?",
+        "Hosea 2 shows God leading his unfaithful people into the wilderness to speak tenderly to them. Where in your life have you treated God's love as something you can walk away from, and what would returning look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Idolatry is adultery",
+          "explanation": "Hosea frames Israel's unfaithfulness as betrayal of a marriage, so sin wounds a living relationship rather than merely breaking a rule."
+        },
+        {
+          "concept": "Judgment is never the last word",
+          "explanation": "The children's names of judgment get reversed into promises, showing that God's discipline aims at restoration."
+        },
+        {
+          "concept": "The prophet lives the message",
+          "explanation": "God uses Hosea's real marriage as an enacted parable, teaching that lived drama can carry theological truth."
+        },
+        {
+          "concept": "Love that pays to redeem",
+          "explanation": "Hosea buys his wife back from the auction block, picturing a God whose love pursues the unfaithful at real cost."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the story of Hosea and Gomer and explain what it teaches about how God responds to his people's unfaithfulness."
+    },
+    {
+      "id": "hos-4-10",
+      "title": "The Case Against Israel",
+      "chapters": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "comprehension_check": [
+        {
+          "question": "Israel in these chapters stays religiously busy, full of sacrifice and festival. Why does God's case against them still stand?",
+          "options": [
+            "Their offerings prove God rejects sacrifice as a form of worship",
+            "Their offerings go on without steadfast love or knowledge of God",
+            "Their offerings are too irregular to meet the law's requirements",
+            "Their offerings ask for blessings instead of offering God praise"
+          ],
+          "answer_index": 1,
+          "why": "Hosea 6:6 names what God desires above burnt offerings, a steadfast love and knowledge of himself that the busy worship lacks.",
+          "hint": "Read Hosea 6:4-6 again. Notice what God compares their devotion to just before he says what he wants."
+        },
+        {
+          "question": "Hosea says the nation sows the wind and will reap the whirlwind (Hosea 8:7). What is he claiming about the coming disaster?",
+          "options": [
+            "It is an arbitrary blow from a God whose patience ran out",
+            "It is the product of Assyrian ambition rather than divine judgment",
+            "It is proof the covenant between them has already ended",
+            "It is the grown harvest of what Israel itself has planted"
+          ],
+          "answer_index": 3,
+          "why": "Hosea 8:7 speaks in farm logic, the storm they will harvest grew from the seed they sowed themselves.",
+          "hint": "Read Hosea 8:4-7 again. Notice what Israel has been making, and what the making grows into."
+        }
+      ],
+      "verse_span": {
+        "from": "4:1",
+        "to": "10:15"
+      },
+      "difficulty_tier": 3,
+      "summary": "The indictment in detail: priests who feed on sin, kings made 'but not through me,' loyalty like morning mist, and the line Jesus quoted twice — 'I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings.' They sow the wind and reap the whirlwind.",
+      "key_themes": [
+        "knowledge of God",
+        "hesed over ritual",
+        "corrupt leadership",
+        "reaping the whirlwind"
+      ],
+      "prerequisites": [
+        {
+          "node": "hos-1-3",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The legal case prosecutes the adultery the marriage-parable chapters dramatize.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-8-10",
+          "reason": "Jesus tells the Pharisees to 'go and learn what this means: I desire mercy, not sacrifice' — Hosea 6:6."
+        }
+      ],
+      "key_verses": [
+        "Hosea 4:6",
+        "Hosea 6:6",
+        "Hosea 8:7"
+      ],
+      "reading_time_minutes": 55,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "warning"
+      ],
+      "discussion_prompt": "God says his people are destroyed for lack of knowledge, and that he wants steadfast love more than sacrifice. What is the difference between knowing about God and actually knowing God, and where does your own loyalty look like morning mist?",
+      "assessment_questions": [
+        "What charges does God bring against Israel's priests and kings in these chapters?",
+        "Hosea 6:6 says God desires steadfast love and the knowledge of God more than burnt offerings. Why would God reject worship from the very people busy performing it?",
+        "Israel sowed the wind and reaped the whirlwind. What habit or compromise in your life is quietly sowing something you do not want to harvest?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Covenant means knowing God",
+          "explanation": "God wants faithful love and personal knowledge of himself, and ritual without them is judged as hypocrisy."
+        },
+        {
+          "concept": "Leaders answer for the people",
+          "explanation": "Corrupt priests and kings compound the nation's sin, so those who lead God's people carry heavier responsibility."
+        },
+        {
+          "concept": "Sin has a harvest",
+          "explanation": "Sowing the wind reaps the whirlwind, because idolatry and injustice set real consequences in motion."
+        },
+        {
+          "concept": "Indictment as invitation",
+          "explanation": "God prosecutes his people in order to call them back, so even the harshest charges serve covenant love."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain in your own words what Hosea 6:6 means and why God brings a legal case against a nation full of worship."
+    },
+    {
+      "id": "hos-11-14",
+      "title": "How Can I Give You Up?",
+      "chapters": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "comprehension_check": [
+        {
+          "question": "In Hosea 11:8-9 God recoils mid-judgment and refuses to fully destroy Ephraim. What grounds the refusal?",
+          "options": [
+            "Israel's repentance arrives at the last possible moment",
+            "An intercessor steps in to turn the sentence aside",
+            "God's own nature as the Holy One among them",
+            "The punishment already suffered is counted as enough"
+          ],
+          "answer_index": 2,
+          "why": "Hosea 11:9 roots the mercy in who God is, the Holy One dwelling in Israel's midst.",
+          "hint": "Read Hosea 11:8-9 again. Notice the reason God himself gives for holding back."
+        },
+        {
+          "question": "Chapter 14 scripts words for Israel to carry when they return to the LORD. What does the shape of that return reveal?",
+          "options": [
+            "God heals the turning away and loves them freely",
+            "Restoration waits until reformed conduct has proven the repentance",
+            "The years of exile themselves pay down the nation's debt",
+            "Only a carefully sifted remnant is offered the way back"
+          ],
+          "answer_index": 0,
+          "why": "Hosea 14:1-4 asks Israel to return carrying only words, and God answers with healing and a love given freely.",
+          "hint": "Read Hosea 14:1-4 again. Notice what Israel is told to bring, and what God promises to do."
+        }
+      ],
+      "verse_span": {
+        "from": "11:1",
+        "to": "14:9"
+      },
+      "difficulty_tier": 3,
+      "summary": "God remembers teaching Ephraim to walk, lifting the infant to his cheek — and breaks off mid-judgment: 'How can I give you up? … My heart recoils within me; I am God and not a man.' After a retelling of Jacob's wrestling and a last word against death itself, the book closes with a free-love promise: 'I will heal their apostasy.'",
+      "key_themes": [
+        "fatherly love",
+        "divine anguish",
+        "healing",
+        "return"
+      ],
+      "prerequisites": [
+        {
+          "node": "hos-4-10",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The anguished love of chapter 11 breaks against the full weight of the indictment before it.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-1-2",
+          "reason": "'Out of Egypt I called my son' (11:1) becomes Matthew's caption for the child Jesus' return from Egypt."
+        },
+        {
+          "node": "1cor-15-16",
+          "reason": "'O death, where are your plagues?' (13:14) resurfaces in Paul's resurrection taunt."
+        }
+      ],
+      "key_verses": [
+        "Hosea 11:1",
+        "Hosea 11:8",
+        "Hosea 14:4"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "sorrow",
+        "hopeful"
+      ],
+      "discussion_prompt": "In chapter 11 God remembers teaching Ephraim to walk, then cries out that he cannot give his child up. What changes when you picture God as an anguished parent instead of a distant judge, and how does that picture hold together with the judgment all around it?",
+      "assessment_questions": [
+        "What memories of Israel's childhood does God recall in chapter 11, and what promise closes the book in chapter 14?",
+        "God says his heart recoils within him because he is God and not a man. What does that line reveal about how divine mercy differs from human anger?",
+        "The book ends with God promising to heal their apostasy and love them freely. What would it mean for you to bring God your actual failures and let him do the healing?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God's fatherly love",
+          "explanation": "God raised Israel like a parent teaching a toddler to walk, and the thought of abandoning that child causes him real anguish."
+        },
+        {
+          "concept": "Judgment inside love",
+          "explanation": "God punishes idolatry because it breaks covenant love, so his severity and his tenderness come from the same heart."
+        },
+        {
+          "concept": "Wrestling as faith",
+          "explanation": "The retelling of Jacob at the Jabbok shows that honest struggle with God belongs to genuine faith."
+        },
+        {
+          "concept": "Healing for the returner",
+          "explanation": "Chapter 14 promises God will heal apostasy itself and love his people freely, so return stays possible at any point."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the picture of God in Hosea 11 and explain how the book holds his anguish, his judgment, and his promise to heal together."
+    }
+  ]
+}

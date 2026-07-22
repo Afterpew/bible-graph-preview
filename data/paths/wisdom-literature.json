@@ -1,0 +1,103 @@
+{
+  "id": "wisdom-literature",
+  "title": "Wisdom Literature",
+  "description": "The Bible's wisdom corpus in an order that builds: Proverbs states the rule, Job presses the exception, Ecclesiastes tests the limits, the Song celebrates love, and the Psalms and James carry wisdom into prayer and practice.",
+  "audience": "A reader drawn to the Bible's reflective books who wants them to talk to each other instead of reading them in isolation.",
+  "coverage": "slice",
+  "order": "enforced",
+  "canon_layers": [
+    "core"
+  ],
+  "sequence": [
+    {
+      "node": "prov-1-9",
+      "note": "The foundation: the fear of the LORD, and Wisdom calling in the streets."
+    },
+    {
+      "node": "prov-10-22a",
+      "note": "The rule: how life usually works under God. Patterns, not promises — remember that for Job."
+    },
+    {
+      "node": "prov-22b-24"
+    },
+    {
+      "node": "prov-25-29"
+    },
+    {
+      "node": "prov-30-31",
+      "note": "Humility before the rule: Agur's riddles, and wisdom embodied in a household."
+    },
+    {
+      "node": "ps-1-2",
+      "note": "The Psalter opens as a wisdom book: two ways to live."
+    },
+    {
+      "node": "ps-119",
+      "note": "Wisdom as delight: the great acrostic love poem to God's word."
+    },
+    {
+      "node": "job-1-2",
+      "note": "Now the exception: the righteous man who suffers everything."
+    },
+    {
+      "node": "job-3-14",
+      "note": "The friends speak Proverbs' language and get it wrong. Watch how."
+    },
+    {
+      "node": "job-15-21"
+    },
+    {
+      "node": "job-22-27"
+    },
+    {
+      "node": "job-28"
+    },
+    {
+      "node": "job-29-31"
+    },
+    {
+      "node": "job-32-37"
+    },
+    {
+      "node": "job-38-42",
+      "note": "The whirlwind: an answer that is a presence, not an explanation."
+    },
+    {
+      "node": "ps-73-83",
+      "note": "Asaph nearly loses his faith over the same problem — and finds footing in the sanctuary."
+    },
+    {
+      "node": "ps-84-89"
+    },
+    {
+      "node": "eccl-1-6",
+      "note": "The limits: even wisdom is vapor when death levels everything."
+    },
+    {
+      "node": "eccl-7-12",
+      "note": "The landing: fear God and keep his commandments — with your one wild, fleeting life."
+    },
+    {
+      "node": "ps-90-92",
+      "note": "Moses' psalm: 'teach us to number our days, that we may get a heart of wisdom.'"
+    },
+    {
+      "node": "ps-93-100"
+    },
+    {
+      "node": "ps-101-106"
+    },
+    {
+      "node": "song",
+      "note": "Wisdom's celebration: love strong as death, in a garden that remembers Eden."
+    },
+    {
+      "node": "jas",
+      "note": "The New Testament's wisdom book: from above, peaceable, full of mercy — and lived out loud."
+    },
+    {
+      "node": "ps-146-150",
+      "note": "End where wisdom ends: everything that has breath, praising."
+    }
+  ]
+}

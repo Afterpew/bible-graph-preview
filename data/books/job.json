@@ -1,0 +1,784 @@
+{
+  "book": "Job",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Wisdom/Poetry",
+  "nodes": [
+    {
+      "id": "job-1-2",
+      "title": "The Wager in Heaven",
+      "chapters": [
+        1,
+        2
+      ],
+      "comprehension_check": [
+        {
+          "question": "What exactly does the accuser challenge in Job 1:9-11?",
+          "options": [
+            "Whether Job's record hides sins his wealth conceals",
+            "Whether Job's faith has the strength to survive pain",
+            "Whether God has been fair in blessing Job so richly",
+            "Whether Job's devotion depends on what it earns him"
+          ],
+          "answer_index": 3,
+          "why": "Job 1:9-11 puts Job's motive on trial, predicting that once the blessing goes the devotion will go with it.",
+          "hint": "Read Job 1:9-11 again. Notice what the accuser claims will happen once the hedge is gone."
+        },
+        {
+          "question": "In Job 1:20-21 and 2:10 Job grieves hard and still worships. What do those first responses establish?",
+          "options": [
+            "That grief must be silenced before worship can be offered",
+            "That love for God can outlast every reward",
+            "That patience will shortly be repaid with doubled possessions",
+            "That accepting adversity means never questioning God about it"
+          ],
+          "answer_index": 1,
+          "why": "Job 1:21 blesses the name of the LORD from inside total loss, the very thing the accuser said could not happen.",
+          "hint": "Read Job 1:20-21 again. Notice that torn robes and worship happen in the same breath."
+        }
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "2:13"
+      },
+      "difficulty_tier": 2,
+      "summary": "The blameless Job loses children, wealth, and health in a test he never learns about: the accuser's charge that no one loves God for nothing. The prose prologue gives the reader the backstage view every character in the book lacks — the engine of all its tension.",
+      "key_themes": [
+        "innocent suffering",
+        "the accuser",
+        "disinterested faith",
+        "worship in loss"
+      ],
+      "prerequisites": [],
+      "connections": [
+        {
+          "node": "jas",
+          "reason": "James points to 'the steadfastness of Job' and the Lord's compassionate purpose as the frame for endurance."
+        }
+      ],
+      "key_verses": [
+        "Job 1:9",
+        "Job 1:21",
+        "Job 2:10"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "dense",
+      "emotional_tone": [
+        "sorrow",
+        "tension"
+      ],
+      "discussion_prompt": "The accuser's question drives the whole book: does Job fear God for nothing? Imagine everything God has given you taken away and ask what would be left of your faith. What do these chapters suggest it means to love God for who he is rather than for what he provides?",
+      "assessment_questions": [
+        "What does Job lose across these two chapters, and how does he respond each time?",
+        "The accuser claims Job is faithful only because God has blessed and protected him. Why does that charge, if true, threaten the worth of anyone's devotion to God?",
+        "Job blesses the name of the LORD in the middle of raw grief, tearing his robe and shaving his head. What would it look like for you to bring a real loss to God without pretending it hurts less than it does?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The accuser's wager",
+          "explanation": "The book opens with a challenge to Job's motives, asking whether anyone loves God for nothing, and that question drives everything that follows."
+        },
+        {
+          "concept": "Permitted but limited",
+          "explanation": "God allows the testing yet sets boundaries the accuser cannot cross, holding evil on a leash even when the reader cannot see why."
+        },
+        {
+          "concept": "Faith beyond reward",
+          "explanation": "Job's worship in the ashes shows a love for God that survives the loss of every blessing that could have explained it."
+        },
+        {
+          "concept": "Suffering is not always punishment",
+          "explanation": "God himself calls Job blameless, so the book denies from its first page that pain is automatic proof of guilt."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the accuser's challenge in your own words and describe how Job's response in chapters 1 and 2 answers it."
+    },
+    {
+      "id": "job-3-14",
+      "title": "First Cycle: Job's Outcry and the Friends' Answer",
+      "chapters": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "difficulty_tier": 4,
+      "summary": "Job breaks his week of silence by cursing the day of his birth, and Eliphaz, Bildad, and Zophar each rise to answer him with one shared logic: God does not afflict the innocent, so Job should repent and be restored. Job answers each in turn, insisting his suffering does not fit their system, and increasingly turns past them to address God directly, demanding a hearing and wishing for an umpire who could bring God and man together. The cycle closes with his bleakest meditation on human mortality and the question of whether a dead man could live again.",
+      "key_themes": [
+        "lament",
+        "the retribution principle",
+        "arguing with God",
+        "longing for a mediator",
+        "mortality"
+      ],
+      "prerequisites": [
+        {
+          "node": "job-1-2",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The dialogues argue about a calamity whose real cause only the prologue's reader knows.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Job 3:20",
+        "Job 9:33",
+        "Job 13:15"
+      ],
+      "reading_time_minutes": 55,
+      "content_density": "dense",
+      "emotional_tone": [
+        "lament",
+        "confrontational"
+      ],
+      "discussion_prompt": "Eliphaz, Bildad, and Zophar say many things that sound like sound theology, yet their words wound Job. As you read this first cycle, where exactly does their counsel go wrong: in what they say, when they say it, or who they say it to?",
+      "assessment_questions": [
+        "What does Job curse in chapter 3, and what remedy do Eliphaz, Bildad, and Zophar each urge on him in this first cycle?",
+        "In Job 9:33 Job wishes for an umpire who could lay a hand on both God and himself. What problem is Job naming, and why can none of his three friends fill that role?",
+        "Job refuses to curse God but also refuses to pretend his suffering makes sense. When your own experience does not match the tidy answers you have been given, what would it look like to take the argument to God the way Job does?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Lament breaks the silence",
+          "explanation": "Job's curse on his own birthday is raw grief given words, and Scripture includes it, showing that pain may be spoken before God rather than only endured."
+        },
+        {
+          "concept": "The retribution principle",
+          "explanation": "The friends share one system, that suffering traces back to sin, introduced gently by Eliphaz and applied with growing confidence as Job refuses to confess."
+        },
+        {
+          "concept": "Arguing toward God",
+          "explanation": "Job's decisive move is to stop defending himself to the friends and demand a hearing with God himself, which the book treats as protest inside faith, not against it."
+        },
+        {
+          "concept": "The missing umpire",
+          "explanation": "Job longs for someone able to stand between himself and God and bring them together, voicing a hope for a mediator that the rest of Scripture will answer."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the friends' shared explanation of Job's suffering in the first cycle and describe how Job's replies turn from answering them to demanding a hearing with God.",
+      "comprehension_check": [
+        {
+          "question": "All three friends give Job different speeches but one shared answer. What is it?",
+          "options": [
+            "Job's suffering is a test that will end in double blessing",
+            "Suffering follows sin, so Job's pain must point to guilt",
+            "God is too far above humans to care about one man",
+            "Job's children brought this on the family by their secret sins"
+          ],
+          "answer_index": 1,
+          "why": "Job 13:15 shows the cycle's turn: Job carries his case to God himself, still trusting the one he cannot understand.",
+          "hint": "Read Job 4:7-8 and Job 8:20 again. Notice the rule about the innocent and the wicked that both speeches lean on."
+        },
+        {
+          "question": "Across his replies in chapters 6-14, where does Job increasingly direct his case?",
+          "options": [
+            "Inward, resigning himself to silence until death releases him",
+            "To the friends, hoping better arguments will win them over",
+            "Away from God, whom he now believes is absent entirely",
+            "To God himself, demanding a hearing face to face"
+          ],
+          "answer_index": 3,
+          "why": "Job 9:33 names the ache the whole debate creates: no arbiter stands between Job and God, which is what makes his Godward turn so costly.",
+          "hint": "Read Job 13:3 and 13:15 again. Notice whom Job says he wants to speak with, and what he intends to defend there."
+        }
+      ],
+      "verse_span": {
+        "from": "3:1",
+        "to": "14:22"
+      }
+    },
+    {
+      "id": "job-15-21",
+      "title": "Second Cycle: The Fate of the Wicked",
+      "chapters": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "difficulty_tier": 4,
+      "summary": "The second round hardens: with no confession from Job, the friends abandon comfort for warning, and each paints the doom of the wicked man in lurid detail, expecting Job to recognize his own face in the portrait. Job calls them miserable comforters, yet in his darkest speech reaches his highest hope, a living Redeemer he expects to see with his own eyes. His closing reply then dismantles the friends' doctrine with plain observation: the wicked frequently live long, prosper, and die in peace.",
+      "key_themes": [
+        "the fate of the wicked",
+        "miserable comforters",
+        "the living Redeemer",
+        "observation against dogma"
+      ],
+      "prerequisites": [
+        {
+          "node": "job-3-14",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The dialogue runs continuously from the first cycle into the second.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "prov-10-22a",
+          "reason": "The friends speak in Proverbs' own act-consequence idiom — Job is wisdom literature interrogating its own genre."
+        }
+      ],
+      "key_verses": [
+        "Job 16:2",
+        "Job 19:25-26",
+        "Job 21:7"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "hopeful"
+      ],
+      "discussion_prompt": "In the same speech, Job says God has wronged him and stripped him of honor, and then declares that his Redeemer lives and that he will see God. How do protest and hope manage to live together in one mouth, and what would holding both honestly look like in your hardest season?",
+      "assessment_questions": [
+        "What picture of the wicked man's future do Eliphaz, Bildad, and Zophar each paint in this cycle, and what does Job say about the actual lives of the wicked in chapter 21?",
+        "Job's confidence that his Redeemer lives comes right after he describes being abandoned by relatives, servants, and closest friends. Why does it matter that the book places its highest hope inside its deepest isolation?",
+        "Job calls his friends miserable comforters because they repeat true-sounding words without love. Think of someone suffering near you now: what would comfort that actually comforts look like this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Miserable comforters",
+          "explanation": "When theological answers are aimed at a sufferer instead of offered to him they torment, and Job names that failure at the top of the friends' second round."
+        },
+        {
+          "concept": "The wicked man's fate as a weapon",
+          "explanation": "Each friend describes the ruin of the wicked so Job will see himself in it, showing how a true-sounding pattern becomes false when wielded as an accusation."
+        },
+        {
+          "concept": "The living Redeemer",
+          "explanation": "At his lowest point Job entrusts his vindication to a Redeemer who lives and whom he expects to see, a hope later Scripture deepens and answers."
+        },
+        {
+          "concept": "Observation against dogma",
+          "explanation": "Job refutes the friends by pointing at the world as it is, where the wicked often flourish to the grave, teaching that honest looking belongs to real wisdom."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the friends' doctrine of the fate of the wicked, describe how Job 21 answers it from observation, and state the hope Job voices in Job 19:25-27.",
+      "comprehension_check": [
+        {
+          "question": "Why do the friends spend this cycle describing the ruin of the wicked man?",
+          "options": [
+            "To hold up a mirror where Job should see himself",
+            "To reassure Job that his own future will be different",
+            "To warn the young onlookers against following Job's example",
+            "To praise the justice God shows in ruling the world"
+          ],
+          "answer_index": 0,
+          "why": "Job 19:25-26 plants resurrection-shaped hope in the middle of abandonment: a living Redeemer who will stand at last.",
+          "hint": "Read Job 15:4-6 and Job 18:4 again. Notice whom each speech turns toward before the portrait of the wicked begins."
+        },
+        {
+          "question": "In chapter 21, how does Job finally answer the friends' portraits of the wicked?",
+          "options": [
+            "He concedes the pattern but pleads that he is the exception",
+            "He argues that judgment is real but delayed until after death",
+            "He points to observation: the wicked often thrive to the end",
+            "He refuses to discuss it and appeals directly to God instead"
+          ],
+          "answer_index": 2,
+          "why": "Job 21:7 answers theory with observation: the wicked demonstrably prosper, so the friends' tidy system fails the visible world.",
+          "hint": "Read Job 21:7-13 again. Notice whose houses are at peace in the picture Job paints."
+        }
+      ],
+      "verse_span": {
+        "from": "15:1",
+        "to": "21:34"
+      }
+    },
+    {
+      "id": "job-22-27",
+      "title": "Third Cycle: The Dialogue Breaks Down",
+      "chapters": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "difficulty_tier": 4,
+      "summary": "The third round falls apart, and the collapse is the point: the friends' system has run out of things to say. Eliphaz, with no evidence left, invents concrete crimes for Job; Job answers by longing to find God's courtroom, certain that testing would prove him gold. Bildad manages only a few verses, Zophar never speaks again, and Job's voice absorbs the field, closing with a doxology to God's unsearchable power and a sworn refusal to surrender his integrity.",
+      "key_themes": [
+        "accusation without evidence",
+        "the hidden God",
+        "integrity under oath",
+        "the collapse of the debate"
+      ],
+      "prerequisites": [
+        {
+          "node": "job-15-21",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The dialogue runs continuously from the second cycle into the third.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Job 23:3",
+        "Job 23:10",
+        "Job 27:5"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "In Job 23:8-10, Job cannot find God in any direction he looks, yet he insists God knows exactly where Job is and what testing will prove him to be. Which half of that experience do you find harder to hold onto in the dark, and why?",
+      "assessment_questions": [
+        "What specific wrongs does Eliphaz accuse Job of in chapter 22, and what happens to Bildad's and Zophar's voices as the cycle ends?",
+        "Eliphaz has no evidence for the crimes he names, so why does he need Job to be guilty? What does his accusation reveal about what a theological system does when the facts threaten it?",
+        "Job keeps his integrity even though confessing false guilt would have satisfied everyone and ended the argument. Where might you be tempted to accept a false account of yourself or of God just to keep the peace, and what would Job's kind of honesty cost?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "When systems run out of arguments",
+          "explanation": "Eliphaz's invented charges show what a threatened theology does under pressure: it bends the evidence about a person rather than revise its premise."
+        },
+        {
+          "concept": "Faith in the hidden God",
+          "explanation": "Job cannot locate God in any direction, yet trusts that God sees his path and that testing will prove him, a trust that outruns sight."
+        },
+        {
+          "concept": "Integrity under oath",
+          "explanation": "Job would rather die than call his accusers right, and the book honors truth-telling before God over pious surrender to a false verdict."
+        },
+        {
+          "concept": "The limits of retribution theology",
+          "explanation": "Job's own doxology admits that all human talk about God, his included, catches only the outer edge of a power no one can fathom."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how the third cycle breaks down, including what Eliphaz resorts to and which friends fall silent, and explain what Job swears he will never surrender in Job 27:5-6.",
+      "comprehension_check": [
+        {
+          "question": "In chapter 22 Eliphaz names concrete crimes Job committed. What is happening?",
+          "options": [
+            "He has gathered testimony from Job's neighbors at last",
+            "He is repeating charges the accuser laid in heaven",
+            "His system requires guilt, so he supplies the missing sins",
+            "He is testing Job with charges he knows are false"
+          ],
+          "answer_index": 2,
+          "why": "Job 22:5-9 shows Eliphaz inventing specific crimes with no basis in the story, the system accusing where evidence fails.",
+          "hint": "Read Job 22:5-9 again. Notice what evidence Eliphaz offers for any of these charges."
+        },
+        {
+          "question": "As the dialogue collapses in chapter 27, what does Job swear to hold until death?",
+          "options": [
+            "His hope that his health and fortunes will be restored",
+            "His truthfulness about himself, refusing to confess invented guilt",
+            "His silence, since answering the friends has proven useless",
+            "His demand that God explain the reason for his suffering"
+          ],
+          "answer_index": 1,
+          "why": "Job 27:5 is the oath: Job will not concede guilt he does not have, holding integrity even against the counsel of friends.",
+          "hint": "Read Job 27:2-6 again. Notice what Job says he will never let go of as long as he breathes."
+        }
+      ],
+      "verse_span": {
+        "from": "22:1",
+        "to": "27:23"
+      }
+    },
+    {
+      "id": "job-28",
+      "title": "The Hymn to Wisdom",
+      "chapters": [
+        28
+      ],
+      "difficulty_tier": 3,
+      "summary": "Between the collapsed debate and Job's final defense stands a self-contained poem that changes the register entirely. It celebrates human ingenuity, miners tunneling into depths no falcon's eye has seen, then asks the question no technology answers: where can wisdom be found? It cannot be dug up or bought, and God alone knows the way to it; what he tells humanity is the book's quiet center, that wisdom begins in fearing the Lord and turning from evil.",
+      "key_themes": [
+        "the search for wisdom",
+        "human ingenuity's limit",
+        "wisdom's hiddenness",
+        "fear of the LORD"
+      ],
+      "prerequisites": [
+        {
+          "node": "job-22-27",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The interlude follows directly on the collapse of the dialogue cycles.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Job 28:12",
+        "Job 28:23",
+        "Job 28:28"
+      ],
+      "reading_time_minutes": 6,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "reflective"
+      ],
+      "discussion_prompt": "The poem honors human skill, we can mine the deepest seams and reroute rivers, yet insists wisdom is not found that way. In a culture that assumes every problem yields to enough research and technology, what exactly is this poem claiming we cannot engineer our way to, and where do you see that limit today?",
+      "assessment_questions": [
+        "What human achievements does the first half of the poem describe, and what question interrupts them in Job 28:12?",
+        "Why does the poem praise mining so lavishly before declaring wisdom unfindable by it? What is the effect of setting our greatest reach beside our deepest lack?",
+        "The poem locates wisdom in fearing the Lord and turning from evil rather than in intelligence or achievement. Where have you been substituting competence for wisdom, and what would the poem's answer change?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Ingenuity is not wisdom",
+          "explanation": "The poem admires mining as a genuine marvel and still declares the deepest shafts empty of the one thing needed, holding skill and wisdom apart as different goods."
+        },
+        {
+          "concept": "Wisdom is beyond price",
+          "explanation": "No gold, silver, or jewel can purchase wisdom, so the poem removes it from every economy of human acquisition before saying where it is found."
+        },
+        {
+          "concept": "God alone knows the way",
+          "explanation": "The one who sees everything under heaven knows wisdom's place, which makes seeking wisdom inseparable from seeking God himself."
+        },
+        {
+          "concept": "The interlude that reframes the debate",
+          "explanation": "Placed between the collapsed cycles and Job's oath, the poem quietly tells the reader what the whole argument has been missing before God says it from the storm."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the question the poem asks, why neither mining nor money can answer it, and what Job 28:28 finally gives as the answer.",
+      "comprehension_check": [
+        {
+          "question": "What is the point of the poem's long description of mining in Job 28:1-11?",
+          "options": [
+            "Human industry is a form of greed the poem condemns",
+            "The earth's treasures prove how richly God rewards effort",
+            "Mining shows the patience that any search for wisdom demands",
+            "Even our farthest reach into the earth cannot touch wisdom"
+          ],
+          "answer_index": 3,
+          "why": "Job 28:12 asks the question all the mining cannot answer, which is the poem's whole point about ingenuity's limit.",
+          "hint": "Read Job 28:1-12 again. Notice what the digging finds, and what question follows all that success."
+        },
+        {
+          "question": "What answer does Job 28:28 finally give to the poem's repeated question?",
+          "options": [
+            "Wisdom for humans is revering God and turning from evil",
+            "Wisdom for humans is knowledge of how creation was made",
+            "Wisdom for humans is patient acceptance of unexplained suffering",
+            "Wisdom for humans is the humility to stop asking questions"
+          ],
+          "answer_index": 0,
+          "why": "Job 28:28 gives wisdom as God's own word to humanity: fear the Lord and turn from evil.",
+          "hint": "Read Job 28:20-28 again. Notice that the answer arrives as something God says to man, not something man discovers."
+        }
+      ],
+      "verse_span": {
+        "from": "28:1",
+        "to": "28:28"
+      }
+    },
+    {
+      "id": "job-29-31",
+      "title": "Job's Final Defense and Oath of Innocence",
+      "chapters": [
+        29,
+        30,
+        31
+      ],
+      "difficulty_tier": 3,
+      "summary": "Job closes the argument with a sustained self-defense in three movements: the remembered honor of his former life, when God's friendship rested on his tent and the city gate rose to greet him; the humiliation of his present one, mocked by men he would once have pitied; and a formal oath of innocence that walks through his conduct, lust, lies, greed, injustice, and hidden idolatry, inviting God's curse if any charge sticks. It ends with his signature on his own defense and a demand that the Almighty answer him. Job does not speak again until the whirlwind.",
+      "key_themes": [
+        "remembered honor",
+        "present humiliation",
+        "oath of innocence",
+        "the demand for a hearing"
+      ],
+      "prerequisites": [
+        {
+          "node": "job-28",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Job's closing monologue resumes after the wisdom interlude.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Job 29:2",
+        "Job 31:1",
+        "Job 31:35"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "dense",
+      "emotional_tone": [
+        "sorrow",
+        "resolve"
+      ],
+      "discussion_prompt": "In chapter 31 Job reviews his life clause by clause, his eyes, his money, his workers, the poor, even secret gloating over an enemy, and invites judgment if he has failed. If you drew up your own chapter 31, which clause would be hardest to sign, and what does Job's willingness to sign teach about a clear conscience?",
+      "assessment_questions": [
+        "What does Job remember about his former life in chapter 29, and what kinds of conduct does he swear himself clear of in chapter 31?",
+        "Job's oath invokes curses on himself if he is lying, and then he signs it and demands God's answer. Why is this a fitting climax to everything Job has argued since chapter 3?",
+        "Job's integrity covered his eyes, his money, and his treatment of people with no power over him. Which of those three areas most needs an honest audit in your own life, and what would you find?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The anatomy of a righteous life",
+          "explanation": "The oath ranges from the eyes to the ledger to the treatment of servants and strangers, judging motives as well as acts, one of the Old Testament's fullest portraits of integrity."
+        },
+        {
+          "concept": "Honor remembered, honor lost",
+          "explanation": "Chapters 29 and 30 show the same life from both sides of calamity, teaching that suffering strips social standing and dignity along with health and wealth."
+        },
+        {
+          "concept": "The signed challenge",
+          "explanation": "Job stakes everything on a formal demand that God answer his defense, and the whirlwind speeches that follow are God taking up exactly this challenge."
+        },
+        {
+          "concept": "Self-defense at its limit",
+          "explanation": "Job's case is honest and impressive, yet it edges toward self-justification, the note both Elihu and God will address, and the book lets the reader feel why."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Outline the three movements of Job's final speech and explain what his signed challenge in Job 31:35 asks of God.",
+      "comprehension_check": [
+        {
+          "question": "What is Job doing with the long series of self-curses in chapter 31?",
+          "options": [
+            "Confessing at last the hidden sins the friends suspected",
+            "Formally staking his life on his innocence before God",
+            "Bargaining with God, offering virtue in exchange for healing",
+            "Teaching his hearers the standard a righteous man should meet"
+          ],
+          "answer_index": 1,
+          "why": "Job 31:35 caps the defense: a signed oath demanding a hearing, which is exactly what the whirlwind answers.",
+          "hint": "Read Job 31:5-8 and 31:35 again. Notice the if-then shape of each claim and what Job asks for once the list is complete."
+        },
+        {
+          "question": "By the end of chapter 31, what is Job waiting for?",
+          "options": [
+            "The friends to withdraw their charges and comfort him properly",
+            "Death to end a case that no court can settle",
+            "God to answer his signed defense in person",
+            "Time to restore the honor his community stripped away"
+          ],
+          "answer_index": 2,
+          "why": "Job 29:2-5 grounds the lament: what Job misses most is the friendship of God on his tent, not the wealth.",
+          "hint": "Read Job 31:35-37 again. Notice whose answer Job demands, and how he says he would carry that answer."
+        }
+      ],
+      "verse_span": {
+        "from": "29:1",
+        "to": "31:40"
+      }
+    },
+    {
+      "id": "job-32-37",
+      "title": "Elihu: The Angry Young Man",
+      "chapters": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "comprehension_check": [
+        {
+          "question": "Against both Job and the friends, what does Elihu add to the debate about suffering?",
+          "options": [
+            "Suffering can be discipline that teaches and turns a person",
+            "Suffering entitles the sufferer to demand answers of God",
+            "Suffering always traces back to a hidden sin somewhere",
+            "Suffering is beneath the notice of so great a God"
+          ],
+          "answer_index": 0,
+          "why": "Job 33:29-30 shows God working through affliction to turn a person back from the pit toward life.",
+          "hint": "Read Job 33:29-30 and Job 36:15 again. Notice what Elihu says suffering can accomplish."
+        },
+        {
+          "question": "Elihu defends his right to speak despite his youth (Job 32:6-9). What claim underwrites his boldness?",
+          "options": [
+            "Fresh eyes catch what long-practiced elders have stopped seeing",
+            "Righteous anger carries with it an authority to speak",
+            "Understanding comes from God's breath rather than accumulated years"
+          ],
+          "answer_index": 2,
+          "why": "Job 32:8 locates understanding in the spirit God breathes into a person, which is why a younger voice may carry it.",
+          "hint": "Read Job 32:8-9 again. Notice where Elihu says understanding actually comes from."
+        }
+      ],
+      "verse_span": {
+        "from": "32:1",
+        "to": "37:24"
+      },
+      "difficulty_tier": 4,
+      "summary": "A furious younger bystander rejects both Job's self-justification and the friends' failed answers, arguing that suffering can discipline and teach, not only punish. Readers have argued for centuries whether Elihu is a corrective voice or one more windbag — the text never says.",
+      "key_themes": [
+        "discipline",
+        "youth and authority",
+        "suffering as teacher"
+      ],
+      "prerequisites": [
+        {
+          "node": "job-29-31",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Elihu's speech is a response to the dialogues' stalemate; he quotes and rebuts both sides.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Job 32:8",
+        "Job 33:29-30",
+        "Job 36:15"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "reflective"
+      ],
+      "discussion_prompt": "Elihu argues that suffering can be God's way of teaching and rescuing, and readers have never agreed on whether he speaks for God or just speaks loudest. Judging only from what he says in these chapters, what does he get right about suffering, and where does his confidence make you cautious?",
+      "assessment_questions": [
+        "Why does Elihu say he waited to speak, and what makes him angry at both Job and the three friends?",
+        "Elihu claims God speaks through suffering to turn people back and spare them from the pit. How does his view of suffering differ from the friends' insistence that it is punishment?",
+        "Elihu tells Job to stop and consider the wondrous works of God. When you are hurting, what practice could help you stay open to what God might be teaching without pretending the pain is good?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Suffering can instruct",
+          "explanation": "Elihu presents pain as a discipline that can warn, teach, and turn a person back to God, widening the book's picture beyond punishment."
+        },
+        {
+          "concept": "God's justice is beyond indictment",
+          "explanation": "Elihu insists the Almighty does no wrong even when his governance is hard to trace, urging restraint before accusing God."
+        },
+        {
+          "concept": "Wisdom is not owned by age",
+          "explanation": "Elihu claims it is the breath of the Almighty that gives understanding, so even a young voice may carry insight the elders missed."
+        },
+        {
+          "concept": "An unresolved voice",
+          "explanation": "The book never says whether Elihu is a corrective or one more flawed speaker, and the question stays open until God himself answers from the whirlwind; readers learn to weigh every human word about God."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Summarize Elihu's account of why God allows suffering and explain how it differs from what the three friends said."
+    },
+    {
+      "id": "job-38-42",
+      "title": "The Voice from the Whirlwind",
+      "chapters": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "comprehension_check": [
+        {
+          "question": "God's answer from the whirlwind never mentions Job's losses or the wager. What kind of answer do the creation questions give?",
+          "options": [
+            "They convict Job of the hidden sins the friends alleged",
+            "They set Job inside a wisdom governing worlds he cannot see",
+            "They reveal the heavenly wager so Job can understand his testing",
+            "They promise restoration as the reward for his patient endurance"
+          ],
+          "answer_index": 1,
+          "why": "Job 38:4 begins a tour of realms Job neither made nor manages, and meeting their Maker proves enough (Job 42:5).",
+          "hint": "Read Job 38:1-7 again. Notice what God asks about, and what he never brings up."
+        },
+        {
+          "question": "After all the protests, God says that Job, and not the friends, spoke rightly of him (Job 42:7). What does that verdict honor?",
+          "options": [
+            "Patient silence under trial over every form of honest complaint",
+            "The friends' sound doctrine once purified of its harsh delivery",
+            "Repentance alone, with all of Job's protests set aside",
+            "Honest speech aimed at God over tidy defenses of him"
+          ],
+          "answer_index": 3,
+          "why": "Job 42:7-8 twice affirms that Job spoke rightly of God, and Job had aimed even his hardest words at God himself.",
+          "hint": "Read Job 42:7-8 again. Notice who must intercede for whom, and what God says about each side's words."
+        }
+      ],
+      "verse_span": {
+        "from": "38:1",
+        "to": "42:17"
+      },
+      "difficulty_tier": 3,
+      "summary": "God finally answers — with a torrent of unanswerable questions about wild oceans, ostriches, and Leviathan, and no explanation of Job's suffering at all. Job is silenced yet satisfied ('now my eye sees you'), the friends are rebuked for speaking wrongly of God, and Job's fortunes are restored double.",
+      "key_themes": [
+        "divine speech",
+        "creation's wildness",
+        "humility",
+        "restoration"
+      ],
+      "prerequisites": [
+        {
+          "node": "job-29-31",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The whirlwind speeches answer the demand for a hearing Job has been building for thirty chapters.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "gen-1-3",
+          "reason": "God's creation catalogue revisits Genesis 1 from the inside — creation as untamed wonder, not just order."
+        }
+      ],
+      "key_verses": [
+        "Job 38:4",
+        "Job 42:5-6",
+        "Job 42:10"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "resolve"
+      ],
+      "discussion_prompt": "God answers Job with questions about storehouses of snow, wild donkeys, and Leviathan, and never explains the wager of chapter 1. Yet Job says his eye now sees God and he is satisfied. What does Job receive in the whirlwind that an explanation could never have given him, and what would seeking that change about your own prayers?",
+      "assessment_questions": [
+        "What kinds of things does God ask Job about from the whirlwind, and what happens to Job and his friends after the speeches end?",
+        "God rebukes the friends for speaking wrongly about him, yet they said many correct-sounding things about God's justice. What made Job's speech right and theirs wrong?",
+        "Job stops demanding answers once he encounters God himself. Where in your life are you demanding an explanation, and what might it mean to seek God's presence there instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Creator's perspective",
+          "explanation": "God's tour of untamed creation reveals a wisdom governing realms Job cannot begin to grasp, resetting the scale of the whole argument."
+        },
+        {
+          "concept": "Presence over explanation",
+          "explanation": "God never explains Job's losses, yet meeting God satisfies Job in a way that reasons never could."
+        },
+        {
+          "concept": "Humility that sees",
+          "explanation": "Job repents in dust and ashes when his hearing of God becomes seeing, modeling reverence before mystery."
+        },
+        {
+          "concept": "Vindication and restoration",
+          "explanation": "God declares that Job spoke rightly of him, rebukes the friends, and restores Job's fortunes double, ending the book in mercy."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what God says from the whirlwind and explain why Job is satisfied even though his suffering is never explained."
+    }
+  ]
+}

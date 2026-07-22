@@ -1,0 +1,123 @@
+{
+  "book": "1 Maccabees",
+  "testament": "OT",
+  "canon_layer": "catholic_deuterocanon",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "1macc",
+      "title": "1 Maccabees: The Revolt",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "difficulty_tier": 3,
+      "summary": "Sober military history of the crisis Daniel foresaw: Antiochus IV desecrates the temple with the 'desolating sacrilege,' the priest Mattathias raises revolt, and his son Judas Maccabeus ('the Hammer') retakes Jerusalem — the temple's rededication is the origin of Hanukkah. The dynasty's rise fills the silent centuries between Malachi and Matthew.",
+      "key_themes": [
+        "persecution",
+        "revolt",
+        "temple rededicated",
+        "zeal for the law"
+      ],
+      "prerequisites": [
+        {
+          "node": "dan-8-12",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The desecration and tribulation these chapters narrate is the crisis Daniel 8 and 11 describe in vision.",
+          "scope": "foundation"
+        },
+        {
+          "node": "neh-8-13",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The story presumes the post-exilic temple community the Ezra-Nehemiah reforms established."
+        }
+      ],
+      "connections": [
+        {
+          "node": "john-9-12",
+          "reason": "John 10's 'Feast of Dedication' is Hanukkah — Jesus walks the temple this book's victory rededicated."
+        }
+      ],
+      "tradition_notes": "Canonical for Catholics and Orthodox; apocryphal for Protestants, though widely read by them as indispensable intertestamental history — the political world of the Gospels (Hasmoneans, Pharisees, Sadducees, Rome's arrival) grows directly out of these events.",
+      "key_verses": [
+        "1 Maccabees 1:54",
+        "1 Maccabees 3:19",
+        "1 Maccabees 4:59"
+      ],
+      "reading_time_minutes": 140,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "urgent",
+        "resolve"
+      ],
+      "discussion_prompt": "Antiochus outlaws the covenant, and many Israelites go along with it while one family resists at any cost. What do these chapters show about the slow pressure to blend in, and where does staying identifiably faithful cost you something real today?",
+      "assessment_questions": [
+        "What does Antiochus IV do to the temple and to Jewish practice, and how do Mattathias and his sons respond?",
+        "Before battle, Judas tells his outnumbered men that strength comes from Heaven and that victory does not depend on the size of an army. How does the book hold God's help and human courage together in the fighting that follows?",
+        "The rededication of the temple becomes a yearly feast so the people will never forget it. Which of God's past mercies in your life deserves a fixed place in your memory, and how could you mark it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Fidelity under persecution",
+          "explanation": "Keeping covenant worship alive under a hostile empire is what preserves the people's identity."
+        },
+        {
+          "concept": "The pull of assimilation",
+          "explanation": "The crisis begins when God's people trade what makes them distinct for cultural acceptance."
+        },
+        {
+          "concept": "Heaven's help and human courage",
+          "explanation": "The book tells one story in which God's providence and daring human action work together for deliverance."
+        },
+        {
+          "concept": "Memory anchors worship",
+          "explanation": "The temple's cleansing and its yearly feast show a community holding onto God's victories by remembering them."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Tell the story of the revolt from the desecration of the temple to its rededication, and explain why that cleansing became a yearly feast.",
+      "comprehension_check": [
+        {
+          "question": "Before a lopsided battle, Judas says in 1 Maccabees 3:18-19 that victory does not depend on an army's size. How does the book square that with its relentless soldiering?",
+          "options": [
+            "Strength comes from Heaven through the men who fight",
+            "The speeches lay piety over what is purely military history",
+            "Prayer served the army chiefly as morale before battle",
+            "Victory was guaranteed, so the fighting carried no risk"
+          ],
+          "answer_index": 0,
+          "why": "1 Maccabees 3:19 rests the outcome with Heaven while the story keeps mustering and marching, dependence and courage in the same men.",
+          "hint": "Read 1 Maccabees 3:17-22 again. Notice what the outnumbered men ask Judas, and where he says strength comes from."
+        },
+        {
+          "question": "1 Maccabees 1 opens the crisis with Israelites proposing a covenant with the Gentiles, before Antiochus profanes anything. Why start there?",
+          "options": [
+            "To excuse Antiochus by spreading guilt onto Israel first",
+            "To show the threat rising inside Israel before force arrives",
+            "To contrast a faithful Israel with a handful of traitors",
+            "To show the king merely finished what Israel had begun"
+          ],
+          "answer_index": 1,
+          "why": "1 Maccabees 1:11-15 opens with the renegades' proposal and its willing takers, an assimilation chosen before any decree compelled it.",
+          "hint": "Read 1 Maccabees 1:11-15 again. Notice who makes the first move in the book, and what they are eager to join."
+        }
+      ]
+    }
+  ]
+}

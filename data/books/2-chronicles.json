@@ -1,0 +1,872 @@
+{
+  "book": "2 Chronicles",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "2chr-1",
+      "title": "Solomon Asks for Wisdom",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:17"
+      },
+      "difficulty_tier": 2,
+      "summary": "The Chronicler opens Solomon's reign at Gibeon, where the whole assembly seeks the LORD before the Mosaic altar and God appears at night with an open offer: ask what I shall give you. Solomon asks for wisdom and knowledge to govern a people too great for him, and receives them, plus the riches and honor he never requested. One chapter is all the Chronicler needs to set the reign's terms: the king who begins by asking rightly is the king fit to build the house.",
+      "key_themes": [
+        "asking rightly",
+        "wisdom for others' sake",
+        "worship before work"
+      ],
+      "prerequisites": [],
+      "connections": [],
+      "key_verses": [
+        "2 Chronicles 1:7",
+        "2 Chronicles 1:10",
+        "2 Chronicles 1:11-12"
+      ],
+      "reading_time_minutes": 5,
+      "content_density": "light",
+      "emotional_tone": [
+        "hopeful",
+        "reverent"
+      ],
+      "discussion_prompt": "Given one open-ended offer from God, Solomon's request is shaped entirely by the task in front of him: govern this great people. What does the shape of your asking reveal about what you think your life is for, and what would a Solomon-shaped request sound like from you?",
+      "assessment_questions": [
+        "Where does Solomon go to worship in 2 Chronicles 1, and what does he ask for when God says to ask?",
+        "God's reply lists everything Solomon did not request, riches, honor, the lives of his enemies, before granting wisdom and more besides. What does that inventory teach about how God weighs requests?",
+        "Solomon asks for wisdom because of a responsibility he already carries. Name the biggest responsibility currently on you, and put into one sentence the request for it you would bring to God's open offer."
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Wisdom asked, wisdom given",
+          "explanation": "Solomon asks for wisdom and knowledge to govern God's people, and God grants both the request and the wealth he never sought."
+        },
+        {
+          "concept": "The request reveals the heart",
+          "explanation": "God's delight in what Solomon asked, and in what he did not, shows prayers working as diagnostics of what we actually treasure."
+        },
+        {
+          "concept": "Gifts serve the calling",
+          "explanation": "Wisdom is requested for governing, so the gift exists for the people's good rather than the king's advantage, the pattern for every good endowment."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Solomon's request at Gibeon and explain why God grants riches and honor that were never asked for.",
+      "comprehension_check": [
+        {
+          "question": "In 2 Chronicles 1:11-12, God explains why Solomon's request pleases him. What is the reason?",
+          "options": [
+            "Solomon asked humbly rather than presuming on the promise",
+            "Solomon asked for the good of the people he must govern",
+            "Solomon asked at the lawful altar with the whole assembly",
+            "Solomon asked for the one gift God most loves to give"
+          ],
+          "answer_index": 1,
+          "why": "2 Chronicles 1:11 singles out what Solomon did not ask, and honors the request made for governing the people in his charge.",
+          "hint": "Read 2 Chronicles 1:10-12 again. Notice which unmade requests God lists, and what the made request was for."
+        }
+      ]
+    },
+    {
+      "id": "2chr-2-7",
+      "title": "The Temple Built and Dedicated",
+      "chapters": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "2:1",
+        "to": "7:22"
+      },
+      "difficulty_tier": 3,
+      "summary": "Solomon builds: the Huram correspondence and the conscripted labor, the house on Mount Moriah with its cherubim and veil, the sea, the lampstands, the courts. At the dedication the ark enters, the singers praise, and the glory cloud fills a house Solomon freely admits cannot contain the God of heaven; his great prayer asks that this impossible address become the place where sinners, foreigners, and exiles are heard. Fire falls, the feast is kept, and God answers by night with the Chronicler's signature promise: when judgment falls, if my people humble themselves and pray and seek and turn, I will hear, forgive, and heal.",
+      "key_themes": [
+        "God's presence in the house",
+        "prayer at the center",
+        "humbling and healing",
+        "temple"
+      ],
+      "prerequisites": [
+        {
+          "node": "1kgs-5-8",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Reading Kings' fuller account first reveals what the Chronicler is selecting and why."
+        },
+        {
+          "node": "1chr-22-29",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Solomon builds with the plans and materials David assembled in 1 Chronicles.",
+          "scope": "sequence"
+        },
+        {
+          "node": "2chr-1",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The building project follows straight from the newly established king's request for wisdom.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Chronicles 6:18",
+        "2 Chronicles 7:1-3",
+        "2 Chronicles 7:14"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reverent",
+        "awe"
+      ],
+      "discussion_prompt": "Solomon builds God a magnificent house while asking out loud how any house can hold him, and God's night answer is about what happens when his people sin and disaster comes. Reading chapters 6-7 together, what do you think the temple is actually for, and what would it mean for your praying that God plans for failure in advance?",
+      "assessment_questions": [
+        "What fills the temple in 2 Chronicles 5:13-14 and again in 7:1-3, and how do the people respond?",
+        "Solomon's prayer keeps imagining futures of defeat, drought, and exile, and asks God to hear from heaven when people pray toward this place. What does that make the temple's central purpose, and how does God's answer in 7:12-16 confirm it?",
+        "God's night answer gives a sequence, humble, pray, seek, turn, and a promise, hear, forgive, heal. Which step in that sequence is hardest for you, and what situation in your life is waiting on it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The temple as meeting place",
+          "explanation": "Fire and glory answer the dedication, marking the house as the place where God hears his people and they bow in worship."
+        },
+        {
+          "concept": "A house that cannot hold him",
+          "explanation": "Solomon's question in 2 Chronicles 6:18 keeps the theology honest: God dwells with Israel without being contained by Israel's architecture."
+        },
+        {
+          "concept": "Built for repentance",
+          "explanation": "The dedication prayer and God's answer both center on sin, return, and forgiveness, so the temple's core business is mercy for people who fail."
+        },
+        {
+          "concept": "Humbling, prayer, and healing",
+          "explanation": "2 Chronicles 7:14 gives the Chronicler's community its blueprint for restoration after judgment, the promise the whole book is arranged around."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what happens at the temple's dedication and explain the sequence and promise of God's night answer in 2 Chronicles 7:13-14.",
+      "comprehension_check": [
+        {
+          "question": "Solomon asks in 2 Chronicles 6:18 whether God will really dwell with man on earth, since heaven cannot contain him. Standing inside his own new temple, what is he confessing?",
+          "options": [
+            "The temple is God's gracious address, never God's container",
+            "The temple project overreached what God had actually commanded",
+            "The temple must stay open to the surrounding nations",
+            "The temple's holiness depends on the king who built it"
+          ],
+          "answer_index": 0,
+          "why": "2 Chronicles 6:18-21 holds both truths in one prayer: heaven cannot contain God, yet his name and eyes rest on this house to hear.",
+          "hint": "Read 2 Chronicles 6:18-21 again. Notice what Solomon asks God's eyes and ears to do toward the house he cannot live in."
+        },
+        {
+          "question": "God's night answer in 2 Chronicles 7:13-14 assumes a future of drought, locusts, and plague among his people. What does that assumption reveal about the temple's purpose?",
+          "options": [
+            "It guarantees the land against disaster while worship continues",
+            "It warns that the building itself will share in Israel's punishments",
+            "It secures the dynasty Solomon's line needs to keep ruling",
+            "It stands ready as the road back when his people fall"
+          ],
+          "answer_index": 3,
+          "why": "2 Chronicles 7:13-14 plans for failure in advance: when judgment falls, humbling, prayer, seeking, and turning meet hearing, forgiveness, and healing.",
+          "hint": "Read 2 Chronicles 7:12-16 again. Notice what circumstances God describes, and what he promises to do from heaven when they come."
+        }
+      ]
+    },
+    {
+      "id": "2chr-8-9",
+      "title": "Solomon's Splendor and the Queen of Sheba",
+      "chapters": [
+        8,
+        9
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "9:31"
+      },
+      "difficulty_tier": 2,
+      "summary": "The frame closes: building projects finished, the worship courses keeping David's ordinances at the completed house, the fleet bringing gold from Ophir. The queen of Sheba arrives with hard questions and leaves breathless, blessing the LORD who delighted in Solomon and set him on the throne to do justice and righteousness. The Chronicler ends the reign at its height, wealth beyond every king of the earth and wisdom the world lines up to hear, and omits the fall that Kings records; his Solomon exists to show what Israel looks like when the temple stands at the center.",
+      "key_themes": [
+        "splendor as blessing",
+        "the nations drawn in",
+        "worship maintained",
+        "a selective portrait"
+      ],
+      "prerequisites": [
+        {
+          "node": "2chr-2-7",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The closing frame of Solomon's reign follows the completed and dedicated temple.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Chronicles 8:16",
+        "2 Chronicles 9:8",
+        "2 Chronicles 9:23"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "light",
+      "emotional_tone": [
+        "celebratory",
+        "reflective"
+      ],
+      "discussion_prompt": "A foreign queen looks at Solomon's kingdom and reads it correctly: your God loved Israel, so he made you king to do justice and righteousness. When outsiders look at what you have built, what do they conclude about your God, and what would you want them to?",
+      "assessment_questions": [
+        "What does the queen of Sheba come to test in 2 Chronicles 9, and what does she say about the LORD in 9:8?",
+        "Kings records Solomon's later idolatry; the Chronicler stops at his splendor. Given the post-exilic audience, what is the Chronicler teaching by ending the portrait at its height?",
+        "The queen blesses God because Solomon's throne exists to do justice and righteousness. Where has God positioned you with resources or standing, and what justice-shaped use of them would make an outsider bless him?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Splendor is a signpost",
+          "explanation": "Solomon's wealth and the queen's astonishment display God's blessing, while the story insists that favor never replaces faithfulness."
+        },
+        {
+          "concept": "The nations come to listen",
+          "explanation": "Kings of the earth seeking Solomon's God-given wisdom previews Israel's vocation as a light that draws outsiders toward the LORD."
+        },
+        {
+          "concept": "A throne for justice",
+          "explanation": "The queen's blessing defines the throne's purpose: kingship held for the LORD, given because God loved Israel and wants justice done."
+        },
+        {
+          "concept": "A portrait with a purpose",
+          "explanation": "The omitted fall is the Chronicler's sermon in silhouette, holding up temple-centered kingship as the model his community should rebuild toward."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the queen of Sheba's visit shows about Solomon's reign, and why the Chronicler ends the portrait without the fall that Kings records.",
+      "comprehension_check": [
+        {
+          "question": "The queen of Sheba interprets everything she has seen in 2 Chronicles 9:8. Whose achievement does she say the kingdom is?",
+          "options": [
+            "Solomon's, whose own wisdom turned inherited peace into great wealth",
+            "David's, whose preparations made the whole reign possible",
+            "The LORD's, who enthroned Solomon out of love for Israel",
+            "Israel's, whose offerings and labor raised the temple"
+          ],
+          "answer_index": 2,
+          "why": "2 Chronicles 9:8 blesses the LORD who delighted in Solomon, set him on the LORD's own throne, and loved Israel enough to want justice done.",
+          "hint": "Read 2 Chronicles 9:7-8 again. Notice whose throne the queen says Solomon sits on, and why she says he was given it."
+        },
+        {
+          "question": "Readers of Kings know how Solomon's story ends; the Chronicler stops at the splendor of chapter 9. What is the omission doing?",
+          "options": [
+            "Holding up temple-centered kingship as the pattern to rebuild",
+            "Implying the familiar ending has been corrected by better records",
+            "Protecting a beloved national hero's reputation for later generations",
+            "Suggesting wealth itself proves that a king pleases God"
+          ],
+          "answer_index": 0,
+          "why": "2 Chronicles 8:16 crowns the account, all Solomon's work completed with the house of the LORD finished, the ideal his community is called back to.",
+          "hint": "Read 2 Chronicles 8:12-16 again. Notice what activities fill the Chronicler's summary of the reign, and what the completed house anchors."
+        }
+      ]
+    },
+    {
+      "id": "2chr-10-16",
+      "title": "Schism to Asa: The Divided Kingdom's First Kings",
+      "chapters": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_span": {
+        "from": "10:1",
+        "to": "16:14"
+      },
+      "difficulty_tier": 3,
+      "summary": "Rehoboam takes the young men's counsel and loses ten tribes in a sentence; the Chronicler follows only Judah from here. Shishak's invasion answers unfaithfulness, yet humbling brings partial deliverance; Abijah wins by relying on the LORD; and Asa's long reign becomes the rubric's showcase: reform and peace while he seeks the LORD, then a bought alliance with Aram, an imprisoned seer, and a disease he takes to physicians alone. Two sayings from these chapters carry the book's theology: the LORD is with you while you are with him, and his eyes range the earth to strengthen hearts fully devoted to him.",
+      "key_themes": [
+        "seeking God",
+        "humbling averts wrath",
+        "reform and relapse",
+        "kingship assessed"
+      ],
+      "prerequisites": [
+        {
+          "node": "2chr-8-9",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The southern kings' story runs downhill from Solomon's temple height.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "1kgs-12-16",
+          "reason": "Kings covers the same era with both kingdoms in view; Chronicles deliberately keeps only Judah in frame."
+        }
+      ],
+      "key_verses": [
+        "2 Chronicles 12:14",
+        "2 Chronicles 15:2",
+        "2 Chronicles 16:9"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "reflective"
+      ],
+      "discussion_prompt": "Asa in his youth faces a vast Cushite army with prayer, and in his old age cannot face a border dispute or an illness without buying human help. What happens to a person between those two points, and what keeps early trust from calcifying into late self-reliance in your own life?",
+      "assessment_questions": [
+        "What splits the kingdom in 2 Chronicles 10, and how do Asa's early years in chapters 14-15 differ from his last years in chapter 16?",
+        "Azariah tells Asa the LORD is with you while you are with him, and Hanani says God's eyes seek hearts fully devoted. How do these two sayings interpret everything that happens from Rehoboam to Asa?",
+        "Asa's decline shows in where he turns first, treaty before trust, physicians before prayer. Audit your own last hard month: where did you turn first, and what would seeking God first have changed?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "One rubric for every reign",
+          "explanation": "The Chronicler grades each king on whether he sought the LORD, making covenant faithfulness the real measure of political success."
+        },
+        {
+          "concept": "Humbling averts wrath",
+          "explanation": "Rehoboam's response to Shishak shows judgment tempered the moment leaders humble themselves, the temple promise already at work in history."
+        },
+        {
+          "concept": "Trust outperforms alliances",
+          "explanation": "Asa's bought Aramean treaty wins a skirmish and forfeits the war, exposing where Judah's security actually comes from."
+        },
+        {
+          "concept": "Finishing matters",
+          "explanation": "Asa's story warns that a good start does not decide the end, since the seeking rubric keeps being applied to the whole of a life."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the Chronicler's seek-the-LORD rubric using Rehoboam's humbling and the two halves of Asa's reign as evidence.",
+      "comprehension_check": [
+        {
+          "question": "Asa defeats a huge army by prayer in chapter 14, then buys Aramean help against little Baasha in chapter 16. What does the seer Hanani say Asa's treaty revealed?",
+          "options": [
+            "A kingdom grown too depleted to fight two wars at once",
+            "A ruler grown wiser about the limits of miracles",
+            "A political skill the Chronicler was unwilling to honor",
+            "A heart no longer relying on the LORD who saved him"
+          ],
+          "answer_index": 3,
+          "why": "2 Chronicles 16:7-9 contrasts the Cushite deliverance with the new treaty, and names the eyes of the LORD seeking fully devoted hearts.",
+          "hint": "Read 2 Chronicles 16:7-9 again. Notice what Hanani reminds Asa about the earlier war, and what he says God is looking for."
+        },
+        {
+          "question": "Azariah's word in 2 Chronicles 15:2, the LORD is with you while you are with him, governs the whole section. What is it claiming?",
+          "options": [
+            "God's presence rewards the nation's ritual exactness",
+            "God lets his people choose the nearness they will have",
+            "God's faithfulness fluctuates with his people's moods",
+            "God remains only with the kings who win their battles"
+          ],
+          "answer_index": 1,
+          "why": "2 Chronicles 15:2 and 15:4 promise that seeking finds and forsaking loses, the covenant dynamic Asa's own two halves then act out.",
+          "hint": "Read 2 Chronicles 15:1-4 again. Notice the conditions in the sentence, and who does the turning in verse 4."
+        }
+      ]
+    },
+    {
+      "id": "2chr-17-20",
+      "title": "Jehoshaphat: The LORD Fights for Judah",
+      "chapters": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_span": {
+        "from": "17:1",
+        "to": "20:37"
+      },
+      "difficulty_tier": 2,
+      "summary": "Jehoshaphat's early reign is the rubric at its best: he walks in the earlier ways of David, sends officials with the Book of the Law to teach in every town, and the fear of the LORD keeps the neighbors at peace. His alliance with Ahab nearly kills him at Ramoth-gilead, where only Micaiah, against four hundred prophets, tells the truth; the seer Jehu's rebuke sends him home to reform the courts. Then a vast coalition marches, and Judah's answer is the book in miniature: fasting, a prayer that ends we do not know what to do, but our eyes are on you, and a choir marching before the army while the LORD sets the ambush.",
+      "key_themes": [
+        "seeking God",
+        "teaching the word",
+        "dangerous alliances",
+        "praise ahead of victory"
+      ],
+      "prerequisites": [
+        {
+          "node": "2chr-10-16",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Jehoshaphat succeeds his father Asa and inherits the kingdom the first kings shaped.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Chronicles 20:12",
+        "2 Chronicles 20:15",
+        "2 Chronicles 20:21-22"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "awe",
+        "hopeful"
+      ],
+      "discussion_prompt": "Jehoshaphat's battle prayer admits powerlessness and ignorance in front of his whole nation, and the army marches out behind singers instead of shock troops. What kind of confidence makes that possible, and what current fight of yours would look different if it opened with that admission?",
+      "assessment_questions": [
+        "What does Jehoshaphat send through the towns of Judah in 2 Chronicles 17, and how does Judah face the invasion in chapter 20?",
+        "The battle liturgy of chapter 20, fasting, prayer, a prophet's word, singers in front, wins without Judah fighting. What is the Chronicler teaching about where the battle is decided, and how does 20:15 say it?",
+        "Jehoshaphat's prayer ends with eyes on God rather than a plan. Name the situation where you most need to say we do not know what to do, and decide what fixing your eyes on God would concretely involve this week."
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The word goes on tour",
+          "explanation": "Jehoshaphat's teaching mission sends the Book of the Law through every town, reform by instruction before any crisis arrives."
+        },
+        {
+          "concept": "The battle is God's",
+          "explanation": "The word of 2 Chronicles 20:15-17 hands the war to God, and Judah's role becomes standing, believing, and singing."
+        },
+        {
+          "concept": "Praise ahead of the outcome",
+          "explanation": "The choir sings God's enduring love before the victory exists, worship as trust in motion rather than a technique that forces results."
+        },
+        {
+          "concept": "Alliances have prices",
+          "explanation": "The Ahab venture nearly costs Jehoshaphat his life and draws prophetic rebuke, the counterweight to his reforms in the Chronicler's assessment."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell how Judah faces the coalition in 2 Chronicles 20, and explain what the teaching mission and the Ahab alliance each contribute to Jehoshaphat's portrait.",
+      "comprehension_check": [
+        {
+          "question": "Jehoshaphat puts singers in front of the army in 2 Chronicles 20:21. What does that arrangement express?",
+          "options": [
+            "Trust acting on the promise that the battle belongs to God",
+            "A newly discovered ritual technique for unleashing God's power in war",
+            "A ceremonial formality Israel's armies had always observed",
+            "Confidence that the enemy would flee at loud worship"
+          ],
+          "answer_index": 0,
+          "why": "2 Chronicles 20:15-17 gives the promise before the march, the battle is God's and Judah need only stand, and the singing answers that word with trust.",
+          "hint": "Read 2 Chronicles 20:15-22 again. Notice what Judah is told the battle is, and when the singing begins relative to the victory."
+        },
+        {
+          "question": "At Ramoth-gilead, four hundred prophets promise victory and Micaiah alone dissents. What does the scene teach about God's word?",
+          "options": [
+            "Prophecy in Israel had decayed beyond recovery",
+            "Kings deserve counsel that strengthens their resolve",
+            "Majorities of religious voices can be wrong together",
+            "God speaks through whichever prophet the king commissions"
+          ],
+          "answer_index": 2,
+          "why": "2 Chronicles 18:13 sets Micaiah's rule, whatever my God says, that I will speak, and the battle's outcome vindicates the lone voice.",
+          "hint": "Read 2 Chronicles 18:12-13 and 18:33-34 again. Notice what Micaiah refuses to adjust, and how the day ends for the king who ignored him."
+        }
+      ]
+    },
+    {
+      "id": "2chr-21-24",
+      "title": "Athaliah, Joash, and the Line Nearly Extinguished",
+      "chapters": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "verse_span": {
+        "from": "21:1",
+        "to": "24:27"
+      },
+      "difficulty_tier": 3,
+      "summary": "The house of David nearly dies: Jehoram murders his brothers and marries into Ahab's house, Ahaziah falls in Jehu's purge, and Athaliah destroys all the royal seed, all but the infant Joash, hidden six years in the temple. Jehoiada's coup crowns the boy, renews the covenant, and while the old priest lives Joash even restores the house of the LORD; when Jehoiada dies, Joash listens to new advisers, abandons the temple, and has Jehoiada's son Zechariah stoned in its courtyard for saying so. Through it all runs one narrow thread: the LORD was unwilling to destroy the house of David, because of the lamp he had promised.",
+      "key_themes": [
+        "the promise on a thread",
+        "covenant renewal",
+        "borrowed faith",
+        "prophets silenced"
+      ],
+      "prerequisites": [
+        {
+          "node": "2chr-17-20",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The dynastic crisis erupts in the generation immediately after Jehoshaphat.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Chronicles 21:7",
+        "2 Chronicles 23:16",
+        "2 Chronicles 24:20-22"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "warning"
+      ],
+      "discussion_prompt": "Joash does right all the days of Jehoiada the priest, then collapses the moment the voice beside him goes silent. What is the difference between a faith held for you by someone else and a faith that is yours, and whose death or absence would expose which one you have?",
+      "assessment_questions": [
+        "How does the royal line survive Athaliah in 2 Chronicles 22-23, and what does Joash do after Jehoiada dies?",
+        "The narrator says the LORD was unwilling to destroy the house of David because of his covenant and promised lamp. How does 21:7 explain why this section's horrors never quite finish the story?",
+        "Zechariah dies for saying in public what Joash once knew, that forsaking the LORD forfeits his blessing. When truth-tellers in your life have become inconvenient, how have you handled them, and what would honoring one cost you this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A lamp that will not go out",
+          "explanation": "2 Chronicles 21:7 explains the era's survival by God's covenant with David, promise-keeping as the deep plot under the palace horrors."
+        },
+        {
+          "concept": "Borrowed faith fails its test",
+          "explanation": "Joash's righteousness lasts exactly as long as his mentor, warning that secondhand devotion must become firsthand or die."
+        },
+        {
+          "concept": "Covenant renewal, again",
+          "explanation": "Jehoiada's covenant that king and people would be the LORD's repeats Israel's pattern of reconstituting national life around loyalty to God."
+        },
+        {
+          "concept": "Killing the messenger",
+          "explanation": "Zechariah's stoning in the temple court shows a leadership that silences correction, and his dying words hand the case to the God who sees."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Trace how close the Davidic line comes to extinction and why it survives, and explain what Joash's rise and fall teach about borrowed faith.",
+      "comprehension_check": [
+        {
+          "question": "Massacres, coups, and an apostate king fill 2 Chronicles 21-24, yet the line of David keeps surviving. What does the Chronicler say is holding it?",
+          "options": [
+            "The courage of priests who outmaneuver wicked rulers",
+            "The loyalty Judah's people keep showing the dynasty",
+            "The weakness and rivalries of the usurpers themselves",
+            "The covenant lamp God had promised David's house"
+          ],
+          "answer_index": 3,
+          "why": "2 Chronicles 21:7 says it outright: the LORD was unwilling to destroy the house of David because of the covenant and the promised lamp.",
+          "hint": "Read 2 Chronicles 21:7 again. Notice the reason given for Judah's survival, and how little it has to do with anyone's merit."
+        },
+        {
+          "question": "Joash restores the temple under Jehoiada, then abandons the LORD once the priest dies. What does his arc expose?",
+          "options": [
+            "His devotion had lived in his mentor, never in him",
+            "His reforms had been a political performance from the start",
+            "His childhood in the temple had bred quiet resentment",
+            "His advisers were the true rulers throughout his reign"
+          ],
+          "answer_index": 0,
+          "why": "2 Chronicles 24:2 ties Joash's doing right to all the days of Jehoiada, and 24:17-18 shows the turn the moment that influence is gone.",
+          "hint": "Read 2 Chronicles 24:2 and 24:17-22 again. Notice the time-limit clause on Joash's obedience, and whose voices replace Jehoiada's."
+        }
+      ]
+    },
+    {
+      "id": "2chr-25-28",
+      "title": "Amaziah to Ahaz: Decline into the Assyrian Era",
+      "chapters": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_span": {
+        "from": "25:1",
+        "to": "28:27"
+      },
+      "difficulty_tier": 3,
+      "summary": "Four reigns run the rubric downhill. Amaziah obeys, but never wholeheartedly, dismissing hired troops at a prophet's word and then bowing to the idols of the nation he defeated; Uzziah prospers as long as he seeks the LORD, until strength breeds the pride that carries him into the sanctuary and out a leper; Jotham walks steadily; and Ahaz completes the collapse, sacrificing his sons, stripping the temple to bribe Assyria, serving the gods that defeated him, and finally shutting the doors of the house of the LORD. The section ends in the dark on purpose: the next chapter opens with those doors.",
+      "key_themes": [
+        "divided hearts",
+        "pride before a fall",
+        "seeking and success",
+        "the closed doors"
+      ],
+      "prerequisites": [
+        {
+          "node": "2chr-21-24",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The decline continues in the reigns that follow Joash's murder.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Chronicles 26:5",
+        "2 Chronicles 26:16",
+        "2 Chronicles 28:24"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "sorrow"
+      ],
+      "discussion_prompt": "Uzziah's epitaph could read: he was marvelously helped until he became strong. Why is being helped easier on the soul than being strong, and where has a strength or success of yours started writing checks against humility?",
+      "assessment_questions": [
+        "What does the narrator say about Amaziah's heart in 2 Chronicles 25:2, and what does Ahaz finally do to the temple in 28:24?",
+        "Uzziah's success is credited to seeking God, and his fall to pride in the strength success brought. How do 26:5 and 26:16 turn one king's biography into the section's warning?",
+        "Ahaz responds to every defeat by serving the gods of his conquerors, reasoning that they must be stronger. When life defeats you, whose help do you instinctively court, and what would it take to resist the Ahaz reflex?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Wholehearted or halfhearted",
+          "explanation": "Amaziah's right-but-not-wholehearted epitaph names the divided condition this whole section anatomizes reign by reign."
+        },
+        {
+          "concept": "Good starts can end badly",
+          "explanation": "Amaziah and Uzziah begin well and fall through pride or drift, warning that yesterday's faithfulness does not decide today's."
+        },
+        {
+          "concept": "Pride in the sanctuary",
+          "explanation": "Uzziah's censer asserts that success confers rights before God, and the leprosy that answers marks presumption as the disease it is."
+        },
+        {
+          "concept": "Doors shut from inside",
+          "explanation": "Ahaz's closed temple is Judah locking out its own healing, the low point Hezekiah's first act will reverse."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Use Amaziah, Uzziah, and Ahaz to show the section's descent, and explain why the closed temple doors are its fitting final image.",
+      "comprehension_check": [
+        {
+          "question": "2 Chronicles 26 hinges Uzziah's reign on a single turn. What is it?",
+          "options": [
+            "From early priestly guidance to the counsel of military men",
+            "From seeking God in weakness to pride in acquired strength",
+            "From Jerusalem's interests to his building projects abroad",
+            "From public faithfulness to secret personal idolatry"
+          ],
+          "answer_index": 1,
+          "why": "2 Chronicles 26:5 and 26:15-16 draw the arc: success while he sought the LORD, then strength, then the pride that destroyed him.",
+          "hint": "Read 2 Chronicles 26:5 and 26:15-16 again. Notice what his success depended on, and what changed when he grew strong."
+        },
+        {
+          "question": "In his distress, Ahaz sacrifices to the gods of Damascus because they seemed to beat him. What does the Chronicler make of that logic?",
+          "options": [
+            "An understandable experiment that simply came too late",
+            "The reasoning of the age that any king would follow",
+            "A shrewd diplomatic necessity dressed up in religious clothing",
+            "A misreading, since his own God sent the defeats"
+          ],
+          "answer_index": 3,
+          "why": "2 Chronicles 28:5 and 28:19 attribute Ahaz's defeats to the LORD's own hand, so help lay behind him, never in Damascus.",
+          "hint": "Read 2 Chronicles 28:5 and 28:22-23 again. Notice who the narrator says gave Ahaz into his enemies' hands, and whom Ahaz thanks."
+        }
+      ]
+    },
+    {
+      "id": "2chr-29-32",
+      "title": "Hezekiah's Reformation",
+      "chapters": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "verse_span": {
+        "from": "29:1",
+        "to": "32:33"
+      },
+      "difficulty_tier": 2,
+      "summary": "Hezekiah opens the doors his father shut in the first month of his first year, and the Chronicler gives him four chapters where Kings compresses: the temple cleansed and reconsecrated with a sin offering for all Israel, a Passover thrown open to the shattered north with couriers carrying an invitation to return, worship and tithes reorganized so the restored house can run, and only then Sennacherib, met with words about the arm of flesh and answered by an angel. The proportions are the sermon: get worship right first, and face the empire second.",
+      "key_themes": [
+        "reform",
+        "the great Passover",
+        "return to the LORD",
+        "trust against the arm of flesh"
+      ],
+      "prerequisites": [
+        {
+          "node": "2chr-25-28",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The final reforms and fall complete the Judah-only royal sequence.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Chronicles 30:9",
+        "2 Chronicles 31:21",
+        "2 Chronicles 32:7-8"
+      ],
+      "reading_time_minutes": 22,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "resolve"
+      ],
+      "discussion_prompt": "Hezekiah's couriers invite a decimated northern Israel to a Passover many of them end up eating unclean, and Hezekiah prays for them rather than turning them away. What does that scene say about how God weighs seeking hearts against correct procedure, and who might you be keeping from the table over procedure?",
+      "assessment_questions": [
+        "What does Hezekiah do in his first month according to 2 Chronicles 29, and who is invited to the Passover in chapter 30?",
+        "When pilgrims eat the Passover unclean, Hezekiah prays for everyone who sets his heart to seek God, and the LORD heals the people. What does 30:18-20 reveal about the reform's real center?",
+        "Hezekiah tells Judah that Assyria has only an arm of flesh, but with us is the LORD our God. Name the arm-of-flesh threat that currently looks biggest to you, and write out what with us is the LORD would mean in facing it."
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Reform starts at the doors",
+          "explanation": "Hezekiah's first act reverses his father's last one, and the Chronicler dates it to the first month to show where renewal must begin."
+        },
+        {
+          "concept": "An invitation north",
+          "explanation": "The Passover couriers carry the promise of 2 Chronicles 30:9, the LORD will not turn his face from those who return, grace offered across a broken kingdom."
+        },
+        {
+          "concept": "Heart over procedure, order still honored",
+          "explanation": "The unclean eaters are healed through intercession while the feast itself is kept, mercy and order working together rather than competing."
+        },
+        {
+          "concept": "Wholehearted work prospers",
+          "explanation": "2 Chronicles 31:21 summarizes Hezekiah as seeking God with all his heart in every work, the rubric's positive proof before Sennacherib tests it."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the sequence of Hezekiah's reformation and explain what the Passover's unclean eaters and the Sennacherib speech each reveal about its heart.",
+      "comprehension_check": [
+        {
+          "question": "At the great Passover, many arrive unclean, and Hezekiah prays instead of excluding them. What does the LORD's answer establish?",
+          "options": [
+            "He heals those whose hearts seek him despite failed procedure",
+            "He suspends his law whenever national unity requires doing so",
+            "He accepts whatever worship a sincere community offers",
+            "He honors the king's authority over the feast's rules"
+          ],
+          "answer_index": 0,
+          "why": "2 Chronicles 30:18-20 records Hezekiah's prayer for all who set their hearts to seek God, and the LORD heard and healed the people.",
+          "hint": "Read 2 Chronicles 30:18-20 again. Notice what Hezekiah asks pardon for, and on what basis."
+        },
+        {
+          "question": "Facing Sennacherib, Hezekiah tells Judah there is a greater one with us than with him. What is he asking the people to do with that claim?",
+          "options": [
+            "Trust that their new fortifications and water tunnels will hold",
+            "Expect an angel because one had saved Jerusalem before",
+            "Count the unseen LORD as weightier than the visible army",
+            "Believe that reformers' kingdoms cannot fall to invaders"
+          ],
+          "answer_index": 2,
+          "why": "2 Chronicles 32:7-8 sets the arm of flesh against the LORD our God who fights our battles, and the people rest on those words.",
+          "hint": "Read 2 Chronicles 32:7-8 again. Notice what Hezekiah says Assyria has, and what he says Judah has."
+        }
+      ]
+    },
+    {
+      "id": "2chr-33-36",
+      "title": "Manasseh to Cyrus: The End and the Open Door",
+      "chapters": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "verse_span": {
+        "from": "33:1",
+        "to": "36:23"
+      },
+      "difficulty_tier": 3,
+      "summary": "Chronicles alone records the sequel to Manasseh's monstrous reign: dragged to Babylon with hooks, he humbles himself greatly, prays, and is restored, and then he knew that the LORD is God. Josiah's reform and Passover shine and end at Megiddo; the last kings do evil, the leaders mock messenger after messenger sent out of compassion, and Babylon burns the house while the land finally keeps its sabbaths. Yet the Hebrew Bible's closing word is an open door: Cyrus, stirred by the LORD, invites whoever is among his people to go up.",
+      "key_themes": [
+        "repentance received",
+        "compassion refused",
+        "exile",
+        "the open door home"
+      ],
+      "prerequisites": [
+        {
+          "node": "2chr-29-32",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The end arc opens with Manasseh reversing his father Hezekiah's reformation.",
+          "scope": "sequence"
+        },
+        {
+          "node": "lev-23-27",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "2 Chronicles 33–36 assumes the Levitical covenant framework that exile is punishment “until the land has enjoyed its sabbaths” (cf. Leviticus 26) — a legal-covenantal logic it does not restate.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ezra-1-6",
+          "reason": "Ezra opens by repeating Cyrus's decree word for word — the story continues without a seam."
+        },
+        {
+          "node": "2kgs-24-25",
+          "reason": "The same final century told twice: Kings explains the disaster, Chronicles points past it."
+        }
+      ],
+      "key_verses": [
+        "2 Chronicles 33:12-13",
+        "2 Chronicles 36:15-16",
+        "2 Chronicles 36:23"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "hopeful"
+      ],
+      "discussion_prompt": "The Chronicler chooses to tell his community that Manasseh, the worst king in the book, prayed from a Babylonian prison and was heard. For readers living on the far side of their own national catastrophe, what is that story for, and who have you quietly decided is past the reach of that kind of mercy?",
+      "assessment_questions": [
+        "What happens to Manasseh in Babylon according to 2 Chronicles 33:12-13, and how does the book end in 36:22-23?",
+        "36:15-16 says God sent messengers again and again out of compassion, until there was no remedy. How does that sentence hold God's patience and the exile's certainty together?",
+        "Manasseh's restoration and Cyrus's decree both insist the story is never finally closed. What ruined thing in your life have you filed as beyond remedy, and what would humbling yourself greatly, as Manasseh did, look like there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "No one is beyond repentance",
+          "explanation": "Manasseh's prayer from captivity and his restoration show God's mercy reaching the least deserving king in the book."
+        },
+        {
+          "concept": "Compassion until no remedy",
+          "explanation": "The messengers are sent out of pity for people and dwelling place alike, so the exile arrives only after mercy has been mocked to exhaustion."
+        },
+        {
+          "concept": "The land keeps its sabbaths",
+          "explanation": "The seventy years fulfill the word through Jeremiah and the covenant's own terms, judgment that is measured and carries an end date built in."
+        },
+        {
+          "concept": "The open door",
+          "explanation": "The book ends mid-sentence into the future, a pagan king stirred by God inviting the people up, exile refusing to be the last word."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the Chronicler adds to Manasseh's story and why, and how the book's ending turns exile into an open door.",
+      "comprehension_check": [
+        {
+          "question": "Kings remembers Manasseh only as the reason for Judah's doom; Chronicles adds his repentance and restoration. What is the addition doing for the Chronicler's readers?",
+          "options": [
+            "Correcting an unfair royal portrait preserved in the older history",
+            "Explaining why judgment was delayed for two generations",
+            "Warning that even restored kings can corrupt their heirs",
+            "Showing exiles that humbling and prayer can reopen any story"
+          ],
+          "answer_index": 3,
+          "why": "2 Chronicles 33:12-13 walks the pattern of humbling, prayer, hearing, and restoration, the same promise the book gave at the temple's dedication.",
+          "hint": "Read 2 Chronicles 33:12-13 again. Notice the verbs of Manasseh's turn, and compare them with the sequence promised in 2 Chronicles 7:14."
+        },
+        {
+          "question": "2 Chronicles 36:15-16 explains the exile's timing. What finally makes the catastrophe unavoidable?",
+          "options": [
+            "God's compassion runs out after a fixed number of warnings",
+            "The mocking of every messenger leaves nothing left to try",
+            "Babylon's power grows past what God shields Judah from",
+            "The kings' sins outweigh the people's remaining faithfulness"
+          ],
+          "answer_index": 1,
+          "why": "2 Chronicles 36:16 traces the end to scoffing at God's messengers until the wrath rose beyond remedy, mercy mocked to exhaustion.",
+          "hint": "Read 2 Chronicles 36:15-16 again. Notice why the messengers are sent, and what response finally closes the era."
+        }
+      ]
+    }
+  ]
+}

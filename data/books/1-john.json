@@ -1,0 +1,109 @@
+{
+  "book": "1 John",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "1john",
+      "title": "1 John: God Is Light, God Is Love",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "5:21"
+      },
+      "difficulty_tier": 2,
+      "summary": "The beloved disciple, now old, circles three tests — believe rightly (Jesus came in the flesh), obey, and love one another — in prose simple enough for a child and deep enough to drown in. 'If we confess our sins, he is faithful and just to forgive'; 'God is love'; 'perfect love casts out fear'; 'we love because he first loved us.' Written 'that you may know that you have eternal life.'",
+      "key_themes": [
+        "light",
+        "love",
+        "assurance",
+        "incarnation confessed"
+      ],
+      "prerequisites": [
+        {
+          "node": "john-13-17",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The letter is the upper-room discourse turned into pastoral tests — 'love one another' is its refrain and premise.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "gen-4-5",
+          "reason": "Cain, 'who was of the evil one and murdered his brother,' is the letter's one named counter-example of love."
+        }
+      ],
+      "key_verses": [
+        "1 John 1:9",
+        "1 John 4:7-8",
+        "1 John 5:13"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "comfort",
+        "joy"
+      ],
+      "discussion_prompt": "John keeps circling three tests: believe that Jesus came in the flesh, keep his commands, and love one another. He says he writes so that you may know you have eternal life. Which of those three tests most challenges you when you look honestly at your life, and what would taking it seriously change this week?",
+      "assessment_questions": [
+        "What does John say God will do if we confess our sins, and what does he say about anyone who claims to be without sin?",
+        "John writes that we love because God first loved us, and that perfect love casts out fear. How does God's prior love change both the reason for loving other people and the power to do it?",
+        "John says anyone who claims to love God while hating a brother or sister is a liar. Who is the hardest person for you to love right now, and what does this letter push you to do about it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God is light",
+          "explanation": "God is pure truth and holiness, so walking with him means honesty about sin instead of pretending we have none."
+        },
+        {
+          "concept": "An advocate with the Father",
+          "explanation": "When believers sin, Jesus stands as their advocate and atoning sacrifice, so confession leads to cleansing rather than despair."
+        },
+        {
+          "concept": "Love as the family mark",
+          "explanation": "Love for one another is the visible evidence of being born of God, because God's own nature is love."
+        },
+        {
+          "concept": "Tested assurance",
+          "explanation": "John writes so believers can know they have eternal life, offering right belief, obedience, and love as tests that confirm trust in Christ."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Name the three tests 1 John keeps returning to, and explain how the letter says a person can know they have eternal life.",
+      "comprehension_check": [
+        {
+          "question": "1 John 5:13 says the letter was written so its readers may know they have eternal life. How does the letter expect that knowing to happen?",
+          "options": [
+            "By recalling the moment they first believed and were saved",
+            "By reaching a maturity where sinning no longer happens",
+            "By testing their life for belief, obedience, and love",
+            "By waiting for an unmistakable inner sense of peace"
+          ],
+          "answer_index": 2,
+          "why": "1 John 2:3 begins the letter's refrain, knowing that we know him by keeping his commands, which 1 John 5:13 gathers up.",
+          "hint": "Read 1 John 2:3-6, 1 John 3:14, and 1 John 4:2 again. Notice the phrase these passages keep repeating."
+        },
+        {
+          "question": "1 John 4:7-12 commands love by first pointing away from the command itself. What does love rest on in this passage?",
+          "options": [
+            "The example set by the community's founding disciple",
+            "The natural affection God planted in every human heart",
+            "The command itself, which makes love a duty owed",
+            "God's prior love, shown in sending his Son"
+          ],
+          "answer_index": 3,
+          "why": "1 John 4:10 defines love by God's sending of his Son for our sins, and 1 John 4:19 makes our love an answer.",
+          "hint": "Read 1 John 4:9-11 and 1 John 4:19 again. Notice whose love comes first in the passage's order."
+        }
+      ]
+    }
+  ]
+}

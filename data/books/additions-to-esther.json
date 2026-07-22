@@ -1,0 +1,101 @@
+{
+  "book": "Additions to Esther",
+  "testament": "OT",
+  "canon_layer": "catholic_deuterocanon",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "esth-gk",
+      "title": "Greek Esther: The Additions",
+      "chapters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "difficulty_tier": 2,
+      "summary": "Six passages found in the Greek version of Esther — Mordecai's dream, the royal edicts' full text, and long prayers by Mordecai and Esther — that make explicit what the Hebrew book leaves unsaid: God is named, prayed to, and credited with the rescue. A window into how early Jewish readers already understood the original.",
+      "key_themes": [
+        "prayer",
+        "providence made explicit",
+        "diaspora piety"
+      ],
+      "prerequisites": [
+        {
+          "node": "esth",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The additions are supplements to Esther's narrative — they are unreadable apart from the book they expand.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "Catholic Bibles integrate these passages into Esther (often as chapters A-F or 10:4-16:24); Orthodox Bibles read the full Greek Esther; Protestant Bibles omit them or print them separately as apocrypha.",
+      "key_verses": [
+        "Esther 13:9",
+        "Esther 14:3",
+        "Esther 10:4"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "hopeful"
+      ],
+      "discussion_prompt": "The Hebrew Esther never names God, and these Greek passages fill that silence with prayer and a dream that says God was at work all along. When God has felt hidden in your own story, what would it mean to pray the way Esther prays, alone and with no helper but the Lord?",
+      "assessment_questions": [
+        "What does Esther do to prepare before entering the king's presence uninvited, and what happens when the king sees her?",
+        "Mordecai's dream and its interpretation frame the whole story. What do they claim about who was directing events from the beginning?",
+        "Esther strips off her splendor, covers her head, and prays before she acts. What would that order, prayer first and then bold action, change about the next hard conversation you are facing?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God present when unnamed",
+          "explanation": "The additions say out loud what the Hebrew Esther implies, that God stands behind every reversal in the story."
+        },
+        {
+          "concept": "Prayer prepares courage",
+          "explanation": "Mordecai and Esther confess, fast, and petition before acting, so their boldness rises from dependence on God."
+        },
+        {
+          "concept": "God works through ordinary politics",
+          "explanation": "Royal decrees, counsel, and court maneuvering become the instruments through which rescue arrives."
+        },
+        {
+          "concept": "Hiddenness invites trust",
+          "explanation": "The additions treat God's silence as hiddenness that calls for patient trust, since he acts even when unnamed."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Explain what the Greek additions make explicit about God's role in the Esther story, and describe how Esther prepares before going to the king.",
+      "comprehension_check": [
+        {
+          "question": "The Greek additions give Esther long prayers and name God throughout. What do they change about the story they join?",
+          "options": [
+            "They surface the faith the Hebrew telling left beneath events",
+            "They fix an error, restoring a God the Hebrew author denied",
+            "They shift the credit from Esther's courage to Mordecai's dream",
+            "They turn a court tale into a call for temple worship"
+          ],
+          "answer_index": 0,
+          "why": "Mordecai's closing words in Esther 10:4 credit God with the whole outcome, saying aloud what the events had shown.",
+          "hint": "Read Esther 10:4 again. Notice whose doing Mordecai says these things have been."
+        },
+        {
+          "question": "Greek Esther inserts a long private prayer just before Esther risks the throne room. What does that ordering say?",
+          "options": [
+            "Her prayer replaced the fasting the Hebrew story had required",
+            "Her speech before the king mattered more than her preparation",
+            "The rescue was earned by the merit of a correct prayer",
+            "Her boldness grew from dependence voiced before God first"
+          ],
+          "answer_index": 3,
+          "why": "Esther 14:3 opens the prayer of a woman with no helper but God, and the courage of the audience scene follows from it.",
+          "hint": "Read Esther 14:3 again. Notice what Esther calls God, and what she admits about her own position."
+        }
+      ]
+    }
+  ]
+}

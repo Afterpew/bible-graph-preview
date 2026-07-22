@@ -1,0 +1,862 @@
+{
+  "book": "Exodus",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Law/Torah",
+  "nodes": [
+    {
+      "id": "exod-1-4",
+      "title": "Bondage and the Burning Bush",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:31"
+      },
+      "difficulty_tier": 1,
+      "summary": "Abraham's family has become a nation — enslaved in Egypt. God hears, remembers his covenant, and meets Moses in a burning bush, revealing the divine name YHWH ('I AM') and commissioning history's most reluctant deliverer.",
+      "key_themes": [
+        "oppression",
+        "divine name",
+        "calling",
+        "covenant remembered"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-46-50",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Exodus assumes the Joseph narrative explaining how and why Israel came to live in Egypt, which Exodus only alludes to briefly and does not retell, so a reader who skips Genesis 46–50 may misread Israel’s presence and social trajectory in Egypt.",
+          "scope": "foundation"
+        },
+        {
+          "node": "gen-12-17",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Exodus assumes the Abrahamic covenant as the motivating ground for God’s rescue—“remembering” the promises to Abraham—which Exodus references but does not retell, so a reader without Genesis 12–17 may misread the deliverance as spontaneous pity rather than covenant faithfulness.",
+          "scope": "foundation"
+        },
+        {
+          "node": "gen-37-41",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Exodus assumes the reader understands why Israel is in Egypt—Israel’s settlement and Joseph’s rise and legacy recounted in Genesis 37–41—which Exodus does not fully retell and thus presumes as given.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "john-5-8",
+          "reason": "Jesus' 'before Abraham was, I AM' takes the divine name revealed at the bush and applies it to himself."
+        }
+      ],
+      "key_verses": [
+        "Exodus 2:24-25",
+        "Exodus 3:12",
+        "Exodus 3:14"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "hopeful"
+      ],
+      "discussion_prompt": "Israel groans under slavery for generations before God's answer becomes visible, and when it comes, God sends a shepherd who begs to be excused. What do these chapters teach about how God responds to suffering and to feelings of inadequacy, and where do you need to hear 'I will be with you' right now?",
+      "assessment_questions": [
+        "What does God reveal about himself when Moses asks for his name at the burning bush?",
+        "Exodus says God heard Israel's groaning and remembered his covenant with Abraham. Why does the story ground the rescue in an old promise instead of in the misery of the moment alone?",
+        "Moses offers God one excuse after another, and every answer comes back to God's presence. What task feels beyond you, and how would 'I will be with you' change the way you approach it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God remembers his covenant",
+          "explanation": "The rescue begins because God hears Israel's groaning and acts on his promises to Abraham, even after centuries that felt like silence."
+        },
+        {
+          "concept": "The divine name I AM",
+          "explanation": "At the bush God reveals the name YHWH, announcing that he exists by his own power and stays faithfully present with his people."
+        },
+        {
+          "concept": "God calls the reluctant",
+          "explanation": "Moses is a fugitive full of excuses, and God uses him anyway, so the deliverance is clearly God's work rather than human talent."
+        },
+        {
+          "concept": "God sees oppression",
+          "explanation": "God confronts Egypt's injustice directly, showing that faith and the real suffering of real people belong in the same story."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the name I AM reveals about God, and retell how God called Moses despite his excuses.",
+      "comprehension_check": [
+        {
+          "question": "Exodus opens the rescue by saying God heard the groaning and remembered his covenant with Abraham. What does that framing make the exodus?",
+          "options": [
+            "A reward that centuries of Israel's endurance had finally earned",
+            "A fresh plan begun after the promises to Abraham had stalled",
+            "An old promise being kept, on schedule, by a faithful God",
+            "A rescue improvised once the suffering finally reached heaven"
+          ],
+          "answer_index": 2,
+          "why": "Exodus 2:24-25 joins the groaning to the covenant with Abraham, Isaac, and Jacob, so the rescue keeps an old word.",
+          "hint": "Read Exodus 2:23-25 again. Notice what God remembers in the same breath as hearing the cry."
+        },
+        {
+          "question": "Moses asks who he is to confront Pharaoh, and God answers with who God is and a promise to be present. What does that exchange establish about the mission?",
+          "options": [
+            "It stands on God's presence, so Moses' weakness cannot sink it",
+            "It will wait until Moses grows into the confidence it demands",
+            "It will succeed through Aaron's eloquence covering Moses' every lack",
+            "It will convince Pharaoh once the signs make Moses look mighty"
+          ],
+          "answer_index": 0,
+          "why": "Exodus 3:11-12 answers the question about Moses with a promise about God, that he will surely be with him.",
+          "hint": "Read Exodus 3:11-12 again. Notice what God offers in place of an answer about Moses himself."
+        }
+      ]
+    },
+    {
+      "id": "exod-5-11",
+      "title": "The Plagues: YHWH vs. the Gods of Egypt",
+      "chapters": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_span": {
+        "from": "5:1",
+        "to": "11:10"
+      },
+      "difficulty_tier": 2,
+      "summary": "Ten escalating plagues dismantle Egypt's power and its gods, while Pharaoh's heart hardens — by his own hand and by God's. The question the plagues answer is Pharaoh's own: 'Who is YHWH, that I should obey him?'",
+      "key_themes": [
+        "judgment",
+        "hardening",
+        "divine supremacy",
+        "liberation"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-1-4",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The plagues are the confrontation Moses was commissioned for at the bush.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-15-16",
+          "reason": "The bowl judgments of Revelation are patterned on the plagues of Egypt — a second, cosmic Exodus."
+        }
+      ],
+      "key_verses": [
+        "Exodus 5:2",
+        "Exodus 7:5",
+        "Exodus 9:16"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "awe"
+      ],
+      "discussion_prompt": "Pharaoh opens the conflict with a question: 'Who is the LORD, that I should obey him?' The plagues are God's answer. As Egypt's securities fall one by one, what do these chapters say about the powers people trust in place of God, and which of those powers holds the most sway over you?",
+      "assessment_questions": [
+        "What question does Pharaoh ask Moses in chapter 5, and what does God repeatedly say the plagues will make known?",
+        "The text says Pharaoh hardened his own heart and also that God hardened it. What does holding both statements together suggest about human stubbornness and God's judgment?",
+        "Each plague exposed something Egypt trusted for life and security. What do you rely on that could quietly take God's place, and what would loosening its grip look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "So that you may know I am the LORD",
+          "explanation": "The plagues are revelation before they are punishment, answering Pharaoh's question about who YHWH is in unmistakable public acts."
+        },
+        {
+          "concept": "The plagues unmask idols",
+          "explanation": "Each plague strikes something Egypt's gods claimed to control, showing YHWH as the one true God over the Nile, the sun, and life itself."
+        },
+        {
+          "concept": "The hardening of Pharaoh's heart",
+          "explanation": "Pharaoh's own stubbornness and God's judgment intertwine in the story, and Christians hold divine sovereignty and human responsibility together here without dissolving either."
+        },
+        {
+          "concept": "God judges oppression",
+          "explanation": "The plagues are covenant justice, God acting against a slaveholding empire to keep his promise and free his people."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the pattern of the plagues and explain in your own words what they were meant to make known about YHWH.",
+      "comprehension_check": [
+        {
+          "question": "Pharaoh opens the contest asking who the LORD is that he should obey him. As the story presents them, what are the plagues?",
+          "options": [
+            "Escalating pressure whose one purpose is prying Israel loose",
+            "Signs sent for Israel alone, unreadable to Egyptian eyes",
+            "Outbursts of anger growing hotter as Pharaoh keeps provoking",
+            "A public answer teaching both nations who YHWH is"
+          ],
+          "answer_index": 3,
+          "why": "Exodus 7:5 and 9:16 give the aim, that Egypt know the LORD and his name be proclaimed through all the earth.",
+          "hint": "Read Exodus 5:2, then Exodus 7:5 and 9:13-16. Notice the question the plagues keep answering."
+        },
+        {
+          "question": "From the flies onward, God draws a line at Goshen and the plagues stop at its edge. What is that line doing in the story?",
+          "options": [
+            "It repays Israel's years of faithfulness with special shelter",
+            "It marks the plagues as aimed, from a God who makes distinctions",
+            "It hints the disasters were natural, with Goshen simply out of reach",
+            "It shows Egypt's gods held no claim over Israel's separate district"
+          ],
+          "answer_index": 1,
+          "why": "Exodus 8:22-23 gives the purpose of sparing Goshen, that Pharaoh know the LORD is present and sets his people apart.",
+          "hint": "Read Exodus 8:22-23 and 11:7 again. Notice the reason God gives for treating the two lands differently."
+        }
+      ]
+    },
+    {
+      "id": "exod-12-15",
+      "title": "Passover and the Sea",
+      "chapters": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_span": {
+        "from": "12:1",
+        "to": "15:27"
+      },
+      "difficulty_tier": 2,
+      "summary": "A lamb's blood shields Israel from the final plague, and the sea parts to make slaves into a free people — the defining rescue event of the Old Testament. Passover becomes Israel's defining picture of redemption, and the image the New Testament reaches for to explain the death of Jesus.",
+      "key_themes": [
+        "passover",
+        "redemption",
+        "substitution",
+        "deliverance"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-5-11",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Passover is the tenth plague; the sea crossing is the climax of the confrontation with Pharaoh.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-26-28",
+          "reason": "Jesus institutes the Lord's Supper at a Passover meal, casting his death as the new Passover."
+        },
+        {
+          "node": "1cor-5-7",
+          "reason": "Paul says it directly: 'Christ, our Passover lamb, has been sacrificed.'"
+        }
+      ],
+      "key_verses": [
+        "Exodus 12:13",
+        "Exodus 14:13-14",
+        "Exodus 15:2"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "urgent",
+        "celebratory"
+      ],
+      "discussion_prompt": "Israel is told to remember this night forever and to explain it to their children before the children even ask. Why does God build remembering into the rescue itself, and what regular practice would keep God's rescues from fading in your own memory?",
+      "assessment_questions": [
+        "What are the Israelites told to do with the lamb's blood on Passover night, and what does the blood accomplish?",
+        "At the sea, Moses tells the trapped people to stand firm and see the salvation of the LORD. What does this rescue teach about who does the saving and what the people's part is?",
+        "Passover was designed to be retold every year so freedom would never be forgotten. How do you keep track of what God has done for you, and what would a practiced memory change?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Redemption through substitution",
+          "explanation": "The lamb dies so the firstborn under its blood does not, and this picture is the one the New Testament reaches for to explain the death of Jesus."
+        },
+        {
+          "concept": "Rescue creates a people",
+          "explanation": "Israel's life as a nation dates from this night, so their whole identity rests on what God did rather than on anything they achieved."
+        },
+        {
+          "concept": "Obedient trust",
+          "explanation": "The blood had to be applied and the sea had to be walked through, showing that God's saving word and human trust work together."
+        },
+        {
+          "concept": "Remembering shapes identity",
+          "explanation": "The yearly Passover meal keeps the deliverance alive for every generation, teaching that gratitude and identity are practices before they are feelings."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the Passover night and the sea crossing, and explain why the lamb's blood matters to the whole story.",
+      "comprehension_check": [
+        {
+          "question": "On the final night, what stands between an Israelite household and the judgment is blood on the doorframe. What is the Passover teaching by making that the difference?",
+          "options": [
+            "Safety rests on the shelter God provides, entered by trust",
+            "Safety rests on descent from Abraham, marked for God's eyes",
+            "Safety rests on years of obedience now coming due",
+            "Safety rests on distance from Egypt's guilt and its gods"
+          ],
+          "answer_index": 0,
+          "why": "Exodus 12:13 makes the blood the appointed sign, and the LORD passes over every house that shelters under it.",
+          "hint": "Read Exodus 12:12-13 again. Notice what the LORD says he will look for on the night he passes through."
+        },
+        {
+          "question": "Trapped at the sea, Israel is told to stand firm and watch the LORD fight, then told to march forward. What picture of rescue do the two commands give?",
+          "options": [
+            "God and Israel each carry a share of the battle's weight",
+            "God waits to act until his people's courage proves ready",
+            "God alone wins it, and the people walk the opened road",
+            "God saves through Moses, whose staff channels the needed power"
+          ],
+          "answer_index": 2,
+          "why": "Exodus 14:13-14 puts the fighting in the LORD's hands alone, and Exodus 14:15 still sends the people forward.",
+          "hint": "Read Exodus 14:13-15 again. Notice what the people are told to do, and what is never asked of them."
+        }
+      ]
+    },
+    {
+      "id": "exod-16-18",
+      "title": "Manna, Water, and Wilderness Grumbling",
+      "chapters": [
+        16,
+        17,
+        18
+      ],
+      "verse_span": {
+        "from": "16:1",
+        "to": "18:27"
+      },
+      "difficulty_tier": 2,
+      "summary": "Between the sea and Sinai, Israel learns dependence the hard way: daily manna, water from the rock, war with Amalek, and Jethro's advice on shared leadership. The wilderness becomes the Bible's classroom for trust.",
+      "key_themes": [
+        "provision",
+        "testing",
+        "grumbling",
+        "dependence"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-12-15",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The wilderness journey begins on the far side of the sea.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "john-5-8",
+          "reason": "Jesus' 'I am the bread of life' discourse is a running commentary on the manna."
+        }
+      ],
+      "key_verses": [
+        "Exodus 16:4",
+        "Exodus 17:7",
+        "Exodus 18:21"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "light",
+      "emotional_tone": [
+        "warning",
+        "comfort"
+      ],
+      "discussion_prompt": "Manna arrives every morning and spoils if hoarded. What is God teaching a people fresh out of slavery through bread that only lasts a day, and where would that kind of daily dependence unsettle you the most?",
+      "assessment_questions": [
+        "What rules come with the manna, and what happens when people try to keep it overnight?",
+        "At Massah the people ask 'Is the LORD among us or not?' soon after walking through the sea. What does their quick grumbling reveal about how trust is actually formed?",
+        "Jethro tells Moses that carrying the whole load alone will wear everyone out. What responsibility are you carrying alone that could be shared, and what stops you from sharing it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Daily dependence",
+          "explanation": "Manna comes one day at a time so Israel learns to trust God for today instead of hoarding against tomorrow."
+        },
+        {
+          "concept": "The wilderness as classroom",
+          "explanation": "God uses hunger, thirst, and conflict to test and train his people, turning hardship into the place where trust is built."
+        },
+        {
+          "concept": "Sabbath rest as trust",
+          "explanation": "The double portion before the seventh day ties rest to provision, making Sabbath a weekly act of believing that God sustains us."
+        },
+        {
+          "concept": "God provides through people",
+          "explanation": "Jethro's advice and the shared judges show that wise counsel and shared leadership are God's provision just as truly as manna."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the manna was meant to teach Israel about trusting God, and describe Jethro's advice to Moses.",
+      "comprehension_check": [
+        {
+          "question": "The manna cannot be stockpiled, it spoils by morning, except on the eve of the Sabbath. What is the bread's strange design teaching Israel?",
+          "options": [
+            "That appetite is a danger a freed people must learn to master",
+            "That they can live on God's daily giving, rest included",
+            "That scarcity is the lasting price of their grumbling on the way",
+            "That desert life demands discipline Egypt never taught them"
+          ],
+          "answer_index": 1,
+          "why": "Exodus 16:4 calls the daily portion a test of walking by God's instruction, one day's trust at a time.",
+          "hint": "Read Exodus 16:4 and 16:19-26 again. Notice how much may be gathered, and when the rule changes."
+        },
+        {
+          "question": "Jethro, a priest of Midian, watches Moses judge the people alone from morning to night and tells him the load must be shared. How does the chapter treat that advice?",
+          "options": [
+            "As a rival's scheme to loosen Moses' God-given hold",
+            "As sound management, useful though foreign to Israel's faith",
+            "As a compromise that thins the word only Moses receives",
+            "As God's provision, wisdom keeping leader and people whole"
+          ],
+          "answer_index": 3,
+          "why": "Exodus 18:23 conditions the whole plan on God's direction and promises the people will go home in peace.",
+          "hint": "Read Exodus 18:17-23 again. Notice the condition Jethro attaches before the plan can stand."
+        }
+      ]
+    },
+    {
+      "id": "exod-19-24",
+      "title": "Sinai: The Covenant and the Ten Words",
+      "chapters": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "verse_span": {
+        "from": "19:1",
+        "to": "24:18"
+      },
+      "difficulty_tier": 2,
+      "summary": "At Sinai, God makes the rescued slaves his treasured possession — a kingdom of priests — and gives the Ten Commandments and the covenant code, sealed in blood. This is the constitution of Israel; the rest of the Old Testament measures the nation against it.",
+      "key_themes": [
+        "covenant",
+        "law",
+        "holiness",
+        "kingdom of priests"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-12-15",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The law is given to an already-rescued people — grace precedes command ('I brought you out of Egypt; therefore…').",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-5-7",
+          "reason": "The Sermon on the Mount deliberately echoes Sinai — a mountain, a covenant people, the law's true depth."
+        },
+        {
+          "node": "1pet",
+          "reason": "Peter applies 'kingdom of priests, holy nation' directly to the church."
+        }
+      ],
+      "key_verses": [
+        "Exodus 19:5-6",
+        "Exodus 20:2",
+        "Exodus 24:8"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "reverent"
+      ],
+      "discussion_prompt": "The Ten Commandments open with a reminder: 'I brought you out of Egypt.' God rescues first and commands second. How does that order change what the law is for, and how would it change the way you hear a command you find hard?",
+      "assessment_questions": [
+        "What does God promise Israel will become if they keep his covenant, and how do the people respond at the mountain?",
+        "The commandments begin with what God has already done. Why does it matter that the rescue comes before the rules?",
+        "Sinai treats worship of God and treatment of neighbors as one covenant. Which of the Ten Words would reorder your week the most if you took it fully seriously?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Grace comes before law",
+          "explanation": "The commands are given to a people already rescued, so obedience is a response to salvation rather than a way of earning it."
+        },
+        {
+          "concept": "A kingdom of priests",
+          "explanation": "Israel is called to be a treasured possession and a priestly nation, standing between God and the world for the world's blessing."
+        },
+        {
+          "concept": "The law reveals God's character",
+          "explanation": "The Ten Words show what God is like and what human life is for, guiding a community and convicting each heart at the same time."
+        },
+        {
+          "concept": "A covenant sealed in blood",
+          "explanation": "The blood ritual of chapter 24 marks the covenant as solemn and binding, joining God's gracious presence to a serious commitment."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the shape of the Sinai covenant in your own words: what God did, what God asks, and what Israel is called to become.",
+      "comprehension_check": [
+        {
+          "question": "The Ten Words and the covenant code open with a reminder that God already carried Israel out of Egypt. What does that opening make the law?",
+          "options": [
+            "The entry test Israel must pass before God will claim them",
+            "A ladder each Israelite climbs toward acceptance with God",
+            "The shape of life given to a people already redeemed",
+            "A new covenant replacing the promises made to Abraham"
+          ],
+          "answer_index": 2,
+          "why": "Exodus 20:2 grounds every command in the deliverance already accomplished, grace running ahead of obligation.",
+          "hint": "Read Exodus 19:4 and 20:2 again. Notice what God says he has already done before any command arrives."
+        },
+        {
+          "question": "God claims the whole earth, then names Israel his treasured possession and a kingdom of priests. What does the priestly title give Israel?",
+          "options": [
+            "A role toward the nations, standing between them and God",
+            "A rank above the nations, sealed by God's open preference",
+            "A promise that their nation will never fall under judgment",
+            "A duty of sanctuary service shared by every family line"
+          ],
+          "answer_index": 0,
+          "why": "Exodus 19:5-6 pairs the title with God's claim on the whole earth, a priesthood serving in the middle of the nations.",
+          "hint": "Read Exodus 19:5-6 again. Notice God's claim about the whole earth sitting inside the promise."
+        }
+      ]
+    },
+    {
+      "id": "exod-25-31",
+      "title": "Blueprint for the Tabernacle",
+      "chapters": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "verse_span": {
+        "from": "25:1",
+        "to": "31:18"
+      },
+      "difficulty_tier": 3,
+      "summary": "Detailed instructions for a portable sanctuary — ark, lampstand, altar, priestly garments — so that a holy God can dwell in the middle of his people's camp. The design is saturated with Eden imagery: the tabernacle is a garden of God rebuilt in fabric and gold.",
+      "key_themes": [
+        "divine presence",
+        "sacred space",
+        "priesthood",
+        "worship"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-19-24",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The tabernacle instructions are given during Moses' forty days on the covenant mountain.",
+          "scope": "foundation"
+        },
+        {
+          "node": "gen-1-3",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Cherubim, gold, eastward entrance, seven-fold speech — the tabernacle texts deliberately rebuild Eden; the echoes are invisible without Genesis 1-3."
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-8-10",
+          "reason": "Hebrews argues the tabernacle was a 'copy and shadow' of a heavenly reality fulfilled in Christ."
+        }
+      ],
+      "key_verses": [
+        "Exodus 25:8",
+        "Exodus 25:22",
+        "Exodus 31:3"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "dense",
+      "emotional_tone": [
+        "reverent",
+        "awe"
+      ],
+      "discussion_prompt": "God spends seven chapters on curtains, lamp oil, and priestly robes so that he can live in the middle of the camp. What do all these careful details say about what it takes for a holy God to dwell with people, and where in your life could beauty or careful work become an act of worship?",
+      "assessment_questions": [
+        "What does God say the sanctuary is for when he first commands it in chapter 25?",
+        "Cherubim, gold, and an eastward entrance echo the garden of Eden. What is the tabernacle's design claiming about what was lost and what God intends to restore?",
+        "Bezalel is filled with God's Spirit for craftsmanship. What skill of yours have you never thought of as usable by God, and what would offering it look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God intends to dwell with his people",
+          "explanation": "The whole point of the tabernacle is stated up front: 'that I may dwell among them,' because God refuses to stay distant from the people he rescued."
+        },
+        {
+          "concept": "Holiness requires ordered access",
+          "explanation": "Priests, veils, and prescribed rites show that approaching a holy God is a gift with a shape, never a casual stroll."
+        },
+        {
+          "concept": "Skilled work can be sacred",
+          "explanation": "God fills artisans with his Spirit for craftsmanship, showing that material things and human skill can be offered to him as worship."
+        },
+        {
+          "concept": "The tabernacle rebuilds Eden",
+          "explanation": "The garden imagery woven through the design signals that God is restoring the shared dwelling that was lost at the Fall."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why God gives such detailed tabernacle instructions, and describe two ways the design points back to Eden.",
+      "comprehension_check": [
+        {
+          "question": "Seven chapters of curtains, courts, veils, and vestments follow one stated purpose, God dwelling in the middle of the camp. What do the layers of design say about that nearness?",
+          "options": [
+            "It keeps its distance, a design meant to hold Israel back",
+            "It is a gift that must come with a given shape",
+            "It depends on beauty rich enough to honor a king",
+            "It is a test of how exactly Israel can follow orders"
+          ],
+          "answer_index": 1,
+          "why": "Exodus 25:8 states the goal, a sanctuary so that God may dwell among his people, and every detail serves that indwelling.",
+          "hint": "Read Exodus 25:8-9 again. Notice the purpose given first, and how the pattern follows from it."
+        },
+        {
+          "question": "Cherubim woven into the veil, gold everywhere, a lampstand shaped like a flowering tree, an entrance facing east. What claim do the tabernacle's Eden echoes make?",
+          "options": [
+            "Paradise is remembered here as a home no one will see again",
+            "Obedient Israel will now enjoy the abundance Adam forfeited",
+            "The ground's old curse is lifted wherever this tent stands",
+            "God is beginning to restore the shared dwelling that was lost"
+          ],
+          "answer_index": 3,
+          "why": "Exodus 25:8 sets the aim of dwelling with his people again, and the garden imagery marks the tent as that reunion begun.",
+          "hint": "Read Exodus 26:31 and Genesis 3:24. Notice who appears at the boundary in both places."
+        }
+      ]
+    },
+    {
+      "id": "exod-32-34",
+      "title": "The Golden Calf and the God of Mercy",
+      "chapters": [
+        32,
+        33,
+        34
+      ],
+      "verse_span": {
+        "from": "32:1",
+        "to": "34:35"
+      },
+      "difficulty_tier": 2,
+      "summary": "While Moses is still on the mountain, Israel breaks the covenant with a golden calf — and the story becomes the Old Testament's deepest exploration of mercy. Moses intercedes, sees God's glory pass by, and hears the self-description the rest of the Old Testament returns to again and again: 'compassionate and gracious, slow to anger, abounding in love.'",
+      "key_themes": [
+        "idolatry",
+        "intercession",
+        "mercy",
+        "God's glory"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-19-24",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The calf is a breach of the covenant just sealed; the crisis only registers if you know what was promised at Sinai.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-25-31",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "B continues the immediate narrative: Moses is on the mountain receiving revelations and cultic instructions from A, and Exodus 32–34 presumes that situation (and the planned tabernacle/ritual framework) which it does not itself supply.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "john-1",
+          "reason": "'The Word became flesh and tabernacled among us… full of grace and truth' echoes Exodus 34's 'abounding in love and faithfulness.'"
+        },
+        {
+          "node": "rom-9-11",
+          "reason": "Paul quotes 'I will have mercy on whom I have mercy' from this scene as the cornerstone of Romans 9."
+        }
+      ],
+      "key_verses": [
+        "Exodus 32:31-32",
+        "Exodus 33:15",
+        "Exodus 34:6-7"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "sorrow",
+        "comfort"
+      ],
+      "discussion_prompt": "Days after promising everything, Israel is dancing around a golden calf, and Moses steps between the people and judgment. What does this crisis reveal about the human pull toward gods we can manage, and what does God's self-description in Exodus 34 offer someone who has genuinely blown it?",
+      "assessment_questions": [
+        "What do the people make while Moses is on the mountain, and what does Moses do when he sees it?",
+        "God proclaims himself compassionate, gracious, and slow to anger right after Israel's worst betrayal. Why does that timing matter for understanding who God is?",
+        "Moses tells God he would rather be blotted out than see the people abandoned. Who do you care about enough to plead for like that, and what would interceding for them actually involve?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Idolatry breaks the covenant",
+          "explanation": "The calf replaces the God who just rescued Israel with something they can see and control, showing how quickly hearts drift toward manageable gods."
+        },
+        {
+          "concept": "The power of intercession",
+          "explanation": "Moses pleads for the people and God relents from destroying them, showing that a mediator standing in the breach matters to God."
+        },
+        {
+          "concept": "God's self-revelation",
+          "explanation": "Exodus 34:6-7 gives the description of God the rest of the Old Testament quotes most, holding mercy and justice together in one character."
+        },
+        {
+          "concept": "Presence over blessings",
+          "explanation": "Moses refuses to move forward without God himself, teaching that God's presence is worth more than any gift he might give."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the golden calf crisis and explain what Exodus 34:6-7 reveals about God's character.",
+      "comprehension_check": [
+        {
+          "question": "God's fullest description of his own character, mercy first, comes right after Israel's worst betrayal. What does the placement teach?",
+          "options": [
+            "That the calf mattered less to God than Moses had feared",
+            "That mercy is who God is precisely where his people fail",
+            "That Israel's punishment had balanced the books for the calf",
+            "That God's anger was Moses' misreading, corrected on the mountain"
+          ],
+          "answer_index": 1,
+          "why": "Exodus 34:6-7 is proclaimed over a covenant-breaking people still being carried forward, grace spoken exactly where it is needed.",
+          "hint": "Read Exodus 32:7-10 and then Exodus 34:5-7. Notice where the story stands when the proclamation comes."
+        },
+        {
+          "question": "God offers Israel the promised land with an angel to clear the way, while God himself stays behind. Moses refuses to move. What does the refusal claim?",
+          "options": [
+            "That the road is too dangerous without stronger protection",
+            "That Moses' standing as leader depends on winning this appeal",
+            "That the land promise cannot be trusted after the calf",
+            "That the covenant's real prize is God himself, nothing less"
+          ],
+          "answer_index": 3,
+          "why": "Exodus 33:15-16 stakes everything on God going with them, the presence that makes the people distinct.",
+          "hint": "Read Exodus 33:1-3 and 33:14-16 again. Notice what is offered, and what Moses says he cannot go without."
+        }
+      ]
+    },
+    {
+      "id": "exod-35-40",
+      "title": "The Tabernacle Built; the Glory Descends",
+      "chapters": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "verse_span": {
+        "from": "35:1",
+        "to": "40:38"
+      },
+      "difficulty_tier": 3,
+      "summary": "The people build the sanctuary exactly as commanded, and the glory of YHWH fills it — God resident in the camp of a people who had just betrayed him. Exodus ends with the problem that drives Leviticus: God is present, but how can anyone safely approach him?",
+      "key_themes": [
+        "obedience",
+        "divine presence",
+        "glory",
+        "restoration"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-25-31",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "These chapters execute the blueprint of 25-31 almost word for word; read the design before the construction.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-32-34",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The glory descending means the calf breach is truly forgiven — the ending's weight depends on the crisis.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-21-22",
+          "reason": "The Bible's final scene — 'the dwelling of God is with humanity' — completes what the filled tabernacle begins."
+        }
+      ],
+      "key_verses": [
+        "Exodus 35:21",
+        "Exodus 39:43",
+        "Exodus 40:34"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "light",
+      "emotional_tone": [
+        "celebratory",
+        "awe"
+      ],
+      "discussion_prompt": "The same people who made the golden calf now give so freely that Moses has to tell them to stop. What changed in them, and what does glad, overflowing generosity look like in a community that knows it has been forgiven?",
+      "assessment_questions": [
+        "How do the people respond when materials are requested for the tabernacle, and what happens when the work is finished?",
+        "Exodus ends with God's glory filling a tent in the camp of people who recently betrayed him. What does that ending say about how far God's forgiveness goes?",
+        "Israel built exactly what God commanded, detail by detail. Where does careful obedience in small things feel tedious to you, and what would it mean to treat it as worship?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Willing hearts build God's dwelling",
+          "explanation": "The sanctuary is raised from freely offered gifts and labor, showing that true worship is given gladly rather than extracted."
+        },
+        {
+          "concept": "Obedience down to the details",
+          "explanation": "The refrain 'as the LORD commanded Moses' runs through the construction, teaching that faithfulness lives in small, careful acts."
+        },
+        {
+          "concept": "The glory fills the tabernacle",
+          "explanation": "God takes up residence in the middle of the camp, so the goal of the whole exodus is reached: God dwelling with his people."
+        },
+        {
+          "concept": "Presence raises the question of access",
+          "explanation": "Even Moses cannot enter the filled tent, which sets up the question Leviticus answers: how can anyone safely approach the God who now lives next door?"
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how Exodus ends and explain why God's glory filling the tabernacle both completes the story and sets up Leviticus.",
+      "comprehension_check": [
+        {
+          "question": "The people who demanded the calf now give so freely that Moses must order them to stop, and they build exactly as commanded. What is the narrative showing?",
+          "options": [
+            "A forgiven people answering mercy with glad and careful worship",
+            "A frightened people working to stay ahead of further plagues",
+            "A guilty people buying back the favor the calf had cost",
+            "A managed people held to the task by Moses' new discipline"
+          ],
+          "answer_index": 0,
+          "why": "Exodus 35:21 traces the giving to stirred hearts and willing spirits, worship rising freely on the far side of forgiveness.",
+          "hint": "Read Exodus 35:20-29 and 36:5-7 again. Notice what moves each giver, and how the giving has to end."
+        },
+        {
+          "question": "Exodus ends with the glory filling the tabernacle while Moses cannot enter it. What kind of ending is that?",
+          "options": [
+            "A quiet failure, since the sanctuary's purpose stands unmet",
+            "A changing of the guard, with Moses' role now ending",
+            "A goal reached, raising a new question of safe approach",
+            "A warning that the people's forgiveness was never fully real"
+          ],
+          "answer_index": 2,
+          "why": "Exodus 40:34-35 gives both facts at once, the glory dwelling in the camp and the way in still waiting to be opened.",
+          "hint": "Read Exodus 40:34-38 again. Notice what fills the tent, and who stays outside it."
+        }
+      ]
+    }
+  ]
+}

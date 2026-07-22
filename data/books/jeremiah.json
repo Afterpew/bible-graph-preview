@@ -1,0 +1,1488 @@
+{
+  "book": "Jeremiah",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "jer-1",
+      "title": "The Call of Jeremiah",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:19"
+      },
+      "difficulty_tier": 2,
+      "summary": "'Before I formed you in the womb I knew you' — a young man from a priestly village is appointed prophet to the nations, to pluck up and to plant, over his own protest that he cannot speak. God touches his mouth and promises the one thing Jeremiah will need most: 'they will fight against you, but they shall not prevail.'",
+      "key_themes": [
+        "calling",
+        "youth",
+        "divine word",
+        "courage"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-21-23",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Jeremiah's forty-year ministry spans Josiah's reform to Jerusalem's fall — the events of 2 Kings 22-25 are his stage."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 1:5",
+        "Jeremiah 1:9",
+        "Jeremiah 1:19"
+      ],
+      "reading_time_minutes": 8,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reverent",
+        "resolve"
+      ],
+      "discussion_prompt": "God answers Jeremiah's protest that he is only a youth by touching his mouth and promising to be with him. What does this chapter suggest God looks for in the people he calls, and where might feeling too young or unqualified be holding you back from something God is asking of you?",
+      "assessment_questions": [
+        "What does God say he knew and did before Jeremiah was born, and what task does he give him over the nations?",
+        "Jeremiah is commissioned both to pluck up and tear down and to build and plant. Why does the prophet's job include destruction before construction?",
+        "God never promises Jeremiah safety, only that his opponents will not prevail. How would trusting that kind of promise change the way you face something you are afraid to say or do?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God calls before we are ready",
+          "explanation": "God knew and appointed Jeremiah before birth, so calling begins with God's initiative rather than human qualification."
+        },
+        {
+          "concept": "God equips the weak",
+          "explanation": "Jeremiah protests that he cannot speak, and God touches his mouth, showing that the one who sends also supplies the words."
+        },
+        {
+          "concept": "God speaks into history",
+          "explanation": "The visions of the almond branch and the boiling pot show God announcing real events in advance and watching over his word to perform it."
+        },
+        {
+          "concept": "Courage rests on presence",
+          "explanation": "The call guarantees opposition and guarantees God's presence more strongly, so the prophet's endurance rests on who stands with him."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the call of Jeremiah, including his protest and God's answer, and explain what God promised him about the opposition ahead.",
+      "comprehension_check": [
+        {
+          "question": "In Jeremiah 1:6-8, Jeremiah protests that he is too young and cannot speak. How does God's reply meet the objection?",
+          "options": [
+            "He promises that experience will supply the skill Jeremiah lacks",
+            "He moves the question from Jeremiah's ability to God's sending",
+            "He recalls the priestly training Jeremiah's own household gave him",
+            "He says Jeremiah's youth will soften his hearers against him"
+          ],
+          "answer_index": 1,
+          "why": "Jeremiah 1:7-8 answers the protest by pointing to the one sending him and promising rescue through God's own presence.",
+          "hint": "Read Jeremiah 1:7-9 again. Notice whose words end up in Jeremiah's mouth, and who decides where he goes."
+        },
+        {
+          "question": "God names Jeremiah a fortified city and a bronze wall in Jeremiah 1:18-19. What kind of assurance does that image carry?",
+          "options": [
+            "A promise that his opponents will soon be won over",
+            "A promise that God will keep the battle far away",
+            "A promise he will stand through a fight sure to come",
+            "A promise that his message will be vindicated within his lifetime"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 1:19 assumes the attack will come and promises it will fail, since God stays with him to deliver him.",
+          "hint": "Read Jeremiah 1:18-19 again. Notice what the promise says will still happen to Jeremiah, and what it says can never happen."
+        }
+      ]
+    },
+    {
+      "id": "jer-2-6",
+      "title": "The Lawsuit: Broken Cisterns and the Foe from the North",
+      "chapters": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "difficulty_tier": 3,
+      "summary": "God opens a case against Judah the way a wronged husband opens one, remembering a bride who once followed him through the wilderness and asking what fault her ancestors ever found in him. The charge in Jeremiah 2:13 is two evils at once, not one: they walked away from running water, and then they cut their own tanks out of rock that cracks. Chapters 3 and 4 press an offer to come back that the people will not take, and from there the poetry turns into an air raid siren, a nation coming down from the north on horses faster than eagles. By chapter 6 the assayer has finished his test and the metal comes out as waste.",
+      "key_themes": [
+        "covenant lawsuit",
+        "unfaithfulness",
+        "living water",
+        "the call to return",
+        "foe from the north"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-1",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The oracles execute the plucking-up commission of the call vision.",
+          "scope": "sequence"
+        },
+        {
+          "node": "deut-27-30",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Jeremiah is Deuteronomy's prosecutor; the lawsuit's terms are that covenant's blessings and curses.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 2:13",
+        "Jeremiah 6:14",
+        "Jeremiah 6:16"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "sorrow"
+      ],
+      "discussion_prompt": "God's complaint is not that Judah found something better, but that they left running water to dig tanks that leak. What are people your age digging right now for security or identity, and what makes a leaking tank so hard to recognize while you are still cutting into the rock?",
+      "assessment_questions": [
+        "In Jeremiah 2, what does God say Judah did in the wilderness years, and what does he say they have done since?",
+        "The prophets in Jeremiah 6:14 treat a deep wound with a light dressing. What does that picture say about the kind of comfort Judah's religious leaders were offering?",
+        "Jeremiah 6:16 asks the people to stop at a crossroads and ask which way is good before walking on. Where in your own life are you moving fast enough that you have skipped that question, and what would stopping look like this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The covenant lawsuit",
+          "explanation": "God prosecutes in courtroom form, summoning witnesses and presenting Judah's own history as evidence, which frames sin as a broken relationship with a record rather than a private failing."
+        },
+        {
+          "concept": "Idolatry as self-harm",
+          "explanation": "The two evils of Jeremiah 2:13 hold together abandonment and self-injury, so leaving God is also the act that leaves the people with nothing to drink."
+        },
+        {
+          "concept": "Return is the running offer",
+          "explanation": "Chapters 3 and 4 repeat the summons to come back so often that the judgment poetry has to be read as the sound of an invitation being refused."
+        },
+        {
+          "concept": "The unnamed foe from the north",
+          "explanation": "Jeremiah keeps the invader anonymous for chapters, which turns the oracles from a military forecast into a warning that the people cannot bargain with."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the two evils of Jeremiah 2:13 in your own words, and describe how the call to return in chapters 3 to 6 sits alongside the alarms about the army from the north.",
+      "comprehension_check": [
+        {
+          "question": "Jeremiah 2:13 names two evils where one would have made the point. What does adding the second charge do to the picture of Judah's sin?",
+          "options": [
+            "The second charge doubles the penalty God is entitled to exact",
+            "The second charge makes their sin a wound they inflict on themselves",
+            "The second charge shows the sin was deliberate and not ignorant",
+            "The second charge accuses the leaders where the first accused the people"
+          ],
+          "answer_index": 1,
+          "why": "Jeremiah 2:13 sets the abandoned spring beside the cracked tanks, so the same act that walks away from God is the act that leaves the people holding nothing.",
+          "hint": "Read Jeremiah 2:13 once more, then Jeremiah 2:5. Notice what the second image says happens to the people themselves."
+        },
+        {
+          "question": "Jeremiah 6:16 offers rest on an old road right in the middle of oracles about an army from the north. What does that placement claim about the coming disaster?",
+          "options": [
+            "The disaster is the only road left, since the offer comes too late",
+            "The disaster runs on a schedule that repentance could not have altered",
+            "The disaster is deserved, and the offer softens how harsh it sounds",
+            "The disaster falls on a people who were still being asked to turn"
+          ],
+          "answer_index": 3,
+          "why": "Jeremiah 6:16 puts a live invitation inside the invasion poetry, and the people answer it there by saying they will not walk that way.",
+          "hint": "Read Jeremiah 6:16-19 again. Notice who gets the last word in verse 16 and what they say."
+        }
+      ],
+      "verse_span": {
+        "from": "2:1",
+        "to": "6:30"
+      }
+    },
+    {
+      "id": "jer-7-10",
+      "title": "The Temple Sermon: Deceptive Words",
+      "chapters": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "difficulty_tier": 3,
+      "summary": "Jeremiah is told to stand in the gate of the temple and take away the one thing the worshipers were sure of. They had a slogan about the building, repeated three times over, and he tells them the slogan is a lie unless justice changes at street level, then names Shiloh, a sanctuary God once let fall. The rest of the cycle works out what that leaves: a house called by God's name turned into a hideout, offerings God never asked for, a harvest gone by with no one saved, and a prophet asking whether there is any medicine left in Gilead. Chapter 10 finishes the argument by laughing at gods that have to be nailed down so they do not tip over.",
+      "key_themes": [
+        "the temple sermon",
+        "false security",
+        "religion without justice",
+        "idolatry",
+        "knowing God"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-2-6",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The temple sermon opens the second cycle of the early oracles the lawsuit began."
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-19-21",
+          "reason": "Jesus quotes the temple sermon's 'den of robbers' as he overturns the money-changers' tables."
+        }
+      ],
+      "key_verses": [
+        "Jeremiah 7:4",
+        "Jeremiah 7:11",
+        "Jeremiah 9:23-24"
+      ],
+      "reading_time_minutes": 28,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "sorrow"
+      ],
+      "discussion_prompt": "The people in the gate were not skipping worship. They were attending faithfully and repeating the right words about the right building. What does this sermon say was missing, and where could the same gap open up in a life that looks religious from the outside?",
+      "assessment_questions": [
+        "According to Jeremiah 7:5-7, what does God ask the people to change if they want to stay in the land?",
+        "Jeremiah brings up Shiloh in Jeremiah 7:12-14 before he says anything about the temple's future. Why does that old ruin make his point better than an argument would?",
+        "Jeremiah 9:23-24 moves a person's confidence off wisdom, strength, and wealth and onto knowing God. Which of those three is doing the most work in how you measure yourself, and what would trading it feel like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Sacred space is not a shield",
+          "explanation": "The sermon grants that the temple is God's house and still denies that living there protects anyone, which separates access to holy things from covenant faithfulness."
+        },
+        {
+          "concept": "The Shiloh precedent",
+          "explanation": "A sanctuary that carried God's name has already been abandoned once, so Judah's argument from the temple's existence is answered with the record of its own history."
+        },
+        {
+          "concept": "A den is where you go after the robbery",
+          "explanation": "Jeremiah 7:11 does not accuse the worshipers of robbing in the temple but of using it as a safe house afterward, which is why Jesus reaches for the same line."
+        },
+        {
+          "concept": "Idols cannot act",
+          "explanation": "The satire of chapter 10 argues by contrast, setting objects that must be carried and fastened upright beside a God who made the world and speaks."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "State what the temple sermon asks the people to trust instead of the building, and explain how the Shiloh reference and the idol satire of chapter 10 each support that demand.",
+      "comprehension_check": [
+        {
+          "question": "Jeremiah points the temple crowd back to Shiloh before he says anything about their own sanctuary. What is that reference doing in the sermon?",
+          "options": [
+            "It supplies a case where God abandoned his own holy place before",
+            "It reminds them that the north fell first and the south follows",
+            "It contrasts an old rural shrine with the grander temple they own",
+            "It dates the sermon to a feast when Shiloh was remembered"
+          ],
+          "answer_index": 0,
+          "why": "Jeremiah 7:12-14 uses Shiloh as precedent, a place that carried God's name and was left in ruins anyway, and says the temple can expect the same.",
+          "hint": "Read Jeremiah 7:12-15 again. Notice what Jeremiah says God once did at Shiloh, and what he says will happen next."
+        },
+        {
+          "question": "Jeremiah 9:23-24 names the one thing a person may boast in. How does that boast connect back to the sermon that opened these chapters?",
+          "options": [
+            "Both say God is available to anyone who genuinely seeks him out",
+            "Both move confidence off what you hold and onto knowing God",
+            "Both warn that wisdom and wealth vanish when the city finally falls",
+            "Both call the people to worship somewhere other than the temple"
+          ],
+          "answer_index": 1,
+          "why": "Jeremiah 9:24 makes knowing God the only boast, and what God says he delights in there is the same justice he demanded at the gate in Jeremiah 7:5-7.",
+          "hint": "Read Jeremiah 9:23-24 beside Jeremiah 7:5-7. Notice what God says he delights in, and what he asked for at the temple gate."
+        }
+      ],
+      "verse_span": {
+        "from": "7:1",
+        "to": "10:25"
+      }
+    },
+    {
+      "id": "jer-11-13",
+      "title": "The Broken Covenant and the First Confessions",
+      "chapters": [
+        11,
+        12,
+        13
+      ],
+      "difficulty_tier": 4,
+      "summary": "A sermon on the terms of the covenant opens the block, and the reaction to it drives the book inside the prophet for the first time. Jeremiah learns that his own townsmen at Anathoth are plotting against him, and he says he had been walking around like a tame lamb with no idea. In Jeremiah 12:1 he takes God to court over the same fairness he had been prosecuting Judah for, asking why the treacherous are comfortable, and God answers with a question about running against horses. The block closes with a linen belt worn, buried, and dug up rotten, and with the flat verdict of Jeremiah 13:23 that a people practiced at evil can no more change than a leopard can wash off its spots.",
+      "key_themes": [
+        "broken covenant",
+        "the first confessions",
+        "the prosperity of the wicked",
+        "sign-act",
+        "ingrained sin"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-7-10",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The confessions are the inner life of the man delivering those public oracles; they interleave with the same crisis.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 11:19",
+        "Jeremiah 12:1",
+        "Jeremiah 13:23"
+      ],
+      "reading_time_minutes": 22,
+      "content_density": "dense",
+      "emotional_tone": [
+        "lament",
+        "tension"
+      ],
+      "discussion_prompt": "Jeremiah brings God the exact complaint he has been answering on God's behalf, that the wrong people are doing well. God does not give him the explanation he asked for and he keeps preaching anyway. What does that exchange suggest about what prayer is for, and what would you say to God if you knew the answer might not come?",
+      "assessment_questions": [
+        "What does Jeremiah discover about the men of his hometown in Jeremiah 11:18-23, and how does he say he had been living before he knew?",
+        "God responds to the complaint of Jeremiah 12:1 with an image of racing horses. What does that reply say about how God is treating the prophet's question?",
+        "Jeremiah 13:23 describes habits worn so deep that a person cannot simply decide out of them. Where have you noticed that in yourself, and what does the passage suggest about where change would have to come from?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Covenant has terms, not moods",
+          "explanation": "The sermon of chapter 11 treats the relationship as an agreement with published conditions, so Judah's danger is contractual rather than a matter of God losing patience."
+        },
+        {
+          "concept": "The confessions",
+          "explanation": "Jeremiah's private prayers are preserved in the book itself, which makes the cost of the message part of the message and lets the reader see a prophet arguing with the God he serves."
+        },
+        {
+          "concept": "An answer that is not an explanation",
+          "explanation": "God meets the fairness question of Jeremiah 12:1 with a question about endurance, a pattern the wisdom books share, where the sufferer gets God's presence and a larger frame instead of a reason."
+        },
+        {
+          "concept": "Sign-acts preach with objects",
+          "explanation": "The belt in chapter 13 makes an argument the audience can watch, and its ruin gives the image a timeline that a spoken oracle cannot."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the plot at Anathoth and how Jeremiah reacts to it, and explain what the buried belt and the leopard's spots each say about Judah's condition.",
+      "comprehension_check": [
+        {
+          "question": "Jeremiah wears a linen belt, buries it, and later digs it up ruined. What does that sign say about Judah's relationship to God?",
+          "options": [
+            "Judah was chosen for its own sake and not for any purpose",
+            "Judah's rituals had decayed into forms with no life in them",
+            "Judah was meant to cling to God as cloth clings to skin",
+            "Judah's leaders spoiled a people who were otherwise still healthy"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 13:11 says God bound Judah to himself the way a belt is bound to a waist, so the ruined cloth measures a closeness that has come apart.",
+          "hint": "Read Jeremiah 13:1-11 again. Notice where the belt is worn before it is buried, and what God says he wanted it for."
+        },
+        {
+          "question": "Jeremiah asks in Jeremiah 12:1 why treacherous people are comfortable, and God replies with a question about racing horses. What does that reply give the prophet?",
+          "options": [
+            "A warning that harder trouble is coming, without settling his question",
+            "A rebuke that withdraws the commission he was given in chapter one",
+            "An assurance that the wicked will be repaid within his own lifetime",
+            "A promise that his opponents will be removed before the invasion"
+          ],
+          "answer_index": 0,
+          "why": "Jeremiah 12:5 answers a question about fairness with a question about stamina, so the prophet leaves the exchange braced for worse rather than satisfied.",
+          "hint": "Read Jeremiah 12:1-6 again. Notice whether God ever takes up the point about the wicked, and what he asks about instead."
+        }
+      ],
+      "verse_span": {
+        "from": "11:1",
+        "to": "13:27"
+      }
+    },
+    {
+      "id": "jer-14-17",
+      "title": "Drought, Barred Intercession, and the Deceitful Heart",
+      "chapters": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "difficulty_tier": 4,
+      "summary": "A drought opens the block, and with it a communal prayer that says all the right things and gets refused. God tells Jeremiah to stop praying for these people, and in Jeremiah 15:1 he says that Moses and Samuel themselves could stand in front of him and the verdict would hold. The prophet is then stripped of ordinary human comforts on purpose, forbidden to marry, forbidden to attend funerals or feasts, so that his life becomes a piece of the message. Chapter 17 supplies the block's diagnosis: two lives sketched as a desert shrub and a tree by water, and a heart so crooked that only God can read it.",
+      "key_themes": [
+        "drought and lament",
+        "barred intercession",
+        "the deceitful heart",
+        "trust and its opposite",
+        "the prophet's isolation"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-11-13",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Jeremiah 14–17 presumes the prior sequence of covenant-breach confessions and theological framing developed in 11–13, and without that prior sequence a reader will likely misplace the drought oracle within Jeremiah’s developing argument.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 15:16",
+        "Jeremiah 17:7-8",
+        "Jeremiah 17:9"
+      ],
+      "reading_time_minutes": 28,
+      "content_density": "dense",
+      "emotional_tone": [
+        "lament",
+        "warning"
+      ],
+      "discussion_prompt": "The drought prayer in chapter 14 sounds humble and well phrased, and God turns it down. Compare it with what God asks for elsewhere in these chapters. What do you think was missing from it, and how would you know whether the same thing is missing from your own praying?",
+      "assessment_questions": [
+        "What restrictions does God place on Jeremiah's ordinary life in Jeremiah 16:1-9, and what reason does he give for them?",
+        "God names Moses and Samuel in Jeremiah 15:1 rather than simply saying no. What does choosing those two names add to the refusal?",
+        "Jeremiah 17:7-8 pictures a tree whose roots reach water it cannot see, so a dry year does not show on its leaves. What is one specific pressure in your life right now that is testing where your roots actually run?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Prayer that God refuses",
+          "explanation": "The drought liturgy uses correct language and is still turned down, which forces the reader to ask what a prayer is worth when the life behind it has not moved."
+        },
+        {
+          "concept": "The limit of intercession",
+          "explanation": "Jeremiah is repeatedly told not to pray for this people, so the book presents a point at which a sentence stands, without treating that point as normal or as God's preference."
+        },
+        {
+          "concept": "The prophet as living sign",
+          "explanation": "Forbidding marriage and mourning turns Jeremiah's private life into public preaching, since the missing wedding and the missing funeral picture a society that will lose both."
+        },
+        {
+          "concept": "A heart only God can read",
+          "explanation": "Jeremiah 17:9 denies the heart is self-transparent and Jeremiah 17:10 supplies the remedy, which sets up why the new covenant of chapter 31 has to be written inside a person."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why the drought prayer is refused and what Jeremiah 15:1 adds to that refusal, then describe how the two trees of Jeremiah 17:5-8 illustrate the diagnosis in Jeremiah 17:9.",
+      "comprehension_check": [
+        {
+          "question": "God tells Jeremiah to stop praying for the people, and in Jeremiah 15:1 he says even Moses and Samuel could not change the outcome. What is that meant to establish?",
+          "options": [
+            "That prayer works only when the person praying is righteous enough",
+            "That Moses and Samuel were overrated by the traditions about them",
+            "That God has grown too angry to be reached by any request now",
+            "That the sentence has passed the point where intercession can undo it"
+          ],
+          "answer_index": 3,
+          "why": "Jeremiah 15:1 reaches for the two greatest intercessors in Israel's memory precisely to say that the case has closed, which measures how far the verdict of chapters 14 and 15 has gone.",
+          "hint": "Read Jeremiah 14:11-12 alongside Jeremiah 15:1. Notice what God says about the people's own fasting and offerings in the same breath."
+        },
+        {
+          "question": "Jeremiah 17:9 calls the heart unreadable right after sketching a desert shrub and a tree by water. What does putting those two things together claim?",
+          "options": [
+            "That a person cannot tell from inside which of the two they are",
+            "That the desert shrub was never given the same chance the tree had",
+            "That trust is a feeling the heart produces when conditions are good",
+            "That God tests hearts because he cannot see them any other way"
+          ],
+          "answer_index": 0,
+          "why": "Jeremiah 17:10 has God searching the heart immediately after calling it beyond understanding, so which tree a person is gets settled by his examination.",
+          "hint": "Read Jeremiah 17:5-10 as one piece. Notice what verse 10 says God does, and why that would be needed right after verse 9."
+        }
+      ],
+      "verse_span": {
+        "from": "14:1",
+        "to": "17:27"
+      }
+    },
+    {
+      "id": "jer-18-20",
+      "title": "The Potter, the Smashed Jar, and Fire in the Bones",
+      "chapters": [
+        18,
+        19,
+        20
+      ],
+      "difficulty_tier": 4,
+      "summary": "God sends Jeremiah to watch a working potter, and the lesson is not that the clay has no say but that the potter keeps working with what the clay does, which Jeremiah 18:7-10 then states as a rule running in both directions. Judah answers the offer by saying it will keep to its own plans, so the next sign leaves nothing to rework: a clay jar smashed in front of the elders in the valley where children had been burned. The priest Pashhur has Jeremiah beaten and locked in the stocks overnight, and when he is let out the prophet turns on God in the harshest prayer in the book. He says he tried to quit and could not, because the word burns inside him, and then he curses the day he was born.",
+      "key_themes": [
+        "potter and clay",
+        "conditional judgment",
+        "sign-act",
+        "persecution",
+        "the burning word"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-14-17",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Jeremiah 18–20 completes and depends on the rising sequence of prophetic confessions and vocation motifs begun in 14–17, which it does not restate, so skipping 14–17 will lead to a misreading of the emotional and theological arc.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rom-9-11",
+          "reason": "Paul's potter-and-clay argument reworks Jeremiah 18's image of God's freedom over nations."
+        },
+        {
+          "node": "job-3-14",
+          "reason": "Jeremiah's curse on his own birthday (20) stands beside Job 3 — the Bible's two darkest self-laments."
+        }
+      ],
+      "key_verses": [
+        "Jeremiah 18:6",
+        "Jeremiah 19:11",
+        "Jeremiah 20:9"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "lament"
+      ],
+      "discussion_prompt": "The clay on the wheel can still be reworked and the fired jar in the valley cannot. Between those two signs stands Judah's answer that it will follow its own plans. What does the pairing suggest about how a situation moves from workable to broken, and what would you want to say to someone standing at that point?",
+      "assessment_questions": [
+        "What does God say in Jeremiah 18:7-10 that he will do when a nation turns from its evil, and what will he do when a nation turns to it?",
+        "Jeremiah smashes a fired jar rather than a lump of wet clay in chapter 19. Why does the material matter for what that sign says?",
+        "Jeremiah 20:9 describes trying to stop speaking and finding he could not. What conviction do you hold that you would still act on if it cost you what it cost him, and how do you know?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The potter's freedom is not indifference",
+          "explanation": "Jeremiah 18 shows a craftsman who keeps working with the clay in front of him, and God applies the picture as a rule about relenting, so sovereignty and responsiveness are stated in the same breath."
+        },
+        {
+          "concept": "Conditional prophecy",
+          "explanation": "An announced disaster is a summons rather than a schedule, which is why Jonah's Nineveh can escape and why Judah's refusal in Jeremiah 18:12 is the real turn in the block."
+        },
+        {
+          "concept": "Escalating sign-acts",
+          "explanation": "The workable clay gives way to the smashed jar, and the sequence itself preaches that the window for change has a closing edge."
+        },
+        {
+          "concept": "The cost of speaking for God",
+          "explanation": "Jeremiah gains nothing from his message except the stocks and the hatred of his neighbors, which is part of why the book treats his suffering as evidence rather than as an interruption."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the rule God draws from the potter's wheel in Jeremiah 18:7-10, why the smashed jar follows it, and what Jeremiah 20:7-18 shows about the state of the prophet by the end of the block.",
+      "comprehension_check": [
+        {
+          "question": "The potter reworks the spoiled lump rather than throwing it out, and God applies that to nations in Jeremiah 18:7-10. What does the image claim about the judgments God announces?",
+          "options": [
+            "They are settled in advance, and the clay is only told what is coming",
+            "They are threats God expects to withdraw once the warning lands",
+            "They can be reworked, because God responds to how a nation answers",
+            "They fall on nations in turn, so none stays under judgment forever"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 18:7-10 states the rule in both directions, an announced disaster relented from and an announced good withdrawn, according to what the nation does next.",
+          "hint": "Read Jeremiah 18:5-12 again. Notice that God gives the rule twice, once about disaster and once about good, before Judah replies."
+        },
+        {
+          "question": "Chapter 20 moves from accusing God, to a burst of praise, and then to cursing the day he was born. What does ending on the curse instead of the praise accomplish?",
+          "options": [
+            "It shows the praise in the middle was insincere all along",
+            "It shows his anguish outlasted the relief and stayed inside the prayer",
+            "It shows the prophet finally abandoned the calling he was given",
+            "It shows God withdrawing from him for the rest of the book"
+          ],
+          "answer_index": 1,
+          "why": "Jeremiah 20:9 has already admitted he cannot stop speaking, so the darkness of Jeremiah 20:14-18 is said to God by a man who is still doing the work.",
+          "hint": "Read Jeremiah 20:7-18 straight through. Notice what verse 9 says about trying to quit, and then where the chapter leaves him."
+        }
+      ],
+      "verse_span": {
+        "from": "18:1",
+        "to": "20:18"
+      }
+    },
+    {
+      "id": "jer-21-25",
+      "title": "The Kings, the Prophets, and the Cup of Wrath",
+      "chapters": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "difficulty_tier": 3,
+      "summary": "Zedekiah sends to ask whether God will work another rescue, and the answer sets a road to life and a road to death in front of the whole city. What follows is a review of the men who were supposed to shepherd Judah: one king carried off and never coming back, one who panelled his house in cedar while withholding his workers' wages, one discarded like a signet ring pulled off a hand. Against that record God promises a Branch from David who will actually do justice, then turns on the prophets who kept promising peace without ever standing in his council. The block closes with two baskets of figs that reverse who is blessed, and with a cup that every nation has to drink.",
+      "key_themes": [
+        "kings weighed",
+        "the righteous Branch",
+        "false prophets",
+        "seventy years",
+        "the cup of wrath"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-18-20",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The public confrontations escalate from the persecution the confessions record."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 23:5-6",
+        "Jeremiah 23:29",
+        "Jeremiah 25:11"
+      ],
+      "reading_time_minutes": 32,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "confrontational"
+      ],
+      "discussion_prompt": "Jeremiah 22 measures a king not by his building projects or his borders but by whether the poor in his kingdom got justice. Look at how the good king and the bad king are described there. What standard is being used, and where would that standard land if you applied it to leaders you can actually name?",
+      "assessment_questions": [
+        "In Jeremiah 22:13-17, what does God say about Jehoiakim's palace, and what does he say his father did instead?",
+        "The two baskets in chapter 24 call the deported exiles good and the people still in Jerusalem bad. What assumption is that vision built to overturn?",
+        "Jeremiah 23:29 compares God's word to a hammer that breaks rock, while the popular prophets offered something easier to hear. When was the last time something you read or heard broke rather than soothed, and what did you do with it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Kings are judged on justice",
+          "explanation": "The roll call in chapter 22 rates each king by wages paid and cases heard rather than by security or splendor, which is how the covenant measured a throne."
+        },
+        {
+          "concept": "The righteous Branch",
+          "explanation": "After a line of failed shepherds God promises a king from David who will finally do what the office was for, and the name given him in Jeremiah 23:6 puts the people's righteousness on his side of the ledger."
+        },
+        {
+          "concept": "The test of a prophet",
+          "explanation": "Jeremiah 23:21-22 grounds the difference in whether the prophet was sent and whether his message turned people from evil, so the question is not who sounds more confident."
+        },
+        {
+          "concept": "The seventy years and the cup",
+          "explanation": "Chapter 25 turns the local crisis into a global sentence with a set term, which is why Daniel later reads it as a clock and why Babylon has to drink last."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Summarize the standard by which chapter 22 judges Judah's kings, explain what Jeremiah 23:21-22 says separates a true prophet from a false one, and state what the two baskets of figs reverse.",
+      "comprehension_check": [
+        {
+          "question": "Chapter 24 calls the exiles already in Babylon the good figs and the people still in Jerusalem the bad ones. Why is that assignment so jarring in context?",
+          "options": [
+            "It treats deportation as the punishment and the survivors as spared",
+            "It denies that the temple's presence made any difference to anyone",
+            "It says the exiles suffered enough to have paid off their guilt",
+            "It reverses the assumption that staying in the land proved God's favor"
+          ],
+          "answer_index": 3,
+          "why": "Jeremiah 24:5-7 puts God's future with the group that lost everything and promises them a heart to know him, which moves hope away from the city still standing.",
+          "hint": "Read Jeremiah 24:4-10 again. Notice which group God says he will build and plant, and where that group is living when he says it."
+        },
+        {
+          "question": "Jeremiah 23:9-40 attacks prophets who were popular and sure of themselves. What does the chapter treat as the root of the problem with them?",
+          "options": [
+            "Their forecasts about the city all turned out to be inaccurate",
+            "They spoke unsent, so nothing they said turned anyone from evil",
+            "They took payment for messages that should have been given free",
+            "They borrowed their oracles from foreign shrines and their prophets"
+          ],
+          "answer_index": 1,
+          "why": "Jeremiah 23:21-22 says they ran without being sent, and that standing in God's council would have produced preaching that turned people from their evil.",
+          "hint": "Read Jeremiah 23:16-22 again. Notice what God says would have happened to the audience if these men had really been in his council."
+        }
+      ],
+      "verse_span": {
+        "from": "21:1",
+        "to": "25:38"
+      }
+    },
+    {
+      "id": "jer-26-29",
+      "title": "Yokes and Letters: True and False Prophecy on Trial",
+      "chapters": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "difficulty_tier": 3,
+      "summary": "The poetry stops and the book becomes courtroom and correspondence. Jeremiah preaches the temple sermon again and is put on trial for his life, saved by elders who remember an older case, while another prophet saying much the same thing is hunted down and killed. Then Jeremiah straps a wooden yoke on his shoulders to say that serving Babylon is God's own policy, and Hananiah breaks it off him in public and promises everything back in two years. The block ends with a letter carried to Babylon telling the exiles to build houses, plant gardens, and pray for the city that took them, because the plans God has for them run past the seventy years and not around them.",
+      "key_themes": [
+        "true and false prophecy",
+        "the yoke of Babylon",
+        "exile as vocation",
+        "the letter to the exiles",
+        "hope with a timeline"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-21-25",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The conflict narratives contest and confirm the sentence the oracle collection pronounces."
+        }
+      ],
+      "connections": [
+        {
+          "node": "dan-8-12",
+          "reason": "Daniel 9 opens with Daniel reading Jeremiah's seventy-years prophecy and praying over its meaning."
+        }
+      ],
+      "key_verses": [
+        "Jeremiah 28:9",
+        "Jeremiah 29:7",
+        "Jeremiah 29:11-13"
+      ],
+      "reading_time_minutes": 28,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "hopeful"
+      ],
+      "discussion_prompt": "Hananiah offers two years and Jeremiah offers seventy, and on the day they argue nobody in the crowd can prove which one speaks for God. Using only these four chapters, what would you have watched for, and where are you most tempted by the voice that shortens the wait?",
+      "assessment_questions": [
+        "What does the letter in Jeremiah 29:4-7 tell the exiles to do in Babylon, and how long does Jeremiah 29:10 say they will be there?",
+        "Jeremiah answers Hananiah's broken yoke with an iron one in chapter 28. What does swapping the material say about what Hananiah actually changed?",
+        "The exiles are told to seek the good of a city they never chose and would not have picked. What is a place or situation you are stuck in right now, and what would seeking its good actually cost you this month?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Prophecy is tested over time",
+          "explanation": "Jeremiah 28:9 places the verdict at fulfillment rather than at delivery, which means the community has to live through the uncertainty instead of resolving it in the moment."
+        },
+        {
+          "concept": "Exile as vocation",
+          "explanation": "The letter converts a punishment into an assignment, telling the exiles to build, plant, marry, and pray for their captors' city, because their own welfare is now bound up with its welfare."
+        },
+        {
+          "concept": "Hope with a timeline",
+          "explanation": "The promise of Jeremiah 29:11 arrives attached to seventy years in Jeremiah 29:10, so the good future is real without being soon, and the difference between the two is the whole argument with Hananiah."
+        },
+        {
+          "concept": "The word survives its trial",
+          "explanation": "Chapter 26 shows Jeremiah acquitted on a precedent from Micah's day while Uriah dies for the same message, which keeps the reader from concluding that faithfulness guarantees survival."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the letter to the exiles asks them to do and why, and state what Jeremiah 29:10-13 promises once the seventy years are read as part of the promise.",
+      "comprehension_check": [
+        {
+          "question": "In chapter 28 both Hananiah and Jeremiah speak in God's name and both handle the yoke as a sign. What does the chapter show about telling them apart on the day they speak?",
+          "options": [
+            "The listener can tell, because a false prophet always promises peace",
+            "The listener can tell, because Hananiah omits the usual messenger formula",
+            "The listener cannot tell yet, since the two speeches look alike",
+            "The listener can tell, because Jeremiah alone performs a real sign"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 28:9 puts the decision at fulfillment rather than at delivery, and Jeremiah himself simply walks away in Jeremiah 28:11 before any answer comes.",
+          "hint": "Read Jeremiah 28:1-11 again. Notice what Jeremiah says and does immediately after Hananiah breaks the yoke off his neck."
+        },
+        {
+          "question": "Jeremiah 29:11 promises a future and a hope. What does its position inside the letter change about how the promise reads?",
+          "options": [
+            "It is a pledge that the exile will end sooner than announced",
+            "It is spoken to people told to settle in for seventy years",
+            "It is a private word to Jeremiah about his own future",
+            "It is a reward promised to those who refuse to serve Babylon"
+          ],
+          "answer_index": 1,
+          "why": "Jeremiah 29:10 fixes the timing before the promise is made and Jeremiah 29:5-7 tells the exiles to build and plant in the meantime, so the good future covers a lifetime spent in Babylon.",
+          "hint": "Read Jeremiah 29:4-14 as one letter. Notice what verse 10 says about timing before verse 11 says anything about plans."
+        }
+      ],
+      "verse_span": {
+        "from": "26:1",
+        "to": "29:32"
+      }
+    },
+    {
+      "id": "jer-30-33",
+      "title": "The Book of Consolation: A New Covenant",
+      "chapters": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "verse_span": {
+        "from": "30:1",
+        "to": "33:26"
+      },
+      "difficulty_tier": 3,
+      "summary": "In the middle of the siege, Jeremiah buys a field as a deed of hope and delivers the Old Testament's most important promise: 'I will make a new covenant… I will put my law within them, and write it on their hearts; I will forgive their iniquity and remember their sin no more.' The New Testament takes its very name from this chapter.",
+      "key_themes": [
+        "new covenant",
+        "law on the heart",
+        "forgiveness",
+        "hope purchased"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-26-29",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Jeremiah 30–33 answers the announced judgment and exile (the seventy‑years and the yoke/letter context presented earlier) which it does not re‑narrate, so skipping the trial-and-exile material makes the consolation liable to be misunderstood as generic hope rather than a response to declared judgment.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-19-24",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "'Not like the covenant I made with their fathers' — the new covenant defines itself against Sinai; you must know the old to grasp the new.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-8-10",
+          "reason": "Hebrews quotes Jeremiah 31 at full length — the New Testament's longest Old Testament quotation — as the charter of Christ's covenant."
+        },
+        {
+          "node": "luke-22-24",
+          "reason": "'This cup is the new covenant in my blood' — Jesus names his death in this chapter's terms."
+        }
+      ],
+      "key_verses": [
+        "Jeremiah 31:31",
+        "Jeremiah 31:33-34",
+        "Jeremiah 32:15"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "hopeful",
+        "comfort"
+      ],
+      "discussion_prompt": "With siege ramps against the walls, Jeremiah buys a field and God promises a covenant written on hearts. What changes when God's law moves from stone tablets to the inside of a person, and where do you most need God to work from the inside out?",
+      "assessment_questions": [
+        "What does Jeremiah do with the field at Anathoth during the siege, and what does God say the purchase means?",
+        "In the new covenant of chapter 31, what does God promise to do that the covenant at Sinai did not accomplish?",
+        "God promises to forgive iniquity and remember sin no more. How would actually believing that promise change the way you handle your worst failures?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Restoration after judgment",
+          "explanation": "God vows to heal and rebuild what was broken, so the exile turns out to be corrective discipline rather than final rejection."
+        },
+        {
+          "concept": "The new covenant",
+          "explanation": "God promises to write his law on hearts and forgive sins completely, moving the covenant from external command to inner transformation."
+        },
+        {
+          "concept": "Hope you can act on",
+          "explanation": "Buying a field in a doomed city stakes real money on God's promise that houses and vineyards will again be bought in the land."
+        },
+        {
+          "concept": "The righteous Branch",
+          "explanation": "The promise of a coming Davidic king keeps the hope personal, and the New Testament announces the new covenant sealed in Jesus."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain in your own words what God promises in the new covenant of Jeremiah 31, and why Jeremiah's purchase of the field was an act of hope.",
+      "comprehension_check": [
+        {
+          "question": "Jeremiah 31:31-34 promises a new covenant. Within the passage, what makes it new?",
+          "options": [
+            "It renews the old terms with stricter penalties for breaking them",
+            "It replaces the law of Moses with one simpler command",
+            "It narrows the covenant down to a faithful tested remnant",
+            "It moves the law inside the people and ends with forgiveness"
+          ],
+          "answer_index": 3,
+          "why": "Jeremiah 31:33-34 puts the law within, written on the heart, with everyone knowing the LORD and iniquity finally forgiven.",
+          "hint": "Read Jeremiah 31:31-34 again. Notice where the law ends up, and what the promise says about sin in its last line."
+        },
+        {
+          "question": "With the siege underway, Jeremiah buys his cousin's field in Jeremiah 32. What is the purchase doing?",
+          "options": [
+            "Proving the prophet expected Jerusalem to be spared after all",
+            "Securing his family's inheritance before exile could scatter it",
+            "Staking God's pledge that buying and planting will return here",
+            "Modeling detachment from land that judgment would sweep away"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 32:15 states the meaning God attaches to the deed, a future in which fields change hands in this land again.",
+          "hint": "Read Jeremiah 32:13-15 again. Notice how long the deeds are to be kept, and what is promised for the land meanwhile."
+        }
+      ]
+    },
+    {
+      "id": "jer-34-36",
+      "title": "The Word Refused: Slaves, Rechabites, and the Burned Scroll",
+      "chapters": [
+        34,
+        35,
+        36
+      ],
+      "difficulty_tier": 3,
+      "summary": "Three episodes of a word refused, arranged so the contrasts land. With Babylon at the gates Jerusalem frees its Hebrew slaves as the law required, and then takes every one of them back the moment the siege lifts. Jeremiah answers by bringing a clan of nomads into the temple, setting wine in front of them, and letting the whole city watch them decline because an ancestor told them not to drink it. Then the block turns to a scroll, read aloud on a fast day, carried to a king who slices off each column as it is read and feeds it to the fire in his winter house, after which God simply dictates it again with more added.",
+      "key_themes": [
+        "the rejected word",
+        "covenant broken and re-broken",
+        "obedience as counter-example",
+        "the burned scroll",
+        "the word rewritten"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-30-33",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The fall narrative follows the consolation chronologically — judgment and hope delivered by the same mouth in the same siege."
+        },
+        {
+          "node": "deut-12-16a",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Jeremiah's rebuke over the mistreatment of released slaves presupposes the Jubilee/seven‑year release law (Deut 15) that the narrative invokes but does not restate, so a reader who lacks Deuteronomy will miss the legal-and-covenantal significance of the charge.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 35:14",
+        "Jeremiah 36:23",
+        "Jeremiah 36:28"
+      ],
+      "reading_time_minutes": 22,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "tension"
+      ],
+      "discussion_prompt": "The Rechabites keep a rule about wine that God never gave them, and Judah cannot keep the covenant God did give. Jeremiah puts those two facts side by side on purpose. What is he arguing from the comparison, and where does it press on the difference between the commitments you keep and the ones you let slide?",
+      "assessment_questions": [
+        "What promise do the people of Jerusalem make in Jeremiah 34:8-10, and what do they do afterward in Jeremiah 34:11?",
+        "Jeremiah praises the Rechabites for obeying a human ancestor rather than for obeying God. Why does that make the comparison with Judah sharper rather than weaker?",
+        "Jehoiakim listened to about three columns before he started cutting. What is a word you have already heard enough of to know you would rather not finish it, and what would it take to read the rest?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Obedience under pressure is not yet obedience",
+          "explanation": "The slave release holds only while the army is outside the walls, which is how the passage separates a covenant kept from a concession made."
+        },
+        {
+          "concept": "Argument by counter-example",
+          "explanation": "The Rechabites are not held up as models of faith but as proof that a family can keep a word for generations, which removes Judah's excuse that the thing was impossible."
+        },
+        {
+          "concept": "The word outlives its enemies",
+          "explanation": "Jeremiah 36:32 has the scroll rewritten with additions, so the fire changes the size of the message rather than its existence."
+        },
+        {
+          "concept": "Two kings, two responses to a scroll",
+          "explanation": "Josiah tore his clothes when the book was read to him and Jehoiakim tears the book itself, a contrast the writer expects the reader to feel."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the slave release and its reversal, explain what the Rechabites are brought in to prove, and describe what happens to the scroll after Jehoiakim burns it.",
+      "comprehension_check": [
+        {
+          "question": "Jerusalem frees its Hebrew slaves while Babylon besieges the city, then takes them back once the army pulls away. What does that timing expose?",
+          "options": [
+            "The obedience was a siege tactic that expired with the emergency",
+            "The law about release had never been taught to that generation",
+            "The owners feared their own slaves more than they feared Babylon",
+            "The king forced a reform that the people had never actually wanted"
+          ],
+          "answer_index": 0,
+          "why": "Jeremiah 34:11 reverses the release as soon as the pressure lifts, and Jeremiah 34:17 answers by proclaiming a release of a very different kind.",
+          "hint": "Read Jeremiah 34:8-11 again. Notice where the Babylonian army is at each step of that sequence."
+        },
+        {
+          "question": "Jehoiakim cuts off each column as it is read and burns it, and God has the scroll written out again with more added. What does that outcome argue?",
+          "options": [
+            "That God rewards persistence when his servants keep trying",
+            "That the written word was safer than the spoken word had been",
+            "That destroying the record cannot cancel what God has said",
+            "That Jehoiakim's fire was a public act rather than a private one"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 36:28-32 puts the same words back on a new scroll and adds to them, so the fire cost the king more than it cost the message.",
+          "hint": "Read Jeremiah 36:22-32 again. Notice what happens to the scroll's contents after the fire, and what verse 32 says was added."
+        }
+      ],
+      "verse_span": {
+        "from": "34:1",
+        "to": "36:32"
+      }
+    },
+    {
+      "id": "jer-37-39",
+      "title": "The Siege: The Cistern and the Breach",
+      "chapters": [
+        37,
+        38,
+        39
+      ],
+      "difficulty_tier": 3,
+      "summary": "The last eighteen months of Jerusalem, told from inside the walls. Zedekiah keeps sending for Jeremiah in private, gets the same answer every time, and cannot bring himself to act on it, while his officials arrest the prophet as a deserter, beat him, and finally lower him by ropes into a cistern with no water in it, only mud. A foreigner in the king's household is the one who goes to the king, gets permission, and hauls him out with worn-out rags for padding. Then the wall is breached, Zedekiah is caught running, and the last thing he sees is his sons being killed.",
+      "key_themes": [
+        "siege and fall",
+        "the cistern",
+        "a king who will not decide",
+        "surrender as obedience",
+        "trust rewarded"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-34-36",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The siege narrative follows the episodes of the word refused before the end."
+        },
+        {
+          "node": "2kgs-24-25",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "This is 2 Kings 25's catastrophe from street level, inside the starving city."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 38:6",
+        "Jeremiah 39:2",
+        "Jeremiah 39:18"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "tension"
+      ],
+      "discussion_prompt": "Zedekiah asks Jeremiah the same question four different ways and never once does what the answer tells him. Trace those conversations across chapters 37 and 38. What is actually stopping him, and where have you asked for advice you had already decided not to take?",
+      "assessment_questions": [
+        "What charge do the officials bring against Jeremiah in Jeremiah 37:11-15, and where do they put him in Jeremiah 38:6?",
+        "Jeremiah's counsel through the whole siege is to surrender to Babylon. Why would that message sound like treason to the officials rather than like prophecy?",
+        "Ebed-melech risks a conversation with the king and then does the unglamorous work of finding rags so the ropes will not cut. Whose situation in front of you needs that kind of practical attention this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Faithful counsel can look like betrayal",
+          "explanation": "Telling a besieged city to surrender is indistinguishable from treason to anyone who does not accept that Babylon is God's instrument, which is why the message costs Jeremiah his freedom."
+        },
+        {
+          "concept": "Belief without nerve",
+          "explanation": "Zedekiah consults the prophet in secret and admits his fear of what others will say, so the block presents a man who is convinced and still cannot move."
+        },
+        {
+          "concept": "An outsider does the right thing",
+          "explanation": "The rescue comes from a foreigner in the palace while Judah's own officials order the killing, a pattern the prophets use often to unsettle assumptions about who belongs."
+        },
+        {
+          "concept": "The word verified by events",
+          "explanation": "Chapter 39 reports the breach in flat administrative prose right after chapters of contested prophecy, which lets the reader watch a disputed message become a documented fact."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what Jeremiah told Zedekiah to do and why the officials treated it as treason, and explain what Jeremiah 39:15-18 gives as the reason Ebed-melech is spared.",
+      "comprehension_check": [
+        {
+          "question": "Zedekiah sends for Jeremiah in secret again and again and never acts on the answers he receives. What does that pattern say about him?",
+          "options": [
+            "He doubted that Jeremiah's word came from God at all",
+            "He was waiting for a word that Egypt would arrive in time",
+            "He wanted a different message than the one he kept receiving",
+            "He believed the word and lacked the nerve to act on it"
+          ],
+          "answer_index": 3,
+          "why": "Jeremiah 38:19 has the king naming exactly what stops him, his fear of the men who had already gone over to Babylon.",
+          "hint": "Read Jeremiah 38:14-20 again. Notice the reason Zedekiah gives right after Jeremiah tells him plainly what to do."
+        },
+        {
+          "question": "A foreigner in the palace is the one who gets Jeremiah out of the mud, while Judah's own officials put him there. What does the narrative do with that contrast?",
+          "options": [
+            "It ties survival to trust rather than to birth or position",
+            "It shows that palace servants had more freedom than officials",
+            "It suggests foreigners were exempt from the judgment on the city",
+            "It marks the moment the siege turned against the city's leaders"
+          ],
+          "answer_index": 0,
+          "why": "Jeremiah 39:18 grounds the promise to Ebed-melech in his trust, the same ground on which the city's own leadership is losing everything.",
+          "hint": "Read Jeremiah 38:7-13 and then Jeremiah 39:15-18. Notice the reason God gives for sparing this particular man."
+        }
+      ],
+      "verse_span": {
+        "from": "37:1",
+        "to": "39:18"
+      }
+    },
+    {
+      "id": "jer-40-45",
+      "title": "After the Fall: Gedaliah, Egypt, and Baruch",
+      "chapters": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "difficulty_tier": 3,
+      "summary": "Babylon leaves a governor and a harvest, and for a few months there is something like a future. Then Ishmael murders Gedaliah at his own table, the survivors panic, and they come to Jeremiah swearing they will do whatever God says, whether they like the answer or not. Ten days later the answer is to stay in the land, and they call it a lie and march to Egypt, taking Jeremiah and Baruch along with them. Chapter 44 is the last public exchange, where the refugees explain that their troubles began when they stopped burning incense to the Queen of Heaven, and the block closes with a small private word telling Baruch to stop looking for great things and take his life as spoil.",
+      "key_themes": [
+        "asking without obeying",
+        "the flight to Egypt",
+        "the Queen of Heaven",
+        "the remnant undone",
+        "a word for Baruch"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-37-39",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The aftermath presupposes the fall of the city narrated in chapter 39.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 42:6",
+        "Jeremiah 44:17",
+        "Jeremiah 45:5"
+      ],
+      "reading_time_minutes": 32,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "warning"
+      ],
+      "discussion_prompt": "The survivors promise obedience before they know the answer, and ten days later they call the answer a lie and do what they had already packed for. What do you think happened in those ten days, and how would you tell the difference in yourself between seeking guidance and shopping for permission?",
+      "assessment_questions": [
+        "What do the survivors promise Jeremiah in Jeremiah 42:5-6, and what do they say about him in Jeremiah 43:2?",
+        "The refugees in Egypt argue in Jeremiah 44:17-18 that life was better when they burned incense to the Queen of Heaven. What does their reading of recent history get exactly backwards?",
+        "Baruch is told in Jeremiah 45:5 to stop seeking great things for himself in a season when everything is being pulled down. What would that instruction mean for something you are currently trying to build?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Seeking guidance versus seeking approval",
+          "explanation": "The oath in Jeremiah 42 is genuine language attached to a decision already taken, which is why the ten-day wait ends in an accusation rather than in obedience."
+        },
+        {
+          "concept": "Egypt as the reflex",
+          "explanation": "Going back down to Egypt reverses the exodus, and the prophets treat it as the standing symbol of a people looking for safety in the place God brought them out of."
+        },
+        {
+          "concept": "Evidence read backwards",
+          "explanation": "Chapter 44 shows the same catastrophe being used as proof by both sides, which is a reminder that experience does not interpret itself without a standard outside it."
+        },
+        {
+          "concept": "A small word to a minor character",
+          "explanation": "Chapter 45 gives Baruch a personal promise rather than a great future, and placing it at the end of the block sets the scale of a private life against the collapse of a nation."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how the request in chapter 42 turns into the accusation in chapter 43, and describe the argument the refugees make in chapter 44 and what is wrong with it.",
+      "comprehension_check": [
+        {
+          "question": "The survivors swear in Jeremiah 42:5-6 to obey whatever answer comes, wait ten days for it, and then leave for Egypt anyway. What does that sequence expose about their request?",
+          "options": [
+            "They had lost confidence in Jeremiah after Gedaliah was murdered",
+            "They asked too soon, before they had time to consider the risks",
+            "They wanted God to endorse a decision they had already made",
+            "They expected an answer that would arrive faster than ten days"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 42:5-6 has them promising obedience in advance and Jeremiah 43:2 has them calling the same answer a lie, which is what a request for approval looks like when the approval does not come.",
+          "hint": "Read Jeremiah 42:1-6 and then Jeremiah 43:1-4. Notice how their description of Jeremiah changes once the answer arrives."
+        },
+        {
+          "question": "In chapter 44 the refugees in Egypt give their own account of why the disaster came. What makes their explanation so unsettling?",
+          "options": [
+            "They read the same events as proof that they stopped the wrong worship",
+            "They deny that any disaster of real significance had happened at all",
+            "They blame Jeremiah personally for the destruction of the city",
+            "They claim the exile was caused by kings rather than by ordinary people"
+          ],
+          "answer_index": 0,
+          "why": "Jeremiah 44:17-18 dates their troubles from the moment they stopped burning incense to the Queen of Heaven, so the judgment itself gets turned into an argument for the practice.",
+          "hint": "Read Jeremiah 44:15-19 again. Notice what the people say changed in their fortunes, and when they say it changed."
+        }
+      ],
+      "verse_span": {
+        "from": "40:1",
+        "to": "45:5"
+      }
+    },
+    {
+      "id": "jer-46-49",
+      "title": "Oracles Against the Nations: Egypt to Elam",
+      "chapters": [
+        46,
+        47,
+        48,
+        49
+      ],
+      "difficulty_tier": 4,
+      "summary": "The lens pulls back from Judah and sweeps the map. Egypt marches out in full armor and comes home beaten, Philistia is washed away by a flood from the north, and then Moab gets a chapter and a half, pictured as wine that has sat so long on its own sediment that its taste has never changed. Edom is the bird that built its nest in the cliffs and thought altitude was safety, and after Damascus, the desert clans, and Elam, the survey is complete. Two things run through the whole collection: God is dealing with every nation and not only with his own, and more than one of these sentences ends with a promise to restore what was just torn down.",
+      "key_themes": [
+        "God rules the nations",
+        "pride before the fall",
+        "false securities",
+        "judgment with restoration",
+        "Israel among the nations"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-40-45",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The nations' oracles conclude the book after the fall they orbit; Babylon's own sentence answers chapters 39-44."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 46:28",
+        "Jeremiah 48:29",
+        "Jeremiah 49:16"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "awe"
+      ],
+      "discussion_prompt": "These oracles were written for people who had just watched their own country destroyed by an empire nobody could stop. Read Jeremiah 46:27-28 with that audience in mind. What is the collection trying to do for them, and what would it take for that claim to change how you read the news?",
+      "assessment_questions": [
+        "In Jeremiah 48:11, what has Moab been spared until now, and what does the image of undisturbed wine say about the result?",
+        "The oracle against Edom in Jeremiah 49:16 treats a high nest as the source of the problem rather than as protection. How does the collection define the pride it keeps attacking?",
+        "Several of these nations trusted in geography, wealth, or a long run of stability. Which of those is closest to what you personally count on, and what would it look like to hold it more loosely?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "One God over all the maps",
+          "explanation": "Judah's God issues verdicts on Egypt and Elam alike, which is a claim about jurisdiction rather than about favoritism, and it is the ground of the reassurance to Jacob in Jeremiah 46:27-28."
+        },
+        {
+          "concept": "Pride as misplaced security",
+          "explanation": "The collection diagnoses nations by what they trust, and Moab's undisturbed wine and Edom's high nest are two versions of the same mistake."
+        },
+        {
+          "concept": "Sentences that end in restoration",
+          "explanation": "Moab, Ammon, and Elam are each promised a restored future in the latter days, so judgment on the nations is not presented as the last word about them."
+        },
+        {
+          "concept": "Comfort by comparison",
+          "explanation": "The oracles are addressed to Judah as much as to the nations, telling a defeated people that their correction is measured and their neighbors' confidence is not."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what these oracles claim about God's relationship to nations that never worshiped him, and describe the specific false security named in the Moab and Edom oracles.",
+      "comprehension_check": [
+        {
+          "question": "Several oracles in this collection end by promising to restore the very nation just sentenced. What does that pattern claim?",
+          "options": [
+            "That the judgments announced were exaggerated for rhetorical effect",
+            "That Israel's neighbors were treated more gently than Israel was",
+            "That God's dealings with the nations aim past ruin, as with Judah",
+            "That these nations were punished for Israel's sins and not their own"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 48:47 and Jeremiah 49:6 close their sentences with a restored future in the latter days, which puts Moab and Ammon under the same shape of dealing Judah receives.",
+          "hint": "Read the last verse of the Moab oracle and the last verse of the Ammon oracle, Jeremiah 48:47 and Jeremiah 49:6. Notice how each sentence ends."
+        },
+        {
+          "question": "Moab is pictured as wine left undisturbed on its sediment, and Edom as a bird nesting high in the cliffs. What do those two images have in common?",
+          "options": [
+            "Both nations had grown rich by trading with stronger neighbors",
+            "Both nations had refused to help Judah during the siege",
+            "Both nations worshiped gods borrowed from their own conquerors",
+            "Both nations felt safe because nothing had ever reached them"
+          ],
+          "answer_index": 3,
+          "why": "Jeremiah 48:11 and Jeremiah 49:16 both locate the danger in a confidence built out of never having been disturbed.",
+          "hint": "Read Jeremiah 48:11 and Jeremiah 49:16 side by side. Notice what each nation is described as having avoided so far."
+        }
+      ],
+      "verse_span": {
+        "from": "46:1",
+        "to": "49:39"
+      }
+    },
+    {
+      "id": "jer-50-51",
+      "title": "The Oracle Against Babylon",
+      "chapters": [
+        50,
+        51
+      ],
+      "difficulty_tier": 4,
+      "summary": "Two chapters of sustained fire aimed at the empire the book has spent forty chapters telling Judah to submit to. Babylon is named the hammer of the whole earth and then shown broken, its gods humiliated, its river dried, its wall thrown down, and the people of God are called to get out of her before the reckoning. Folded into the sentence is a promise for the exiles that when the search for their guilt is made there will be nothing left to find. The block ends with a scroll carried east, read aloud in Babylon, weighted with a stone and dropped into the Euphrates, after which the book marks that the words of Jeremiah are finished.",
+      "key_themes": [
+        "the hammer judged",
+        "instruments held accountable",
+        "guilt not found",
+        "come out of her",
+        "the sunken scroll"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-46-49",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The Babylon oracle turns the collection on the hammer that struck the preceding nations."
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-17-19",
+          "reason": "Revelation's Babylon — including the millstone hurled into the sea — is built from Jeremiah 51."
+        }
+      ],
+      "key_verses": [
+        "Jeremiah 50:20",
+        "Jeremiah 51:9",
+        "Jeremiah 51:63-64"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "hopeful"
+      ],
+      "discussion_prompt": "For forty chapters Jeremiah told Judah that resisting Babylon was resisting God, and now he spends two chapters sentencing Babylon. Hold those two messages together. What does that say about how God can use a power without approving of it, and where does that distinction matter today?",
+      "assessment_questions": [
+        "What is Seraiah told to do with the scroll in Jeremiah 51:59-64, and what does he say as he does it?",
+        "Babylon is called God's war club and is then destroyed for its arrogance. What does the book gain by making the same empire both instrument and defendant?",
+        "The exiles are told to leave Babylon before the reckoning comes. What is something you are still comfortable inside that you suspect you should be walking away from, and what makes leaving hard?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The instrument is still accountable",
+          "explanation": "Babylon does what God announced and is judged for the cruelty and arrogance with which it did it, so being useful to God's purpose never functions as a defense."
+        },
+        {
+          "concept": "Guilt sought and not found",
+          "explanation": "Jeremiah 50:20 promises a pardon so complete that a search turns up nothing, which is the same promise the new covenant of chapter 31 makes in different words."
+        },
+        {
+          "concept": "A sign-act performed far away",
+          "explanation": "The scroll is read in Babylon and sunk in Babylon's own river, so the sentence is delivered on the defendant's ground and then set beyond recall."
+        },
+        {
+          "concept": "Babylon becomes a name for a type",
+          "explanation": "Later writers reuse this material for any proud power that thinks itself permanent, which is why Revelation builds its doom song out of these two chapters."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why Babylon is sentenced despite carrying out God's judgment on Judah, and describe what the sunken scroll of Jeremiah 51:63-64 is meant to show.",
+      "comprehension_check": [
+        {
+          "question": "Babylon carried out the judgment on Judah at God's word, and these chapters sentence Babylon in the harshest terms in the book. What does holding both together establish?",
+          "options": [
+            "That being used by God does not excuse how a nation behaved",
+            "That God changed his mind about Babylon once Judah had truly suffered",
+            "That God's verdicts on nations can shift without any reason given",
+            "That every empire eventually falls to a stronger empire in time"
+          ],
+          "answer_index": 0,
+          "why": "Jeremiah 50:29 charges Babylon with arrogance toward the Holy One of Israel, so the God who sent it also holds it answerable for the manner of its coming.",
+          "hint": "Read Jeremiah 50:23-29 again. Notice what Babylon is actually charged with there, beside what it was used to do."
+        },
+        {
+          "question": "Jeremiah 50:20 promises that a search for Israel's guilt will turn up nothing. What is that promise doing inside an oracle against Babylon?",
+          "options": [
+            "It explains that Israel's guilt had transferred over to Babylon",
+            "It concedes that the exile ran longer than the sins deserved",
+            "It ties Babylon's fall to a pardon Israel could not achieve",
+            "It suggests the search failed because the records were destroyed"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 50:20 sets the pardon in the same days as the empire's fall, so Babylon's end and Israel's forgiveness are announced as one act of God.",
+          "hint": "Read Jeremiah 50:17-20 again. Notice the timing phrase that opens verse 20 and what has just been said about Babylon."
+        }
+      ],
+      "verse_span": {
+        "from": "50:1",
+        "to": "51:64"
+      }
+    },
+    {
+      "id": "jer-52",
+      "title": "Epilogue: The Fall Retold, the King Released",
+      "chapters": [
+        52
+      ],
+      "difficulty_tier": 3,
+      "summary": "The words of Jeremiah have already been declared finished at the end of chapter 51, so this chapter stands outside them as a record. It retells the siege, the breach, the famine, and Zedekiah's capture in the same flat administrative voice as the parallel account in 2 Kings, then turns to the temple and counts what was carried off, down to the bronze pillars broken up for transport and the number of exiles taken in each deportation. The effect is a receipt: everything announced for forty years is entered as an item. And then the last paragraph steps twenty-six years forward, to a new emperor who takes Judah's exiled king out of prison, changes his clothes, and seats him at his own table for the rest of his life.",
+      "key_themes": [
+        "the fall documented",
+        "the temple stripped",
+        "exile counted",
+        "Jehoiachin released",
+        "a line still alive"
+      ],
+      "prerequisites": [
+        {
+          "node": "jer-37-39",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The epilogue retells the fall and captivity narrated in the siege chapters."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Jeremiah 52:13",
+        "Jeremiah 52:31-32"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "hopeful"
+      ],
+      "discussion_prompt": "A book of white-hot poetry ends with an inventory of temple hardware and a headcount of deportees, and then with one man getting a change of clothes and a seat at a table. Why do you think the editor chose those two things to finish with, and what would have been lost if the book had ended at the last poem?",
+      "assessment_questions": [
+        "What does Jeremiah 52:12-23 record about the temple, and what kinds of details does the chapter list there?",
+        "This chapter repeats an account the book has already given in chapter 39. What does telling it again in the voice of an official record accomplish that the earlier telling could not?",
+        "The book closes on a small, unspectacular mercy after a national catastrophe. Where in your own life would you have to look carefully to notice that kind of ending, and what would it change if you did?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A record, not a sermon",
+          "explanation": "Chapter 52 sits outside the closing marker of Jeremiah 51:64 and reports rather than preaches, which lets the book end with the events verifying the message instead of the prophet asserting it."
+        },
+        {
+          "concept": "Inventories carry meaning",
+          "explanation": "Counting the pillars, basins, and exiles turns loss into something specific and countable, which is how the chapter keeps the catastrophe from dissolving into a general sadness."
+        },
+        {
+          "concept": "The parallel with 2 Kings",
+          "explanation": "The chapter runs closely alongside the end of 2 Kings, so a reader can see two books reaching for the same documentation to close the story of the kingdom."
+        },
+        {
+          "concept": "The line kept alive",
+          "explanation": "Jehoiachin lifted from prison leaves David's family surviving at the end of a book about ruin, a thread the genealogies of the Gospels later pick up."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why the book adds a documentary chapter after Jeremiah's words are declared finished, and say what the final paragraph about Jehoiachin leaves the reader holding.",
+      "comprehension_check": [
+        {
+          "question": "Chapter 52 retells a fall the book already narrated in chapter 39 and adds inventories and deportation counts. Why finish the book this way?",
+          "options": [
+            "To correct details that the earlier account had reported wrongly",
+            "To close the book on judgment rather than on any note of hope",
+            "To give the priests a record for rebuilding the temple furnishings",
+            "To document that what was announced happened exactly as stated"
+          ],
+          "answer_index": 3,
+          "why": "Jeremiah 51:64 has already declared the words of Jeremiah finished, so this chapter stands outside them as the record that checks the preaching against the events.",
+          "hint": "Read Jeremiah 51:64 and then Jeremiah 52:1. Notice what the book says has ended before this chapter starts."
+        },
+        {
+          "question": "The last paragraph shows an exiled king let out of prison and eating at the emperor's table for the rest of his life. What does ending there do?",
+          "options": [
+            "It shows Babylon turning into a kinder power than Judah had ever feared",
+            "It reports that the exile ended earlier than seventy years",
+            "It leaves David's line alive at the end of a book about ruin",
+            "It confirms that exiles in Babylon were treated well throughout"
+          ],
+          "answer_index": 2,
+          "why": "Jeremiah 52:31-34 leaves a son of David alive, clothed, and seated above the other kings, so the last fact in the book is a surviving line.",
+          "hint": "Read Jeremiah 52:31-34 again. Notice who this particular prisoner is and what family he belongs to."
+        }
+      ],
+      "verse_span": {
+        "from": "52:1",
+        "to": "52:34"
+      }
+    }
+  ]
+}

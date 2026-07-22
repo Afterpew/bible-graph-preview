@@ -1,0 +1,201 @@
+{
+  "id": "ot-foundations",
+  "title": "Old Testament Foundations",
+  "description": "The backbone of the Hebrew Bible for someone who has only read the New Testament: the narrative spine, the covenants, and the prophetic hope the Gospels assume on every page.",
+  "audience": "A Christian comfortable in the New Testament who finds the Old Testament intimidating or unread.",
+  "coverage": "slice",
+  "order": "enforced",
+  "canon_layers": [
+    "core"
+  ],
+  "sequence": [
+    {
+      "node": "gen-1-3",
+      "note": "The foundation of everything: creation, image of God, the Fall."
+    },
+    {
+      "node": "gen-4-5"
+    },
+    {
+      "node": "gen-6-9"
+    },
+    {
+      "node": "gen-10-11"
+    },
+    {
+      "node": "gen-12-17",
+      "note": "The Abrahamic covenant — the promise Paul builds Romans and Galatians on."
+    },
+    {
+      "node": "gen-18-23"
+    },
+    {
+      "node": "gen-27-28"
+    },
+    {
+      "node": "gen-29-31"
+    },
+    {
+      "node": "gen-32-36"
+    },
+    {
+      "node": "gen-37-41"
+    },
+    {
+      "node": "gen-42-45"
+    },
+    {
+      "node": "gen-46-50"
+    },
+    {
+      "node": "exod-1-4"
+    },
+    {
+      "node": "exod-5-11"
+    },
+    {
+      "node": "exod-12-15",
+      "note": "Passover: the event behind the Last Supper and 'Lamb of God.'"
+    },
+    {
+      "node": "exod-19-24",
+      "note": "Sinai: the covenant Israel will be measured by for the rest of the story."
+    },
+    {
+      "node": "exod-32-34",
+      "note": "The golden calf and the mercy creed the rest of the Bible keeps quoting."
+    },
+    {
+      "node": "lev-16",
+      "note": "One chapter of Leviticus you must know: the Day of Atonement, the backbone of Hebrews."
+    },
+    {
+      "node": "num-11-14",
+      "note": "The wilderness refusal — the warning Hebrews 3-4 preaches from."
+    },
+    {
+      "node": "deut-5-11",
+      "note": "The Shema: the greatest commandment, per Jesus."
+    },
+    {
+      "node": "deut-27-30",
+      "note": "Blessing, curse, exile, and promised return — the script Israel's history follows."
+    },
+    {
+      "node": "josh-1-5"
+    },
+    {
+      "node": "judg-1-2",
+      "note": "The cycle that shows why Israel needs a king."
+    },
+    {
+      "node": "ruth"
+    },
+    {
+      "node": "1sam-8-12"
+    },
+    {
+      "node": "1sam-13-15"
+    },
+    {
+      "node": "1sam-16-20"
+    },
+    {
+      "node": "2sam-7",
+      "note": "The Davidic covenant — why the Gospels call Jesus 'Son of David.'"
+    },
+    {
+      "node": "2sam-11-12"
+    },
+    {
+      "node": "ps-1-2",
+      "note": "The Psalter's gateway: the two ways, and the anointed King."
+    },
+    {
+      "node": "ps-22",
+      "note": "The psalm Jesus prayed from the cross."
+    },
+    {
+      "node": "1kgs-5-8",
+      "note": "The temple — the institution the Gospels present Jesus as surpassing."
+    },
+    {
+      "node": "1kgs-9-11"
+    },
+    {
+      "node": "1kgs-12-16",
+      "note": "The kingdom splits; the long slide begins."
+    },
+    {
+      "node": "1kgs-17-22"
+    },
+    {
+      "node": "2kgs-9-10",
+      "note": "The northern kingdom falls to Assyria."
+    },
+    {
+      "node": "2kgs-11-16"
+    },
+    {
+      "node": "2kgs-17"
+    },
+    {
+      "node": "hos-1-3",
+      "note": "A prophet's marriage as the X-ray of Israel's unfaithfulness."
+    },
+    {
+      "node": "isa-6"
+    },
+    {
+      "node": "isa-7-12",
+      "note": "Immanuel and the child on David's throne."
+    },
+    {
+      "node": "2kgs-18-20",
+      "note": "Jerusalem falls; the exile the prophets warned about arrives."
+    },
+    {
+      "node": "2kgs-21-23"
+    },
+    {
+      "node": "2kgs-24-25"
+    },
+    {
+      "node": "lam"
+    },
+    {
+      "node": "isa-40",
+      "note": "Comfort for the exiles — where all four Gospels begin ('a voice in the wilderness')."
+    },
+    {
+      "node": "isa-41-48"
+    },
+    {
+      "node": "isa-52-53",
+      "note": "The Suffering Servant."
+    },
+    {
+      "node": "jer-30-33",
+      "note": "The new covenant — the promise Jesus names at the Last Supper."
+    },
+    {
+      "node": "ezek-33-37",
+      "note": "New heart, God's Spirit, dry bones raised."
+    },
+    {
+      "node": "dan-7",
+      "note": "The Son of Man — Jesus' favorite title for himself comes from this vision."
+    },
+    {
+      "node": "ezra-1-6",
+      "note": "The return: restoration real but incomplete."
+    },
+    {
+      "node": "neh-8-13"
+    },
+    {
+      "node": "mal",
+      "note": "The Old Testament's last word: waiting for the messenger. Turn the page to Matthew."
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "book": "1 Samuel",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "1sam-1-3",
+      "title": "Hannah's Prayer and the Call of Samuel",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:21"
+      },
+      "difficulty_tier": 2,
+      "summary": "Childless Hannah pours out her grief at Shiloh, vows her son to the LORD, and names the answered prayer Samuel; her song of reversal, the poor raised from the dust, becomes the theology of the whole book. The boy grows up beside Eli's corrupt sons, who treat the offerings and the worshipers with a contempt the old priest will not restrain. One night the LORD calls the child by name, and by morning the word that ends Eli's house has begun making Samuel a prophet all Israel will recognize.",
+      "key_themes": [
+        "prayer",
+        "reversal",
+        "prophetic calling",
+        "corrupt leadership judged"
+      ],
+      "prerequisites": [
+        {
+          "node": "judg-17-21",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Samuel arises out of the leadership vacuum Judges ends on; Eli's house is that era's decay in miniature."
+        }
+      ],
+      "connections": [
+        {
+          "node": "luke-1-2",
+          "reason": "Mary's Magnificat is modeled on Hannah's song; Luke writes Jesus' infancy against Samuel's."
+        }
+      ],
+      "key_verses": [
+        "1 Samuel 1:27-28",
+        "1 Samuel 2:8",
+        "1 Samuel 3:10"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reverent",
+        "hopeful"
+      ],
+      "discussion_prompt": "Hannah's answer to years of anguish is a son she gives away, and her song celebrates a God who overturns human rankings. What does her willingness to hand back the very thing she begged for reveal about what she was really asking God for, and what would praying that freely cost you?",
+      "assessment_questions": [
+        "What does Hannah vow before Samuel is born, and what does she do in 1 Samuel 1:27-28 once he is weaned?",
+        "Hannah's song celebrates a God who raises the poor and breaks the mighty, right before the story turns to Eli's privileged, corrupt sons. How does the song's pattern frame what happens to Eli's house and to Samuel?",
+        "Samuel's first prophetic word is a hard message for Eli, the man who raised him, and Eli tells him to hold nothing back. When has faithfulness asked you to say something costly to someone you love, and what do Samuel and Eli each model for that moment?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God hears honest prayer",
+          "explanation": "Hannah's anguished vow and answered prayer show God responding to a sincere heart in his own time, and her keeping of the vow turns gratitude into worship."
+        },
+        {
+          "concept": "The song of reversal",
+          "explanation": "Hannah's song announces the pattern the books of Samuel will follow, where barren women sing and the mighty fall, and Mary will later borrow its melody."
+        },
+        {
+          "concept": "Position does not shield sin",
+          "explanation": "Eli's sons serve at the altar while despising the LORD's offering, and the judgment on their house shows God holding sacred office strictly to account."
+        },
+        {
+          "concept": "Called by name",
+          "explanation": "The night call shows revelation returning to Israel through a listening servant, and Eli, for all his failure, still teaches Samuel how to answer."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Hannah's vow and Samuel's night call, and explain how Hannah's song announces the reversal pattern that Eli's fall and Samuel's rise both follow.",
+      "comprehension_check": [
+        {
+          "question": "Hannah's song in 1 Samuel 2:1-10 ranges far beyond her own story, to armies, thrones, and a king. What is the song doing there?",
+          "options": [
+            "Announcing the reversals God is about to work through the book",
+            "Thanking God for a private mercy in fitting poetic language",
+            "Predicting that her own son will one day take Israel's throne",
+            "Teaching that the humble always end up richer than the proud"
+          ],
+          "answer_index": 0,
+          "why": "1 Samuel 2:10 ends the song with the LORD judging the earth and strengthening his king, the story the books of Samuel are about to tell.",
+          "hint": "Read 1 Samuel 2:4-10 again. Notice how far past Hannah's own situation the song has reached by its final line."
+        },
+        {
+          "question": "In 1 Samuel 3, the LORD's first word to Samuel is a judgment on Eli's house. What does the chapter present as the mark that Samuel is truly a prophet?",
+          "options": [
+            "He hears an audible voice no one else in Shiloh hears",
+            "He is raised in the sanctuary from his earliest childhood",
+            "He replaces Eli's sons in the priestly line of service",
+            "He delivers the hard word entrusted to him, and it stands"
+          ],
+          "answer_index": 3,
+          "why": "1 Samuel 3:19-20 seals it: the LORD let none of Samuel's words fall to the ground, and all Israel knew him as a prophet.",
+          "hint": "Read 1 Samuel 3:17-21 again. Notice what Samuel does with the message, and what the narrator says the LORD did with Samuel's words."
+        }
+      ]
+    },
+    {
+      "id": "1sam-4-7",
+      "title": "The Ark Among the Philistines and Israel's Return",
+      "chapters": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "4:1",
+        "to": "7:17"
+      },
+      "difficulty_tier": 2,
+      "summary": "Losing to the Philistines, Israel hauls the ark into camp like a weapon and loses it; Eli's sons die, the old priest falls dead at the news, and a dying mother names Israel's condition Ichabod, the glory gone. Yet in Philistine country the captured ark needs no army: Dagon falls on his face, plague strikes city after city, and the trophy is shipped home with guilt offerings. A generation later Samuel calls Israel to put away its gods at Mizpah, and the stone he raises, Ebenezer, marks what repentance recovered that presumption had lost.",
+      "key_themes": [
+        "God's unmanageable holiness",
+        "presumption versus repentance",
+        "the ark among the nations",
+        "return to the LORD"
+      ],
+      "prerequisites": [
+        {
+          "node": "1sam-1-3",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The judgment announced on Eli's house falls when the ark is lost and his sons die.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "1 Samuel 4:21-22",
+        "1 Samuel 6:20",
+        "1 Samuel 7:12"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "awe",
+        "warning"
+      ],
+      "discussion_prompt": "Israel carries the ark into battle expecting victory and loses it; the Philistines keep it as a trophy and cannot get rid of it fast enough. What is the difference between having God's presence and trying to use it, and where does your own faith drift toward the ark-in-the-camp move?",
+      "assessment_questions": [
+        "Why do the elders send for the ark in 1 Samuel 4, and what happens to it, to Eli's sons, and to Eli?",
+        "In Philistine cities the ark humiliates Dagon and spreads plague without a single Israelite soldier nearby. What is the story saying about whose defeat the battle of chapter 4 actually was?",
+        "At Mizpah, Israel fasts, confesses, and puts away its foreign gods before God routs the Philistines, and Samuel raises the Ebenezer stone. What would putting something away and raising a marker look like in your own return to God?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God cannot be used",
+          "explanation": "The ark's capture exposes Israel's superstition, since God's presence calls for covenant trust and never works as a talisman to control outcomes."
+        },
+        {
+          "concept": "Captured, not conquered",
+          "explanation": "Dagon prostrate before the ark shows the LORD needing no defenders; Israel lost the battle at Aphek, and God did not."
+        },
+        {
+          "concept": "From Ichabod to Ebenezer",
+          "explanation": "One name mourns the glory departed and the other marks help received, and what stands between them in the story is Israel's repentance at Mizpah."
+        },
+        {
+          "concept": "Holiness falls on Israel too",
+          "explanation": "Beth-shemesh learns that the ark endangers presumptuous Israelites as surely as Philistines, and its question, who can stand before this holy God, hangs over the books that follow."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the ark's capture and its solo victory in Philistia each reveal, and what changed at Mizpah that the elders of chapter 4 had gotten wrong.",
+      "comprehension_check": [
+        {
+          "question": "When the elders bring the ark to the battlefield in 1 Samuel 4:3, what does the story expose in that move?",
+          "options": [
+            "A sincere faith that God punishes on a technicality",
+            "A bid to command God's power without seeking God",
+            "A wise instinct betrayed by the corrupt priests carrying it",
+            "A forgivable error God overlooks once the ark returns"
+          ],
+          "answer_index": 1,
+          "why": "1 Samuel 4:3 has the elders treating the ark as a device that will save them, while the LORD himself is never consulted at all.",
+          "hint": "Read 1 Samuel 4:3 again. Notice who the elders talk to about the plan, and who they never address."
+        },
+        {
+          "question": "What do the ark's months in Philistine territory in 1 Samuel 5-6 establish before Israel's story resumes?",
+          "options": [
+            "The plagues show the ark is dangerous cargo for any nation",
+            "The LORD needed to reach his own land to act freely",
+            "The LORD's defeat was never real; only Israel's was",
+            "Philistine religion was too weak to hold a stronger god"
+          ],
+          "answer_index": 2,
+          "why": "1 Samuel 5:3-4 puts Dagon on his face before the ark; with no Israelite in sight, the LORD vindicates his own name.",
+          "hint": "Read 1 Samuel 5:1-7 again. Notice what happens to Dagon overnight with no army anywhere near."
+        }
+      ]
+    },
+    {
+      "id": "1sam-8-12",
+      "title": "Israel Demands a King",
+      "chapters": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "12:25"
+      },
+      "difficulty_tier": 2,
+      "summary": "Samuel's sons take bribes, and the elders seize the moment to demand a king to judge them like all the nations; the LORD tells Samuel the rejection is of God himself, and grants the request anyway. Saul is anointed in private, chosen by lot in public, and vindicated when he rescues Jabesh-gilead, silencing his doubters. In his farewell Samuel puts the whole transaction under the covenant: king and people alike will stand or fall by whether they fear and serve the LORD, and he will not stop praying for them.",
+      "key_themes": [
+        "kingship",
+        "rejecting God's rule",
+        "requests granted with warnings",
+        "covenant accountability"
+      ],
+      "prerequisites": [
+        {
+          "node": "1sam-4-7",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The demand for a king is brought to Samuel, whose sons have failed — his story frames the request.",
+          "scope": "sequence"
+        },
+        {
+          "node": "deut-16b-18",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "Deuteronomy 17's law of the king is the standard Saul (and every later king) is measured against."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "1 Samuel 8:7",
+        "1 Samuel 8:19-20",
+        "1 Samuel 12:23-24"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "tension"
+      ],
+      "discussion_prompt": "God calls the demand for a king a rejection of himself, grants it, and then keeps sending warnings, victories, and Samuel's prayers into the new arrangement. What does that sequence show about how God works inside choices he grieves, and where might you be living in a granted request rather than a surrendered one?",
+      "assessment_questions": [
+        "What reasons do the elders give for wanting a king in 1 Samuel 8, and what does the LORD tell Samuel the demand really means?",
+        "Samuel warns exactly what a king will take, the people insist, and God then provides Saul with real gifts and a real victory. How can the monarchy be both Israel's rebellion and God's provision at the same time?",
+        "In his farewell, Samuel tells the people who pushed him aside that he will keep teaching them and praying for them. What would it look like for you to keep serving faithfully inside an outcome you argued against?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God is the true King",
+          "explanation": "Israel's demand for a human king reveals distrust of God's rule, and the whole monarchy begins under that shadow."
+        },
+        {
+          "concept": "Granted with warnings",
+          "explanation": "God gives the people the king they ask for while spelling out the cost through Samuel's speech about what a king will take."
+        },
+        {
+          "concept": "Provision inside rebellion",
+          "explanation": "Saul's anointing, the Spirit's rush, and the Jabesh-gilead rescue are genuine gifts, showing God working good within an arrangement born of distrust."
+        },
+        {
+          "concept": "Prophet over throne",
+          "explanation": "Samuel's farewell sets king and people together under the covenant, with the prophet remaining as teacher and intercessor, the shape Israel's politics will keep."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why the demand for a king counts as rejecting God, how God nonetheless provides in Saul, and what terms Samuel's farewell sets for the monarchy.",
+      "comprehension_check": [
+        {
+          "question": "Deuteronomy had long anticipated Israel having a king. What makes the demand in 1 Samuel 8 land as rebellion?",
+          "options": [
+            "Wanting any human ruler at all is an insult to God",
+            "They seek a king to replace the God who rules them",
+            "They ask through elders instead of through God's prophet",
+            "They rush the timing God had appointed for the monarchy"
+          ],
+          "answer_index": 1,
+          "why": "1 Samuel 8:7 gives the LORD's own reading of the demand: they have rejected me as their king.",
+          "hint": "Read 1 Samuel 8:5-7 and 8:19-20 again. Notice whose job description the people want the new king to take over."
+        },
+        {
+          "question": "Samuel's farewell in 1 Samuel 12 closes the transition to monarchy. On what does he say Israel's future now depends?",
+          "options": [
+            "On whether king and people together fear and serve the LORD",
+            "On the new king's skill in judging and leading Israel's wars",
+            "On Israel keeping a prophet stationed over its kings",
+            "On how faithfully Israel brings its sacrifices and offerings"
+          ],
+          "answer_index": 0,
+          "why": "1 Samuel 12:14-15 lays down one condition covering both king and people: follow the LORD, or his hand turns against you.",
+          "hint": "Read 1 Samuel 12:13-15 and 12:20-25 again. Notice who is included in the condition Samuel lays down."
+        }
+      ]
+    },
+    {
+      "id": "1sam-13-15",
+      "title": "Saul Rejected",
+      "chapters": [
+        13,
+        14,
+        15
+      ],
+      "verse_span": {
+        "from": "13:1",
+        "to": "15:35"
+      },
+      "difficulty_tier": 2,
+      "summary": "Under Philistine pressure Saul offers the sacrifice he was told to await, and hears that his kingdom will not endure; the LORD has sought a man after his own heart. Jonathan's daring faith cracks the Philistine lines while his father's rash oath nearly kills him, and at Amalek Saul keeps the best of what was devoted and calls it worship. Samuel's verdict gives the books of Samuel their center: obedience is better than sacrifice, and rejecting God's word costs Saul the crown.",
+      "key_themes": [
+        "obedience over sacrifice",
+        "rejection",
+        "kingship",
+        "rash religious zeal"
+      ],
+      "prerequisites": [
+        {
+          "node": "1sam-8-12",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Saul's fall follows directly from the rise and confirmation just narrated.",
+          "scope": "sequence"
+        },
+        {
+          "node": "deut-16b-18",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "Deuteronomy 17's law of the king is the standard Saul (and every later king) is measured against."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "1 Samuel 13:14",
+        "1 Samuel 14:6",
+        "1 Samuel 15:22-23"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "sorrow"
+      ],
+      "discussion_prompt": "Saul never stops sacrificing, building altars, and invoking God's name, and it is exactly his religion that keeps going wrong. What separates Jonathan's risky trust in chapter 14 from his father's rash oaths and salvaged offerings, and which pattern does your own devotion resemble under pressure?",
+      "assessment_questions": [
+        "What does Saul do at Gilgal in chapter 13, and again with Amalek in chapter 15, that Samuel names as disobedience?",
+        "Both times Saul dresses his disobedience in religious language, a forced sacrifice, animals spared for offerings. Why does Samuel's answer in 1 Samuel 15:22-23 treat that as worse than no worship at all?",
+        "Saul explains each failure by pointing at circumstances and the people around him. Where are you currently explaining away a clear obedience, and what would obeying without the explanations look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Obedience over sacrifice",
+          "explanation": "Samuel's verdict makes obeying God's voice the true measure of worship, and no volume of religious performance can substitute for it."
+        },
+        {
+          "concept": "Partial obedience is disobedience",
+          "explanation": "Saul executes most of the Amalek command and treats the remainder as negotiable, and the text counts that remainder as rejection of God's word."
+        },
+        {
+          "concept": "A man after God's own heart",
+          "explanation": "The announcement of 1 Samuel 13:14 measures kings by inward orientation to God, the criterion that will pass over Saul's stature for a shepherd."
+        },
+        {
+          "concept": "Faith and rashness side by side",
+          "explanation": "Jonathan's few-against-many trust and Saul's oath in the same battle set living faith against zeal that performs, and the army can tell the difference."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Recount Saul's two acts of disobedience and explain, in the sense of 1 Samuel 15:22, why his religious framing of them made things worse rather than better.",
+      "comprehension_check": [
+        {
+          "question": "Saul's sacrifice at Gilgal in 1 Samuel 13 looks like piety under pressure. Why does it cost him so much?",
+          "options": [
+            "He sacrificed at Gilgal rather than at the appointed shrine",
+            "He abandoned the word he was given when fear pressed",
+            "He rushed a ritual that only lacked Samuel's official presence",
+            "He led the army to worship before securing the battlefield"
+          ],
+          "answer_index": 1,
+          "why": "1 Samuel 13:13-14 names the offense as failing to keep what the LORD commanded, a king who would not wait on God's word.",
+          "hint": "Read 1 Samuel 10:8 and 13:8-14 again. Notice what instruction Saul was under, and what he says pushed him to act."
+        },
+        {
+          "question": "When Samuel says obedience is better than sacrifice in 1 Samuel 15:22, what claim is he making?",
+          "options": [
+            "Sacrifices belong to an older stage of Israel's worship",
+            "Moral effort earns what ritual observance never could",
+            "Worship offered out of disobedience has stopped being worship",
+            "God prefers private devotion to public ceremony and ritual"
+          ],
+          "answer_index": 2,
+          "why": "1 Samuel 15:22-23 weighs Saul's spared animals against the voice of the LORD; what God asked for was the obeying itself.",
+          "hint": "Read 1 Samuel 15:19-23 again. Notice what Saul says the animals were for, and what Samuel says the LORD delights in."
+        }
+      ]
+    },
+    {
+      "id": "1sam-16-20",
+      "title": "David Anointed; Goliath Falls",
+      "chapters": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_span": {
+        "from": "16:1",
+        "to": "20:42"
+      },
+      "difficulty_tier": 1,
+      "summary": "God sends Samuel past seven impressive brothers to a shepherd boy — 'the LORD looks on the heart' — and David fells Goliath with a sling and a stone in the Bible's most famous underdog scene. Saul's jealousy turns lethal; Jonathan's friendship becomes David's shield.",
+      "key_themes": [
+        "anointing",
+        "faith over fear",
+        "jealousy",
+        "friendship"
+      ],
+      "prerequisites": [
+        {
+          "node": "1sam-13-15",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "David is anointed as Saul's replacement; the story's tension requires Saul's rejection.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ruth",
+          "reason": "Ruth's genealogy delivered this shepherd from Bethlehem — the town now enters the Bible's center stage."
+        }
+      ],
+      "key_verses": [
+        "1 Samuel 16:7",
+        "1 Samuel 17:45",
+        "1 Samuel 18:3"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "light",
+      "emotional_tone": [
+        "celebratory",
+        "tension"
+      ],
+      "discussion_prompt": "Samuel nearly anoints the tall oldest brother before God says he looks on the heart, and then David faces Goliath with nothing that would impress anyone. What do these chapters teach about where real strength comes from, and where would relying on it change how you face what scares you?",
+      "assessment_questions": [
+        "How does David defeat Goliath, and in whose name does he say he comes?",
+        "David is anointed king in chapter 16, yet he spends these chapters serving Saul and running for his life. What does the gap between anointing and throne reveal about how God's promises unfold?",
+        "Jonathan hands David his robe and sword even though David's rise threatens Jonathan's own claim to the throne. What would friendship that loyal require of you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God looks on the heart",
+          "explanation": "God passes over every impressive brother for the overlooked shepherd, showing that his choices rest on inward character rather than outward appearance."
+        },
+        {
+          "concept": "God wins through the weak",
+          "explanation": "David's sling against Goliath's armor shows God accomplishing his purposes through unlikely people so the glory belongs to him."
+        },
+        {
+          "concept": "Anointing before fulfillment",
+          "explanation": "David is chosen long before he reigns, and the delay teaches that God's calling often includes years of waiting and hardship."
+        },
+        {
+          "concept": "Covenant friendship",
+          "explanation": "Jonathan's loyalty to David at real personal cost models a faithful, sacrificial love that holds firm amid political danger."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the Goliath story and explain what 'the LORD looks on the heart' means for how God chooses people.",
+      "comprehension_check": [
+        {
+          "question": "In 1 Samuel 16:6-7, even Samuel is certain Eliab must be the LORD's anointed. What is the scene teaching through the prophet's mistake?",
+          "options": [
+            "Even prophets must wait for signs before they judge",
+            "God's choice works by a measure human judgment cannot supply",
+            "Israel deserved a second imposing king and nearly got one",
+            "Eliab hid a flaw of heart that his stature concealed"
+          ],
+          "answer_index": 1,
+          "why": "1 Samuel 16:7 corrects the prophet mid-scene, the LORD seeing the heart where man sees only height and face.",
+          "hint": "Read 1 Samuel 16:6-7, then 1 Samuel 10:23-24. Notice what Israel's first king had going for him, and what Samuel notices first here."
+        },
+        {
+          "question": "In 1 Samuel 17:45-47, David tells Goliath what the day will prove. What, for David, is the fight actually about?",
+          "options": [
+            "Whether the God of Israel's armies can be defied",
+            "Whether courage can outweigh training and heavy armor",
+            "Whether Israel's shepherds were braver than its soldiers",
+            "Whether Saul's kingdom or Philistia's would hold the valley"
+          ],
+          "answer_index": 0,
+          "why": "1 Samuel 17:46-47 stakes the duel on the whole earth learning there is a God in Israel, whose battle it is.",
+          "hint": "Read 1 Samuel 17:45-47 again. Notice what David says the whole earth will know by the day's end."
+        }
+      ]
+    },
+    {
+      "id": "1sam-21-26",
+      "title": "The Fugitive in Judah: Sparing the LORD's Anointed",
+      "chapters": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_span": {
+        "from": "21:1",
+        "to": "26:25"
+      },
+      "difficulty_tier": 2,
+      "summary": "David runs: holy bread at Nob, feigned madness at Gath, the cave of Adullam where the desperate gather to him, and a terrible price paid by Nob's priests for helping him. Twice the hunt hands Saul to David defenseless, in the cave at En-gedi and asleep at Hachilah, and twice David refuses to touch the LORD's anointed, staking his future on God's timing. Between the two refusals, Abigail's swift wisdom stops him from avenging himself on Nabal, the near miss that shows what his restraint is protecting.",
+      "key_themes": [
+        "restraint",
+        "persecution",
+        "waiting for the promise",
+        "vengeance refused"
+      ],
+      "prerequisites": [
+        {
+          "node": "1sam-16-20",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The fugitive narrative is the collision between David's anointing and Saul's refusal to yield.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ps-52-60",
+          "reason": "Multiple Book I psalms (34, 52, 54, 56, 57, and more) carry superscriptions locating them in these fugitive chapters."
+        }
+      ],
+      "key_verses": [
+        "1 Samuel 24:6",
+        "1 Samuel 25:32-33",
+        "1 Samuel 26:10-11"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "David will not take Saul's life, yet he is one insult away from slaughtering Nabal's household until Abigail talks him down. What do the spared king and the near massacre together reveal about where restraint really comes from, and who plays Abigail's role in your life?",
+      "assessment_questions": [
+        "What does David do, and refuse to do, when Saul is delivered into his hands at En-gedi and again at Hachilah?",
+        "Between the two sparing scenes, David nearly wipes out Nabal's house over an insult until Abigail intervenes. What does that near miss show about David's restraint toward Saul, and about what Abigail's speech gives him?",
+        "David leaves his claim on the throne to God's timing while armed men urge shortcuts. Which promised or deserved thing are you tempted to seize by your own hand, and what would David's kind of waiting require of you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Restraint instead of revenge",
+          "explanation": "David refuses to harm the LORD's anointed even when killing Saul would end his suffering, trusting God to settle the matter in his own time."
+        },
+        {
+          "concept": "The LORD's anointed",
+          "explanation": "David's logic rests on God's right to install and remove kings, so seizing the throne by force would deny the very anointing his own hope depends on."
+        },
+        {
+          "concept": "Abigail's intervention",
+          "explanation": "Her speech names bloodguilt before it happens, and David blesses the discernment that kept his future kingship clean of avenged insults."
+        },
+        {
+          "concept": "Providence in the wilderness",
+          "explanation": "Hunted through Keilah, Ziph, and En-gedi, David is preserved scene by scene, and even his compromises cannot derail where God is taking him."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell one scene where David spares Saul, and explain how the Nabal episode shows what his refusal to avenge himself protects.",
+      "comprehension_check": [
+        {
+          "question": "Twice David stands over a helpless Saul and refuses to strike. What reasoning does the text put in his mouth?",
+          "options": [
+            "Killing a king would turn the army and tribes against him",
+            "Saul's office belongs to God, who alone may end it",
+            "Mercy shown now will purchase mercy when he is king",
+            "Jonathan's covenant binds him to protect his father Saul"
+          ],
+          "answer_index": 1,
+          "why": "1 Samuel 26:10-11 spells out David's logic: the LORD himself will strike Saul, or his day will come, so David's hand must stay.",
+          "hint": "Read 1 Samuel 24:6 and 26:9-11 again. Notice whose title for Saul keeps appearing in David's refusals."
+        },
+        {
+          "question": "The Nabal story sits between the two scenes of David sparing Saul. What does its placement let the reader see?",
+          "options": [
+            "David's patience with Saul had hardened into indifference to insult",
+            "Nabal's fate shows that David's enemies always end up destroying themselves",
+            "David's restraint is real yet fragile, kept alive by wise intervention",
+            "Abigail's marriage secures David an alliance among Judah's clans"
+          ],
+          "answer_index": 2,
+          "why": "1 Samuel 25:32-33 has David bless the God who sent Abigail to keep him from bloodshed, naming how close he came.",
+          "hint": "Read 1 Samuel 25:21-33 again. Notice what David has already sworn to do before Abigail reaches him."
+        }
+      ]
+    },
+    {
+      "id": "1sam-27-31",
+      "title": "Ziklag and Gilboa: The End of Saul",
+      "chapters": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "verse_span": {
+        "from": "27:1",
+        "to": "31:13"
+      },
+      "difficulty_tier": 3,
+      "summary": "Convinced Saul will finally kill him, David crosses into Philistine service and plays a double game from Ziklag, raiding southern peoples while telling Achish otherwise. The narrative interleaves him with Saul's last night: silence from the LORD, a desperate seance at Endor, and a word of defeat that comes true on Mount Gilboa. When Amalekites burn Ziklag, David, at the edge of being stoned by his own men, finds strength in the LORD his God and recovers everything; Saul, forsaken and wounded, falls on his own sword as the Philistines take the field.",
+      "key_themes": [
+        "tragic downfall",
+        "desperation's two directions",
+        "waiting for the promise",
+        "God's silence"
+      ],
+      "prerequisites": [
+        {
+          "node": "1sam-21-26",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "David's defection to Philistine territory follows his despair of safety in Judah, and the interleaved arc runs to Saul's death.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "1 Samuel 27:1",
+        "1 Samuel 28:6",
+        "1 Samuel 30:6"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "tension"
+      ],
+      "discussion_prompt": "Both men in these chapters hit bottom: Saul meets silence at every door he tries, and David comes home to a burned town and talk of stoning. One goes to a medium, the other to the LORD. What decides which way a desperate person turns, and which direction is your own desperation currently facing?",
+      "assessment_questions": [
+        "Why does David move to Philistine territory in 1 Samuel 27, and what does Saul do at Endor when the LORD will not answer him?",
+        "The story cuts back and forth between David's crisis at Ziklag and Saul's on Gilboa. What is the contrast between how each man meets abandonment, and what does it reveal about where their strength lay?",
+        "David's worst season includes real compromises, yet at Ziklag he still turns to God first. When your own record is mixed, what does 1 Samuel 30:6 suggest is still possible, and what would finding strength in God look like this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Forbidden shortcuts end in ruin",
+          "explanation": "Saul's seance at Endor tries to force an answer God has withheld, and the word it obtains only confirms the judgment he refused to hear."
+        },
+        {
+          "concept": "Strength found in the LORD",
+          "explanation": "At Ziklag David turns to God before he turns to strategy, and the inquiry that follows reverses everything Saul's night at Endor got wrong."
+        },
+        {
+          "concept": "God works through flawed people",
+          "explanation": "David lies and plays double agent through these chapters and remains the chosen man, even kept from marching against Israel by a providence he did not arrange."
+        },
+        {
+          "concept": "The promise arrives without David's hand",
+          "explanation": "Saul's death on Gilboa is a tragedy the narrative mourns, and it is also the door to the kingdom opening exactly as David refused to force it."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Contrast Saul at Endor with David at Ziklag, and explain how the interleaved endings bring David to the throne's edge without his hand touching Saul.",
+      "comprehension_check": [
+        {
+          "question": "What does Saul's visit to the medium in 1 Samuel 28 mean within his own story?",
+          "options": [
+            "A grieving man's pardonable reach for comfort at the end",
+            "A ruler prudently gathering intelligence before a great battle",
+            "A last resort that proves God had hidden truth from him",
+            "A final grasp at God's voice on forbidden terms"
+          ],
+          "answer_index": 3,
+          "why": "1 Samuel 28:6-7 sets the order plainly: the LORD does not answer, and Saul immediately seeks out what he himself had outlawed.",
+          "hint": "Read 1 Samuel 28:3 and 28:6-7 again. Notice what Saul had done to the mediums earlier, and when he decides to seek one."
+        },
+        {
+          "question": "At Ziklag in 1 Samuel 30, with his men talking of stoning him, what turns David's crisis?",
+          "options": [
+            "He finds strength in his God and inquires of him",
+            "He rallies his men with the confidence a leader projects",
+            "He recalls the anointing that guarantees his own survival",
+            "He channels his grief into swift and decisive action"
+          ],
+          "answer_index": 0,
+          "why": "1 Samuel 30:6-8 moves from David strengthening himself in the LORD straight to inquiry, and the pursuit follows God's answer.",
+          "hint": "Read 1 Samuel 30:6-8 again. Notice what David does before he gives a single order to his men."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "book": "1 Thessalonians",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "1thess",
+      "title": "1 Thessalonians: Hope for Those Who Sleep",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "5:28"
+      },
+      "difficulty_tier": 2,
+      "summary": "Probably the earliest Christian document we possess: a young persecuted church praised for turning 'from idols to serve the living and true God,' taught to grieve with hope — the Lord will descend, the dead in Christ rise first — and to live ready: 'the day of the Lord will come like a thief in the night.' Rejoice always, pray without ceasing, give thanks in everything.",
+      "key_themes": [
+        "second coming",
+        "grief with hope",
+        "holy living",
+        "encouragement"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-16-20",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Acts 17's three-sabbath ministry and riot explain both the church's youth and its persecution."
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-22-25",
+          "reason": "The thief-in-the-night and stay-awake teaching echoes Jesus' Olivet parables of readiness."
+        }
+      ],
+      "key_verses": [
+        "1 Thessalonians 1:9-10",
+        "1 Thessalonians 4:13-14",
+        "1 Thessalonians 5:16-18"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "comfort",
+        "hopeful"
+      ],
+      "discussion_prompt": "Paul tells grieving believers that they do not sorrow like people who have no hope. What difference does the promise of resurrection make when you stand at a graveside, and who in your life needs that kind of comfort right now?",
+      "assessment_questions": [
+        "What does Paul say happened when the Thessalonians received the gospel, and who are they now waiting for?",
+        "Paul calls dead believers those who sleep and promises they will rise first when the Lord comes. Why does he choose the picture of sleep, and what does it say about what death now is for those in Christ?",
+        "Paul says the day of the Lord comes like a thief, so believers should stay awake and sober. What does hopeful readiness look like in an ordinary week, and what would it change in yours?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Grief with hope",
+          "explanation": "Believers grieve real losses while holding the promise of resurrection and reunion at Christ's coming, so sorrow and hope live together."
+        },
+        {
+          "concept": "Death as sleep",
+          "explanation": "For those in Christ death is temporary, a sleep from which the Lord himself will wake his people when he comes."
+        },
+        {
+          "concept": "Readiness over speculation",
+          "explanation": "Paul gives no timetable for the day of the Lord, so its certainty calls for watchful, sober, loving lives instead of anxious calculation."
+        },
+        {
+          "concept": "Holiness flows from hope",
+          "explanation": "Waiting for Jesus shows itself in rejoicing always, praying without ceasing, honest work, and love that keeps growing."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Paul teaches the Thessalonians to grieve with hope, and describe what living ready for the Lord's coming looks like in practice.",
+      "comprehension_check": [
+        {
+          "question": "1 Thessalonians 4:13 wants the church not to grieve like the rest, who have no hope. What exactly is Paul adjusting?",
+          "options": [
+            "He forbids mourning as unbelief in the resurrection",
+            "He redirects their grief toward the living who remain",
+            "He leaves room to grieve while removing the despair",
+            "He postpones all comfort until the Lord's actual coming"
+          ],
+          "answer_index": 2,
+          "why": "1 Thessalonians 4:14-16 sets their dead inside Jesus' own death and rising, with the dead in Christ rising first.",
+          "hint": "Read 1 Thessalonians 4:13-18 again. Notice which words describe the outsiders' grief, and what verse 18 says to do with the teaching."
+        },
+        {
+          "question": "1 Thessalonians 5:2-6 says the day comes like a thief, then says it will not surprise the readers that way. What makes the difference?",
+          "options": [
+            "They have charted the signs well enough to date it",
+            "They already live awake in the light of that day",
+            "The thief comes only for the world, never near them",
+            "Their watchfulness has earned them an early private warning"
+          ],
+          "answer_index": 1,
+          "why": "1 Thessalonians 5:4-5 calls them children of light and of the day, and 1 Thessalonians 5:6 draws the conclusion, stay awake and sober.",
+          "hint": "Read 1 Thessalonians 5:2-8 again. Notice the two groups in the passage and what each is doing when the day arrives."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "book": "2 Peter",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "2pet",
+      "title": "2 Peter: Remember, Against the Scoffers",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:18"
+      },
+      "difficulty_tier": 3,
+      "summary": "A testament against forgetting: make your calling sure, 'we were eyewitnesses of his majesty' on the holy mountain, prophecy carried men along by the Holy Spirit. False teachers will exploit you; scoffers will ask 'where is the promise of his coming?' — but one day with the Lord is as a thousand years, the delay is patience ('not wishing that any should perish'), and the day will come like a thief, dissolving the heavens for new heavens and a new earth where righteousness dwells.",
+      "key_themes": [
+        "eyewitness memory",
+        "false teachers",
+        "the Lord's patience",
+        "day of the Lord"
+      ],
+      "prerequisites": [
+        {
+          "node": "1pet",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "'This is now the second letter I am writing to you' — it presents itself as the sequel."
+        },
+        {
+          "node": "matt-16-18",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "'Eyewitnesses of his majesty… on the holy mountain' recalls the Transfiguration."
+        }
+      ],
+      "connections": [
+        {
+          "node": "jude",
+          "reason": "2 Peter 2 and Jude share so much material that each is the other's best commentary."
+        },
+        {
+          "node": "isa-63-66",
+          "reason": "'New heavens and a new earth in which righteousness dwells' takes up Isaiah 65-66."
+        }
+      ],
+      "key_verses": [
+        "2 Peter 1:16",
+        "2 Peter 3:9",
+        "2 Peter 3:13"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "urgent"
+      ],
+      "discussion_prompt": "Scoffers in 2 Peter 3 ask why nothing has changed if Christ is really coming back. Peter answers that the delay is God's patience, since he does not wish that any should perish. If the wait is mercy, what kind of person should the waiting make you, and what would living that way look like for you this month?",
+      "assessment_questions": [
+        "What event does Peter say he witnessed with his own eyes on the holy mountain, and what voice did he hear there?",
+        "Peter says one day with the Lord is as a thousand years, and that the delay means patience. How does that answer the scoffers' claim that the promise of Christ's coming has failed?",
+        "Peter says that since everything will be dissolved, we should consider what sort of people we ought to be. What one habit of yours would change if you took the coming day of the Lord seriously?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Eyewitness ground",
+          "explanation": "Peter anchors the gospel in what the apostles saw and heard at the Transfiguration, setting it apart from cleverly devised myths."
+        },
+        {
+          "concept": "Scripture from the Spirit",
+          "explanation": "Prophecy came as men were carried along by the Holy Spirit, so Scripture's origin is God rather than private invention."
+        },
+        {
+          "concept": "Delay is patience",
+          "explanation": "God's apparent slowness is mercy, giving time for repentance because he does not wish that any should perish."
+        },
+        {
+          "concept": "Judgment that renews",
+          "explanation": "The day of the Lord dissolves the present order to make way for new heavens and a new earth where righteousness dwells."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Peter answers the scoffers who doubt Christ's return, and what he says the coming day of the Lord means for how we live now.",
+      "comprehension_check": [
+        {
+          "question": "Scoffers in 2 Peter 3 ask why the promised coming has not happened. How does the letter read the delay?",
+          "options": [
+            "As discipline, the church earning the promise through tested endurance",
+            "As patience, God holding the day open for people to repent",
+            "As an admission that the first preachers had misjudged the timing"
+          ],
+          "answer_index": 1,
+          "why": "2 Peter 3:9 explains the delay as the Lord's patience, making room for repentance rather than being slow.",
+          "hint": "Read 2 Peter 3:8-9 again. Notice how the passage tells you to measure time, and what the waiting is for."
+        },
+        {
+          "question": "In 2 Peter 1:16-18 the letter recalls the holy mountain before the scoffers are ever mentioned. What work is that memory doing?",
+          "options": [
+            "It grounds the promised coming in majesty the witnesses actually saw",
+            "It proves Peter's authority to silence rival teachers in the churches",
+            "It models the visionary experiences every believer should seek",
+            "It shows the coming already happened in glory on that mountain"
+          ],
+          "answer_index": 0,
+          "why": "2 Peter 1:16-18 offers what the eyewitnesses saw on the mountain as the ground for announcing the Lord's power and coming.",
+          "hint": "Read 2 Peter 1:16-18 again. Notice what the letter says the apostles did not follow, and what they saw instead."
+        }
+      ]
+    }
+  ]
+}

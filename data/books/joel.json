@@ -1,0 +1,110 @@
+{
+  "book": "Joel",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "joel",
+      "title": "Joel: Locusts, the Day of the LORD, and the Spirit Poured Out",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:21"
+      },
+      "difficulty_tier": 3,
+      "summary": "A devastating locust plague becomes a window onto the Day of the LORD — 'rend your hearts and not your garments' — and past the judgment, the promise Pentecost claims: 'I will pour out my Spirit on all flesh; your sons and your daughters shall prophesy… and everyone who calls on the name of the LORD shall be saved.'",
+      "key_themes": [
+        "day of the LORD",
+        "repentance",
+        "Spirit on all flesh",
+        "restoration"
+      ],
+      "prerequisites": [
+        {
+          "node": "deut-27-30",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "The locusts are read as covenant curse and the call to return as covenant repentance — Deuteronomy's frame."
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-2",
+          "reason": "Peter's Pentecost sermon opens by quoting Joel 2 at length: 'this is what was uttered through the prophet Joel.'"
+        },
+        {
+          "node": "rom-9-11",
+          "reason": "'Everyone who calls on the name of the Lord will be saved' anchors Romans 10."
+        }
+      ],
+      "key_verses": [
+        "Joel 2:13",
+        "Joel 2:28-29",
+        "Joel 2:32"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "urgent",
+        "hopeful"
+      ],
+      "discussion_prompt": "Joel tells a devastated people to tear their hearts rather than their clothes. What separates real repentance from the performance of it, and what would wholehearted turning back to God look like in your week?",
+      "assessment_questions": [
+        "What disaster strikes the land in Joel 1, and what does Joel call the people to do in response?",
+        "Joel promises that God will pour out his Spirit on all flesh, sons and daughters alike. Why does it matter that the promise reaches everyone rather than only prophets and priests?",
+        "Joel says everyone who calls on the name of the LORD will be saved. Who around you assumes God's mercy is out of their reach, and how does this promise change what you could say to them?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Disaster as a wake-up call",
+          "explanation": "The locust plague works as a warning that points forward to the far greater Day of the LORD."
+        },
+        {
+          "concept": "Repentance is inward",
+          "explanation": "God wants torn hearts rather than torn garments, because he judges the soul's posture over outward show."
+        },
+        {
+          "concept": "The Spirit for everyone",
+          "explanation": "Joel promises the Spirit poured out on all flesh, a new reality Peter announces as arriving at Pentecost."
+        },
+        {
+          "concept": "Judgment aims at restoration",
+          "explanation": "The same God who warns also promises to repay the years the locusts ate, so his discipline intends renewal."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Joel moves from a locust plague to the Day of the LORD, and what he promises about the Spirit and about calling on the LORD's name.",
+      "comprehension_check": [
+        {
+          "question": "Joel 2:12-14 calls for torn hearts instead of torn garments. What does the call lean on for its hope?",
+          "options": [
+            "The nation's covenant record, which earned another hearing",
+            "The known character of God, gracious and slow to anger",
+            "The completeness of the ritual, once done with full sincerity",
+            "The locusts' retreat, already visible as the sermon began"
+          ],
+          "answer_index": 1,
+          "why": "Joel 2:13 grounds the summons in God's own character, the reason a return might be met with mercy.",
+          "hint": "Read Joel 2:13-14 again. Notice the reason the prophet gives for returning, and the who-knows that follows it."
+        },
+        {
+          "question": "Joel 2:28-29 promises the Spirit poured on sons, daughters, the old, the young, and servants. What is the promise announcing?",
+          "options": [
+            "Israel will no longer need teachers or priests at all",
+            "The Spirit's nearness will make the day of the LORD safe",
+            "God's presence crossing every line of age, gender, and station",
+            "A restored order of prophets like Moses and Elijah"
+          ],
+          "answer_index": 2,
+          "why": "Joel 2:28-29 stretches the gift across every category it names, the Spirit given without regard to age, sex, or status.",
+          "hint": "Read Joel 2:28-29 again. Notice which unlikely people the promise goes out of its way to include."
+        }
+      ]
+    }
+  ]
+}

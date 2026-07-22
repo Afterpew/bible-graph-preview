@@ -1,0 +1,634 @@
+{
+  "book": "Leviticus",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Law/Torah",
+  "nodes": [
+    {
+      "id": "lev-1-7",
+      "title": "The Five Offerings",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "7:38"
+      },
+      "difficulty_tier": 3,
+      "summary": "Five kinds of sacrifice — burnt, grain, peace, sin, and guilt offerings — establish the grammar of atonement: costly substitution, blood, and restored fellowship. This vocabulary stands behind the New Testament's language whenever it speaks of Jesus' death as a sacrifice.",
+      "key_themes": [
+        "sacrifice",
+        "atonement",
+        "substitution",
+        "holiness"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-35-40",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The offerings answer the question Exodus ends on: God now dwells in the camp — how do sinful people approach him?",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-8-10",
+          "reason": "Hebrews' argument that Christ's single offering ends the sacrificial system presupposes this catalogue of offerings."
+        }
+      ],
+      "key_verses": [
+        "Leviticus 1:4",
+        "Leviticus 4:20",
+        "Leviticus 7:15"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "dense",
+      "emotional_tone": [
+        "reverent",
+        "reflective"
+      ],
+      "discussion_prompt": "Every offering in these chapters costs something: an animal, flour, oil, time. What do they teach about why approaching a holy God involves real cost, and what does your own worship actually cost you?",
+      "assessment_questions": [
+        "What are the five main offerings described in these chapters, and which ones deal specifically with sin and guilt?",
+        "The worshiper lays a hand on the animal's head before it is offered. What does that gesture suggest about how the offering relates to the person bringing it?",
+        "The peace offering ends in a shared meal before God. What would it look like for your worship to produce fellowship with God and other people instead of staying private?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The grammar of atonement",
+          "explanation": "The five offerings build the vocabulary of substitution, blood, and restored fellowship that the New Testament uses whenever it explains the death of Jesus."
+        },
+        {
+          "concept": "Substitution",
+          "explanation": "An offered life stands in for the offender, so judgment and mercy meet in the same act at the altar."
+        },
+        {
+          "concept": "Sin is costly and forgivable",
+          "explanation": "The system takes guilt seriously and still ends in the repeated promise 'and he shall be forgiven,' holding God's purity and his mercy together."
+        },
+        {
+          "concept": "Worship creates fellowship",
+          "explanation": "The peace offering ends in a meal shared before God, showing that the goal of sacrifice is restored communion rather than mere payment."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Name the five offerings and explain in your own words how the sin offering pictures both judgment and mercy.",
+      "comprehension_check": [
+        {
+          "question": "Leviticus 1-7 lays out five offerings in careful detail. What is the system as a whole meant to do for Israel?",
+          "options": [
+            "Let worshipers earn back God's favor through the value of their gifts",
+            "Keep God's anger appeased the way the nations calmed their own gods",
+            "Give a costly way for guilt to be covered and fellowship restored",
+            "Train the nation in generosity through regular required gifts at the altar"
+          ],
+          "answer_index": 2,
+          "why": "Leviticus 1:4 says the offering is accepted on the worshiper's behalf to make atonement, and Leviticus 4:20 ends in forgiveness.",
+          "hint": "Read Leviticus 1:4 and Leviticus 4:20 again. Notice what the offering is said to do for the person who brings it."
+        },
+        {
+          "question": "The peace offering of Leviticus 3 and 7 ends with the worshiper eating a meal before God. What does that ending show about the system's goal?",
+          "options": [
+            "Sacrifice aims at restored fellowship with God",
+            "The meal supplies nourishment God himself depends on",
+            "The meal repays the worshiper for the offering's expense",
+            "Eating the offering keeps its holiness from waste"
+          ],
+          "answer_index": 0,
+          "why": "Leviticus 7:15 ends the peace offering at a table, with the worshiper eating in God's presence the same day.",
+          "hint": "Read Leviticus 3:1-5 and Leviticus 7:15 again. Notice where the peace offering finally ends up, and who shares the occasion."
+        }
+      ]
+    },
+    {
+      "id": "lev-8-10",
+      "title": "The Priesthood Ordained — and Struck",
+      "chapters": [
+        8,
+        9,
+        10
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "10:20"
+      },
+      "difficulty_tier": 3,
+      "summary": "Aaron and his sons are consecrated, fire from God accepts the first sacrifices — and then Nadab and Abihu offer 'unauthorized fire' and die. Holiness is not a metaphor: nearness to God is glorious and dangerous at once.",
+      "key_themes": [
+        "priesthood",
+        "consecration",
+        "holiness",
+        "judgment"
+      ],
+      "prerequisites": [
+        {
+          "node": "lev-1-7",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The priests are ordained to operate the sacrificial system just described.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-5-7",
+          "reason": "Hebrews contrasts Aaron's mortal, flawed priesthood with Christ's indestructible one."
+        }
+      ],
+      "key_verses": [
+        "Leviticus 9:23-24",
+        "Leviticus 10:1-2",
+        "Leviticus 10:3"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reverent",
+        "warning"
+      ],
+      "discussion_prompt": "Fire from God falls twice in these chapters: once to accept the first sacrifices and once to strike Nadab and Abihu. What do the two fires together teach about taking God's holiness seriously, and where has familiarity made you casual about what is holy?",
+      "assessment_questions": [
+        "What happens when the ordination ceremonies conclude in chapter 9, and what do Nadab and Abihu do in chapter 10?",
+        "God says he will be shown as holy among those who draw near to him. Why does nearness to God carry more responsibility rather than less?",
+        "Aaron stays silent and keeps serving after his sons die. How do you respond when obeying God and grieving happen at the same time, and what would trusting God through that require?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Consecration",
+          "explanation": "Aaron and his sons are set apart by God's own instructions, showing that the priestly office is a sacred trust given by God rather than a career people claim."
+        },
+        {
+          "concept": "Holiness is glorious and dangerous",
+          "explanation": "The same divine fire that accepts the offerings consumes the presumptuous, because nearness to God is never a trivial thing."
+        },
+        {
+          "concept": "Approach God on his terms",
+          "explanation": "Nadab and Abihu improvise worship God never commanded, and the story insists that God defines the right way to draw near."
+        },
+        {
+          "concept": "Distinguishing holy from common",
+          "explanation": "The priests' core calling is to keep the difference between the holy and the ordinary clear, training the whole nation to revere God."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the ordination of the priests and the death of Nadab and Abihu, and explain what 'unauthorized fire' teaches about approaching God.",
+      "comprehension_check": [
+        {
+          "question": "In Leviticus 9-10 fire from the LORD accepts the offerings, and then the same fire consumes Nadab and Abihu. What does the pairing teach?",
+          "options": [
+            "God's fire screens the priesthood until only worthy men remain",
+            "Nearness to God is glorious, and it happens on his terms",
+            "Ritual errors offend God more deeply than moral failures do",
+            "Worship offered sincerely is accepted whatever form it happens to take"
+          ],
+          "answer_index": 1,
+          "why": "Leviticus 10:3 gives the principle the whole scene enforces, that God is treated as holy by those who draw near.",
+          "hint": "Read Leviticus 9:23-24 and Leviticus 10:1-3 again. Notice what the two fires have in common, and what was different about the second offering."
+        },
+        {
+          "question": "Leviticus 8 narrates Aaron's ordination step by step, noting throughout that each act followed the LORD's command through Moses. What does the chapter present the priesthood as?",
+          "options": [
+            "A reward for the faithfulness Aaron had shown back in Egypt",
+            "A rank proving Aaron holier in character than his people",
+            "A power base from which Aaron's line would govern Israel",
+            "A sacred trust conferred by God, never a role men seize"
+          ],
+          "answer_index": 3,
+          "why": "Leviticus 8:36 closes the ceremony by crediting every act to the LORD's command through Moses.",
+          "hint": "Read Leviticus 8:1-13 and Leviticus 8:36 again. Notice who directs every step, and how often the chapter says so."
+        }
+      ]
+    },
+    {
+      "id": "lev-11-15",
+      "title": "Clean and Unclean",
+      "chapters": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_span": {
+        "from": "11:1",
+        "to": "15:33"
+      },
+      "difficulty_tier": 3,
+      "summary": "Food laws, childbirth, skin disease, and bodily discharges map everyday life onto categories of clean and unclean — a constant, embodied reminder that Israel's God is holy and that death and disorder cannot approach him. These are the laws the New Testament returns to — Mark 7, Acts 10 — when the food boundary between Jew and Gentile comes down.",
+      "key_themes": [
+        "purity",
+        "holiness",
+        "separation",
+        "embodiment"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-19-24",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "'You shall be holy, for I am holy' extends the Sinai covenant into kitchens and sickrooms; without Sinai these read as arbitrary taboos.",
+          "scope": "foundation"
+        },
+        {
+          "node": "lev-1-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Leviticus 11–15’s purity and cleansing rites presuppose the categories and functions of the five offerings (burnt, grain, peace, sin, guilt) because the purification procedures mandate specific sacrifices that Leviticus 11–15 does not itself define.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "mark-6-8",
+          "reason": "Jesus 'declared all foods clean' — a direct ruling on these chapters."
+        },
+        {
+          "node": "acts-10-12",
+          "reason": "Peter's vision of the sheet of unclean animals reworks Leviticus 11 to open the door to Gentiles."
+        }
+      ],
+      "key_verses": [
+        "Leviticus 11:44-45",
+        "Leviticus 13:45-46"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "dense",
+      "emotional_tone": [
+        "reflective",
+        "reverent"
+      ],
+      "discussion_prompt": "These laws follow Israel into kitchens, births, and sickrooms, mapping ordinary bodily life onto God's holiness. Strange as they sound now, what were they training Israel to remember about God in everyday life, and what daily habit trains you the same way?",
+      "assessment_questions": [
+        "What kinds of everyday situations do these chapters classify as clean or unclean?",
+        "Being unclean was usually temporary and often nobody's fault, yet it still required cleansing before approaching God. What does that distinction teach about the difference between ritual impurity and moral guilt?",
+        "These laws made holiness a whole-body, all-week concern. Which part of your ordinary routine feels most disconnected from God, and what would reconnecting it involve?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Holiness reaches ordinary life",
+          "explanation": "God orders food, birth, and sickness around his holiness, so that everyday embodied life becomes a constant reminder of whose people Israel is."
+        },
+        {
+          "concept": "Uncleanness is a condition to be cleansed",
+          "explanation": "Most impurity in these chapters is temporary and morally innocent, and the rites of restoration teach dependence on God's provision for cleansing."
+        },
+        {
+          "concept": "Separation as a living sign",
+          "explanation": "The clean and unclean categories marked Israel out among the nations and dramatized that death and disorder cannot approach the living God."
+        },
+        {
+          "concept": "A boundary later opened",
+          "explanation": "These are the exact laws in view when Jesus declares foods clean and Peter is sent to Gentiles, so the New Testament treats them as a school that pointed toward a fuller cleansing."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the difference between being unclean and being guilty in Leviticus, and describe what the purity laws were training Israel to remember about God.",
+      "comprehension_check": [
+        {
+          "question": "What are the clean and unclean rules of Leviticus 11-15 for?",
+          "options": [
+            "They wove God's holiness into Israel's everyday embodied life",
+            "They shielded the nation's health from infection and unsafe food",
+            "They marked out which members of Israel were guilty of sin",
+            "They proved Israel's customs superior to those of the nations"
+          ],
+          "answer_index": 0,
+          "why": "Leviticus 11:44-45 grounds the rules in God's own holiness and his rescue of Israel from Egypt.",
+          "hint": "Read Leviticus 11:44-45 again. Notice the reason God himself attaches to the food rules."
+        },
+        {
+          "question": "Most uncleanness in Leviticus 12-15 comes from childbirth, disease, or the body's ordinary flows. What does that show about what uncleanness is?",
+          "options": [
+            "A punishment tracing every affliction back to hidden sin",
+            "A temporary condition met by God's own provision for cleansing",
+            "A sign of God's displeasure with the body and its processes",
+            "A lasting status shutting certain Israelites permanently outside the camp"
+          ],
+          "answer_index": 1,
+          "why": "Leviticus 14:2 opens the law for the day a defiled person is cleansed, so the system itself expects restoration.",
+          "hint": "Read Leviticus 12:6-8 and Leviticus 14:1-9 again. Notice how each case of uncleanness ends."
+        }
+      ]
+    },
+    {
+      "id": "lev-16",
+      "title": "The Day of Atonement",
+      "chapters": [
+        16
+      ],
+      "verse_span": {
+        "from": "16:1",
+        "to": "16:34"
+      },
+      "difficulty_tier": 3,
+      "summary": "Once a year the high priest enters the innermost sanctuary with blood, and a scapegoat carries the nation's sins into the wilderness — the Old Testament's most detailed ritual portrait of atonement. Yom Kippur is the ritual heart of the Torah and the backbone of Hebrews' argument about the cross.",
+      "key_themes": [
+        "atonement",
+        "blood",
+        "scapegoat",
+        "access to God"
+      ],
+      "prerequisites": [
+        {
+          "node": "lev-1-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The Day of Atonement is the sacrificial system's summit; the individual offerings are its grammar.",
+          "scope": "foundation"
+        },
+        {
+          "node": "lev-8-10",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Leviticus 16 opens “after the death of Aaron’s two sons” and presumes the narrative and theological lesson of Leviticus 8–10 (the priestly inauguration and the deaths of Nadab and Abihu) to explain the Day of Atonement’s caution and priestly conduct, which Lev 16 does not retell and without which its tone and prohibitions are liable to be misunderstood.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "heb-8-10",
+          "reason": "Hebrews reads Christ's death as the final Day of Atonement, entered once for all."
+        },
+        {
+          "node": "rom-1-4",
+          "reason": "Paul's word for Christ as the 'place of atonement' (hilasterion) is the Greek name for the mercy seat of Leviticus 16."
+        }
+      ],
+      "key_verses": [
+        "Leviticus 16:21-22",
+        "Leviticus 16:30"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "dense",
+      "emotional_tone": [
+        "reverent",
+        "hopeful"
+      ],
+      "discussion_prompt": "One goat dies at the sanctuary and one carries the nation's sins into the wilderness, out of sight. Why might God give his people such a vivid, physical picture of sins being dealt with and removed, and what would it mean to believe your own failures could be carried that far away?",
+      "assessment_questions": [
+        "What does the high priest do with each of the two goats on the Day of Atonement?",
+        "The high priest enters the Most Holy Place only once a year, and only with blood. What does the ritual's extreme caution communicate about sin and about access to God?",
+        "The scapegoat carried sins away where no one could retrieve them. What guilt do you keep retrieving, and what would trusting God's cleansing on that point change?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Atonement covers and removes",
+          "explanation": "The slain goat shows sin paid for at the sanctuary while the scapegoat shows it carried out of the community's presence, so atonement deals with guilt in both directions."
+        },
+        {
+          "concept": "Access to God is precious",
+          "explanation": "One man, one day a year, only with blood: the ritual's restrictions teach how serious it is for sinful people to stand before a holy God."
+        },
+        {
+          "concept": "The mediating high priest",
+          "explanation": "The high priest bears the people's burden into God's presence on their behalf, a role Hebrews later reads as the pattern Christ fulfills once for all."
+        },
+        {
+          "concept": "Cleansing is God's gift",
+          "explanation": "The chapter's promise 'you shall be clean before the LORD' is declared by God himself, so the day's hope rests on his provision rather than human effort."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the Day of Atonement ritual with its two goats, and explain what each goat pictures about how God deals with sin.",
+      "comprehension_check": [
+        {
+          "question": "Leviticus 16 uses two goats, one slain before the LORD and one sent away alive. What does the double ritual say about sin?",
+          "options": [
+            "Forgiveness means God sends sin away without any cost being paid",
+            "The people secure their own cleansing by the day's fasting and self-denial",
+            "Atonement reaches the priests fully but the people only in part",
+            "Its guilt is paid for and also carried far from the people"
+          ],
+          "answer_index": 3,
+          "why": "Blood goes before God in Leviticus 16:15 and the sins are carried off in Leviticus 16:21-22, so the day both pays and removes.",
+          "hint": "Read Leviticus 16:15-22 again. Notice what happens with each goat in turn, and what each act deals with."
+        },
+        {
+          "question": "Only the high priest enters the inner sanctuary, only once a year, and never without blood. What do the restrictions of Leviticus 16 teach?",
+          "options": [
+            "Entering God's presence is grave, and the way is his gift",
+            "God would rather keep his distance from the people he saved",
+            "Entry turns on the high priest's own superior moral character",
+            "The rules aim to make Israel too fearful to seek God"
+          ],
+          "answer_index": 0,
+          "why": "Leviticus 16:2 bars even Aaron from entering at will, and the same chapter appoints the one way in.",
+          "hint": "Read Leviticus 16:1-3 again. Notice what makes entering dangerous, and what Aaron must bring to come in."
+        }
+      ]
+    },
+    {
+      "id": "lev-17-22",
+      "title": "The Holiness Code: Loving Your Neighbor",
+      "chapters": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_span": {
+        "from": "17:1",
+        "to": "22:33"
+      },
+      "difficulty_tier": 3,
+      "summary": "Holiness moves from ritual to ethics: sexuality, justice for the poor, honest scales, care for the immigrant — and the command Jesus called the second greatest, 'love your neighbor as yourself' (19:18). Holiness in Leviticus is as much about how you treat people as how you worship.",
+      "key_themes": [
+        "holiness",
+        "ethics",
+        "neighbor love",
+        "justice"
+      ],
+      "prerequisites": [
+        {
+          "node": "lev-11-15",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The Holiness Code extends the clean/unclean logic from bodies and food to conduct and community."
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-22-25",
+          "reason": "Jesus pairs Leviticus 19:18 with the Shema as the two commands on which everything hangs."
+        },
+        {
+          "node": "jas",
+          "reason": "James calls 'love your neighbor as yourself' the royal law and applies it against favoritism."
+        }
+      ],
+      "key_verses": [
+        "Leviticus 17:11",
+        "Leviticus 19:2",
+        "Leviticus 19:18"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "hopeful"
+      ],
+      "discussion_prompt": "In a single chapter, Leviticus moves from honest scales to leaving harvest for the poor to loving your neighbor as yourself. What does it mean that God treats money, speech, and sex as matters of holiness, and which of those areas would his holiness confront first in you?",
+      "assessment_questions": [
+        "What command in Leviticus 19 did Jesus call the second greatest, and what kinds of everyday situations surround it in the chapter?",
+        "The refrain 'be holy, for I am holy' anchors these chapters. What does it mean that Israel's ethics are grounded in God's own character?",
+        "Leviticus 19 commands leaving the edges of the field for the poor and the foreigner. What margin could you build into your money or time that exists purely for someone else's need?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Holiness is ethical",
+          "explanation": "How Israel treats workers, neighbors, and strangers is as much a holiness matter as anything done at the altar."
+        },
+        {
+          "concept": "Life belongs to God",
+          "explanation": "The blood rule of Leviticus 17:11 declares that life itself is sacred and God-owned, which grounds the code's reverence for life and worship."
+        },
+        {
+          "concept": "Love your neighbor as yourself",
+          "explanation": "The command Jesus called the second greatest sits inside concrete acts of justice, so love in Leviticus means honest scales, paid wages, and welcomed strangers."
+        },
+        {
+          "concept": "Boundaries protect people",
+          "explanation": "The code's rules for sexuality and family draw lines that guard persons and community life from exploitation and harm."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Leviticus 19 connects holiness to everyday justice, and give two concrete examples from the chapter.",
+      "comprehension_check": [
+        {
+          "question": "Leviticus 19 mixes commands about the altar with honest scales, paid wages, and care for the stranger. What does the mixture claim about holiness?",
+          "options": [
+            "Just dealings can take the place of the altar entirely",
+            "True holiness means withdrawing from ordinary daily affairs",
+            "Right treatment of people is as much holiness as right worship",
+            "The love command reaches kin and countrymen but never the outsider"
+          ],
+          "answer_index": 2,
+          "why": "Leviticus 19:2 sets God's own character over every command that follows, workplace and altar alike.",
+          "hint": "Read Leviticus 19:9-18 again. Notice what kinds of commands sit side by side beneath the call of Leviticus 19:2."
+        },
+        {
+          "question": "The command to love your neighbor sits in Leviticus 19 among rules about wages, courts, and grudges. What does its placement say about love?",
+          "options": [
+            "Love is chiefly an inward warmth the law cannot regulate",
+            "Love takes shape in concrete acts of fairness toward people",
+            "Love replaces the surrounding rules for anyone who means well",
+            "Love is owed to neighbors only as far as they earn it"
+          ],
+          "answer_index": 1,
+          "why": "Leviticus 19:18 caps a run of commands about wages, verdicts, and grudges, so love means doing a neighbor concrete right.",
+          "hint": "Read Leviticus 19:11-18 again. Notice what the commands just before the love command are about."
+        }
+      ]
+    },
+    {
+      "id": "lev-23-27",
+      "title": "Sacred Time: Feasts, Jubilee, and Covenant Sanctions",
+      "chapters": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_span": {
+        "from": "23:1",
+        "to": "27:34"
+      },
+      "difficulty_tier": 3,
+      "summary": "Israel's calendar — Sabbath, Passover, Pentecost, Tabernacles — plus the radical economics of the Jubilee year, when debts release and land returns. Chapter 26 lays out covenant blessings and curses, the script the prophets will later read Israel's history by.",
+      "key_themes": [
+        "sabbath",
+        "feasts",
+        "jubilee",
+        "blessing and curse"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-19-24",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The feasts institutionalize the Exodus and Sinai events; the blessings and curses are the covenant's enforcement clauses.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "luke-3-4",
+          "reason": "Jesus announces his ministry as 'the year of the Lord's favor' — Jubilee language from Leviticus 25 via Isaiah 61."
+        }
+      ],
+      "key_verses": [
+        "Leviticus 23:3",
+        "Leviticus 25:10",
+        "Leviticus 26:12"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "celebratory",
+        "warning"
+      ],
+      "discussion_prompt": "Israel's calendar rehearses rescue every year, and the Jubilee resets debt and land every fifty years so no family stays crushed forever. What do these rhythms say about what God wants time and money to do, and which of them would be hardest for you to live by?",
+      "assessment_questions": [
+        "What are the major feasts in Israel's calendar, and what happens to land and debts in the Jubilee year?",
+        "Chapter 26 sets the promise 'I will walk among you and be your God' alongside blessings and curses. What do the covenant sanctions reveal about how seriously God takes the relationship?",
+        "The Jubilee assumes possessions are held on loan from God. What would you handle differently this month if you treated your money and time as leased rather than owned?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God sanctifies time",
+          "explanation": "Sabbath and the feasts give Israel a calendar of remembrance, so the year itself keeps retelling what God has done."
+        },
+        {
+          "concept": "Jubilee economics",
+          "explanation": "Because the land belongs to God, debts release and land returns every fiftieth year, protecting the poor from permanent ruin."
+        },
+        {
+          "concept": "Blessing and curse",
+          "explanation": "Chapter 26 spells out the covenant's consequences in advance, and the prophets later read Israel's whole history by this script."
+        },
+        {
+          "concept": "The goal is presence",
+          "explanation": "The covenant's promised blessing peaks at 'I will walk among you,' echoing Eden and showing that restored fellowship with God is the point of it all."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the Jubilee year and explain what Israel's calendar of feasts was designed to keep the nation remembering.",
+      "comprehension_check": [
+        {
+          "question": "Leviticus 23 orders Israel's year around sabbaths and appointed feasts. What is the calendar for?",
+          "options": [
+            "It keeps the nation rehearsing what God has done for them",
+            "It secures good harvests by honoring the seasons' turning points",
+            "It rewards the diligent with rest they have earned by work",
+            "It marks certain days as holy by their very nature"
+          ],
+          "answer_index": 0,
+          "why": "Leviticus 23:42-43 has Israel live in booths so every generation will know the exodus story.",
+          "hint": "Read Leviticus 23:42-43 again. Notice the reason God gives for the Feast of Booths."
+        },
+        {
+          "question": "In the Jubilee year of Leviticus 25, debts release and land returns to its family. What conviction drives the arrangement?",
+          "options": [
+            "Wealth itself is a danger the law periodically strips away",
+            "Each generation must start over so none inherits an advantage",
+            "The poor earn their release through the years they have served",
+            "The land belongs to God, so ruin can never be final"
+          ],
+          "answer_index": 3,
+          "why": "Leviticus 25:23 says the land may never be sold beyond reclaim, since it is God's and Israel lives on it as his guests.",
+          "hint": "Read Leviticus 25:23-28 again. Notice whose land it is said to be, and what that makes every sale."
+        }
+      ]
+    }
+  ]
+}

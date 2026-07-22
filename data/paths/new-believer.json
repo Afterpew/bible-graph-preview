@@ -1,0 +1,85 @@
+{
+  "id": "new-believer",
+  "title": "New Believer",
+  "description": "The essential narrative arc of the Bible for someone who has never read it: creation, promise, rescue, the life of Jesus, and what his death and resurrection mean — ending in Romans 8, with a closing look ahead to where the whole story is going.",
+  "audience": "A brand-new Christian or curious first-time reader with no biblical background.",
+  "coverage": "slice",
+  "order": "enforced",
+  "canon_layers": [
+    "core"
+  ],
+  "sequence": [
+    {
+      "node": "gen-1-3",
+      "note": "Start where the Bible starts: what the world is, who we are, and what went wrong."
+    },
+    {
+      "node": "gen-12-17",
+      "note": "God's answer to the broken world — one family through whom all nations will be blessed."
+    },
+    {
+      "node": "exod-1-4",
+      "note": "The God of Abraham reveals his name. 'I AM' will matter enormously when Jesus uses it."
+    },
+    {
+      "node": "exod-12-15",
+      "note": "Passover and the sea: the Old Testament's defining rescue, and the lens for understanding the cross."
+    },
+    {
+      "node": "exod-19-24",
+      "note": "The rescued people get a covenant. Notice the order — grace first, then command."
+    },
+    {
+      "node": "ps-23",
+      "note": "Take a breath: the shepherd psalm shows what trusting this God feels like."
+    },
+    {
+      "node": "ps-51",
+      "note": "And this is what honest failure before him sounds like. You'll need this psalm."
+    },
+    {
+      "node": "isa-52-53",
+      "note": "Written centuries before Jesus: the servant pierced for our transgressions."
+    },
+    {
+      "node": "john-1",
+      "note": "Now the Gospel written for exactly this journey — 'that you may believe' is its stated purpose (John 20:31)."
+    },
+    {
+      "node": "john-2-4"
+    },
+    {
+      "node": "john-5-8"
+    },
+    {
+      "node": "john-9-12"
+    },
+    {
+      "node": "john-13-17"
+    },
+    {
+      "node": "john-18-21",
+      "note": "Cross and resurrection through the eyes of the disciple Jesus loved."
+    },
+    {
+      "node": "acts-2",
+      "note": "What happened next: the Spirit comes and the church begins."
+    },
+    {
+      "node": "rom-1-4",
+      "note": "Paul explains what you just read: why the cross, and what faith is."
+    },
+    {
+      "node": "rom-5-8",
+      "note": "The summit, and the end of the road you have been walking: no condemnation, and nothing in all creation can separate you from the love of God in Christ."
+    },
+    {
+      "node": "rev-20",
+      "note": "Look ahead. Before the new world, the books are opened and God sets everything right. Hope is not the absence of judgment; it rests on it."
+    },
+    {
+      "node": "rev-21-22",
+      "note": "And then the last page: no more death, no more tears, God himself with his people. This is where the whole story has been going."
+    }
+  ]
+}

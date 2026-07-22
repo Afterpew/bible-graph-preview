@@ -1,0 +1,101 @@
+{
+  "book": "Prayer of Manasseh",
+  "testament": "OT",
+  "canon_layer": "orthodox_addition",
+  "domain": "Wisdom/Poetry",
+  "nodes": [
+    {
+      "id": "pr-man",
+      "title": "The Prayer of Manasseh",
+      "chapters": [
+        1
+      ],
+      "difficulty_tier": 2,
+      "summary": "Fifteen verses supplying the prayer 2 Chronicles mentions but never records: Judah's worst king, chained in Babylon, bending 'the knee of my heart' — 'my transgressions are more in number than the sand of the sea… and you, Lord, are the God of those who repent.' One of the most beautiful penitential texts ever written.",
+      "key_themes": [
+        "repentance",
+        "boundless mercy",
+        "humility"
+      ],
+      "prerequisites": [
+        {
+          "node": "2chr-33-36",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The prayer exists to fill the gap in 2 Chronicles 33, which reports Manasseh's prayer without quoting it.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ps-51",
+          "reason": "The two great penitential prayers — David's and Manasseh's — stand side by side in the church's tradition of confession."
+        }
+      ],
+      "tradition_notes": "Canonical in Orthodox usage (sung at Great Compline); a Vulgate appendix for Catholics; apocryphal for Protestants.",
+      "key_verses": [
+        "Prayer of Manasseh 1:9",
+        "Prayer of Manasseh 1:11",
+        "Prayer of Manasseh 1:13"
+      ],
+      "reading_time_minutes": 5,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "comfort"
+      ],
+      "discussion_prompt": "Manasseh calls his sins more numerous than the sand of the sea, then bends 'the knee of my heart' before God. What does this prayer teach about the difference between feeling bad and actually repenting, and what would praying it honestly cost you today?",
+      "assessment_questions": [
+        "What does Manasseh say about the number of his sins, and what does he ask God to do?",
+        "The prayer calls the Lord 'the God of those who repent.' Why does Manasseh build his whole hope on who God is instead of on anything he can offer?",
+        "Manasseh names his wrongs plainly and makes no excuses. What would it look like for you to confess one specific thing that directly, and what holds you back?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "No one is beyond mercy",
+          "explanation": "Judah's worst king finds forgiveness, showing that genuine repentance meets God's mercy no matter how dark the record."
+        },
+        {
+          "concept": "The anatomy of confession",
+          "explanation": "The prayer moves from praising God's character to naming sin plainly to pleading for restoration, a pattern any honest confession can follow."
+        },
+        {
+          "concept": "The God of those who repent",
+          "explanation": "Manasseh dares to pray only because of who God is, a Lord whose promised mercy is immeasurable and who appointed repentance so sinners may be saved."
+        },
+        {
+          "concept": "Repentance rewrites a story",
+          "explanation": "A past of great evil does not lock in the future, since God delights to restore the contrite and can turn a byword into a model of prayer."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Summarize the movement of Manasseh's prayer from praise to confession to plea, and explain why 'the God of those who repent' is its center.",
+      "comprehension_check": [
+        {
+          "question": "Before confessing anything, Manasseh spends the opening verses naming God's power and promised mercy. Why start there?",
+          "options": [
+            "Because who God is makes the plea possible",
+            "Because praise softens the anger of an offended king",
+            "Because right doctrine must be shown before requests count",
+            "Because confession is only heard after enough praise"
+          ],
+          "answer_index": 0,
+          "why": "Everything asked in Prayer of Manasseh 1:13 leans on the merciful character the opening has already named.",
+          "hint": "Read Prayer of Manasseh 1:9, then 1:13. Notice where hope comes from once the sins are past counting."
+        },
+        {
+          "question": "At Prayer of Manasseh 1:11 the kneeling happens in the heart. What does that image make repentance?",
+          "options": [
+            "A ritual of humiliation performed to earn a hearing",
+            "A grief displayed where others can witness it",
+            "A surrender that happens inside the person first",
+            "A posture kept until the punishment is lifted"
+          ],
+          "answer_index": 2,
+          "why": "Prayer of Manasseh 1:11 moves the bowing inward, so the confession comes from the self and not the ceremony.",
+          "hint": "Read Prayer of Manasseh 1:11 again. Notice which part of Manasseh does the kneeling."
+        }
+      ]
+    }
+  ]
+}

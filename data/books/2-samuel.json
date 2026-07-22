@@ -1,0 +1,618 @@
+{
+  "book": "2 Samuel",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "2sam-1-6",
+      "title": "David Takes the Throne; the Ark Comes Home",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "6:23"
+      },
+      "difficulty_tier": 2,
+      "summary": "David laments Saul rather than gloating, is crowned over Judah and then all Israel, takes Jerusalem, and dances the ark into his new capital. City, king, and divine presence converge — Zion is born.",
+      "key_themes": [
+        "kingship",
+        "Jerusalem/Zion",
+        "worship",
+        "divine presence"
+      ],
+      "prerequisites": [
+        {
+          "node": "1sam-27-31",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "David's coronation follows directly from Saul's death at Gilboa.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-25-31",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Exodus 25–31 provides the tabernacle/ark regulations and the holiness framework that make sense of David’s treatment of the ark and Uzzah’s death, which 2 Samuel 1–6 assumes but does not itself fully supply.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Samuel 1:19",
+        "2 Samuel 5:12",
+        "2 Samuel 6:14-15"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "lament",
+        "celebratory"
+      ],
+      "discussion_prompt": "In one chapter Uzzah dies for touching the ark, and soon after David dances before it with all his might. What do those two scenes together teach about approaching a holy God with both reverence and joy, and which of the two comes harder for you?",
+      "assessment_questions": [
+        "How does David respond to the news of Saul's death, and what city does he capture and make his capital?",
+        "The ark's journey stops for three months after Uzzah dies, and something changes before it enters Jerusalem. What does the episode teach about handling what is holy on God's terms instead of our own?",
+        "David composes a public lament honoring the king who hunted him for years. What would honoring someone who wronged you actually require, and why might it matter?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God rules through messy history",
+          "explanation": "David's rise runs through civil war, assassinations, and hard politics, showing God establishing his purposes inside flawed human events."
+        },
+        {
+          "concept": "Grief can honor",
+          "explanation": "David's lament for Saul and Jonathan models mourning that refuses to gloat, treating even a fallen enemy with dignity."
+        },
+        {
+          "concept": "Holiness demands reverence",
+          "explanation": "Uzzah's death is a hard reminder that God's presence is never casual, and that zeal for God must be ordered by obedience to his word."
+        },
+        {
+          "concept": "City, king, and presence converge",
+          "explanation": "When the ark enters Jerusalem, worship, kingship, and God's dwelling come together in one place, and Zion becomes the Bible's great symbol of God with his people."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how city, king, and ark come together in Jerusalem, and explain what the Uzzah episode teaches about God's holiness.",
+      "comprehension_check": [
+        {
+          "question": "After David is crowned and takes Jerusalem, the story climaxes with the ark entering the city. What does that arrival accomplish in the narrative?",
+          "options": [
+            "It joins God's presence to king and city",
+            "It shields the young capital from any Philistine reprisal",
+            "It repays David's long faithfulness with a crowning honor",
+            "It relocates worship to a setting worthy of it"
+          ],
+          "answer_index": 0,
+          "why": "With the ark set in David's new capital, God's dwelling and the kingship now share one place (2 Samuel 5:12, 2 Samuel 6:17).",
+          "hint": "Read 2 Samuel 5:12 and 2 Samuel 6:15-17 again. Notice what David understands about his kingdom, and what he brings into his city next."
+        },
+        {
+          "question": "Uzzah dies when the ark first sets out, yet three months later David dances it into Jerusalem with all Israel. What changed in between?",
+          "options": [
+            "God's anger had simply faded with the passing months",
+            "The ark was moved on God's own terms this time",
+            "A larger, more careful escort prevented another stumble",
+            "The ark grew safe as it neared the holy city"
+          ],
+          "answer_index": 1,
+          "why": "The second attempt goes with bearers carrying the ark and sacrifice marking the journey (2 Samuel 6:13).",
+          "hint": "Read 2 Samuel 6:3 and then 2 Samuel 6:13 again. Notice how the ark travels on each attempt."
+        }
+      ]
+    },
+    {
+      "id": "2sam-7",
+      "title": "The Davidic Covenant",
+      "chapters": [
+        7
+      ],
+      "verse_span": {
+        "from": "7:1",
+        "to": "7:29"
+      },
+      "difficulty_tier": 2,
+      "summary": "David offers to build God a house; God answers that he will build David a house — a dynasty, a throne established forever, a son who will be to God a son. This single chapter is the taproot of the Bible's messianic hope: 'Son of David' means this promise.",
+      "key_themes": [
+        "covenant",
+        "messianic promise",
+        "kingship forever",
+        "grace"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-1-6",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The promise is God's response to David settled in Jerusalem with the ark — the scene chapters 1-6 build.",
+          "scope": "sequence"
+        },
+        {
+          "node": "gen-12-17",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The Davidic covenant narrows the Abrahamic one: blessing-to-the-nations now runs through one royal line.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "luke-1-2",
+          "reason": "Gabriel's words to Mary — 'the throne of his father David… his kingdom will never end' — quote this covenant."
+        },
+        {
+          "node": "ps-1-2",
+          "reason": "Psalm 2's begotten king enthroned on Zion is this promise set to music."
+        },
+        {
+          "node": "heb-1-4",
+          "reason": "Hebrews 1 cites 'I will be to him a father' from this chapter as fulfilled in Christ."
+        }
+      ],
+      "key_verses": [
+        "2 Samuel 7:12-13",
+        "2 Samuel 7:16",
+        "2 Samuel 7:18"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "hopeful"
+      ],
+      "discussion_prompt": "David plans to build God a house, and God turns the offer around and promises to build David one instead. What does that reversal show about how grace works, and where might God be asking you to receive what you were busy trying to achieve?",
+      "assessment_questions": [
+        "What does God promise David through the prophet Nathan in this chapter?",
+        "God promises David's throne will stand forever, yet also says he will discipline David's son when he does wrong. How can the promise be unbreakable while the kings remain accountable?",
+        "David's response is to sit before the LORD and ask, 'Who am I?' How does receiving a promise you did nothing to earn change the way a person prays and plans?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Grace takes the initiative",
+          "explanation": "David's building project is set aside so God can give rather than receive, showing that the covenant rests on God's generosity and never on human achievement."
+        },
+        {
+          "concept": "An everlasting house and throne",
+          "explanation": "God promises David a dynasty that will never finally fail, a commitment the rest of Scripture keeps returning to."
+        },
+        {
+          "concept": "Father and son covenant language",
+          "explanation": "God pledges to be a father to David's heir, binding steadfast love to responsible rule and correction."
+        },
+        {
+          "concept": "The promise points beyond David",
+          "explanation": "The everlasting throne reaches past Solomon toward the messianic hope, which is why the New Testament calls Jesus the Son of David."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain in your own words what God promises David in 2 Samuel 7 and why 'Son of David' carries this promise through the rest of the Bible.",
+      "comprehension_check": [
+        {
+          "question": "David proposes to build God a house, and God responds with a promise instead. What is the shape of the exchange?",
+          "options": [
+            "God rebukes the plan as presumption on David's part",
+            "God postpones the temple until David earns the right",
+            "God reverses the offer, making himself the builder",
+            "God accepts, assigning the work to a worthier heir"
+          ],
+          "answer_index": 2,
+          "why": "The oracle turns David's plan around: the LORD declares that he will establish a house for David (2 Samuel 7:11).",
+          "hint": "Read 2 Samuel 7:5 and 2 Samuel 7:11 again. Notice who ends up building a house for whom."
+        },
+        {
+          "question": "God promises David a house and throne established forever. In the Bible's long story, what does this chapter become?",
+          "options": [
+            "The taproot of the Bible's hope for the Messiah",
+            "A pledge that Solomon's temple would satisfy and complete",
+            "A conditional grant that exile finally proved forfeit",
+            "A tribute to David that his successors squandered away"
+          ],
+          "answer_index": 0,
+          "why": "The promise of a throne established forever is what later scripture keeps reaching for in the title Son of David (2 Samuel 7:16).",
+          "hint": "Read 2 Samuel 7:12-16 again. Notice how long the promised house and throne are said to stand."
+        }
+      ]
+    },
+    {
+      "id": "2sam-8-10",
+      "title": "The Kingdom Established",
+      "chapters": [
+        8,
+        9,
+        10
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "10:19"
+      },
+      "difficulty_tier": 3,
+      "summary": "David's wars secure the borders the patriarchs were promised, and his kindness to Mephibosheth — Jonathan's disabled son, seated at the king's table — shows covenant loyalty exercised from the throne. The kingdom at its brief best.",
+      "key_themes": [
+        "victory",
+        "covenant kindness",
+        "justice",
+        "kingdom at peace"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-7",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The victories unfold under the covenant just given; the narrator presents them as its early fruit."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 Samuel 8:15",
+        "2 Samuel 9:7",
+        "2 Samuel 10:12"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "resolve",
+        "comfort"
+      ],
+      "discussion_prompt": "At the height of his power, David asks whether anyone is left of Saul's house so he can show kindness for Jonathan's sake, and he seats a disabled man at the king's table for life. What does it mean to use power that way, and who could you seek out to honor a promise no one would force you to keep?",
+      "assessment_questions": [
+        "Who is Mephibosheth, and what does David do for him?",
+        "The narrator repeats that the LORD gave David victory wherever he went. What does that refrain say about the real source of the kingdom's success?",
+        "David's kindness to Mephibosheth flows from an old covenant with Jonathan. What commitments have you made that still claim something from you today, and how will you keep them?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Victory is a gift",
+          "explanation": "David's military success is credited to the LORD giving him victory, so kingship is portrayed as stewardship under God rather than raw human achievement."
+        },
+        {
+          "concept": "Covenant kindness to the undeserving",
+          "explanation": "David lavishes grace on Mephibosheth because of a past promise, modeling loyalty that seeks out the vulnerable instead of waiting to be asked."
+        },
+        {
+          "concept": "Justice from the throne",
+          "explanation": "David administers justice and equity for all his people, sketching what right rule under God is supposed to look like."
+        },
+        {
+          "concept": "Power ordered to God's purposes",
+          "explanation": "War, diplomacy, and administration fill these chapters, and the narrative asks whether authority serves God's aims or the ruler's own."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the Mephibosheth story and explain how it shows covenant loyalty exercised from the throne.",
+      "comprehension_check": [
+        {
+          "question": "At the height of his power David asks whether anyone is left of Saul's house, and seats lame Mephibosheth at the royal table. What is the search showing?",
+          "options": [
+            "A public mercy staged to adorn the new reign",
+            "A repayment of debts owed to Jonathan's household",
+            "An amends for deaths that cleared his way to power",
+            "Promise-keeping kindness that goes looking for the weak"
+          ],
+          "answer_index": 3,
+          "why": "David starts the search unprompted, seeking someone to receive kindness for Jonathan's sake (2 Samuel 9:1).",
+          "hint": "Read 2 Samuel 9:1-7 again. Notice who begins the search, and whose name supplies the reason for the kindness."
+        },
+        {
+          "question": "The war records keep repeating that the LORD made David victorious wherever he went. What is the refrain doing?",
+          "options": [
+            "Certifying that every campaign David ever fought was just",
+            "Crediting the kingdom's success to God rather than David",
+            "Teaching that obedient kings will never lose their battles",
+            "Preserving David's tactics as a pattern for his successors"
+          ],
+          "answer_index": 1,
+          "why": "The conquests are framed as the LORD giving the victories, so the empire is received before it is achieved (2 Samuel 8:6).",
+          "hint": "Read 2 Samuel 8:6 and 2 Samuel 8:14 again. Notice who is named as acting whenever David wins."
+        }
+      ]
+    },
+    {
+      "id": "2sam-11-12",
+      "title": "Bathsheba and Nathan's Parable",
+      "chapters": [
+        11,
+        12
+      ],
+      "verse_span": {
+        "from": "11:1",
+        "to": "12:31"
+      },
+      "difficulty_tier": 2,
+      "summary": "David takes Bathsheba and murders her husband to cover it, and the prophet Nathan corners the king with a story about a stolen lamb: 'You are the man.' The Bible's model king is exposed as an adulterer and murderer — and the model penitent.",
+      "key_themes": [
+        "sin",
+        "abuse of power",
+        "prophetic confrontation",
+        "repentance"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-8-10",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "assumes the preceding portrait of David's kingdom at its height so the Bathsheba-Nathan episode reads as a tragic reversal, a contrast 2 Sam 11–12 never restates.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ps-51",
+          "reason": "Psalm 51's superscription places it here: David's own prayer after Nathan's confrontation."
+        }
+      ],
+      "key_verses": [
+        "2 Samuel 11:27",
+        "2 Samuel 12:7",
+        "2 Samuel 12:13"
+      ],
+      "reading_time_minutes": 12,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "sorrow"
+      ],
+      "discussion_prompt": "Nathan tells the king a story about a rich man stealing a poor man's lamb, and David condemns the thief in fury before realizing the thief is him. Why do we see other people's sins so much more clearly than our own, and who have you given permission to speak that honestly into your life?",
+      "assessment_questions": [
+        "How does David try to cover up what he did with Bathsheba, and what finally happens to Uriah?",
+        "God forgives David the moment he confesses, yet the child dies and the sword stays in his house. How do forgiveness and consequences fit together in this story?",
+        "David's fall unfolds in small steps: staying home, looking, asking, sending. Which early step of a temptation do you most need to interrupt, and how?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Secret sin grows into public harm",
+          "explanation": "One private act of lust spirals into adultery, deceit, and murder, showing how quickly hidden sin multiplies its victims."
+        },
+        {
+          "concept": "Rebuke is mercy",
+          "explanation": "Nathan's parable is God's kindness in disguise, bringing David to see his sin so that confession and restoration become possible."
+        },
+        {
+          "concept": "Real forgiveness, real consequences",
+          "explanation": "God pardons David's confessed sin, yet the earthly fallout still comes, teaching that divine forgiveness does not erase every temporal cost."
+        },
+        {
+          "concept": "Chosen does not mean flawless",
+          "explanation": "The king after God's own heart commits the Bible's most infamous royal sin, so God's choice of a servant is never a certificate of moral perfection."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Nathan's parable and explain how 'You are the man' brings David to genuine repentance.",
+      "comprehension_check": [
+        {
+          "question": "Nathan confronts the king with a story about a stolen lamb instead of a direct accusation. What does the parable accomplish?",
+          "options": [
+            "It cushions a rebuke no king could hear plainly",
+            "It draws David into sentencing his own deed unawares",
+            "It cloaks the charge so only David would understand",
+            "It protects Nathan from a king who removes inconvenient men"
+          ],
+          "answer_index": 1,
+          "why": "David's fury at the rich man becomes the verdict Nathan turns back on the king himself (2 Samuel 12:5-7).",
+          "hint": "Read 2 Samuel 12:1-7 again. Notice what David does in verse 5, before he learns who the rich man stands for."
+        },
+        {
+          "question": "Nathan tells David the LORD has put away his sin, and in the same oracle announces lasting trouble for his house. What is the passage holding together?",
+          "options": [
+            "A pardon left incomplete until suffering repays it",
+            "Evidence that David's repentance fell short of sincerity",
+            "A judgment postponed for a season rather than truly forgiven",
+            "Genuine pardon beside the lasting earthly cost of sin"
+          ],
+          "answer_index": 3,
+          "why": "One oracle carries both words, the sin taken away and the sword staying in the house (2 Samuel 12:10, 2 Samuel 12:13).",
+          "hint": "Read 2 Samuel 12:10-14 again. Notice which things Nathan says are ended and which he says will remain."
+        }
+      ]
+    },
+    {
+      "id": "2sam-13-20",
+      "title": "The Sword in David's House: Absalom",
+      "chapters": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_span": {
+        "from": "13:1",
+        "to": "20:26"
+      },
+      "difficulty_tier": 3,
+      "summary": "Nathan's sentence — 'the sword shall never depart from your house' — unfolds in slow motion: Amnon's rape of Tamar, Absalom's revenge, rebellion, and death in the oak, leaving David wailing 'O Absalom, my son, my son.' Sin forgiven still bears bitter fruit.",
+      "key_themes": [
+        "consequences",
+        "family ruin",
+        "rebellion",
+        "grief"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-11-12",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The whole section executes Nathan's judgment on the Bathsheba affair; without it this is just dynastic chaos.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ps-3-8",
+          "reason": "Psalm 3 is superscribed 'when David fled from Absalom his son.'"
+        }
+      ],
+      "key_verses": [
+        "2 Samuel 14:14",
+        "2 Samuel 15:6",
+        "2 Samuel 18:33"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "tension"
+      ],
+      "discussion_prompt": "David burns with anger when Tamar is violated, and then does nothing. Trace what his silence costs his family across these chapters. Why is failing to act against injustice so destructive, and where might silence be doing damage around you?",
+      "assessment_questions": [
+        "What does Absalom do to avenge Tamar, and how does his rebellion against David end?",
+        "Nathan warned that the sword would never depart from David's house. How do these chapters show that sentence coming true through the family's own choices rather than through lightning from heaven?",
+        "David weeps 'O Absalom, my son, my son' over the son who tried to kill him. What does his grief teach about loving people whose choices break your heart?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Sin spreads through a family",
+          "explanation": "Amnon's crime, Absalom's revenge, and the civil war that follows show one unaddressed sin multiplying into national ruin."
+        },
+        {
+          "concept": "Passive leadership lets evil grow",
+          "explanation": "David's anger without action after Tamar's rape leaves the vulnerable unprotected and hands the story to vengeance."
+        },
+        {
+          "concept": "Judgment works through human choices",
+          "explanation": "Nathan's sentence and the family's own passions unfold as one story, holding God's judgment and human responsibility together without dissolving either."
+        },
+        {
+          "concept": "A father's grief and a king's duty collide",
+          "explanation": "David's wail over Absalom shows the agonizing tension between political necessity, justice, and a parent's love for a rebellious child."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Trace the chain from Amnon's crime to Absalom's death, and explain how it fulfills Nathan's words after the Bathsheba affair.",
+      "comprehension_check": [
+        {
+          "question": "Nathan said the sword would never leave David's house. How do these chapters show that sentence being carried out?",
+          "options": [
+            "Through direct blows from heaven that bypass human hands",
+            "Through foreign enemies raised up against the throne",
+            "Through the family's own choices, which no one restrains",
+            "Through a fate that runs on regardless of anyone's acts"
+          ],
+          "answer_index": 2,
+          "why": "The oracle located the coming trouble inside David's own house, and there it rises (2 Samuel 12:11).",
+          "hint": "Read 2 Samuel 12:11 and then 2 Samuel 13:21-22 again. Notice where the trouble comes from, and what the king fails to do about it."
+        },
+        {
+          "question": "After Tamar's rape, David burns with anger and does nothing. What does the narrative trace to that silence?",
+          "options": [
+            "The revenge that fills the space justice left empty",
+            "An ambition in Absalom that nothing could have curbed",
+            "The withdrawal of God's covenant promise from the house"
+          ],
+          "answer_index": 0,
+          "why": "Absalom's hatred festers for two years over the crime his father's anger never answered (2 Samuel 13:21-22).",
+          "hint": "Read 2 Samuel 13:21-23 again. Notice the two years that pass between the king's fury and anyone acting."
+        }
+      ]
+    },
+    {
+      "id": "2sam-21-24",
+      "title": "Epilogue: The King Assessed",
+      "chapters": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "verse_span": {
+        "from": "21:1",
+        "to": "24:25"
+      },
+      "difficulty_tier": 3,
+      "summary": "A non-chronological closing portfolio: famine and war records, David's great psalm of deliverance, his last words, his mighty men — and the census that ends with an altar on the threshing floor where the temple will one day stand.",
+      "key_themes": [
+        "retrospective",
+        "praise",
+        "kingship assessed",
+        "future temple site"
+      ],
+      "prerequisites": [
+        {
+          "node": "2sam-13-20",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "assumes the reader knows the prior domestic catastrophes (Amnon, Absalom, the house's violence) that the epilogue is summing up and judging, which 21–24 do not recount.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "1kgs-5-8",
+          "reason": "The threshing floor David buys in chapter 24 becomes the temple site Solomon builds on."
+        }
+      ],
+      "key_verses": [
+        "2 Samuel 22:2-3",
+        "2 Samuel 23:3-4",
+        "2 Samuel 24:24"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reflective",
+        "reverent"
+      ],
+      "discussion_prompt": "At the threshing floor David refuses a free gift, saying he will not offer to God what costs him nothing. Looking back over this closing portrait of his whole reign, why does worship that costs something matter, and what would it cost you?",
+      "assessment_questions": [
+        "What does David buy at the threshing floor, and what does he do there?",
+        "The epilogue places David's psalm of deliverance and last words between records of famine, war, and a sinful census. What verdict on David's reign does this arrangement suggest?",
+        "After a lifetime of danger, David calls the LORD his rock, fortress, and deliverer. Which line of a testimony like that could you honestly say today, and which one are you still waiting to?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Praise interprets a lifetime",
+          "explanation": "David's great song reads his whole story of danger and rescue as God's work, modeling thanksgiving as the right response to deliverance."
+        },
+        {
+          "concept": "Leaders answer to God",
+          "explanation": "The census shows a king's pride exposing his people to judgment, and true leadership responding with confession and repair."
+        },
+        {
+          "concept": "Costly worship",
+          "explanation": "David insists on paying for the threshing floor because an offering that costs nothing says nothing, and that altar site becomes the future temple."
+        },
+        {
+          "concept": "Faithful companions",
+          "explanation": "The roll of mighty men honors loyalty and sacrificial service, showing that God's work through David ran through committed friends."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why the census ends at a threshing floor altar, and what David's 'I will not offer what costs me nothing' says about worship.",
+      "comprehension_check": [
+        {
+          "question": "Araunah offers David the threshing floor, the oxen, and the wood without charge. Why does David insist on paying?",
+          "options": [
+            "A gift that costs the giver nothing is no offering",
+            "A king must never stand in the debt of a subject",
+            "Only land lawfully purchased could carry an altar",
+            "A freely given site could be claimed back later"
+          ],
+          "answer_index": 0,
+          "why": "David refuses to offer the LORD burnt offerings that cost him nothing, so he buys the floor and the oxen (2 Samuel 24:24).",
+          "hint": "Read 2 Samuel 24:22-25 again. Notice the reason David gives when he declines the free gift."
+        },
+        {
+          "question": "The epilogue sets David's long song of rescue beside records of famine, war, and a costly census. What does the song do there?",
+          "options": [
+            "It grants the reign's brighter years their equal share",
+            "It marks the point where the kingdom's wars ended",
+            "It restores the reputation the census chapter cost David",
+            "It reads the reign's escapes as the LORD's rescue"
+          ],
+          "answer_index": 3,
+          "why": "The song is sung to the LORD on the day of deliverance from all his enemies, a lifetime read as rescue (2 Samuel 22:1).",
+          "hint": "Read 2 Samuel 22:1-4 again. Notice whom the song credits, and what span of David's life its heading covers."
+        }
+      ]
+    }
+  ]
+}

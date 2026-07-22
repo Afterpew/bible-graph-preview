@@ -1,0 +1,113 @@
+{
+  "book": "1 Peter",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "1pet",
+      "title": "1 Peter: Exiles with a Living Hope",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "5:14"
+      },
+      "difficulty_tier": 2,
+      "summary": "To scattered believers under social fire: you are 'elect exiles,' born again to a living hope, 'a chosen race, a royal priesthood, a holy nation' — Israel's Sinai titles handed to a mostly Gentile church. Suffer well, as Christ did ('by his wounds you have been healed'), honor everyone, be ready to give a reason for your hope, and cast all your anxieties on him, because he cares for you.",
+      "key_themes": [
+        "exile identity",
+        "suffering with hope",
+        "royal priesthood",
+        "witness under pressure"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-19-24",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'Royal priesthood, holy nation' quotes Sinai's covenant charter — the letter's identity claim requires it."
+        },
+        {
+          "node": "isa-52-53",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "Chapter 2's suffering-Christ passage is a running quotation of the Suffering Servant."
+        }
+      ],
+      "connections": [
+        {
+          "node": "esth",
+          "reason": "Faithful life under a foreign power — 1 Peter is the New Testament's diaspora manual as Esther is the Old's."
+        }
+      ],
+      "key_verses": [
+        "1 Peter 1:3",
+        "1 Peter 2:9",
+        "1 Peter 5:7"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "comfort"
+      ],
+      "discussion_prompt": "Peter writes to people under social fire and calls them elect exiles with a living hope. When your faith puts you at odds with the people around you, what does hoping like an exile look like in practice, and what would gentle, respectful witness cost you in that moment?",
+      "assessment_questions": [
+        "What titles from Israel's story does Peter give the church in chapter 2, and what does he say this people is called to declare?",
+        "Peter points suffering believers to Christ, who suffered without retaliating and entrusted himself to the one who judges justly. Why does Peter treat unjust suffering as a place to follow Christ instead of proof that God has failed?",
+        "Peter says to always be ready to give a reason for the hope in you, with gentleness and respect. If someone asked you tomorrow why you hope, what would you say, and where does the gentleness part challenge you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Elect exiles",
+          "explanation": "Believers are chosen by God and at the same time strangers in their culture, an identity that explains both their dignity and their friction with the world."
+        },
+        {
+          "concept": "Living hope",
+          "explanation": "Christ's resurrection guarantees an inheritance that cannot perish, so Christian hope rests on an event rather than a mood."
+        },
+        {
+          "concept": "Suffering with Christ",
+          "explanation": "Unjust suffering borne without retaliation follows the pattern of Christ and refines faith the way fire refines gold."
+        },
+        {
+          "concept": "A royal priesthood",
+          "explanation": "Sinai's covenant titles now name the church, a people set apart to declare God's praises and serve the world around them."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Peter means by calling believers elect exiles, and describe how he tells them to respond to unjust suffering.",
+      "comprehension_check": [
+        {
+          "question": "1 Peter 2:9-10 hands Israel's Sinai titles to scattered, harassed congregations. What work does that identity do in the letter?",
+          "options": [
+            "It promises that their exclusion will shortly be reversed",
+            "It transfers Israel's land inheritance to the church",
+            "It turns their social exile into a priestly calling"
+          ],
+          "answer_index": 2,
+          "why": "1 Peter 2:9 attaches a purpose to the titles, declaring the praises of the one who called them out of darkness.",
+          "hint": "Read 1 Peter 2:9-12 again. Notice the purpose clause tied to the titles, and where the addressees are standing when they live it."
+        },
+        {
+          "question": "1 Peter 4:12-14 tells believers not to be surprised by the fiery trial. What does the letter teach them to make of unjust suffering?",
+          "options": [
+            "A sign that God's favor has been withdrawn for a season",
+            "A cost to be minimized by keeping their faith unseen",
+            "A hardship earning a proportionate reward at the revelation",
+            "A sharing in Christ's sufferings carrying blessing and glory"
+          ],
+          "answer_index": 3,
+          "why": "1 Peter 4:13-14 names the trial a fellowship in Christ's sufferings, with joy now, glory at his appearing, and the Spirit resting on the insulted.",
+          "hint": "Read 1 Peter 4:12-16 again. Notice what the trial is called a share in, and which kind of suffering the passage rules out."
+        }
+      ]
+    }
+  ]
+}

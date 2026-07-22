@@ -1,0 +1,113 @@
+{
+  "book": "Esther",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "esth",
+      "title": "Esther: Providence Without a Name",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "10:3"
+      },
+      "difficulty_tier": 2,
+      "summary": "In the Persian court, a Jewish orphan becomes queen just as Haman engineers genocide against her people — 'and who knows whether you have come to the kingdom for such a time as this?' God is never named in the Hebrew book, yet every coincidence conspires to save; the feast of Purim celebrates the reversal to this day.",
+      "key_themes": [
+        "providence",
+        "courage",
+        "reversal",
+        "diaspora survival"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-24-25",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Esther is a story of the diaspora — Jews living scattered under a foreign empire because of the exile."
+        }
+      ],
+      "connections": [
+        {
+          "node": "gen-37-41",
+          "reason": "Like Joseph, a Jewish exile rises in a pagan court to save the covenant people — the two stories mirror each other scene for scene."
+        }
+      ],
+      "tradition_notes": "Catholic and Orthodox Bibles read Esther with six Greek additions (letters, prayers, and explicit mentions of God) that make the book's piety overt; the Hebrew text keeps God unnamed. The additions appear in this dataset as a deuterocanonical-layer node (esth-gk).",
+      "key_verses": [
+        "Esther 4:14",
+        "Esther 4:16",
+        "Esther 9:22"
+      ],
+      "reading_time_minutes": 50,
+      "content_density": "light",
+      "emotional_tone": [
+        "tension",
+        "celebratory"
+      ],
+      "discussion_prompt": "God is never named in the Hebrew book of Esther, yet timing, insomnia, and coincidence keep bending toward rescue. Where do you see providence at work in this story, and how would you learn to notice the same quiet ordering in an ordinary week of your own life?",
+      "assessment_questions": [
+        "What is Haman's plot against the Jews, and how does Esther finally expose it to the king?",
+        "Mordecai tells Esther that relief will arise from another place if she stays silent, then asks whether she has come to the kingdom for such a time as this. What does his statement suggest about how God's purposes and human choices relate?",
+        "Esther fasts, accepts that she may perish, and walks into the throne room anyway. What position or influence do you hold right now, and what would using it for someone else's protection cost you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Providence in hiddenness",
+          "explanation": "God's name never appears in the Hebrew text, yet every reversal in the story shows a care that governs history without announcing itself."
+        },
+        {
+          "concept": "Courage for such a time",
+          "explanation": "Esther risks her life to intercede for her people, modeling faithful action from whatever position a person has been given."
+        },
+        {
+          "concept": "The great reversal",
+          "explanation": "Haman is undone by his own gallows and the endangered people are spared, showing that pride falls and the vulnerable are vindicated."
+        },
+        {
+          "concept": "Remembering deliverance",
+          "explanation": "The feast of Purim turns rescue into ritual memory, so future generations inherit both the story and the hope."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Esther's story from Haman's plot to the feast of Purim, and explain what the book shows about God's hidden providence.",
+      "comprehension_check": [
+        {
+          "question": "Esther's great reversal pivots on a sleepless night and an old record read aloud in chapter 6. What is the storyteller doing with that scene?",
+          "options": [
+            "Showing chance ruling a world where no one governs events",
+            "Showing Persian archives preserving justice better than courts",
+            "Showing hidden governance steering what looks like coincidence"
+          ],
+          "answer_index": 2,
+          "why": "Esther 6:1 turns the whole plot on the king's sleepless night, timed exactly against Haman's arrival at dawn.",
+          "hint": "Read Esther 6:1-3 again. Notice how many small accidents must line up for that morning to happen."
+        },
+        {
+          "question": "In Esther 4:14 Mordecai tells Esther that relief will rise for the Jews from another place if she stays silent. What does his argument assume?",
+          "options": [
+            "Deliverance is certain, and only her share in it is in question",
+            "Deliverance depends entirely on her courage in the next three days",
+            "Deliverance will come through Persia's laws once the king learns the truth",
+            "Deliverance requires her death, the price the crisis has set"
+          ],
+          "answer_index": 0,
+          "why": "Esther 4:14 treats the Jews' rescue as assured from one quarter or another, and asks what her royal position is for.",
+          "hint": "Read Esther 4:13-14 again. Notice what Mordecai says will happen even if Esther says nothing."
+        }
+      ]
+    }
+  ]
+}

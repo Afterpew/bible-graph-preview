@@ -1,0 +1,1730 @@
+{
+  "book": "Isaiah",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "isa-1-5",
+      "title": "The Indictment of Judah",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "5:30"
+      },
+      "difficulty_tier": 3,
+      "summary": "Isaiah opens with a courtroom: God's own children have rebelled, their worship is noise without justice — 'though your sins are like scarlet, they shall be white as snow.' The love-song of the vineyard (5) that yields wild grapes sets the whole book's question: what more could God have done?",
+      "key_themes": [
+        "indictment",
+        "justice",
+        "cleansing",
+        "vineyard"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-11-16",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "Isaiah preaches in the Assyrian era; the geopolitical panic of these oracles is the world of 2 Kings 15-17."
+        },
+        {
+          "node": "deut-27-30",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The prophets prosecute the Deuteronomy covenant; Isaiah's lawsuit language assumes its blessings and curses.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-19-21",
+          "reason": "Jesus' parable of the wicked tenants rebuilds Isaiah 5's vineyard song against the temple leadership."
+        }
+      ],
+      "key_verses": [
+        "Isaiah 1:17",
+        "Isaiah 1:18",
+        "Isaiah 5:7"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "warning"
+      ],
+      "discussion_prompt": "God says he is sick of sacrifices offered by the same hands that ignore the widow and the orphan. Why do worship and justice belong together in these chapters, and where does your own devotion to God most need to show up in how you treat people?",
+      "assessment_questions": [
+        "What does the vineyard in Isaiah 5 produce despite everything its owner did for it, and what does the owner decide to do?",
+        "God rejects Judah's offerings and festivals in chapter 1 even though he originally commanded them. What has gone wrong to turn commanded worship into something God hates?",
+        "Isaiah 1:18 offers to wash scarlet sins white as snow, spoken to people God has just indicted. What does it look like to accept an offer like that honestly, and what habit of injustice would you have to leave behind?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The covenant lawsuit",
+          "explanation": "Isaiah opens like a courtroom where God prosecutes his own children for breaking the covenant they agreed to."
+        },
+        {
+          "concept": "Worship and justice are inseparable",
+          "explanation": "Offerings made while the widow, orphan, and oppressed go uncared for are rejected, so devotion that ignores the vulnerable fails as worship."
+        },
+        {
+          "concept": "Judgment comes with an open door",
+          "explanation": "The same chapter that indicts also invites, since God holds out cleansing and restoration to anyone who turns back."
+        },
+        {
+          "concept": "The vineyard question",
+          "explanation": "The love-song of the vineyard asks what more God could have done, placing the responsibility for wild grapes squarely on the vines."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the vineyard song of Isaiah 5 and explain why God rejects Judah's worship in chapter 1.",
+      "comprehension_check": [
+        {
+          "question": "In Isaiah 1, God refuses the sacrifices, festivals, and prayers of people who keep bringing them. What does the refusal teach about worship?",
+          "options": [
+            "The worshipers were careless and irreverent in performing the rituals",
+            "The nation's guilt had finally outgrown what sacrifice could cover",
+            "Devotion that leaves the oppressed uncared for is refused outright",
+            "The people treated worship as payment that obligated God's favor"
+          ],
+          "answer_index": 2,
+          "why": "Isaiah 1:15-17 gives the ground for the refusal and the way back, an end to oppression and justice for the fatherless and the widow.",
+          "hint": "Read Isaiah 1:11-17 again. Notice what God tells the worshipers to do once he has refused their offerings."
+        },
+        {
+          "question": "Isaiah 5:1-7 sings of a vineyard given every advantage that still yields wild grapes. What is the song built to do?",
+          "options": [
+            "To make the hearers pass a verdict that lands on themselves",
+            "To explain the wild grapes by the hard conditions the vine endured",
+            "To warn nearby nations that Israel's privileges could pass to them"
+          ],
+          "answer_index": 0,
+          "why": "Isaiah 5:3 summons Jerusalem to judge between the owner and his vineyard, and Isaiah 5:7 lands the verdict on the judges themselves.",
+          "hint": "Read Isaiah 5:3-7 again. Notice who is asked to judge the vineyard, and who the vineyard turns out to be."
+        }
+      ]
+    },
+    {
+      "id": "isa-6",
+      "title": "The Throne Vision: Holy, Holy, Holy",
+      "chapters": [
+        6
+      ],
+      "verse_span": {
+        "from": "6:1",
+        "to": "6:13"
+      },
+      "difficulty_tier": 2,
+      "summary": "In the year King Uzziah died, Isaiah sees the true King — high and lifted up, seraphim covering their faces, the temple shaking with 'Holy, holy, holy.' A burning coal touches unclean lips, and the prophet volunteers: 'Here am I; send me,' into a commission of hardening.",
+      "key_themes": [
+        "holiness",
+        "vision of God",
+        "cleansing",
+        "calling"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-1-5",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The call vision lands after the indictment — the unclean-lips confession answers chapters 1-5's charges."
+        }
+      ],
+      "connections": [
+        {
+          "node": "john-9-12",
+          "reason": "John says outright that Isaiah 'saw his glory and spoke of him' — reading this vision as a vision of Christ."
+        },
+        {
+          "node": "rev-4-5",
+          "reason": "Revelation's throne room reprises the seraphic 'Holy, holy, holy.'"
+        }
+      ],
+      "key_verses": [
+        "Isaiah 6:3",
+        "Isaiah 6:5",
+        "Isaiah 6:8"
+      ],
+      "reading_time_minutes": 8,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "reverent"
+      ],
+      "discussion_prompt": "The seraphim cover their faces, and Isaiah's first words are a confession about his own lips. What does this scene teach about what happens when a person actually sees God's holiness, and how would that kind of seeing change the way you pray?",
+      "assessment_questions": [
+        "What does Isaiah see and hear in the temple, and what does the seraph do with the coal from the altar?",
+        "Isaiah moves from 'Woe is me' to 'Here am I; send me' in the space of a few verses. What changes him, and why does cleansing come before the call?",
+        "Isaiah volunteers before he hears how hard the assignment will be. What would it mean for you to say 'send me' without knowing the outcome first?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God's absolute holiness",
+          "explanation": "The triple 'holy' of the seraphim announces God's utter otherness and majesty, the reality every other truth in Isaiah rests on."
+        },
+        {
+          "concept": "Exposure and confession",
+          "explanation": "In God's presence Isaiah instantly sees his own uncleanness, showing that honest confession is the natural response to real holiness."
+        },
+        {
+          "concept": "Grace comes before mission",
+          "explanation": "The burning coal cleanses Isaiah's lips before God asks who will go, so forgiveness is what makes service possible."
+        },
+        {
+          "concept": "A hard commission",
+          "explanation": "Isaiah is sent to people who will refuse to listen, raising the question of God's justice and human responsibility that teachers still wrestle with."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe Isaiah's throne vision in order, from 'Holy, holy, holy' to 'send me,' and explain why the burning coal comes before the commission.",
+      "comprehension_check": [
+        {
+          "question": "In Isaiah 6, the burning coal touches Isaiah's lips before God asks who will go. What does that order show?",
+          "options": [
+            "Isaiah's eagerness to volunteer earned him the cleansing",
+            "Cleansing is what frees a person to answer God's call",
+            "Prophets required ritual purity before entering the temple",
+            "The vision tests whether Isaiah can endure pain for God"
+          ],
+          "answer_index": 1,
+          "why": "Isaiah 6:7-8 sets the order, guilt taken away first, and only then the call that Isaiah answers.",
+          "hint": "Read Isaiah 6:5-8 again. Notice what has already happened to Isaiah before God asks his question."
+        },
+        {
+          "question": "The commission of Isaiah 6:9-13 promises failure by every ordinary measure. How does the passage leave the future?",
+          "options": [
+            "Complete devastation, with nothing left for God to build on",
+            "A late repentance once the destruction begins to bite",
+            "Ruin runs its full course, yet a seed remains"
+          ],
+          "answer_index": 2,
+          "why": "Isaiah 6:13 ends the commission with a tenth remaining and a stump whose seed is holy, so judgment is not the last word.",
+          "hint": "Read Isaiah 6:11-13 again. Notice what is still standing after the felling is finished."
+        }
+      ]
+    },
+    {
+      "id": "isa-7-12",
+      "title": "Immanuel: A Child Is Born",
+      "chapters": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_span": {
+        "from": "7:1",
+        "to": "12:6"
+      },
+      "difficulty_tier": 3,
+      "summary": "Against the panic of invasion, Isaiah gives King Ahaz the sign of Immanuel — 'God with us' — and the promises swell: a child called Wonderful Counselor, Mighty God, on David's throne forever; a shoot from Jesse's stump on whom the Spirit rests, and wolves lying down with lambs.",
+      "key_themes": [
+        "Immanuel",
+        "messianic child",
+        "Davidic hope",
+        "peaceable kingdom"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-1-5",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The Syro-Ephraimite crisis continues the Assyrian-era setting the opening chapters establish."
+        },
+        {
+          "node": "2sam-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "'On the throne of David and over his kingdom forever' — the child-oracles are the Davidic covenant under pressure.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-1-2",
+          "reason": "Matthew's birth narrative quotes 'the virgin shall conceive… Immanuel' as fulfilled in Jesus."
+        }
+      ],
+      "key_verses": [
+        "Isaiah 7:14",
+        "Isaiah 9:6-7",
+        "Isaiah 11:1-2"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "dense",
+      "emotional_tone": [
+        "tension",
+        "hopeful"
+      ],
+      "discussion_prompt": "Ahaz is terrified of two invading kings, and Isaiah's answer is a child named 'God with us.' Why do you think God answers military panic with a sign that small, and what fear of yours would 'God with us' actually have to touch to matter?",
+      "assessment_questions": [
+        "What sign does Isaiah give Ahaz in chapter 7, and what names does chapter 9 give the promised child?",
+        "Isaiah tells Ahaz that if he does not stand firm in faith he will not stand at all. What do these chapters teach about the difference between trusting God and trusting alliances?",
+        "Chapter 11 pictures wolves living with lambs under the rule of Jesse's shoot. How does holding that picture of the future change what you work toward and hope for now?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Immanuel",
+          "explanation": "The heart of the sign is God's presence with his people in crisis, which matters even more than the removal of the threat."
+        },
+        {
+          "concept": "A promise on two levels",
+          "explanation": "Isaiah's words speak first into Ahaz's own crisis and then swell far beyond it, which is why Matthew hears Jesus in them."
+        },
+        {
+          "concept": "Trust over alliances",
+          "explanation": "Ahaz is told to rest on God's promise instead of Assyria's army, and the whole section turns on whether he will."
+        },
+        {
+          "concept": "The Davidic hope under pressure",
+          "explanation": "The child who reigns on David's throne forever keeps the promise of 2 Samuel 7 alive exactly when the dynasty looks doomed."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the Immanuel sign in its original crisis with Ahaz, and describe the promised child of chapters 9 and 11.",
+      "comprehension_check": [
+        {
+          "question": "When Isaiah meets Ahaz during the invasion panic of Isaiah 7, what is the king actually being asked to do?",
+          "options": [
+            "Lead the city in public repentance so the siege lifts",
+            "Rest the crisis on God's promise and refuse Assyria's protection",
+            "Fortify Jerusalem's water supply and wait out the besiegers"
+          ],
+          "answer_index": 1,
+          "why": "Isaiah 7:4-9 tells Ahaz to be calm and unafraid before the invaders, and Isaiah 7:9 stakes the dynasty's future on whether he stands firm in faith.",
+          "hint": "Read Isaiah 7:4-9 again. Notice what Isaiah tells Ahaz to do, and what he never tells him to do."
+        },
+        {
+          "question": "Isaiah 9 and 11 promise a royal child and new growth from Jesse's stump while Assyria dismantles the region. What work do these promises do right there?",
+          "options": [
+            "They transfer the royal hope from David's line to the prophets",
+            "They promise the exiles a quick return to their own land",
+            "They assure Judah that no invasion will ever reach Jerusalem",
+            "They keep David's line in view when the dynasty looks finished"
+          ],
+          "answer_index": 3,
+          "why": "Isaiah 11:1 grows the promise from the felled state of Jesse's house, so the throne pledged in Isaiah 9:7 outlives the axe.",
+          "hint": "Read Isaiah 11:1 again. Notice what condition Jesse's family tree is in when the new growth appears."
+        }
+      ]
+    },
+    {
+      "id": "isa-13-20",
+      "title": "Oracles Against the Nations: Babylon to Egypt",
+      "chapters": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "difficulty_tier": 4,
+      "summary": "Eight chapters of oracles aimed at the named powers ringing Judah, opening with Babylon and closing with Isaiah walking stripped and barefoot for three years as a living sign against betting on Egypt. Each nation falls for something particular: Babylon for the ambition that said it would raise its throne above the stars, Moab for its arrogance, Egypt for counselors who have run out of counsel. Running under the whole series is the claim that what God has planned for the whole earth will stand, so the empires Judah fears and the empires Judah courts are equally in his hands. Then chapter 19 ends by calling Egypt and Assyria God's people alongside Israel.",
+      "key_themes": [
+        "judgment of nations",
+        "the pride of empires",
+        "God's plan over history",
+        "the futility of alliances",
+        "judgment that is not the last word"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-7-12",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The nations addressed are the powers looming over the Immanuel crisis; the sequence builds outward from Judah."
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-17-19",
+          "reason": "Revelation's fall of Babylon reuses Isaiah 13-14 and 21's oracle — 'Fallen, fallen is Babylon.'"
+        }
+      ],
+      "key_verses": [
+        "Isaiah 14:13-14",
+        "Isaiah 14:24",
+        "Isaiah 19:25"
+      ],
+      "reading_time_minutes": 50,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "hopeful"
+      ],
+      "discussion_prompt": "The taunt over Babylon's king in chapter 14 puts a speech in his mouth in which every line begins with I will, and the last one is a claim to be like the Most High. What does the poem say becomes of that ambition, and where do you hear the same run of I wills in the powers you watch today?",
+      "assessment_questions": [
+        "Which powers do the oracles of Isaiah 13-20 address in turn, and what does Isaiah do for three years as the sign in chapter 20?",
+        "Isaiah 14:24 says that what God has planned will stand. Why does the collection place that line inside a series about foreign empires rather than about Judah?",
+        "Chapter 20 makes Isaiah's own body the argument against relying on Egypt. What are you currently counting on for safety, and what would change if you named it an alliance instead of a certainty?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The taunt over the king of Babylon",
+          "explanation": "Chapter 14 stages a mock funeral song for a tyrant, and the ascent of I wills in Isaiah 14:13-14 ending in a pit is the book's sharpest picture of pride collapsing under its own reach."
+        },
+        {
+          "concept": "Accountability that is not tribal",
+          "explanation": "Nations that never worshiped Israel's God are still measured by his standards, so the oracles claim a moral order that does not stop at Judah's border."
+        },
+        {
+          "concept": "Named evils, not raw force",
+          "explanation": "Each power falls for something specified, pride, cruelty, exhausted wisdom, which keeps the judgment readable as justice rather than as divine temper."
+        },
+        {
+          "concept": "The circle widens at the end",
+          "explanation": "Isaiah 19:25 sets Egypt and Assyria beside Israel as God's own people, so the series that condemns the nations finishes by blessing two of them."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what these oracles claim about God's authority over nations that do not know him, and say what Isaiah 14:24 and Isaiah 19:25 each add to that claim.",
+      "comprehension_check": [
+        {
+          "question": "Isaiah 13-20 aims oracle after oracle at nations that never worshiped Israel's God. What is the series claiming by doing that?",
+          "options": [
+            "Israel's God holds every nation to account, whether or not it knows him",
+            "Israel's God will destroy every nation that has ever harmed his people",
+            "Israel's God favors Judah's kings over the kings of the great empires",
+            "Israel's God leaves each nation to be judged by the gods it chose"
+          ],
+          "answer_index": 0,
+          "why": "Isaiah 14:24-27 stretches the plan past Assyria to the whole earth and every nation in it, which is why the oracles can address powers that never knew his name.",
+          "hint": "Read Isaiah 14:24-27 and then Isaiah 19:24-25. Notice how far the reach of God's plan extends in each."
+        },
+        {
+          "question": "Chapter 19 spends most of its length announcing disaster on Egypt and then ends by naming Egypt God's people. What does that ending do to the collection?",
+          "options": [
+            "It shows that Egypt's judgment had been a misunderstanding all along",
+            "It reveals that judgment is not God's final word for a nation",
+            "It signals that Egypt had already repented before the oracle came",
+            "It marks Egypt as the one nation exempt from the judgment sweep"
+          ],
+          "answer_index": 1,
+          "why": "Isaiah 19:25 places Egypt and Assyria beside Israel with the words My people and My handiwork, so the God who strikes a nation is the God who heals it.",
+          "hint": "Read Isaiah 19:19-25 again. Notice what happens to Egypt after the striking, and who else joins the list."
+        }
+      ],
+      "verse_span": {
+        "from": "13:1",
+        "to": "20:6"
+      }
+    },
+    {
+      "id": "isa-21-23",
+      "title": "The Watchman's Oracles: Desert, Valley, and Tyre",
+      "chapters": [
+        21,
+        22,
+        23
+      ],
+      "difficulty_tier": 4,
+      "summary": "A second series of oracles, titled by riddle rather than by nation: the desert by the sea, Dumah, the wasteland, the valley of vision. A watchman stands through a long night in chapter 21 until he can finally call out that Babylon has fallen. Then the lens swings home, because the valley of vision is Jerusalem, and the charge is that when God called for weeping the city threw a feast on its rooftops and trusted its walls, its weapons, and its water tunnel. The series closes over Tyre, the trading power whose profits are at last set apart for the LORD.",
+      "key_themes": [
+        "the watchman's night",
+        "the lens turned on Jerusalem",
+        "misplaced confidence",
+        "commerce under judgment",
+        "authority given and revoked"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-13-20",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The cryptic-title oracles continue the collection begun against the named nations."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Isaiah 21:9",
+        "Isaiah 22:13",
+        "Isaiah 22:22"
+      ],
+      "reading_time_minutes": 22,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "tension"
+      ],
+      "discussion_prompt": "In chapter 22 God calls for weeping and sackcloth, and Jerusalem answers with cattle and wine on the rooftops. What do you think the city believed it was doing, and where does celebration work in your own life as a way of not looking at something?",
+      "assessment_questions": [
+        "In Isaiah 21, what does the watchman finally announce after his long night, and which city does the valley of vision in chapter 22 turn out to be?",
+        "Chapter 22 sits inside a series aimed at foreign capitals. What is the effect of giving Jerusalem an oracle in the same form as Babylon's and Tyre's?",
+        "Shebna loses his office in Isaiah 22 for carving himself a monument, and the stewardship passes to Eliakim. What responsibility have you been given that you have started treating as your own property?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The watchman's night",
+          "explanation": "Chapter 21 puts the prophet on a wall through a night of dread, so the report of Isaiah 21:9 arrives as exhausted relief rather than as gloating over a rival."
+        },
+        {
+          "concept": "Jerusalem among the nations",
+          "explanation": "The valley of vision oracle borrows the form used for the great capitals, which quietly places the covenant city under the identical standard."
+        },
+        {
+          "concept": "Denial named as sin",
+          "explanation": "Isaiah 22:12-13 sets God's call for mourning beside the city's feasting, so the failure is refusing to face the warning rather than never hearing it."
+        },
+        {
+          "concept": "An office is a trust",
+          "explanation": "Shebna's rock-cut tomb costs him the stewardship, and Isaiah 22:22 lays the key of the house of David on Eliakim's shoulder, showing authority as something handed over and able to be taken back."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what changes when the oracle series turns from foreign capitals to Jerusalem in chapter 22, and explain what the city is actually charged with there.",
+      "comprehension_check": [
+        {
+          "question": "Isaiah 22 delivers an oracle against Jerusalem in the same form used for Babylon and Tyre. What does that placement claim?",
+          "options": [
+            "Jerusalem's survival will depend on the same walls the nations trusted",
+            "Jerusalem's judgment will fall later than the judgment on the nations",
+            "Jerusalem is measured by the standard applied to every nation",
+            "Jerusalem's covenant makes its punishment lighter than the nations' punishment"
+          ],
+          "answer_index": 2,
+          "why": "Isaiah 22:1 heads Jerusalem's oracle exactly as the surrounding oracles are headed, and Isaiah 22:12-14 shows the city failing under that same measure.",
+          "hint": "Read Isaiah 22:1-4 alongside the headings at Isaiah 21:1 and Isaiah 23:1. Notice what all three have in common."
+        },
+        {
+          "question": "Isaiah 22:12-13 sets God's call for mourning against a city eating and drinking on its roofs. What is the charge underneath that contrast?",
+          "options": [
+            "It mocked the prophet who brought the warning to it",
+            "It preferred the luxuries of Tyre to sober worship",
+            "It refused the grief the coming judgment called for",
+            "It had lost the mourning customs its ancestors kept"
+          ],
+          "answer_index": 2,
+          "why": "Isaiah 22:12-14 puts the LORD's call to weeping and the city's feasting in consecutive verses, so the sin is a deliberate turning away from what God said was coming.",
+          "hint": "Read Isaiah 22:12-14 again. Notice what God calls for in one verse and what the city does in the next."
+        }
+      ],
+      "verse_span": {
+        "from": "21:1",
+        "to": "23:18"
+      }
+    },
+    {
+      "id": "isa-24-27",
+      "title": "The Little Apocalypse: Death Swallowed Up",
+      "chapters": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "difficulty_tier": 4,
+      "summary": "The oracles stop naming nations and widen until the subject is the earth itself, emptied and reeling because its people have broken an everlasting covenant. Set inside that ruin are songs of trust: a feast of rich food spread on the mountain for all peoples, the shroud of grief pulled away, death swallowed forever and the tears wiped from every face. Chapters 26 and 27 answer with a strong city for the righteous, perfect peace for the mind that stays on God, and a vineyard the LORD now guards himself. Readers call these four chapters the Little Apocalypse because they treat world history as a single story with an ending.",
+      "key_themes": [
+        "cosmic judgment",
+        "death defeated",
+        "a feast for all peoples",
+        "perfect peace in trust",
+        "history with an ending"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-21-23",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The Little Apocalypse universalizes the oracle collection it closes."
+        }
+      ],
+      "connections": [
+        {
+          "node": "1cor-15-16",
+          "reason": "Paul's resurrection chapter quotes 'Death is swallowed up in victory' from Isaiah 25."
+        }
+      ],
+      "key_verses": [
+        "Isaiah 24:5",
+        "Isaiah 25:8",
+        "Isaiah 26:3"
+      ],
+      "reading_time_minutes": 28,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "hopeful"
+      ],
+      "discussion_prompt": "Chapter 24 leaves the earth stripped and staggering, and the very next chapter spreads a banquet on the mountain for all peoples. The vision refuses to choose between those two pictures. What is it saying about where history is headed by holding them together?",
+      "assessment_questions": [
+        "What does chapter 24 say has happened to the earth and why, and what does God promise to do about death in Isaiah 25:8?",
+        "The feast in chapter 25 is spread for all peoples rather than for Israel alone. What does that guest list add to a section that opened with the whole earth under judgment?",
+        "Isaiah 26:3 promises perfect peace to the mind that stays on God. What is your mind actually staying on this week, and what would it take to move it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Judgment that reaches the ground",
+          "explanation": "Isaiah 24:5 traces the earth's ruin to a broken everlasting covenant, so human wrongdoing is shown to damage more than human society."
+        },
+        {
+          "concept": "Death as the thing removed",
+          "explanation": "Isaiah 25:8 makes death itself what God swallows up, which is why Paul reaches for this line at the climax of his resurrection argument."
+        },
+        {
+          "concept": "A table set for everyone",
+          "explanation": "The mountain feast is prepared for all peoples, so the vision that judges the world is the same vision that invites it."
+        },
+        {
+          "concept": "Trust as the shape of peace",
+          "explanation": "Isaiah 26:3 ties settled peace to a mind fixed on God rather than to settled circumstances, which is exactly what these songs keep practicing while the earth shakes."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what these chapters claim about the end of the world's story, and say how the judgment of chapter 24 and the feast of chapter 25 belong to one vision.",
+      "comprehension_check": [
+        {
+          "question": "Chapters 24 and 25 set a stripped and reeling earth right beside a banquet for all peoples. What is the theological claim in that pairing?",
+          "options": [
+            "God's judgment will spare the peoples who arrive at the feast",
+            "God's mercy cancels the judgment once the mourning is over",
+            "God's judgment and his welcome fall on two separate worlds",
+            "God's judgment clears the ground the world's restoration is built on"
+          ],
+          "answer_index": 3,
+          "why": "Isaiah 24:5 traces the ruin to a broken covenant and Isaiah 25:6-8 spreads the feast on that same mountain, so the restoration comes through the judgment.",
+          "hint": "Read the end of Isaiah 24 and then Isaiah 25:6-9. Notice that the mountain in the second passage is the one the first has just shaken."
+        },
+        {
+          "question": "Isaiah 25:8 says God will swallow up death forever and wipe the tears from every face. What does that promise claim about the trouble these chapters describe?",
+          "options": [
+            "God intends to remove the deepest damage the world carries",
+            "God intends to spare the righteous the death others face",
+            "God intends to comfort mourners so the loss feels lighter",
+            "God intends to end the wars that cause most of the dying"
+          ],
+          "answer_index": 0,
+          "why": "Isaiah 25:8 names death itself as the thing swallowed up and every face as where the tears are wiped away, so the promise reaches the root and not the symptoms.",
+          "hint": "Read Isaiah 25:6-9 again. Notice exactly which thing is removed, and how many faces the wiping covers."
+        }
+      ],
+      "verse_span": {
+        "from": "24:1",
+        "to": "27:13"
+      }
+    },
+    {
+      "id": "isa-28-33",
+      "title": "The Six Woes: Refuge in Egypt or Rest in God",
+      "chapters": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "difficulty_tier": 4,
+      "summary": "Six oracles that each open with woe, aimed at Judah's leadership while Assyria closes in. Drunk officials mock the prophet's message as baby talk, and God answers by laying a tested cornerstone in Zion for anyone willing to rely on it. Chapter 29 exposes worship that draws near with the mouth while the heart stays far off, and chapters 30 and 31 go after the policy underneath that piety, a treaty with Egypt bought with treasure and horses. What God offers instead is repentance and rest, which Judah rejects because it looks like doing nothing, and the last woe in chapter 33 turns on the destroyer itself.",
+      "key_themes": [
+        "false security",
+        "the cornerstone in Zion",
+        "lip-service worship",
+        "quiet trust against foreign horses",
+        "woe as a summons"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-24-27",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The woes apply the nations-and-cosmos judgment to Judah's own politics; the book's movements build in order."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Isaiah 28:16",
+        "Isaiah 29:13",
+        "Isaiah 30:15"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "warning"
+      ],
+      "discussion_prompt": "Judah hears that its strength lies in repentance and rest, and goes shopping for Egyptian horses instead. What was it about quiet trust that felt to them like doing nothing, and where does that same instinct surface when you are afraid?",
+      "assessment_questions": [
+        "What do the woes of chapters 28 to 31 accuse Judah's leaders of doing, and what does Isaiah 30:15 say salvation would have looked like?",
+        "Isaiah 29:13 charges the people with honoring God with their mouths while their hearts stay far away. Why does this section treat that failure as part of the same problem as the Egyptian treaty?",
+        "The Egypt policy was ordinary statecraft by the standards of the day. What arrangement in your own life is sensible on paper and still works as a way of not depending on God?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Woe as a summons",
+          "explanation": "Each woe names one specific way Judah has secured itself, so the form functions as an alarm calling for a change of course while there is still time to change it."
+        },
+        {
+          "concept": "The tested cornerstone",
+          "explanation": "Isaiah 28:16 lays a foundation stone in Zion that holds whoever relies on it, and the New Testament reaches for this image whenever it describes trusting Christ."
+        },
+        {
+          "concept": "Worship the mouth can fake",
+          "explanation": "Isaiah 29:13 pulls practiced religious speech apart from a heart actually near God, so correct forms turn out to be no proof of loyalty."
+        },
+        {
+          "concept": "Repentance and rest",
+          "explanation": "Isaiah 30:15 offers strength through quietness and trust, and Judah turns it down because visible cavalry feels like the safer investment."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the woes are actually attacking in Judah's leadership, and describe what Isaiah 30:15 puts forward in place of the alliance with Egypt.",
+      "comprehension_check": [
+        {
+          "question": "Chapters 28 to 31 attack Judah's worship and Judah's foreign policy in the same breath. What connects the two charges?",
+          "options": [
+            "Both were carried out by the priests who also advised the king",
+            "Both put confidence somewhere other than the God they professed",
+            "Both were practices Judah had copied from surrounding nations",
+            "Both were forbidden by law codes Judah had agreed to keep"
+          ],
+          "answer_index": 1,
+          "why": "Isaiah 29:13 shows hearts far off while mouths draw near, and Isaiah 31:1 shows those same people going down to Egypt for horses instead of looking to the Holy One of Israel.",
+          "hint": "Read Isaiah 29:13 and then Isaiah 31:1. Notice where each verse says Judah's confidence is actually resting."
+        },
+        {
+          "question": "Isaiah 30:15 offers Judah salvation in repentance and rest, and the same verse records that they were unwilling. What does the refusal reveal about them?",
+          "options": [
+            "They regarded rest as a reward for the faithful few",
+            "They had already signed the Egyptian treaty and could not withdraw",
+            "They believed rest was a demand they were too weak to meet",
+            "They wanted a rescue they could see themselves arranging"
+          ],
+          "answer_index": 3,
+          "why": "Isaiah 30:15-16 sets the offer and the answer side by side, and the answer is a demand for swift horses, so what they turn down is a rescue with nothing left for them to manage.",
+          "hint": "Read Isaiah 30:15-16 again. Notice what the people say immediately after they say no."
+        }
+      ],
+      "verse_span": {
+        "from": "28:1",
+        "to": "33:24"
+      }
+    },
+    {
+      "id": "isa-34-35",
+      "title": "Two Futures: Edom's Wasteland, Zion's Blooming Road",
+      "chapters": [
+        34,
+        35
+      ],
+      "difficulty_tier": 3,
+      "summary": "Two short chapters set as a pair, and the contrast is the whole point. Chapter 34 summons the nations to hear a sentence and lands it on Edom, whose streams turn to pitch and whose ruins pass to owls and thorns until the desolation looks permanent. Chapter 35 takes the same kind of ground and reverses it: the wilderness blooms, weak hands are strengthened, blind eyes open and the lame leap, and a road called the Way of Holiness carries the ransomed home to Zion with everlasting joy on their heads. Jesus later answers John the Baptist's doubts by pointing to the list in chapter 35.",
+      "key_themes": [
+        "two futures held together",
+        "the desert that blooms",
+        "the Way of Holiness",
+        "the day of recompense",
+        "the ransomed returning"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-24-27",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The two-futures diptych resumes the cosmic-judgment idiom of the Little Apocalypse."
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-11-15",
+          "reason": "Jesus answers John the Baptist's doubts with Isaiah 35's checklist: the blind see, the lame walk."
+        }
+      ],
+      "key_verses": [
+        "Isaiah 34:8",
+        "Isaiah 35:5-6",
+        "Isaiah 35:10"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "warning",
+        "hopeful"
+      ],
+      "discussion_prompt": "These two chapters describe the same kind of terrain and end in opposite places, one a wasteland where thorns grow up through the palaces, the other a blooming highway home. Why do you think the book sets them back to back, and what would you miss if you only ever read one of them?",
+      "assessment_questions": [
+        "What becomes of Edom's land in chapter 34, and what does Isaiah 35:5-6 promise to those who could not see, hear, walk, or speak?",
+        "Both chapters describe wilderness and only one of them blooms. What is the effect of telling these two futures back to back instead of keeping them apart?",
+        "Chapter 35 names the road home the Way of Holiness and pictures the redeemed walking it with singing. What would change about this week if you thought of yourself as already on that road?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A diptych, not a sequence",
+          "explanation": "The two chapters are built to be read against each other, so the standing wasteland and the blooming road work as two ends of one story rather than two stages of it."
+        },
+        {
+          "concept": "The day of recompense",
+          "explanation": "Isaiah 34:8 frames the ruin of Edom as a legal reckoning taken up for Zion's cause, which keeps the violence tied to a wrong being answered."
+        },
+        {
+          "concept": "Healing as the sign of arrival",
+          "explanation": "Isaiah 35:5-6 lists opened eyes, unstopped ears, and leaping legs, and Jesus repeats that list when John the Baptist sends to ask whether he is the one."
+        },
+        {
+          "concept": "A road that shapes its travelers",
+          "explanation": "The highway of Isaiah 35:8 is named for holiness and set apart for those who walk it, so the rescue is pictured as producing a changed traveler."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the two futures these chapters set against each other, and explain what Isaiah 35:5-6 and Isaiah 35:10 promise to the people on the road home.",
+      "comprehension_check": [
+        {
+          "question": "Chapter 34 ends with Edom's ruins held for generations and chapter 35 opens with the desert bursting into bloom. What does putting the two next to each other accomplish?",
+          "options": [
+            "It shows Edom's ruin clearing space for Israel's land to expand",
+            "It shows the wilderness as a place God has abandoned entirely",
+            "It shows one God whose judging and saving are one work",
+            "It shows that every wasteland will eventually recover on its own"
+          ],
+          "answer_index": 2,
+          "why": "Isaiah 34:8 calls the ruin a day of recompense for Zion's cause and Isaiah 35:10 brings the ransomed of that same Zion home singing, so one purpose runs through both chapters.",
+          "hint": "Read Isaiah 34:13-15 and then Isaiah 35:1-2. Notice what kind of ground each passage is describing."
+        },
+        {
+          "question": "Isaiah 35:5-6 promises opened eyes, unstopped ears, and leaping legs to the people on the road. Within the chapter, what are those healings doing?",
+          "options": [
+            "Marking that the God the chapter announces has arrived",
+            "Rewarding the travelers who managed to reach the highway",
+            "Describing the medical care the returning exiles received",
+            "Explaining why the weak had been left behind in exile"
+          ],
+          "answer_index": 0,
+          "why": "Isaiah 35:4 announces that God himself is coming to save, and the healings of Isaiah 35:5-6 follow immediately as what that arrival looks like on the ground.",
+          "hint": "Read Isaiah 35:4 before Isaiah 35:5-6. Notice what is announced in the verse just ahead of the healings."
+        }
+      ],
+      "verse_span": {
+        "from": "34:1",
+        "to": "35:10"
+      }
+    },
+    {
+      "id": "isa-36-39",
+      "title": "Hezekiah's Crisis: History in the Middle",
+      "chapters": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "verse_span": {
+        "from": "36:1",
+        "to": "39:8"
+      },
+      "difficulty_tier": 3,
+      "summary": "Narrative interrupts poetry: Sennacherib's army surrounds Jerusalem, Hezekiah spreads the taunting letter before the LORD, and an angel routs Assyria overnight — then the healed king shows Babylon's envoys his treasury, and Isaiah quietly announces the real future: everything carried to Babylon. The hinge of the book.",
+      "key_themes": [
+        "deliverance",
+        "prayer",
+        "pride",
+        "Babylon foreshadowed"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-18-20",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "These chapters retell 2 Kings 18-20 almost verbatim; the fuller royal history supplies the context."
+        },
+        {
+          "node": "isa-28-33",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The Assyrian crisis is the live test of the trust-not-Egypt preaching just delivered."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Isaiah 37:20",
+        "Isaiah 38:17",
+        "Isaiah 39:6"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "tension",
+        "warning"
+      ],
+      "discussion_prompt": "Hezekiah spreads Sennacherib's letter before the LORD in prayer, then later spreads his treasury before Babylon's envoys in pride. What do those two scenes, side by side, teach about how success tests a person differently than crisis does, and which test are you in right now?",
+      "assessment_questions": [
+        "What does Hezekiah do with the Assyrian letter, and how is Jerusalem delivered?",
+        "After the miraculous deliverance and his healing, Hezekiah shows Babylon's envoys everything in his storehouses. Why does Isaiah treat that tour as such a serious failure?",
+        "Hezekiah's first instinct in crisis is prayer. What threat are you facing that you have been managing on your own instead of spreading out before God?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Prayer meets crisis",
+          "explanation": "Hezekiah takes the taunting letter straight to God, and Jerusalem's deliverance comes in answer to that humble dependence."
+        },
+        {
+          "concept": "Human threats bow to God's word",
+          "explanation": "Sennacherib's bluster cannot overturn what God has promised, and the mightiest army of the age retreats overnight."
+        },
+        {
+          "concept": "Blessing can become a snare",
+          "explanation": "Health, wealth, and success require humility, and Hezekiah's proud display turns present mercy into the seed of future exile."
+        },
+        {
+          "concept": "The hinge of the book",
+          "explanation": "Chapter 39's Babylon announcement pivots Isaiah from the Assyrian crisis to the exile that the rest of the book answers."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the Sennacherib crisis and the envoy visit, and explain how chapter 39 sets up the rest of Isaiah.",
+      "comprehension_check": [
+        {
+          "question": "Surrounded by Assyria, Hezekiah spreads the enemy's letter out before the LORD in Isaiah 37. What does his prayer finally rest its appeal on?",
+          "options": [
+            "The rescue of the dynasty God had promised to David",
+            "Mercy proportioned to Hezekiah's record of faithful reform",
+            "Time for Egypt's army to arrive and break the siege",
+            "The vindication of God's own name before the watching kingdoms"
+          ],
+          "answer_index": 3,
+          "why": "Isaiah 37:20 grounds the request in what the rescue will show every kingdom of the earth about who alone is God.",
+          "hint": "Read Isaiah 37:15-20 again. Notice the reason Hezekiah gives when he finally asks to be saved."
+        },
+        {
+          "question": "Isaiah 36-38 ends in rescue and healing, then chapter 39 closes the section by naming Babylon as Judah's future. What does this ending do for the book?",
+          "options": [
+            "It seals the lesson that God will always turn back Jerusalem's invaders",
+            "It swings the book from the Assyrian rescue to the Babylonian exile",
+            "It shows the future stands fixed no matter how kings pray"
+          ],
+          "answer_index": 1,
+          "why": "Isaiah 39:6-7 announces that everything stored up will be carried off to Babylon, the crisis the rest of the book turns to answer.",
+          "hint": "Read Isaiah 39:5-8 again. Notice where Judah's treasures and sons are said to be going."
+        }
+      ]
+    },
+    {
+      "id": "isa-40",
+      "title": "Comfort for God's People: The Voice in the Wilderness",
+      "chapters": [
+        40
+      ],
+      "difficulty_tier": 3,
+      "summary": "The book turns a corner. Messengers are told to comfort God's people and speak tenderly to Jerusalem because her hard service is over, and a second voice orders a road built for God straight through the wilderness. A third voice asks what it should cry and is told that all flesh is grass while the word of our God stands forever. The rest of the chapter stacks up reasons this comfort can be believed, God measuring the seas in his hand and calling every star by name, ending with weary people who wait on the LORD and get their strength back.",
+      "key_themes": [
+        "comfort after judgment",
+        "the voice in the wilderness",
+        "the word that outlasts flesh",
+        "the incomparable Creator",
+        "strength renewed in waiting"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-36-39",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Chapter 39's Babylon announcement is the setup; chapter 40 answers the exile it predicted.",
+          "scope": "sequence"
+        },
+        {
+          "node": "2kgs-24-25",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Isaiah 40 presumes the concrete catastrophe of Jerusalem's fall and exile (the event-history of 2 Kings 24–25) that it does not narrate, so omitting that background risks misunderstanding the chapter's addressees and comfort.",
+          "scope": "foundation"
+        },
+        {
+          "node": "isa-34-35",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Chapter 35's blooming desert and highway home preview the comfort and highway of chapter 40."
+        }
+      ],
+      "connections": [
+        {
+          "node": "mark-1-3",
+          "reason": "All four Gospels open Jesus' story with Isaiah 40's 'voice crying in the wilderness.'"
+        }
+      ],
+      "key_verses": [
+        "Isaiah 40:1",
+        "Isaiah 40:3",
+        "Isaiah 40:31"
+      ],
+      "reading_time_minutes": 10,
+      "content_density": "dense",
+      "emotional_tone": [
+        "comfort",
+        "awe"
+      ],
+      "discussion_prompt": "The chapter is answering people who say their way is hidden from the LORD, and its answer is mostly a description of who God is, the seas held in his palm and the stars called out by name. Why do you think that is offered as comfort instead of a direct promise about their circumstances, and does it land for you?",
+      "assessment_questions": [
+        "What are the voices in Isaiah 40:1-8 told to announce, and what does Isaiah 40:31 promise to those who wait on the LORD?",
+        "Most of the chapter describes God's size and knowledge rather than the exiles' situation. How does that description work as comfort for people who believe God has stopped noticing them?",
+        "Isaiah 40:31 ties renewed strength to waiting. Where are you out of strength right now, and what would waiting on God actually look like there this month?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Comfort as a commission",
+          "explanation": "Isaiah 40:1 is an order given to messengers, so the consolation that opens the book's second half arrives as something God commands to be said out loud."
+        },
+        {
+          "concept": "The road through the wilderness",
+          "explanation": "Isaiah 40:3 calls for a highway prepared in the desert, and all four Gospels open the story of Jesus by handing that line to John the Baptist."
+        },
+        {
+          "concept": "Grass and the standing word",
+          "explanation": "Human strength and glory wither like grass while God's word endures, which is what makes a promise about the future worth building a life on."
+        },
+        {
+          "concept": "Waiting that is not passivity",
+          "explanation": "Isaiah 40:31 pairs waiting with renewed strength, rising wings, and running without weariness, so the posture that looks like inaction is the one that receives power."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the voices of Isaiah 40:1-11 are commissioned to say, and describe how the rest of the chapter supports the promise of Isaiah 40:31.",
+      "comprehension_check": [
+        {
+          "question": "After the opening comfort, most of Isaiah 40 describes God's power and knowledge instead of the exiles' situation. Why does the chapter argue that way?",
+          "options": [
+            "Because the exiles had asked for proof of God's identity",
+            "Because a promise is only as strong as its promiser",
+            "Because their situation was about to change without any explanation",
+            "Because praise was the response God required before he would act"
+          ],
+          "answer_index": 1,
+          "why": "Isaiah 40:27-31 answers the complaint that their way is hidden from God by naming him the everlasting Creator who never grows faint, so the description is the ground the promise stands on.",
+          "hint": "Read Isaiah 40:27-28. Notice the complaint the chapter is answering, and what kind of answer it gives back."
+        },
+        {
+          "question": "Isaiah 40:6-8 answers the question of what to cry by saying all flesh is grass and the word of our God stands forever. What does that answer contribute?",
+          "options": [
+            "It warns the exiles that their own lives will be short",
+            "It ranks God's word above the prophets who deliver it",
+            "It urges the people to stop grieving for what withered",
+            "It grounds the promise in something the empires cannot outlast"
+          ],
+          "answer_index": 3,
+          "why": "Isaiah 40:8 sets the withering of grass against a word that stands forever, so the comfort announced in Isaiah 40:1-2 rests on something more durable than the power that carried them off.",
+          "hint": "Read Isaiah 40:6-8 again. Notice which of the two things named there is still standing when the verse ends."
+        }
+      ],
+      "verse_span": {
+        "from": "40:1",
+        "to": "40:31"
+      }
+    },
+    {
+      "id": "isa-41-48",
+      "title": "The Trial of the Idols: Cyrus, the Servant, Babylon's Fall",
+      "chapters": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "difficulty_tier": 3,
+      "summary": "Eight chapters staged as a courtroom. God calls the nations and their gods to the bar and puts one question to them: announce something before it happens, or account for what already has. The idols have nothing to say, and the section works out what follows from that silence, that there is no god beside the LORD, that his servant will bring justice to the nations, that Cyrus is named as liberator long before there is a Cyrus, and that Bel and Nebo who had to be carried on carts will be carted off. Threaded through the argument are the tenderest promises in the book, waters you pass through, fire you walk through, a God who says he has carried this people since the womb.",
+      "key_themes": [
+        "the trial of the idols",
+        "there is no other God",
+        "prediction as evidence",
+        "Cyrus named in advance",
+        "a new exodus out of Babylon"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-40",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The trial speeches require the comfort commission that chapter 40 announces as their overture.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Isaiah 41:10",
+        "Isaiah 43:2",
+        "Isaiah 46:9-10"
+      ],
+      "reading_time_minutes": 55,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "comfort"
+      ],
+      "discussion_prompt": "The trial scenes ask the gods to prove themselves by announcing something before it happens, and then God names Cyrus as the liberator generations ahead of him. What is being claimed there about God and history, and what would you need to be sure of before resting your life on a claim like that?",
+      "assessment_questions": [
+        "What challenge does God put to the nations' gods in these trial scenes, and which foreign king does he name as the liberator of the exiles?",
+        "Isaiah mocks a man who carves a god out of half a log and cooks his dinner over the other half. What is the argument underneath the mockery?",
+        "Isaiah 43:2 promises presence in the water and the fire rather than a route around them. Which of those are you in right now, and what does a promise of company change about it?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The courtroom form",
+          "explanation": "God summons the nations and their gods to trial and lets the case turn on evidence, so the claim to be the only God is argued in public rather than simply asserted."
+        },
+        {
+          "concept": "Prediction as the evidence",
+          "explanation": "Isaiah 46:9-10 rests the whole case on declaring the end from the beginning, which is why naming Cyrus ahead of time is the section's boldest move."
+        },
+        {
+          "concept": "The carried god and the carrying God",
+          "explanation": "Idols have to be manufactured, hauled on carts, and rescued by their owners, while this God says he has carried Israel since before it was born."
+        },
+        {
+          "concept": "Presence in the fire",
+          "explanation": "Isaiah 43:2 promises company through the water and the flame, so being redeemed in this section means being accompanied rather than exempted."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the argument the trial scenes make against the idols, and say why God's naming of Cyrus is the evidence that argument depends on.",
+      "comprehension_check": [
+        {
+          "question": "The trial scenes keep demanding that the gods declare things in advance. Why does the whole argument turn on that particular test?",
+          "options": [
+            "Because the gods of Babylon had refused to answer earlier summons",
+            "Because the exiles had grown curious about what the future held",
+            "Because only the one running history can say where it goes",
+            "Because the idols had made predictions that already failed publicly"
+          ],
+          "answer_index": 2,
+          "why": "Isaiah 46:9-10 states the claim plainly, that God declares the end from the beginning and his purpose stands, so foretelling is offered as proof of who is actually running events.",
+          "hint": "Read Isaiah 41:21-24 and then Isaiah 46:9-10. Notice what God asks the gods to produce, and what he says about his own purpose."
+        },
+        {
+          "question": "Isaiah 43:2 speaks of passing through waters and walking through fire. What does the promise attached to those images actually offer?",
+          "options": [
+            "God's own company held out through the danger itself",
+            "God's protection from every hardship the exiles might meet",
+            "God's reward for the exiles who endured the hardest suffering",
+            "God's assurance that the exile is nearly over for everyone"
+          ],
+          "answer_index": 0,
+          "why": "Isaiah 43:1-3 grounds the promise in God having redeemed and named this people, and Isaiah 43:2 places him with them while the water and the flame are still there.",
+          "hint": "Read Isaiah 43:1-3 again. Notice where God says he will be while the waters and the fire are happening."
+        }
+      ],
+      "verse_span": {
+        "from": "41:1",
+        "to": "48:22"
+      }
+    },
+    {
+      "id": "isa-49-51",
+      "title": "The Servant's Mission to the World",
+      "chapters": [
+        49,
+        50,
+        51
+      ],
+      "verse_span": {
+        "from": "49:1",
+        "to": "51:23"
+      },
+      "difficulty_tier": 3,
+      "summary": "The Servant speaks: called from the womb, seemingly a failure — 'I have labored in vain' — yet given a mission too big for Israel alone: 'I will make you a light for the nations, that my salvation may reach the ends of the earth.' The Servant obeys through beating and spitting, setting his face like flint.",
+      "key_themes": [
+        "servant",
+        "light to the nations",
+        "obedient suffering",
+        "mission"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-41-48",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The Servant Songs develop in sequence; the figure's identity puzzle builds from chapter 42 onward.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-13-15",
+          "reason": "Paul and Barnabas quote 'a light for the nations' as their marching orders to the Gentiles."
+        }
+      ],
+      "key_verses": [
+        "Isaiah 49:6",
+        "Isaiah 49:15-16",
+        "Isaiah 50:7"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "resolve",
+        "hopeful"
+      ],
+      "discussion_prompt": "The Servant says 'I have labored in vain,' and God answers by making the job bigger: light to the nations, salvation to the ends of the earth. What does that exchange suggest about how God measures a faithful life, and where might your own sense of failure be hiding a wider calling?",
+      "assessment_questions": [
+        "What mission does God give the Servant in Isaiah 49:6, and how does the Servant respond to beating and shame in chapter 50?",
+        "The Servant feels like a failure, yet God enlarges his mission instead of consoling him with success. What do these chapters teach about how suffering fits inside God's purposes?",
+        "The Servant sets his face like flint and keeps going. What obedience have you abandoned because it produced no visible results, and what would picking it back up cost?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Light to the nations",
+          "explanation": "The Servant's calling reaches past Israel to the whole world, previewing the global reach of God's salvation."
+        },
+        {
+          "concept": "Obedient suffering",
+          "explanation": "The Servant endures striking and spitting without turning back, showing that redemption travels through faithfulness under pain rather than worldly power."
+        },
+        {
+          "concept": "God remembers Zion",
+          "explanation": "Zion is engraved on God's palms, so exile, shame, and the feeling of being forgotten are never God's final word."
+        },
+        {
+          "concept": "The Servant puzzle",
+          "explanation": "The figure is called Israel yet carries a mission to Israel, a tension the songs build deliberately toward chapter 53."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the Servant's mission from Isaiah 49 and explain how chapter 50 shows him carrying it out under suffering.",
+      "comprehension_check": [
+        {
+          "question": "In Isaiah 49:1-6 the Servant says his labor has come to nothing, and God answers him. What shape does the answer take?",
+          "options": [
+            "A release from the mission that had proven fruitless",
+            "An assignment far larger than the one that failed",
+            "An explanation of why Israel had refused to listen",
+            "A delay until the people were ready to hear him"
+          ],
+          "answer_index": 1,
+          "why": "Isaiah 49:6 answers the Servant's exhaustion by enlarging the call, adding the nations and the earth's ends to Israel's restoration.",
+          "hint": "Read Isaiah 49:4-6 again. Notice the size of what God gives the Servant right after his complaint."
+        },
+        {
+          "question": "Isaiah 50:5-9 shows the Servant giving his back to beating without turning away. What sustains that endurance in the passage?",
+          "options": [
+            "Hope that the abusers will be shamed into relenting",
+            "A stoic refusal to let pain register as disgrace",
+            "Knowledge that the beating will be brief and bounded",
+            "Confidence that God stands near and will justify him"
+          ],
+          "answer_index": 3,
+          "why": "Isaiah 50:7-9 grounds the flint-set face in the nearness of the One who will declare him in the right.",
+          "hint": "Read Isaiah 50:7-9 again. Notice the courtroom language, and who the Servant expects to stand with him there."
+        }
+      ]
+    },
+    {
+      "id": "isa-52-53",
+      "title": "The Suffering Servant",
+      "chapters": [
+        52,
+        53
+      ],
+      "verse_span": {
+        "from": "52:1",
+        "to": "53:12"
+      },
+      "difficulty_tier": 3,
+      "summary": "The fourth Servant Song: despised, rejected, pierced for our transgressions, crushed for our iniquities, silent as a lamb led to slaughter — bearing the sin of many, and then, past death, seeing light and dividing spoil. The Old Testament chapter the New Testament quotes most often to explain the cross.",
+      "key_themes": [
+        "substitution",
+        "atonement",
+        "silent suffering",
+        "vindication"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-49-51",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "This is the climactic fourth Servant Song; its shock depends on the Servant's mission built up in the previous songs.",
+          "scope": "sequence"
+        },
+        {
+          "node": "lev-16",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Isaiah 52–53 rests on Levitical sacrificial vocabulary and the logic of the Day of Atonement (Leviticus 16) that it assumes but does not explain, so skipping Leviticus risks a substantive misreading of the Servant's role.",
+          "scope": "foundation"
+        },
+        {
+          "node": "lev-1-7",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Isaiah 52–53 employs sacrificial and atonement language (vicarious suffering, bearing iniquity, guilt/offering motifs) that presupposes the Levitical sacrificial framework of Leviticus 1–7, which the poem itself does not supply.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-8-9",
+          "reason": "The Ethiopian official is reading exactly this passage when Philip 'told him the good news about Jesus.'"
+        },
+        {
+          "node": "1pet",
+          "reason": "Peter's 'by his wounds you have been healed' is a running quotation of Isaiah 53."
+        },
+        {
+          "node": "mark-9-10",
+          "reason": "'The Son of Man came to give his life as a ransom for many' — Jesus' self-description draws on the Servant's 'many.'"
+        }
+      ],
+      "tradition_notes": "Jewish interpretation has often read the Servant corporately as Israel (a reading with textual support in Isa 41:8, 49:3); Christian tradition from the New Testament onward reads Isaiah 53 as fulfilled in Jesus' passion. Within Christian readings the passage is common ground across Catholic, Orthodox, and Protestant traditions.",
+      "key_verses": [
+        "Isaiah 52:7",
+        "Isaiah 53:5-6",
+        "Isaiah 53:11"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "dense",
+      "emotional_tone": [
+        "sorrow",
+        "awe"
+      ],
+      "discussion_prompt": "The onlookers assume the Servant is being punished for his own guilt, and the song answers that the wounds were for ours. Sit with the 'we' and 'our' language of Isaiah 53:4-6. What does it mean to read yourself into those pronouns, and what does that reading ask of you?",
+      "assessment_questions": [
+        "How do people treat the Servant in Isaiah 53, and what happens to him after his suffering and death?",
+        "The song says the Servant was pierced for our transgressions and that the LORD laid on him the iniquity of us all. What picture of how guilt gets dealt with is this language painting?",
+        "What looks like total defeat in this song turns out to be God's chosen way of making many righteous. How does that reversal challenge the way you judge success and failure, including your own?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The rejected Servant",
+          "explanation": "The song describes a figure despised, disfigured, and dismissed by everyone watching, whom God nonetheless calls his own and exalts."
+        },
+        {
+          "concept": "Bearing the guilt of others",
+          "explanation": "Pierced for our transgressions and carrying iniquity laid on him, the Servant embodies substitution in its clearest Old Testament form."
+        },
+        {
+          "concept": "Suffering as God's instrument",
+          "explanation": "The text says it was the LORD's will to crush him, framing the suffering as God's saving plan rather than a tragic accident."
+        },
+        {
+          "concept": "Vindication past death",
+          "explanation": "After being cut off from the land of the living, the Servant sees light and divides spoil, so the song ends in exaltation on the far side of death."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Walk through the fourth Servant Song's movement from rejection to vindication, and explain what it claims the Servant's suffering accomplishes.",
+      "comprehension_check": [
+        {
+          "question": "Watching the Servant suffer, the speakers of Isaiah 53 admit they had misread it. What had they gotten wrong?",
+          "options": [
+            "They took his silence under abuse as proof he had no defense",
+            "They believed his disfigurement barred him from any service to God",
+            "They read his pain as God punishing him for his own sin",
+            "They assumed his death closed off any purpose God had for him"
+          ],
+          "answer_index": 2,
+          "why": "Isaiah 53:4-5 reverses the verdict: the suffering they credited to his own guilt was carrying theirs.",
+          "hint": "Read Isaiah 53:4-6 again. Notice whose wrongdoing the verses keep attaching to his wounds."
+        },
+        {
+          "question": "Isaiah 53:10-12 places the Servant's crushing inside God's own plan. What does the song's ending do with that hard claim?",
+          "options": [
+            "The crushing is softened into a metaphor for public shame",
+            "The crushing is avenged on the nations that carried it out",
+            "The crushing is mourned as the price of Israel's freedom",
+            "The crushing issues in life, offspring, and many counted righteous"
+          ],
+          "answer_index": 3,
+          "why": "Isaiah 53:10-12 ends the song in vindication, since past the grave the Servant sees light and many are counted righteous.",
+          "hint": "Read Isaiah 53:10-12 again. Notice what the Servant is doing after his grave has already been mentioned."
+        }
+      ]
+    },
+    {
+      "id": "isa-54-55",
+      "title": "Come, Everyone Who Thirsts",
+      "chapters": [
+        54,
+        55
+      ],
+      "verse_span": {
+        "from": "54:1",
+        "to": "55:13"
+      },
+      "difficulty_tier": 2,
+      "summary": "On the far side of the Servant's death, invitation: the barren woman sings, the covenant of peace stands firmer than mountains, and everyone who thirsts is called to buy wine and milk without money. 'My word shall not return to me empty' — grace thrown open at no charge, because the cost fell on chapter 53.",
+      "key_themes": [
+        "invitation",
+        "covenant of peace",
+        "free grace",
+        "effective word"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-52-53",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The free feast of 55 is priced by the Servant's suffering in 53 — the sequence is the gospel logic.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Isaiah 54:10",
+        "Isaiah 55:1",
+        "Isaiah 55:11"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "joy",
+        "comfort"
+      ],
+      "discussion_prompt": "Everyone who thirsts is invited to buy wine and milk without money. Why do you think we keep trying to pay for what God gives away, and what would it look like for you to come to this feast with empty hands?",
+      "assessment_questions": [
+        "What is offered to the thirsty in Isaiah 55, and what does it cost the ones invited?",
+        "God says his word is like rain and snow that never return empty. What does that comparison claim about how God's promises work, even when nothing seems to be happening?",
+        "The invitation asks why we spend money on what is not bread and labor on what does not satisfy. Where is your own effort going to things that leave you empty, and what would redirecting it toward this invitation involve?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The covenant of peace",
+          "explanation": "On the far side of judgment, God commits himself to his people with a promise that stands firmer than the mountains."
+        },
+        {
+          "concept": "Grace without price",
+          "explanation": "The feast is free to the thirsty because bargaining and earning have no place in receiving God's mercy."
+        },
+        {
+          "concept": "The effective word",
+          "explanation": "God's word accomplishes what he sends it to do, as reliably as rain and snow water the earth."
+        },
+        {
+          "concept": "Higher ways",
+          "explanation": "God's thoughts and ways exceed ours, so an offer that seems too good to be true is exactly how he works."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the invitation of Isaiah 55 in your own words, including what it costs, why it is free, and what God promises about his word.",
+      "comprehension_check": [
+        {
+          "question": "Isaiah 55:1 invites the thirsty to buy wine and milk without money. What does the invitation teach about receiving God's mercy?",
+          "options": [
+            "It is settled once a person's debts have been worked off",
+            "It is reserved for the destitute who have nothing to offer",
+            "It is received without payment, because none could ever be brought",
+            "It is secured by seeking hard enough before the offer closes"
+          ],
+          "answer_index": 2,
+          "why": "Isaiah 55:1-2 calls buyers who have no money and questions spending on what can never satisfy, so the feast is free to the thirsty.",
+          "hint": "Read Isaiah 55:1-3 again. Notice what the buyers are told to bring, and what they are told to do instead."
+        },
+        {
+          "question": "Isaiah 55:10-11 compares God's word to rain and snow that water the earth. What is the comparison doing at the end of these chapters?",
+          "options": [
+            "Grounding the promises just given in a word that cannot fail",
+            "Reminding hearers that answers arrive on God's slower calendar",
+            "Teaching that the word changes people only as it soaks in",
+            "Offering a test for telling true prophecy from false"
+          ],
+          "answer_index": 0,
+          "why": "Isaiah 55:11 promises that what God sends out accomplishes the purpose it was sent for, and every pledge in these chapters stands on that.",
+          "hint": "Read Isaiah 55:10-11 again. Notice what the rain is said to accomplish before the comparison lands on the word."
+        }
+      ]
+    },
+    {
+      "id": "isa-56-59",
+      "title": "A House for All Peoples and a True Fast",
+      "chapters": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "difficulty_tier": 4,
+      "summary": "The book's last movement opens by asking who belongs. Foreigners who bind themselves to the LORD and eunuchs who could never have children are given a name inside God's house better than sons and daughters, because that house is a house of prayer for all peoples. Chapter 57 turns on watchmen asleep at their posts and on idolatry practiced down in the valleys, and chapter 58 takes apart a fast performed by people who oppress their workers and leave the hungry unfed. Chapter 59 says plainly what has gone wrong, that their own sins have built the wall between them and God, and then shows God arming himself to do what nobody else would.",
+      "key_themes": [
+        "a house for all peoples",
+        "worship measured by justice",
+        "the fast God chooses",
+        "sin as separation",
+        "God acting when no one else will"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-54-55",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The open invitation of 55 becomes the open house of 56; the book's widening arc completes."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Isaiah 56:7",
+        "Isaiah 58:6-7",
+        "Isaiah 59:2"
+      ],
+      "reading_time_minutes": 28,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "hopeful"
+      ],
+      "discussion_prompt": "Chapter 58 describes people who seek God daily, fast, and bow their heads, and then records God calling the whole thing worthless because of how they treat their workers and the hungry. What is the passage saying about the relation between worship and the treatment of people, and where would that test find you?",
+      "assessment_questions": [
+        "Who does chapter 56 say is welcome in God's house, and what does Isaiah 58:6-7 say the fast God chooses looks like?",
+        "The people in chapter 58 are religiously diligent and God still refuses their fast. What does this section treat as the measure of real devotion?",
+        "Isaiah 58:7 names sharing your bread and bringing the homeless poor into your house. What would that look like in the actual conditions of your week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The door widened",
+          "explanation": "Isaiah 56:3-7 names foreigners and eunuchs, the two groups whose access the law had restricted, and gives them a place and a name in God's house."
+        },
+        {
+          "concept": "A house of prayer for all peoples",
+          "explanation": "Isaiah 56:7 defines the temple by who is welcome inside it, and this is the line Jesus quotes when he clears the temple courts."
+        },
+        {
+          "concept": "A fast God refuses",
+          "explanation": "Isaiah 58:3-7 has God dismiss a sincere fast because the fasters exploit their workers, tying the worth of worship directly to the treatment of people."
+        },
+        {
+          "concept": "Sin as a wall",
+          "explanation": "Isaiah 59:2 explains an unanswering God as the result of a separation the people themselves built, so the silence is diagnosed rather than left a mystery."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain who Isaiah 56 brings inside God's house and on what basis, and describe what Isaiah 58 says makes a fast acceptable or worthless.",
+      "comprehension_check": [
+        {
+          "question": "In Isaiah 58 the people fast, seek God daily, and delight to know his ways, and God still rejects the fast. What is the chapter establishing?",
+          "options": [
+            "That fasting itself is a practice God has never wanted",
+            "That their fasting was too short to count as genuine devotion",
+            "That God accepts worship only from people who never sin",
+            "That how they treat people is part of the worship itself"
+          ],
+          "answer_index": 3,
+          "why": "Isaiah 58:6-7 gives God's own definition of the chosen fast as breaking chains, sharing bread, and housing the homeless, so justice is named as the content of the devotion.",
+          "hint": "Read Isaiah 58:3-7 again. Notice what the people are doing to other people on the same day they fast."
+        },
+        {
+          "question": "Chapter 59 says the people's own sins have separated them from God, and then shows God putting on armor himself. What does that sequence claim?",
+          "options": [
+            "That the separation was smaller than the people had feared",
+            "That God himself acts when no one else will",
+            "That God's patience with the people had finally run out",
+            "That the people's confession had earned them a defender"
+          ],
+          "answer_index": 1,
+          "why": "Isaiah 59:15-16 has God look for someone to intervene, find no one, and bring salvation by his own arm, and Isaiah 59:20 sends the Redeemer to Zion.",
+          "hint": "Read Isaiah 59:15-16 again. Notice what God looks for and fails to find just before he takes up the armor."
+        }
+      ],
+      "verse_span": {
+        "from": "56:1",
+        "to": "59:21"
+      }
+    },
+    {
+      "id": "isa-60-62",
+      "title": "Zion's Dawn and the Anointed Herald",
+      "chapters": [
+        60,
+        61,
+        62
+      ],
+      "difficulty_tier": 4,
+      "summary": "The radiant center of the book's last movement. Chapter 60 tells a city sitting in darkness to get up and shine because its light has come, then watches caravans and ships stream toward that light carrying the exiles home. Chapter 61 puts a voice in the middle of it, a herald anointed by the Spirit to bring good news to the poor, bind up the brokenhearted, and announce the year of the LORD's favor, which is the passage Jesus reads aloud in the Nazareth synagogue and claims. Chapter 62 refuses to stay quiet until Zion is renamed, no longer Forsaken and Desolate, with God rejoicing over her the way a bridegroom rejoices over a bride.",
+      "key_themes": [
+        "Zion's light rising",
+        "the nations streaming in",
+        "the Spirit-anointed herald",
+        "good news to the poor",
+        "a city given a new name"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-56-59",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Zion's dawn answers the sins and separation named in the previous movement."
+        }
+      ],
+      "connections": [
+        {
+          "node": "luke-3-4",
+          "reason": "Jesus reads Isaiah 61 in the Nazareth synagogue and announces, 'Today this scripture is fulfilled in your hearing.'"
+        }
+      ],
+      "key_verses": [
+        "Isaiah 60:1",
+        "Isaiah 61:1-2",
+        "Isaiah 62:4"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "hopeful",
+        "celebratory"
+      ],
+      "discussion_prompt": "Chapter 60 tells a city sitting in darkness to arise and shine because its light has already come, before anything visible has changed. What do you make of a command to shine given to people who are still in the dark, and what would obeying it look like where you are?",
+      "assessment_questions": [
+        "What is Zion told to do at the opening of chapter 60, and what is the herald of Isaiah 61:1-2 anointed to announce and to whom?",
+        "These chapters keep describing Zion's future through names, with Forsaken and Desolate traded for new ones. Why does the renaming carry so much weight here?",
+        "The herald is sent to the poor, the brokenhearted, and the captives. Who within your actual reach fits that description, and what would good news sound like coming from you to them?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Light before daybreak",
+          "explanation": "Isaiah 60:1 orders a city still in darkness to arise and shine on the ground that its light has come, so the command rests on an announcement rather than on visible conditions."
+        },
+        {
+          "concept": "Nations arriving rather than conquered",
+          "explanation": "The caravans and ships of chapter 60 come toward Zion carrying wealth and exiles, so the nations' inclusion is pictured as a homecoming instead of a defeat."
+        },
+        {
+          "concept": "The Spirit-anointed herald",
+          "explanation": "Isaiah 61:1-2 describes a figure equipped by the Spirit for good news to the poor and liberty to captives, and Jesus claims that text for himself in Nazareth."
+        },
+        {
+          "concept": "A new name",
+          "explanation": "Isaiah 62:4 replaces Forsaken and Desolate with names of delight and marriage, so restoration here is a change of identity and not only of fortune."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what chapters 60 to 62 promise Zion, and explain what the herald of Isaiah 61:1-2 is anointed to do and for whom.",
+      "comprehension_check": [
+        {
+          "question": "Isaiah 60:1 tells Zion to arise and shine, and the very next verse says darkness still covers the earth. What does that pairing establish?",
+          "options": [
+            "Zion's own effort will be what finally lifts the darkness",
+            "Zion must wait for the darkness to lift before responding",
+            "Zion shines with a light it has received from elsewhere",
+            "Zion's darkness was never as complete as it had seemed"
+          ],
+          "answer_index": 2,
+          "why": "Isaiah 60:1-3 gives the reason for the command as the glory of the LORD rising upon her, so the shining answers a light that has arrived from him.",
+          "hint": "Read Isaiah 60:1-3 again. Notice whose glory the opening verses say has risen, and over whom it rises."
+        },
+        {
+          "question": "Chapter 62 refuses to stay silent until Zion carries new names in place of Forsaken and Desolate. Why does the section put so much weight on names?",
+          "options": [
+            "Because the names state how God now regards her",
+            "Because the old names had been given by hostile neighbors",
+            "Because a new name was required before the exiles returned",
+            "Because her former name belonged to a city now gone"
+          ],
+          "answer_index": 0,
+          "why": "Isaiah 62:4 trades Forsaken and Desolate for names of delight and marriage and gives the reason as the LORD's delight in her, so the naming reports a relationship.",
+          "hint": "Read Isaiah 62:2-5 again. Notice who does the naming, and what reason is given alongside each new name."
+        }
+      ],
+      "verse_span": {
+        "from": "60:1",
+        "to": "62:12"
+      }
+    },
+    {
+      "id": "isa-63-66",
+      "title": "The Divine Warrior and the New Creation",
+      "chapters": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "difficulty_tier": 4,
+      "summary": "The book ends as a conversation. A figure comes from Edom in stained clothing, having trodden the winepress alone because there was no one to help, and that sight sets off the longest prayer in Isaiah: a rehearsal of God's old kindnesses, a confession that even their righteous acts are like filthy rags, and the raw request that God tear open the heavens and come down. God answers across chapters 65 and 66. Part of the answer is judgment on people carrying on a private religion of their own, and part of it is the promise that he is creating new heavens and a new earth where weeping is no longer heard.",
+      "key_themes": [
+        "the divine warrior",
+        "lament that argues with God",
+        "righteousness as filthy rags",
+        "new heavens and new earth",
+        "the humble and trembling heart"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-60-62",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The closing dialogue of lament and answer follows the radiant center of Zion's dawn."
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-21-22",
+          "reason": "Revelation's new heavens and new earth is Isaiah 65-66 taken up verbatim."
+        }
+      ],
+      "key_verses": [
+        "Isaiah 64:6",
+        "Isaiah 65:17",
+        "Isaiah 66:2"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "lament",
+        "hopeful"
+      ],
+      "discussion_prompt": "The prayer in chapters 63 and 64 includes complaints about God hiding his face and letting their hearts wander, and the book keeps that prayer rather than tidying it up. What does its presence here suggest about what God is willing to hear, and what have you never said to him out loud?",
+      "assessment_questions": [
+        "What does the community ask God to do in Isaiah 64, and what does God say he is creating in Isaiah 65:17?",
+        "The prayer of chapters 63 and 64 admits that even their righteous acts are like filthy rags and still asks God to act for them. What kind of appeal is that prayer making?",
+        "Isaiah 66:2 says God looks to the person who is humble and contrite and trembles at his word. What would have to change for that description to fit you this year?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The winepress alone",
+          "explanation": "Isaiah 63:3-5 shows God acting without a human ally because he looked and found none, which sets up the plea that immediately follows it."
+        },
+        {
+          "concept": "Lament as argument",
+          "explanation": "Chapters 63 and 64 rehearse God's past kindness, confess sin, and then press him to act, so the prayer argues from his character rather than from their record."
+        },
+        {
+          "concept": "Righteousness as filthy rags",
+          "explanation": "Isaiah 64:6 takes the people's own merit out of the appeal, which is why what follows can only be a request for mercy."
+        },
+        {
+          "concept": "New heavens and new earth",
+          "explanation": "Isaiah 65:17 promises a remade creation where the former griefs are not brought to mind, the hope Revelation takes up on the Bible's last pages."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what the prayer of chapters 63 and 64 asks for and on what basis, and describe the shape of God's answer in chapters 65 and 66.",
+      "comprehension_check": [
+        {
+          "question": "The prayer of Isaiah 63-64 confesses that even the people's righteous acts are like filthy rags, and then asks God to intervene anyway. What makes that request coherent?",
+          "options": [
+            "The people expect their honesty about sin to earn favor",
+            "The people appeal to God's own fatherhood and past mercies",
+            "The people believe their suffering has already paid the debt",
+            "The people argue that their neighbors deserve punishment more"
+          ],
+          "answer_index": 1,
+          "why": "Isaiah 63:7 rehearses the LORD's steadfast love and Isaiah 64:8 calls him Father and potter, so the plea rests on who God is toward them.",
+          "hint": "Read Isaiah 63:7-9 and Isaiah 64:8-9. Notice what the prayer keeps reminding God of about himself."
+        },
+        {
+          "question": "Isaiah 65:17 announces new heavens and a new earth in which the former things are not brought to mind. What is that promise claiming?",
+          "options": [
+            "That God will help his people forget the suffering they endured",
+            "That the exiles will build a new city on old ruins",
+            "That the old creation was a mistake God intends to abandon",
+            "That God's answer to their prayer reaches as far as creation"
+          ],
+          "answer_index": 3,
+          "why": "Isaiah 64:1 asked God to tear open the heavens and come down, and Isaiah 65:17 answers on exactly that scale by promising a new heavens and a new earth.",
+          "hint": "Read Isaiah 64:1 and then Isaiah 65:17-19. Notice how large the request was, and how large the answer turns out to be."
+        }
+      ],
+      "verse_span": {
+        "from": "63:1",
+        "to": "66:24"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1216 @@
+{
+  "book": "Ezekiel",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "ezek-1-3",
+      "title": "The Throne-Chariot by the Chebar Canal",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:27"
+      },
+      "difficulty_tier": 4,
+      "summary": "Among the exiles in Babylon, the heavens open: wheels within wheels, four-faced living creatures, and above them a throne with a fire-wrapped human likeness — 'the appearance of the likeness of the glory of the LORD.' God's throne is mobile; he has come to Babylon with his people. Ezekiel eats the scroll and becomes their watchman.",
+      "key_themes": [
+        "glory of God",
+        "vision",
+        "watchman",
+        "God with the exiles"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-24-25",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Ezekiel prophesies from inside the Babylonian deportation; the vision's shock — glory outside Jerusalem — requires the exile.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-4-5",
+          "reason": "Revelation's throne room — living creatures, crystal expanse, rainbow glory — is built from this vision."
+        }
+      ],
+      "key_verses": [
+        "Ezekiel 1:28",
+        "Ezekiel 3:1-3",
+        "Ezekiel 3:17"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "reverent"
+      ],
+      "discussion_prompt": "Ezekiel sees God's throne arrive on wheels in Babylon, the land of Israel's defeat. What does it mean that God's glory can show up in the place where everything went wrong, and where would you least expect God to meet you today?",
+      "assessment_questions": [
+        "What does Ezekiel see above the wheels and the four living creatures, and how does he respond when he sees it?",
+        "The vision comes to exiles beside a canal in Babylon rather than in the Jerusalem temple. What does the mobile throne reveal about where God can be present?",
+        "God tells Ezekiel to eat the scroll before he speaks it. What would it look like for you to take God's word in that deeply before you pass it on to anyone else?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God's glory exceeds description",
+          "explanation": "Ezekiel stacks up cautious phrases like 'the appearance of the likeness of the glory' because what he saw was greater than language, and the right response is to fall on your face."
+        },
+        {
+          "concept": "God is present in exile",
+          "explanation": "The throne has wheels, so God's presence is never locked inside one building or one land, and he comes to his people even in their defeat."
+        },
+        {
+          "concept": "The watchman's duty",
+          "explanation": "God makes Ezekiel responsible for delivering the warning faithfully, while the outcome of the warning belongs to God and to the hearers."
+        },
+        {
+          "concept": "Eating the scroll",
+          "explanation": "Ezekiel takes God's word into himself before speaking it, showing that a true messenger is shaped by the message first."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe Ezekiel's throne vision in your own words and explain why its arrival in Babylon mattered so much to the exiles.",
+      "comprehension_check": [
+        {
+          "question": "Ezekiel's opening vision arrives in Babylon, of all places, with wheels under the throne (Ezekiel 1:1). What is the vision's location claiming?",
+          "options": [
+            "The temple in Jerusalem no longer matters to God",
+            "Babylon has become the new center of true worship",
+            "God's throne moves, and he is with the exiles",
+            "The exiles' punishment is ending sooner than promised"
+          ],
+          "answer_index": 2,
+          "why": "Ezekiel 1:1 opens the heavens over Babylon itself, and the wheeled throne shows the glory free to come to its scattered people.",
+          "hint": "Read Ezekiel 1:1 again. Notice where Ezekiel is standing when the heavens open."
+        },
+        {
+          "question": "God appoints Ezekiel a watchman and spells out the accounting in Ezekiel 3:17-19. What exactly is the prophet answerable for?",
+          "options": [
+            "The repentance of everyone within reach of his voice",
+            "Delivering the warning, whatever the hearers do with it",
+            "Softening the message enough that people can bear it",
+            "Persuading the rebellious house to hear him gladly"
+          ],
+          "answer_index": 1,
+          "why": "Ezekiel 3:19 draws the line: the watchman who has warned is clear, whatever the hearer then chooses.",
+          "hint": "Read Ezekiel 3:17-19 again. Notice which outcomes change the watchman's standing and which do not."
+        }
+      ]
+    },
+    {
+      "id": "ezek-4-7",
+      "title": "Sign-Acts of the Siege and the Coming End",
+      "chapters": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "difficulty_tier": 3,
+      "summary": "Ezekiel's first assignment is street theater. He scratches Jerusalem onto a clay brick and besieges it, lies bound on one side for a counted year of days, rations his bread and water, and shaves his head so the hair can be burned, cut, and scattered. Then chapters 6 and 7 drop the props and say it plainly: the high places will be wrecked, and the end has come on all four corners of the land. Under every scene runs the same purpose, that a people who forgot the LORD will learn who he is.",
+      "key_themes": [
+        "sign-acts",
+        "the siege of Jerusalem",
+        "idolatry judged",
+        "the end announced",
+        "then they will know that I am the LORD"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-1-3",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The judgment oracles execute the watchman commission.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Ezekiel 4:1-3",
+        "Ezekiel 5:5",
+        "Ezekiel 7:2-3"
+      ],
+      "reading_time_minutes": 26,
+      "content_density": "dense",
+      "emotional_tone": [
+        "warning",
+        "urgent"
+      ],
+      "discussion_prompt": "Ezekiel does not simply announce the siege, he performs it for months while his neighbors walk past and watch. What does God gain by making a message something people have to look at rather than only listen to, and what have you managed to hear about your own life without ever really seeing it?",
+      "assessment_questions": [
+        "What does Ezekiel do with the brick, and what happens to the hair he shaves off in chapter 5?",
+        "Ezekiel 5:5-8 says God set Jerusalem in the middle of the nations and that she rebelled more than they did. Why does being placed at the center make her rebellion a heavier charge?",
+        "These chapters keep saying that people will know the LORD through what happens to them. What is one hard outcome in your life that you have never let teach you anything about God?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The prophet's body carries the message",
+          "explanation": "Ezekiel acts out the siege in public because words alone were sliding off his hearers, so God turns the prophet himself into a sign the exiles have to stop and interpret."
+        },
+        {
+          "concept": "Judgment is measured, not random",
+          "explanation": "The counted days, weighed food, and divided hair all come with exact numbers, which presents the coming disaster as a sentence with reasons behind it rather than blind catastrophe."
+        },
+        {
+          "concept": "Privilege raises the standard",
+          "explanation": "Jerusalem was set among the nations to show them what God is like, so her idolatry is judged as a public failure of the very calling that made her special."
+        },
+        {
+          "concept": "Then they will know that I am the LORD",
+          "explanation": "The refrain that closes oracle after oracle names the goal underneath the wreckage, that a people who forgot God come to recognize who he actually is."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Ezekiel's brick, bound side, and shaved hair were meant to communicate, and state what chapter 7 announces has arrived and on what grounds.",
+      "comprehension_check": [
+        {
+          "question": "Ezekiel 5:5 places Jerusalem at the center of the nations. How does that placement shape the judgment announced against her?",
+          "options": [
+            "Her central location made her a target the empires were bound to attack",
+            "Her privileged place makes her rebellion a public failure God answers publicly",
+            "Her sins are counted as the combined sins of the nations around her",
+            "Her position promised rescue, so the threat is meant to frighten rather than fall"
+          ],
+          "answer_index": 1,
+          "why": "Ezekiel 5:6-8 says she rebelled against God's ordinances more than the surrounding countries did, and that judgment will be executed in the sight of those nations.",
+          "hint": "Read Ezekiel 5:5-8 again. Notice who is watching while the judgment happens, and what Jerusalem is compared to."
+        },
+        {
+          "question": "Chapter 7 keeps announcing that the end has come. What kind of end does the oracle mean?",
+          "options": [
+            "The final collapse of the created world in a single day",
+            "The last stage of a slow decline that no one had noticed",
+            "The close of God's patience with Judah and her land",
+            "The end of prophecy, since no further word would be given"
+          ],
+          "answer_index": 2,
+          "why": "Ezekiel 7:2-4 speaks the end over the land of Israel and measures it by her own ways and abominations.",
+          "hint": "Read Ezekiel 7:2-9 again. Notice who the end is addressed to, and what reason is attached each time it is announced."
+        }
+      ],
+      "verse_span": {
+        "from": "4:1",
+        "to": "7:27"
+      }
+    },
+    {
+      "id": "ezek-8-11",
+      "title": "The Temple Vision: Abominations and the Departing Glory",
+      "chapters": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "difficulty_tier": 4,
+      "summary": "Six years into the exile, Ezekiel is lifted in vision back to Jerusalem and walked through the temple room by room. He sees an idol at the gate, seventy elders burning incense to carved figures in the dark, women weeping for Tammuz, and men at the sanctuary entrance with their backs to it, bowing east. Then the glory he first saw by the canal rises off the cherubim, moves to the threshold, waits at the east gate, and finally leaves the city for the mountain to the east. The exiles assumed God had abandoned them in Babylon; the vision says he has been a sanctuary for them there, and that it is Jerusalem he is leaving.",
+      "key_themes": [
+        "the departing glory",
+        "hidden idolatry",
+        "the temple offers no immunity",
+        "God as sanctuary in exile",
+        "a heart of flesh promised"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-1-3",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The departing glory is the same throne-chariot of chapter 1.",
+          "scope": "sequence"
+        },
+        {
+          "node": "1kgs-5-8",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Ezekiel 8–11 assumes the prior reality of Solomon’s temple being filled with God’s glory (1 Kgs 8) to make the departure devastating, a prior historical-theological datum Ezekiel does not restate for new readers.",
+          "scope": "foundation"
+        },
+        {
+          "node": "ezek-4-7",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Ezekiel 8–11 assumes the prior enacted “sentence” of siege and the sign‑acts that announce and embody Jerusalem’s punishment (Ezek. 4–7), a narrative frame it does not restate and without which the temple’s departure is apt to be read merely as vision rather than as the carrying out of judgment.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Ezekiel 8:12",
+        "Ezekiel 10:18-19",
+        "Ezekiel 11:19-20"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "lament",
+        "warning"
+      ],
+      "discussion_prompt": "The elders burning incense in the dark tell themselves that the LORD does not see them and has left the land. By the end of the vision he has gone, though not for the reason they assumed and not to the place they expected. What does this vision expose about the gap between what people assume about God's presence and what is actually so, and where might you be assuming wrong?",
+      "assessment_questions": [
+        "As the tour moves from the gate inward, what are the seventy elders doing, and what are the men at the temple entrance facing?",
+        "The elders say the LORD does not see them and has forsaken the land. How does the rest of the vision turn that sentence back on them?",
+        "The glory pauses at the threshold and again at the east gate before it finally leaves. Where have you been treating God's patience as permission, and what would taking that pause seriously change this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Worship can be hollowed out from inside",
+          "explanation": "The sacrifices were still running and the courts were still busy while carved idols filled the back rooms, so the outward machinery of religion kept turning long after its heart was gone."
+        },
+        {
+          "concept": "The glory can leave",
+          "explanation": "Jerusalem treated the temple as a guarantee of safety, and watching the presence that made it holy rise, pause, and go strips the building of the one thing the people trusted about it."
+        },
+        {
+          "concept": "God sees in the dark",
+          "explanation": "The elders acted in hidden rooms because they had concluded God was no longer watching, and the entire vision exists to show a prophet exactly what God sees."
+        },
+        {
+          "concept": "A sanctuary without a building",
+          "explanation": "God tells the exiles he has been a sanctuary for them in the countries where they were scattered, which uncouples his presence from an address and prepares the promise of a heart of flesh."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Ezekiel is shown inside the temple and why it leads to the glory's departure, and state what God promises the scattered exiles in chapter 11.",
+      "comprehension_check": [
+        {
+          "question": "The vision walks Ezekiel through the temple's interior before it shows the glory leaving. What does that order claim?",
+          "options": [
+            "The glory leaves in response to what happens inside the sanctuary",
+            "The temple was never able to contain a glory of that size",
+            "God withdrew because Babylon's gods had proven stronger in war",
+            "The building stood empty already, so the departure changed nothing"
+          ],
+          "answer_index": 0,
+          "why": "Ezekiel 8:6 names the abominations in the sanctuary as what drives God far from it, and the tour leads straight into the departure of Ezekiel 10:18-19.",
+          "hint": "Read Ezekiel 8:6 and then 10:18-19. Notice what Ezekiel is made to look at before anything begins to move."
+        },
+        {
+          "question": "Chapter 11 answers the people left in Jerusalem who said the land now belonged to them. What does God claim about the exiles?",
+          "options": [
+            "That their scattering ended their standing as his people entirely",
+            "That distance from the temple is what caused their idolatry",
+            "That they must rebuild a temple before he will hear them",
+            "That he himself has been a sanctuary for them in exile"
+          ],
+          "answer_index": 3,
+          "why": "Ezekiel 11:16 says that although God scattered them among the countries, he has been a sanctuary for them in those countries.",
+          "hint": "Read Ezekiel 11:14-20 again. Notice how God answers the claim that the exiles had forfeited everything."
+        }
+      ],
+      "verse_span": {
+        "from": "8:1",
+        "to": "11:25"
+      }
+    },
+    {
+      "id": "ezek-12-19",
+      "title": "Parables Against False Hope: Vine, Bride, and Eagles",
+      "chapters": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "difficulty_tier": 4,
+      "summary": "These chapters take apart every saying the exiles were using to stay hopeful. Ezekiel packs a refugee's bag and digs through a wall in daylight, prophets who whitewash a flimsy wall are exposed, and Jerusalem turns out to be a vine whose wood is good for nothing but burning. Chapter 16 retells her whole story as a foundling girl rescued, dressed, and married, who then betrayed the one who found her, and chapter 17 folds Zedekiah's broken treaty into a riddle about two eagles. Then chapter 18 demolishes the proverb about fathers eating sour grapes, insisting that every person answers for their own life and that God takes no pleasure in anyone's death.",
+      "key_themes": [
+        "false hope dismantled",
+        "prophets who preach peace",
+        "covenant betrayal",
+        "individual responsibility",
+        "parable and riddle"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-8-11",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Ezekiel 12–19 presumes the temple-vision verdict that God’s glory has departed and that temple-centered hopes are false (the picture established in Ezekiel 8–11), a context it does not reestablish, so skipping 8–11 risks misreading the parables as ordinary prophetic denunciation rather than exposure of false sanctuary-security.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Ezekiel 16:8",
+        "Ezekiel 18:4",
+        "Ezekiel 18:32"
+      ],
+      "reading_time_minutes": 50,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "lament"
+      ],
+      "discussion_prompt": "Chapter 18 opens by quoting a proverb the exiles kept repeating, that the fathers ate sour grapes and the children's teeth are set on edge. It is a complaint that sounds like honesty about damage and works like an excuse. Where do you use a true account of what shaped you as a reason to stop being responsible, and what does this chapter put in its place?",
+      "assessment_questions": [
+        "What sayings do the people repeat in Ezekiel 12:22 and 18:2, and how does God answer each one?",
+        "Chapter 16 tells Jerusalem's history as a rescued foundling who became an unfaithful wife. Why tell a nation's story as a marriage instead of as politics or warfare?",
+        "Chapter 18 tells the house of Israel to get a new heart and a new spirit and to live. Where have you been waiting to feel different before you change anything, and what would turning look like instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Sayings can be armor",
+          "explanation": "The people quoted proverbs about delayed visions and inherited guilt to hold the prophet's message at arm's length, so Ezekiel goes after the sayings themselves before arguing anything else."
+        },
+        {
+          "concept": "Parable makes the familiar strange",
+          "explanation": "Telling the nation's history as a vine, a foundling bride, or a riddle about eagles gets the hearers to reach a verdict before they notice the story is about them."
+        },
+        {
+          "concept": "False reassurance is dangerous",
+          "explanation": "The prophets in chapter 13 are condemned for whitewashing a flimsy wall, because making something unsound look solid leaves people standing under what is about to fall."
+        },
+        {
+          "concept": "Each person answers for their own life",
+          "explanation": "Chapter 18 refuses both inherited guilt and inherited merit, and it lands on a God who would rather anyone turn and live than die."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the proverb chapter 18 sets out to demolish and what it puts in its place, and describe how one parable from chapters 15 through 17 makes its case.",
+      "comprehension_check": [
+        {
+          "question": "Chapter 16 tells Jerusalem's story as a foundling rescued, raised, and married before it brings any accusation. What does that order establish?",
+          "options": [
+            "That her sin was mainly the failure of her political leaders",
+            "That she owed everything she had to the one she betrayed",
+            "That her judgment would end the relationship between them for good",
+            "That the covenant was a contract she was free to renegotiate"
+          ],
+          "answer_index": 1,
+          "why": "Ezekiel 16:6-8 has God find her abandoned, keep her alive, and pledge himself to her, which is what gives the later charge its weight.",
+          "hint": "Read Ezekiel 16:6-14 again. Notice every good thing she has, and where each one came from."
+        },
+        {
+          "question": "What is chapter 18 actually arguing when it throws out the sour grapes proverb?",
+          "options": [
+            "That children never suffer any consequence from a parent's sin",
+            "That a person's record cannot be changed by any later turning",
+            "That each life is answerable now and turning is still open",
+            "That God judges whole nations rather than individual people"
+          ],
+          "answer_index": 2,
+          "why": "Ezekiel 18:20-23 puts each life on its own account and says God would rather the wicked turn and live.",
+          "hint": "Read Ezekiel 18:1-4 and 18:21-23 again. Notice what God says he prefers, and what he says a person can still do."
+        }
+      ],
+      "verse_span": {
+        "from": "12:1",
+        "to": "19:14"
+      }
+    },
+    {
+      "id": "ezek-20-24",
+      "title": "The Final Indictment: Rebellion, Sword, and the Boiling Pot",
+      "chapters": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "difficulty_tier": 4,
+      "summary": "The elders come to inquire of the LORD and get a history lesson instead. From Egypt to the wilderness to the land, Israel rebelled at every stage, and at every stage God held back for the sake of his own name in front of the watching nations. Then the sword is drawn in a song, the city is melted down as a furnace full of dross, and God says he searched for one person to stand in the gap and found nobody. Two sisters who sold themselves to empires and a pot boiled dry finish the indictment, and on the day the siege begins Ezekiel's wife dies and he is told not to mourn.",
+      "key_themes": [
+        "rebellion rehearsed",
+        "for the sake of my name",
+        "the sword",
+        "no one to stand in the gap",
+        "grief without mourning"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-12-19",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The final indictment gathers the case the sign-acts and parables have built."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Ezekiel 20:9",
+        "Ezekiel 22:30",
+        "Ezekiel 24:16"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "sorrow"
+      ],
+      "discussion_prompt": "The elders arrive wanting a fresh word from God and are handed a rehearsal of their own rebellions, with God saying again and again that he held back for the sake of his own name. What changes when you hear that Israel survived because of God's regard for his reputation rather than because of any improvement on their side, and how does that land on you?",
+      "assessment_questions": [
+        "In chapter 20, what reason does God repeat for withholding his hand from Israel in Egypt and in the wilderness?",
+        "Ezekiel 22:30 says God searched for one person to stand in the gap and found no one. What does the search itself reveal about what God wanted before judgment fell?",
+        "Ezekiel's silence when his wife dies becomes a sign the exiles will later understand. When has the way you handled a loss said something to the people watching, and what would you want it to say?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "For the sake of my name",
+          "explanation": "God's restraint in chapter 20 rests on his own name among the watching nations rather than on Israel's record, which places mercy outside anything Israel could earn or forfeit by performance."
+        },
+        {
+          "concept": "Delayed judgment is still judgment",
+          "explanation": "The march through Egypt, wilderness, and land lays out a long record of postponed consequences, so the siege arrives as the end of an old account rather than a sudden change of mood."
+        },
+        {
+          "concept": "God looks for an intercessor",
+          "explanation": "The search for someone to repair the wall and stand in the gap shows a God who prefers to be talked out of judgment, which makes the empty search an indictment in itself."
+        },
+        {
+          "concept": "A sign too heavy for words",
+          "explanation": "Ezekiel's unmourned wife turns his private loss into public teaching about a coming grief so total that the usual rites will have nothing left to do."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what God means by acting for the sake of his name in chapter 20, and what Ezekiel's refusal to mourn in chapter 24 was meant to tell the exiles.",
+      "comprehension_check": [
+        {
+          "question": "Chapter 20 keeps giving the same reason for God's restraint toward Israel. What does that reason establish about their survival?",
+          "options": [
+            "It rested on a promise that their obedience had partly kept alive",
+            "It rested on the merit stored up by their earlier generations",
+            "It rested on God overlooking sins that were relatively small ones",
+            "It rested on God's own name and his standing among the nations"
+          ],
+          "answer_index": 3,
+          "why": "Ezekiel 20:9 and 20:22 both ground God's action in his name not being profaned in the eyes of the nations who had watched him bring Israel out.",
+          "hint": "Read Ezekiel 20:8-9 and 20:21-22 again. Notice the reason attached each time God holds back his hand."
+        },
+        {
+          "question": "On the day the siege begins, Ezekiel's wife dies and he is forbidden to mourn her. What is that sign meant to communicate?",
+          "options": [
+            "That Ezekiel's household stood under judgment along with the city",
+            "That mourning rites had themselves become part of Judah's idolatry",
+            "That the loss coming on Jerusalem will outrun the reach of mourning",
+            "That God had stopped caring about the sorrows of his own people"
+          ],
+          "answer_index": 2,
+          "why": "Ezekiel 24:22-24 tells the exiles they will do exactly what the prophet did when the news arrives, which makes his silence a preview of their own.",
+          "hint": "Read Ezekiel 24:15-24 again. Notice what God says the people themselves will do once the news reaches them."
+        }
+      ],
+      "verse_span": {
+        "from": "20:1",
+        "to": "24:27"
+      }
+    },
+    {
+      "id": "ezek-25-28",
+      "title": "The Neighbors and Tyre: Fallen from Eden",
+      "chapters": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "difficulty_tier": 3,
+      "summary": "Four short oracles open the collection against the neighbors who clapped and stomped while Jerusalem burned: Ammon, Moab, Edom, and Philistia. Then the lens holds still on Tyre for three chapters, the merchant city at the gateway to the sea, first besieged down to bare rock, then mourned as a magnificent ship broken up in deep water with her whole cargo aboard. Chapter 28 turns to her ruler, who said in his heart that he was a god, and answers him in language borrowed from Eden and the garden's guardian cherub. Sidon is added briefly, and the block ends with Israel finally dwelling secure among neighbors who no longer sneer.",
+      "key_themes": [
+        "gloating judged",
+        "commerce judged",
+        "pride and self-deification",
+        "fallen from Eden",
+        "the lament as verdict"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-20-24",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Ezek 25–28 assumes the indictment of Jerusalem and the immediate covenant-judicial sequence laid out in Ezek 20–24 so that the nations' oracles are read as part of the same judgmental logic, which 25–28 never restates.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-17-19",
+          "reason": "Revelation's merchants weeping over fallen Babylon rework Ezekiel 27's shipwreck lament for Tyre."
+        }
+      ],
+      "key_verses": [
+        "Ezekiel 27:3",
+        "Ezekiel 28:2",
+        "Ezekiel 28:13"
+      ],
+      "reading_time_minutes": 28,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "lament"
+      ],
+      "discussion_prompt": "Tyre is condemned and mourned in the same breath, with a funeral song sung over her as if she were a beautiful ship going down. What does it mean that God's verdicts here arrive wrapped in grief rather than triumph, and what does that suggest about how he regards the things people build?",
+      "assessment_questions": [
+        "What are the four neighboring nations in chapter 25 charged with, and what image does chapter 27 use for Tyre?",
+        "Ezekiel 28:2 reports the ruler's claim to sit in the seat of gods. How do the three chapters on Tyre connect her trading success to that claim?",
+        "These oracles take apart a security that a city built out of its own achievements. What have you built that you quietly count on to keep you safe, and what would holding it loosely actually look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "No nation sits outside the jurisdiction",
+          "explanation": "A God whose own city has just been sentenced turns and sentences the powers around it, which claims an authority that plainly does not stop at Israel's borders."
+        },
+        {
+          "concept": "Gloating is a charge",
+          "explanation": "The short oracles of chapter 25 convict neighbors for clapping at someone else's ruin, treating satisfaction at another's disaster as a real offense with real consequences."
+        },
+        {
+          "concept": "Success becomes a claim",
+          "explanation": "Tyre's wealth and skill were genuine achievements, and the oracle traces the short path from being very good at something to believing you are more than human."
+        },
+        {
+          "concept": "Judgment sung as lament",
+          "explanation": "The verdicts arrive as funeral songs over a wrecked ship and a fallen figure, so the justice here carries grief in it rather than satisfaction."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Tyre is charged with across chapters 26 through 28, and describe why those oracles take the form of a lament.",
+      "comprehension_check": [
+        {
+          "question": "These oracles fall on the nations right after Jerusalem's own sentence has been pronounced. What does that placement claim?",
+          "options": [
+            "The same standard God used on his own city reaches every nation",
+            "The nations fall because they backed the wrong side in the war",
+            "God's anger at Jerusalem has been exhausted and now spills outward",
+            "Foreign powers are judged by a lower standard than Israel was"
+          ],
+          "answer_index": 0,
+          "why": "Ezekiel 25:6 and 28:2 hand the nations the same kinds of charges and the same closing refrain that Jerusalem received in the chapters just before.",
+          "hint": "Read Ezekiel 25:6-7 and 28:1-5 again. Notice what each nation is accused of, and how each oracle ends."
+        },
+        {
+          "question": "Chapter 28 answers the king of Tyre in language drawn from Eden, and readers have long divided over it. Where does that disagreement actually sit?",
+          "options": [
+            "Over whether the oracle condemns Tyre's wealth or only its pride",
+            "Over whether the Eden imagery describes a human king or something more",
+            "Over whether the king of Tyre was a real historical figure at all",
+            "Over whether God has the authority to judge a foreign nation"
+          ],
+          "answer_index": 1,
+          "why": "Ezekiel 28:12-15 calls the figure blameless from the day he was created and places him in Eden, wording that has led readers to hear either a towering royal taunt or an older fall behind it.",
+          "hint": "Read Ezekiel 28:11-19 again. Notice which phrases fit a Phoenician monarch comfortably and which ones strain against that."
+        }
+      ],
+      "verse_span": {
+        "from": "25:1",
+        "to": "28:26"
+      }
+    },
+    {
+      "id": "ezek-29-32",
+      "title": "Egypt: The Dragon and the Felled Cedar",
+      "chapters": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "difficulty_tier": 3,
+      "summary": "Seven dated oracles fall on Egypt, and they keep circling one boast: Pharaoh saying that the Nile is his and that he made it. Ezekiel answers with a great river monster hauled out of its own waters and dumped in the open field. Chapter 31 then hands Pharaoh a history lesson shaped like a cedar, a tree so tall its top stood among the clouds, cut down because it grew proud of its height. The last oracle marches Egypt's horde down to lie with the other fallen nations in the pit, and the light itself goes out over the land.",
+      "key_themes": [
+        "Egypt judged",
+        "the Nile is mine",
+        "pride cut down",
+        "the day of the LORD",
+        "descent to the pit"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-25-28",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The Egypt oracles complete the sweep of the nations begun with the neighbors and Tyre."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Ezekiel 29:3",
+        "Ezekiel 30:3",
+        "Ezekiel 31:10"
+      ],
+      "reading_time_minutes": 27,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "warning"
+      ],
+      "discussion_prompt": "Pharaoh's boast is that the river is his and that he made it, when the Nile was the one thing in Egypt no king had any hand in making. Where do people take credit for what was simply handed to them, and where do you catch yourself doing the same?",
+      "assessment_questions": [
+        "What boast does God quote back to Pharaoh in Ezekiel 29:3 and 29:9, and what creature is Pharaoh compared to?",
+        "Chapter 31 answers a living empire with the story of a cedar that was already cut down. Why argue with Egypt by telling her about somebody else's fall?",
+        "These oracles keep saying the outcome God wants is that Egypt will know who he is. What would have to change for one of your own successes to teach you something about God rather than about yourself?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The boast that gives itself away",
+          "explanation": "Pharaoh claims to have made the river his whole kingdom depends on, which turns a gift into a possession and becomes the exact charge the oracles answer."
+        },
+        {
+          "concept": "History used as argument",
+          "explanation": "Assyria is held up as a cedar already felled, so Egypt is invited to read her own future in a story she can verify for herself."
+        },
+        {
+          "concept": "Even the greatest go down to the pit",
+          "explanation": "Chapter 32 seats Pharaoh's horde among nations that once terrified the living, which quietly erases the difference between empires that all looked permanent."
+        },
+        {
+          "concept": "Judgment aims at recognition",
+          "explanation": "The refrain about knowing the LORD returns through every oracle, so the goal of the sentence is that Egypt end up understanding who God actually is."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Pharaoh's boast about the Nile is claiming, and describe how the cedar of chapter 31 and the pit of chapter 32 answer it.",
+      "comprehension_check": [
+        {
+          "question": "God quotes Pharaoh's boast about the Nile back to him more than once. Why is that the line the oracles keep returning to?",
+          "options": [
+            "It takes credit for the one thing Egypt was given rather than built",
+            "It insults the God of a small nation that Egypt had already defeated",
+            "It denied that Babylon would ever be allowed to defeat Egypt",
+            "It proves Pharaoh never understood how the river actually worked"
+          ],
+          "answer_index": 0,
+          "why": "Ezekiel 29:3 and 29:9 both put the claim that the Nile is his and that he made it at the center of the charge against Pharaoh.",
+          "hint": "Read Ezekiel 29:1-9 again. Notice the line God repeats back to Pharaoh, and what he says will become of that river's land."
+        },
+        {
+          "question": "Chapter 31 answers Pharaoh with a cedar that towered over every other tree and was then cut down. What is the argument?",
+          "options": [
+            "Egypt's empire is younger and smaller than the one being described",
+            "Trees and empires alike are subject to natural cycles of decay",
+            "Greatness itself was the offense, since God resists every large power",
+            "What already happened to a greater power is Egypt's own future"
+          ],
+          "answer_index": 3,
+          "why": "Ezekiel 31:10-11 says the cedar was handed over because it grew proud on account of its height, and the chapter sets that fall in front of Pharaoh as his own case.",
+          "hint": "Read Ezekiel 31:1-14 again. Notice who the tree stands for, and who is told to look at it."
+        }
+      ],
+      "verse_span": {
+        "from": "29:1",
+        "to": "32:32"
+      }
+    },
+    {
+      "id": "ezek-33-37",
+      "title": "Dry Bones and the Shepherd King",
+      "chapters": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "verse_span": {
+        "from": "33:1",
+        "to": "37:28"
+      },
+      "difficulty_tier": 3,
+      "summary": "The city falls, and Ezekiel's message flips to hope: God himself will shepherd the flock his leaders devoured (34), give a heart of stone-for-flesh transplant and his own Spirit (36), and breathe a valley of dry bones back into a living army (37) — 'can these bones live?' Resurrection enters Israel's vocabulary as national hope.",
+      "key_themes": [
+        "new heart",
+        "Spirit",
+        "resurrection",
+        "divine shepherd"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-20-24",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The restoration promises answer the judgment: the bones are 'the whole house of Israel' slain by the catastrophe just announced.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "john-2-4",
+          "reason": "Jesus' 'born of water and the Spirit' to Nicodemus draws on Ezekiel 36's clean water and new Spirit."
+        },
+        {
+          "node": "john-9-12",
+          "reason": "'I am the good shepherd' takes up Ezekiel 34: God himself, shepherding in person, against the false shepherds."
+        },
+        {
+          "node": "acts-2",
+          "reason": "The Spirit poured out at Pentecost enacts Ezekiel 36-37's promise of God's Spirit within his people."
+        }
+      ],
+      "key_verses": [
+        "Ezekiel 34:11",
+        "Ezekiel 36:26-27",
+        "Ezekiel 37:5"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "comfort"
+      ],
+      "discussion_prompt": "God promises to trade a heart of stone for a heart of flesh and to put his own Spirit inside his people. Why does real change have to start that deep, and what part of your life most needs that kind of transplant?",
+      "assessment_questions": [
+        "What happens in the valley of dry bones, and in what stages do the bones come back to life?",
+        "In chapter 34 God condemns the shepherds who fed themselves and promises to shepherd the flock in person. What does that promise reveal about how God views failed leaders and scattered people?",
+        "God promises a new heart and his own Spirit as the source of obedience. What have you tried to change by willpower alone, and what would depending on the Spirit look like instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God himself will shepherd",
+          "explanation": "After the leaders devour the flock, God promises to search out, feed, and heal his sheep personally, and to raise up a Davidic shepherd over them."
+        },
+        {
+          "concept": "The new heart and Spirit",
+          "explanation": "God promises to work change from the inside, replacing a stone heart with a living one and giving his Spirit so obedience becomes possible."
+        },
+        {
+          "concept": "Life from death",
+          "explanation": "The dry bones show God's power to revive what looks utterly finished, and resurrection enters Israel's vocabulary as real hope."
+        },
+        {
+          "concept": "The watchman's charge continues",
+          "explanation": "Chapter 33 renews Ezekiel's commission, so faithful warning and each hearer's responsibility frame all the hope that follows."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the vision of the dry bones and explain what God promises in Ezekiel 36:26-27 and why it matters.",
+      "comprehension_check": [
+        {
+          "question": "Ezekiel 36:22-23 grounds Israel's restoration in the honor of God's own name rather than in Israel. What does that grounding secure?",
+          "options": [
+            "A restoration payable once Israel's record improves",
+            "A restoration designed to shame Israel before the nations",
+            "A restoration limited to protecting the divine reputation",
+            "A restoration as dependable as God's own character"
+          ],
+          "answer_index": 3,
+          "why": "Ezekiel 36:22-23 stakes the restoration on God's holy name, a ground Israel's failures cannot pull down.",
+          "hint": "Read Ezekiel 36:22-23 again. Notice whose honor the promised action is said to defend."
+        },
+        {
+          "question": "The vision of dry bones comes with its own interpretation in Ezekiel 37:11. What situation is the vision speaking into?",
+          "options": [
+            "A people declaring their hope dead and themselves finished",
+            "A faithful remnant needing courage for the journey home",
+            "An army preparing to retake the land by force",
+            "A people awaiting word that the temple still stands"
+          ],
+          "answer_index": 0,
+          "why": "Ezekiel 37:11 names the bones as the whole house of Israel in despair, and the breath answers exactly that death.",
+          "hint": "Read Ezekiel 37:11 again. Notice whose voice the bones are given and what that voice says."
+        }
+      ]
+    },
+    {
+      "id": "ezek-38-39",
+      "title": "Gog of Magog",
+      "chapters": [
+        38,
+        39
+      ],
+      "verse_span": {
+        "from": "38:1",
+        "to": "39:29"
+      },
+      "difficulty_tier": 5,
+      "summary": "After the restoration, a final enemy: Gog, from the far north, gathers a coalition against a peaceful, regathered Israel — and God destroys the horde without Israel lifting a sword, on the mountains, with fire and hail. A deliberately mysterious oracle of the last battle, written to be recognized rather than scheduled.",
+      "key_themes": [
+        "final assault",
+        "divine victory",
+        "God's name vindicated",
+        "eschatology"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-33-37",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Gog attacks the regathered, re-hearted Israel of chapters 36-37; the battle presupposes the restoration.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-20",
+          "reason": "Revelation 20 names 'Gog and Magog' explicitly for the final rebellion after the thousand years."
+        }
+      ],
+      "tradition_notes": "No major tradition dogmatizes Gog's identity. Readings range from historical empires, to a symbol of every final assault on God's people, to a still-future battle; dispensationalist Protestantism maps it onto modern geopolitics far more confidently than Catholic, Orthodox, or most other Protestant interpreters do.",
+      "key_verses": [
+        "Ezekiel 38:23",
+        "Ezekiel 39:7"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "tension",
+        "resolve"
+      ],
+      "discussion_prompt": "After every disaster Ezekiel has announced, God promises that the final assault on his people will fail without them lifting a sword. What does this oracle claim about who actually holds history's outcome, and how would trusting that free you from fear about the future?",
+      "assessment_questions": [
+        "Who gathers against the restored and peaceful Israel in these chapters, and how is the invasion defeated?",
+        "God says that through this battle he will vindicate his holiness and the nations will know that he is the LORD. What is the oracle's central claim about God, whatever the battle's timing turns out to be?",
+        "Readers in every generation have been tempted to map Gog onto the enemies of their own day. How does trusting God's promised victory change the way you face threats you cannot control?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God rules even the last assault",
+          "explanation": "The great coalition from the north moves only within God's sovereign purpose, so no gathering of powers can undo his restoration."
+        },
+        {
+          "concept": "The victory is God's alone",
+          "explanation": "Israel never lifts a sword in this battle, which teaches that final deliverance rests entirely on God and never on his people's strength."
+        },
+        {
+          "concept": "God's name vindicated",
+          "explanation": "The stated goal of the battle is that Israel and the nations come to know the LORD, so the oracle is finally about who God is."
+        },
+        {
+          "concept": "Written to be recognized",
+          "explanation": "The oracle's deliberate mystery resists confident scheduling, and Christians across traditions read its timing in several ways without any reading being required."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the central promise of the Gog oracle in your own words, and name at least two ways Christians have read its timing without settling the question.",
+      "comprehension_check": [
+        {
+          "question": "In the Gog oracle Israel never draws a sword; God alone breaks the assault (Ezekiel 39:3). What is that detail teaching about the last battle?",
+          "options": [
+            "Israel's peaceful posture is what disarms its enemies",
+            "The regathered nation has outgrown the need for defenses",
+            "Final deliverance rests wholly on God's own hand",
+            "Victory is promised only to a fully purified people"
+          ],
+          "answer_index": 2,
+          "why": "Ezekiel 39:3 has God himself striking the weapons from Gog's hands, so the deliverance is his act from start to finish.",
+          "hint": "Read Ezekiel 38:21-23 and 39:3 again. Notice who performs every act of the fighting."
+        },
+        {
+          "question": "Twice the oracle states the point of the whole battle, in Ezekiel 38:23 and 39:7. What outcome is God after?",
+          "options": [
+            "Ending warfare among the nations once and for all",
+            "Being known as holy before Israel and the nations",
+            "Restoring the full borders promised to Abraham's line",
+            "Repaying the nations for the centuries of exile"
+          ],
+          "answer_index": 1,
+          "why": "Ezekiel 38:23 and 39:7 both land on knowing the LORD, so the battle's real outcome is God's name made known.",
+          "hint": "Read Ezekiel 38:23 and 39:7 again. Notice the clause both verses end with."
+        }
+      ]
+    },
+    {
+      "id": "ezek-40-42",
+      "title": "The Temple Measured",
+      "chapters": [
+        40,
+        41,
+        42
+      ],
+      "difficulty_tier": 5,
+      "summary": "Twenty five years into the exile and fourteen years after the city fell, Ezekiel is set down on a very high mountain and handed over to a man who looks like bronze and carries a linen cord and a measuring rod. What follows is a walking tour: east gate, outer court, chambers, inner gates, the sanctuary, and the room the guide names the Most Holy Place. The numbers pile up with almost no commentary, and the tour closes outside with a wall measured all the way around to separate the holy from the common. The instruction given at the door governs everything after it, that Ezekiel is to look, listen, and give his attention to all of it, because that is why he was brought there.",
+      "key_themes": [
+        "the measured temple",
+        "sacred architecture",
+        "holiness and access",
+        "vision",
+        "look and listen and report"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-33-37",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The temple vision crowns the restoration promised to the regathered Israel of chapters 36 and 37.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-25-31",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "The measured sanctuary reworks the tabernacle/temple pattern; the architecture speaks that earlier grammar."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Ezekiel 40:3-4",
+        "Ezekiel 41:4",
+        "Ezekiel 42:20"
+      ],
+      "reading_time_minutes": 24,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "reverent"
+      ],
+      "discussion_prompt": "For three chapters Ezekiel is walked through gates and courts while his guide records every dimension and explains almost nothing. What does a people who have lost their land and their temple gain from a set of measurements rather than a speech, and what does that precision communicate that words would not?",
+      "assessment_questions": [
+        "Who meets Ezekiel at the start of the vision, what is he carrying, and what is Ezekiel told to do with everything he is about to see?",
+        "The tour ends in Ezekiel 42:20 with a wall measured around the whole area to separate the holy from the common. How does that closing detail explain what all the measuring was for?",
+        "Ezekiel is told to look closely and then describe what he saw to Israel. What is something you have genuinely understood but never passed on to anyone, and what would it take to hand it over?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Measurement as promise",
+          "explanation": "Nobody bothers measuring a building that will never exist, so handing exact dimensions to a landless people works as a claim that God intends a real future with them."
+        },
+        {
+          "concept": "Holiness has a shape",
+          "explanation": "Gates, courts, thresholds, and a boundary wall arrange the space by degrees of access, which teaches that coming near to God is an ordered thing rather than a casual one."
+        },
+        {
+          "concept": "A guide who explains very little",
+          "explanation": "The bronze figure measures and names but seldom interprets, which leaves the reader standing where Ezekiel stands, given more than can be decoded in one pass."
+        },
+        {
+          "concept": "Seen in order to be told",
+          "explanation": "The opening charge is to look, listen, and pay attention because that is the reason he was brought there, so the vision is entrusted to him for the people rather than for himself."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what Ezekiel is told to do at the start of the vision and why, and state the reason given for the wall in Ezekiel 42:20.",
+      "comprehension_check": [
+        {
+          "question": "Three chapters of dimensions arrive with almost no explanation attached. What is the measuring itself saying to people in exile?",
+          "options": [
+            "That the vision is mainly a memorial for the temple they lost",
+            "That God intends a real and ordered future for a landless people",
+            "That precise ritual detail matters to God more than people do",
+            "That God's presence now requires no place and no people at all"
+          ],
+          "answer_index": 1,
+          "why": "Ezekiel 40:1-4 dates the vision fourteen years after the city was struck down and then hands the prophet a guide with a measuring rod, giving a homeless people the exact dimensions of a house.",
+          "hint": "Read Ezekiel 40:1-4 again. Notice where the exiles are in their own history when this vision arrives."
+        },
+        {
+          "question": "The tour finishes outside, with a wall measured around the entire area. What does that final detail reveal about the design?",
+          "options": [
+            "The wall was there to defend the sanctuary from foreign armies",
+            "The plan was meant chiefly to impress the surrounding nations",
+            "The space is graded so that nearness to God is ordered",
+            "The design keeps ordinary Israelites permanently outside the courts"
+          ],
+          "answer_index": 2,
+          "why": "Ezekiel 42:20 gives the wall's purpose as separating the holy from the common, which is what the whole arrangement of courts, gates, and thresholds has been doing all along.",
+          "hint": "Read Ezekiel 42:15-20 again. Notice the reason given for the wall, then compare it with how the courts were laid out."
+        }
+      ],
+      "verse_span": {
+        "from": "40:1",
+        "to": "42:20"
+      }
+    },
+    {
+      "id": "ezek-43-46",
+      "title": "The Glory Returns and Worship Restored",
+      "chapters": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "difficulty_tier": 5,
+      "summary": "The vision reaches its point. Ezekiel is brought back to the east gate and the glory of the God of Israel comes from the east with a voice like rushing water, enters the temple through that gate, and fills the house. It is the same glory he watched leave in chapter 10, returning by the road it left on, and God calls the place his throne, where he will live among the Israelites forever. What follows orders the life that goes with that presence: the altar consecrated, the east gate shut behind him, priests charged to teach the difference between holy and common, the prince held to limits, and the festivals set out.",
+      "key_themes": [
+        "the glory returns",
+        "the east gate",
+        "God dwelling forever",
+        "worship restored",
+        "teaching holy from common"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-8-11",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The glory's return through the east gate reverses its departure — the vision answers chapters 8-11 gate for gate.",
+          "scope": "sequence"
+        },
+        {
+          "node": "ezek-40-42",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The glory returns to the temple the measuring tour has just walked.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "Readings of the visionary temple and its ordinances divide across traditions rather than neatly between them: a literal future temple (held by some dispensationalist Protestants), an idealized pattern given to the post-exilic community, or a symbol of God's presence fulfilled in Christ and his people (the dominant Catholic, Orthodox, and Reformed reading, following Revelation 21-22's reuse of the vision).",
+      "key_verses": [
+        "Ezekiel 43:4-5",
+        "Ezekiel 43:7",
+        "Ezekiel 44:23"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "hopeful"
+      ],
+      "discussion_prompt": "Before God lets Ezekiel describe the design to Israel, he says to describe it so that they will be ashamed of what they have done, and then let them measure the plan. What does it do to a person to be shown something beautiful they had no hand in earning, and why might God put that before the rebuke instead of after it?",
+      "assessment_questions": [
+        "Which direction does the glory come from in Ezekiel 43:2, and which gate does it enter the temple by?",
+        "The glory returns through the same gate it left by in chapter 10, and that gate is then shut behind it. What does that pairing say about what has changed and what has not?",
+        "Ezekiel 44:23 makes it the priests' job to teach people the difference between the holy and the common. Who taught you to tell that difference, and where in an ordinary week does the line get blurry for you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The book answers itself",
+          "explanation": "The glory that lifted off the threshold and went east comes back from the east through the same gate, so the vision resolves the loss the whole book has been carrying instead of changing the subject."
+        },
+        {
+          "concept": "Presence comes with order",
+          "explanation": "The moment God settles into the house the text turns to altars, priests, gates, and feasts, because a people living close to God need a shape for ordinary days."
+        },
+        {
+          "concept": "Shame that leads somewhere",
+          "explanation": "Ezekiel is told to describe the design so Israel will be ashamed and then to let them measure the plan, which turns honest regret into a doorway rather than a dead end."
+        },
+        {
+          "concept": "Limits on the prince",
+          "explanation": "The ruler is given a real place in the worship and firm boundaries around his land and his conduct, which answers the abuses of Israel's kings from inside the new arrangement."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how chapter 43 answers chapter 10, and describe two ways the ordinances of chapters 44 through 46 shape daily life around God's presence.",
+      "comprehension_check": [
+        {
+          "question": "Chapter 43 is the vision's climax for anyone who watched the glory leave in chapter 10. What does the return settle?",
+          "options": [
+            "That the exile was shorter than the prophets had originally warned",
+            "That God's judgment did not end his intention to dwell with them",
+            "That Israel had finally earned back the presence they had lost",
+            "That the old temple could be rebuilt exactly as it once stood"
+          ],
+          "answer_index": 1,
+          "why": "Ezekiel 43:7 calls the place God's throne, where he will live among the Israelites forever, spoken over the very house the glory had abandoned.",
+          "hint": "Read Ezekiel 10:18-19 alongside Ezekiel 43:1-7. Notice the direction of travel each time, and what God says once he is inside."
+        },
+        {
+          "question": "These chapters prescribe an altar, offerings, and festivals after the glory has returned, and Christians have long divided over that. What is the disagreement about?",
+          "options": [
+            "Whether Ezekiel had authority to prescribe worship for a later age",
+            "Whether the vision replaces the covenant God made at Sinai",
+            "Whether the returning glory is the same glory that departed",
+            "Whether these offerings await a future temple or are fulfilled otherwise"
+          ],
+          "answer_index": 3,
+          "why": "Ezekiel 43:18-27 sets out altar statutes inside a vision the New Testament later reads through Christ, and readers have placed the answer in a future temple, an ideal pattern, or a fulfillment in him.",
+          "hint": "Read Ezekiel 43:6-11 and 43:18-27 again. Notice what is prescribed, who it is given to, and what the instructions are said to be for."
+        }
+      ],
+      "verse_span": {
+        "from": "43:1",
+        "to": "46:24"
+      }
+    },
+    {
+      "id": "ezek-47-48",
+      "title": "The River of Life and the City: The LORD Is There",
+      "chapters": [
+        47,
+        48
+      ],
+      "difficulty_tier": 4,
+      "summary": "Water comes out from under the temple threshold and runs east, and the guide walks Ezekiel into it four times, a thousand cubits at a stretch: ankle deep, knee deep, waist deep, then a river too deep to cross. Where it arrives the Dead Sea turns fresh, fish fill it, and fishermen spread nets along a shore that never held any. Trees stand on both banks bearing fruit every month with leaves for healing, and the reason given is that the water comes out from the sanctuary. Then the land is shared out among the tribes, the city gates are named for them, and the book closes by renaming the city itself after the one who lives there.",
+      "key_themes": [
+        "the river of life",
+        "healing and abundance",
+        "presence as the source",
+        "the land shared out",
+        "the city renamed"
+      ],
+      "prerequisites": [
+        {
+          "node": "ezek-43-46",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The river flows from the sanctuary the returned glory now fills.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "rev-21-22",
+          "reason": "Revelation's measured city, river of life, and healing trees come straight from this vision — with one revision: no temple, for the Lamb is the temple."
+        }
+      ],
+      "key_verses": [
+        "Ezekiel 47:9",
+        "Ezekiel 47:12",
+        "Ezekiel 48:35"
+      ],
+      "reading_time_minutes": 16,
+      "content_density": "dense",
+      "emotional_tone": [
+        "hopeful",
+        "awe"
+      ],
+      "discussion_prompt": "The river starts as a trickle under a threshold and turns uncrossable within a short walk, with no stream anywhere joining it. What is that impossible growth claiming about where life comes from, and where would you most want to see something like it?",
+      "assessment_questions": [
+        "How deep is the water at each of the four measurements in Ezekiel 47:3-5, and what happens to the Dead Sea once the river reaches it?",
+        "The water deepens with nothing feeding it and makes fresh a sea nothing lives in. What is that picture claiming about God's presence?",
+        "The last word of the book is the city's new name, that the LORD is there. If that were the true name of the place you live or work, what would you do differently tomorrow?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Life flows from presence",
+          "explanation": "The river's source is under the sanctuary threshold, so the healing and abundance downstream are effects of God living there rather than features of the landscape."
+        },
+        {
+          "concept": "It grows as it goes",
+          "explanation": "The water rises at every measurement with no tributary anywhere in sight, which pictures a renewal that increases by its own nature instead of thinning out."
+        },
+        {
+          "concept": "The deadest place is the test case",
+          "explanation": "The river runs into a sea famous for killing everything in it and makes the water fresh, so the vision picks the hardest possible ground to make its claim on."
+        },
+        {
+          "concept": "The name is the point",
+          "explanation": "Allotments and gates and measurements all end in a city renamed for God being there, which makes the restoration finally about who is present rather than what got built."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe what happens to the river and to the Dead Sea in chapter 47, and explain what the city's new name in Ezekiel 48:35 claims about the future God intends.",
+      "comprehension_check": [
+        {
+          "question": "The guide walks Ezekiel into the water four times and it is deeper at every stop. What is the point of measuring it that way?",
+          "options": [
+            "It shows a life that keeps increasing the further it goes",
+            "It shows how carefully the guide records every part of the vision",
+            "It shows the stages Israel must pass through to be restored",
+            "It shows how far Ezekiel had to walk to reach the sea"
+          ],
+          "answer_index": 0,
+          "why": "Ezekiel 47:3-5 has the water rise from ankle deep to uncrossable across four short stretches with nothing flowing into it along the way.",
+          "hint": "Read Ezekiel 47:1-6 again. Notice where the water starts, and what does or does not join it as it runs."
+        },
+        {
+          "question": "The book closes with tribal boundaries, then city gates, then a new name for the city. What does ending in that order claim about the restoration?",
+          "options": [
+            "The rebuilt city will finally be secure against every enemy",
+            "The land divided fairly is what the exiles most needed",
+            "The point of it all is that God himself is present",
+            "The tribes are restored to the borders they held under David"
+          ],
+          "answer_index": 2,
+          "why": "Ezekiel 48:35 names the city for God being there, so the last word of the whole book is his presence.",
+          "hint": "Read Ezekiel 48:30-35 again. Notice what the final line names, and compare it with everything measured before it."
+        }
+      ],
+      "verse_span": {
+        "from": "47:1",
+        "to": "48:35"
+      }
+    }
+  ]
+}

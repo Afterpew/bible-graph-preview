@@ -1,0 +1,39 @@
+{
+  "dataset": "Bible Graph",
+  "version": "v0",
+  "counts": {
+    "nodes": 306,
+    "nodesByCanonLayer": {
+      "core": 290,
+      "catholic_deuterocanon": 11,
+      "orthodox_addition": 5
+    },
+    "edges": 426,
+    "paths": 9,
+    "books": 80
+  },
+  "canonLayerLabels": {
+    "catholic_deuterocanon": {
+      "catholic_orthodox_term": "deuterocanonical",
+      "protestant_term": "apocrypha"
+    },
+    "orthodox_addition": {
+      "catholic_orthodox_term": "deuterocanonical",
+      "protestant_term": "apocrypha"
+    }
+  },
+  "files": {
+    "nodes.json": {
+      "bytes": 1637004,
+      "sha256": "72f3f2dd75e91d3505988236b67cadabcd1b28b2f533747bf0777c5249cd30b5"
+    },
+    "edges.json": {
+      "bytes": 121389,
+      "sha256": "d3157b25d5b917e624fd85e8aeacded06677a344e703473fe1e5d71553837986"
+    },
+    "paths.json": {
+      "bytes": 80455,
+      "sha256": "42b0123464433b9a555f1971de226703e84c32a0c03d9ca2646ea2068bad3ce6"
+    }
+  }
+}

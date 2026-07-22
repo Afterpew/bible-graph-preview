@@ -1,0 +1,84 @@
+{
+  "book": "2 John",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "2john",
+      "title": "2 John: Truth and Love, with Doors",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:13"
+      },
+      "difficulty_tier": 2,
+      "summary": "A postcard to 'the elect lady and her children': walk in the love commanded from the beginning — and do not receive traveling teachers who deny Christ come in the flesh. Love has a boundary where the truth of the incarnation is at stake; hospitality is not neutrality.",
+      "key_themes": [
+        "walking in truth",
+        "love commanded",
+        "discernment",
+        "hospitality's limit"
+      ],
+      "prerequisites": [
+        {
+          "node": "1john",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The letter compresses 1 John's flesh-denying-deceivers crisis into one page; it presumes that fuller treatment.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "2 John 1:6",
+        "2 John 1:7",
+        "2 John 1:10-11"
+      ],
+      "reading_time_minutes": 3,
+      "content_density": "light",
+      "emotional_tone": [
+        "warning",
+        "resolve"
+      ],
+      "discussion_prompt": "John tells a church to walk in love and, in the same breath, to shut the door on teachers who deny that Christ came in the flesh. When does protecting the truth become an act of love, and where do you find that boundary hard to hold in your own relationships?",
+      "assessment_questions": [
+        "What command does John say the church has had from the beginning, and what teaching marks the deceivers he warns about?",
+        "John says receiving a false teacher into your house makes you a participant in his wicked works. Why does hospitality carry that much weight in this letter?",
+        "This letter holds truth and love together without letting either cancel the other. Where are you tempted to choose one at the expense of the other, and what would holding both look like this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Truth and love together",
+          "explanation": "Walking in truth and walking in love are one path, so faithfulness to sound teaching and real charity belong to the same life."
+        },
+        {
+          "concept": "The incarnation test",
+          "explanation": "Confessing that Jesus Christ came in the flesh is the dividing line, because denying it undermines the whole gospel."
+        },
+        {
+          "concept": "Hospitality has limits",
+          "explanation": "Lending your home or endorsement to a teacher spreads that teacher's message, so support itself is a moral act."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why John tells the elect lady both to love one another and to refuse hospitality to certain teachers, and what confession separates the two groups.",
+      "comprehension_check": [
+        {
+          "question": "2 John commands love in one breath and forbids receiving certain teachers in the next. How does the letter hold the two together?",
+          "options": [
+            "Love is owed only to those who already hold the true confession",
+            "Truth outranks love, so the command to love yields in a crisis",
+            "Hosting a teacher joins his work, so the boundary guards the truth",
+            "The refusal protects the household's good name among watching pagan neighbors"
+          ],
+          "answer_index": 2,
+          "why": "2 John 1:11 counts the host as a sharer in the visiting teacher's work, so the closed door keeps love walking in the truth.",
+          "hint": "Read 2 John 1:6 and 1:10-11 again. Notice what John says a greeting actually does."
+        }
+      ]
+    }
+  ]
+}

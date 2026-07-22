@@ -1,0 +1,944 @@
+{
+  "id": "apologetics-foundations",
+  "title": "Apologetics Foundations",
+  "description": "The whole Bible read as one sustained case for the credibility of the faith, arranged in the order a skeptic actually raises the questions: the world as evidence, a God who acts in history, prophecy staking a falsifiable claim, the identity of Jesus, the resurrection, the reasoned defense, and the final verdict. Every chapter of the 66-book canon, in eight movements.",
+  "audience": "Anyone training to give a reason for the hope within them, with gentleness and respect, and anyone whose faith is under honest pressure.",
+  "coverage": "full",
+  "order": "enforced",
+  "canon_layers": [
+    "core"
+  ],
+  "movements": [
+    {
+      "numeral": "I",
+      "title": "The World as Evidence",
+      "blurb": "Before any special claim, the universal witnesses: a cosmos that is made and ordered, a humanity that bears the image and yet is broken, a conscience that accuses. The case opens with the reality every worldview has to explain.",
+      "start_node": "gen-1-3",
+      "node_count": 5
+    },
+    {
+      "numeral": "II",
+      "title": "The God Who Steps Into History",
+      "blurb": "The scandal of particularity: this God does not stay an abstraction. He binds himself to a named family and a datable rescue, defeats the gods of Egypt in public, and gives a moral law that points past itself to a Lawgiver. Faith stakes itself on events, not ideas.",
+      "start_node": "gen-12-17",
+      "node_count": 38
+    },
+    {
+      "numeral": "III",
+      "title": "The Track Record and the Honest Questions",
+      "blurb": "The covenant is tested in real history: land won, kings raised, a throne promised that every later hope will hang on. And the faith proves it can face its own hardest questions — Job on innocent suffering, Ecclesiastes on meaninglessness — without flinching.",
+      "start_node": "josh-1-5",
+      "node_count": 60
+    },
+    {
+      "numeral": "IV",
+      "title": "The God Who Declares the End: Prophecy on Trial",
+      "blurb": "The Bible stakes a claim it invites you to check: the true God tells what is coming before it happens, and the idols cannot. The kingdom slides toward ruin exactly as warned, and the most specific predictions sharpen to a point, reaching the centerpiece of the case in the Suffering Servant written centuries before the cross.",
+      "start_node": "1kgs-12-16",
+      "node_count": 107
+    },
+    {
+      "numeral": "V",
+      "title": "The Claim Made Flesh: Who Is Jesus?",
+      "blurb": "The four witnesses present as history, and the man at the center makes claims no mere teacher makes. The trilemma, the I AM sayings, the signs offered as public evidence: the reader is forced to a verdict about his identity.",
+      "start_node": "matt-1-2",
+      "node_count": 23
+    },
+    {
+      "numeral": "VI",
+      "title": "The Evidence: Crucified and Risen",
+      "blurb": "The claim meets its test at a tomb. Four accounts of the execution and the empty grave, with the details no inventor would choose, and the case turns on whether it happened. Everything the faith asserts stands or falls here.",
+      "start_node": "matt-26-28",
+      "node_count": 5
+    },
+    {
+      "numeral": "VII",
+      "title": "The Defense Goes Out",
+      "blurb": "The witnesses who saw it cannot be silenced. The gospel is reasoned in the synagogues and on Mars Hill, defended before hostile rulers, argued to its foundations in Romans and Hebrews, and guarded against every rival philosophy. Here the charter finally lands: always be ready to give a reason, with gentleness and respect.",
+      "start_node": "acts-2",
+      "node_count": 44
+    },
+    {
+      "numeral": "VIII",
+      "title": "The Verdict: The Case Proven",
+      "blurb": "The apologetic ends where history is headed: the Lamb on the throne, every rival power judged, the witnesses vindicated, and a new creation whose last word about itself is that these words are trustworthy and true.",
+      "start_node": "rev-1-3",
+      "node_count": 8
+    }
+  ],
+  "sequence": [
+    {
+      "node": "gen-1-3",
+      "note": "Start where every worldview has to start: is the universe made and meant, or brute accident? Genesis claims a cosmos that is ordered, good, and image-bearing, and a humanity that is real but fallen. That is the reality the rest of the case has to fit."
+    },
+    {
+      "node": "john-1",
+      "note": "Reflection, not sequence: John's prologue is inspired commentary on the chapter you just read. It names the rational Word behind the world's order, the same Logos a skeptic senses when the universe turns out to be intelligible at all."
+    },
+    {
+      "node": "gen-4-5",
+      "note": "The fall was not a one-time slip. Violence, pride, and scattered nations show the diagnosis holding across generations. Any honest apologetic has to account for why the world is this broken, and this is the Bible's answer."
+    },
+    {
+      "node": "gen-6-9"
+    },
+    {
+      "node": "gen-10-11"
+    },
+    {
+      "node": "gen-12-17"
+    },
+    {
+      "node": "gen-18-23"
+    },
+    {
+      "node": "gen-24-26"
+    },
+    {
+      "node": "gen-27-28"
+    },
+    {
+      "node": "gen-29-31"
+    },
+    {
+      "node": "gen-32-36"
+    },
+    {
+      "node": "gen-37-41"
+    },
+    {
+      "node": "gen-42-45"
+    },
+    {
+      "node": "gen-46-50"
+    },
+    {
+      "node": "exod-1-4"
+    },
+    {
+      "node": "exod-5-11"
+    },
+    {
+      "node": "exod-12-15"
+    },
+    {
+      "node": "exod-16-18"
+    },
+    {
+      "node": "exod-19-24"
+    },
+    {
+      "node": "exod-25-31"
+    },
+    {
+      "node": "exod-32-34"
+    },
+    {
+      "node": "exod-35-40"
+    },
+    {
+      "node": "lev-1-7"
+    },
+    {
+      "node": "lev-8-10"
+    },
+    {
+      "node": "lev-16"
+    },
+    {
+      "node": "lev-11-15"
+    },
+    {
+      "node": "lev-17-22"
+    },
+    {
+      "node": "lev-23-27"
+    },
+    {
+      "node": "num-1-4"
+    },
+    {
+      "node": "num-5-10"
+    },
+    {
+      "node": "num-11-14"
+    },
+    {
+      "node": "num-15-19"
+    },
+    {
+      "node": "num-20-25"
+    },
+    {
+      "node": "num-26-27"
+    },
+    {
+      "node": "num-28-30"
+    },
+    {
+      "node": "num-31-36"
+    },
+    {
+      "node": "deut-1-4"
+    },
+    {
+      "node": "deut-5-11"
+    },
+    {
+      "node": "deut-12-16a"
+    },
+    {
+      "node": "deut-16b-18"
+    },
+    {
+      "node": "deut-19-26"
+    },
+    {
+      "node": "deut-27-30"
+    },
+    {
+      "node": "deut-31-34"
+    },
+    {
+      "node": "josh-1-5"
+    },
+    {
+      "node": "josh-6-8"
+    },
+    {
+      "node": "josh-9-12"
+    },
+    {
+      "node": "josh-13-19"
+    },
+    {
+      "node": "josh-20-21"
+    },
+    {
+      "node": "josh-22-24"
+    },
+    {
+      "node": "judg-1-2"
+    },
+    {
+      "node": "judg-3-8"
+    },
+    {
+      "node": "judg-9-12"
+    },
+    {
+      "node": "judg-13-16"
+    },
+    {
+      "node": "judg-17-21"
+    },
+    {
+      "node": "ruth"
+    },
+    {
+      "node": "1sam-1-3"
+    },
+    {
+      "node": "1sam-4-7"
+    },
+    {
+      "node": "1sam-8-12"
+    },
+    {
+      "node": "1sam-13-15"
+    },
+    {
+      "node": "1sam-16-20"
+    },
+    {
+      "node": "1sam-21-26"
+    },
+    {
+      "node": "1sam-27-31"
+    },
+    {
+      "node": "2sam-1-6"
+    },
+    {
+      "node": "2sam-7"
+    },
+    {
+      "node": "2sam-8-10"
+    },
+    {
+      "node": "2sam-11-12"
+    },
+    {
+      "node": "ps-51"
+    },
+    {
+      "node": "2sam-13-20"
+    },
+    {
+      "node": "2sam-21-24"
+    },
+    {
+      "node": "ps-1-2"
+    },
+    {
+      "node": "ps-3-8"
+    },
+    {
+      "node": "ps-9-14"
+    },
+    {
+      "node": "ps-15-24"
+    },
+    {
+      "node": "ps-25-34"
+    },
+    {
+      "node": "ps-35-41"
+    },
+    {
+      "node": "ps-23"
+    },
+    {
+      "node": "ps-22"
+    },
+    {
+      "node": "ps-42-49"
+    },
+    {
+      "node": "ps-50"
+    },
+    {
+      "node": "ps-52-60"
+    },
+    {
+      "node": "ps-61-68"
+    },
+    {
+      "node": "ps-69-72"
+    },
+    {
+      "node": "ps-110"
+    },
+    {
+      "node": "ps-84-89"
+    },
+    {
+      "node": "1kgs-1-4"
+    },
+    {
+      "node": "1kgs-5-8"
+    },
+    {
+      "node": "1kgs-9-11"
+    },
+    {
+      "node": "prov-1-9"
+    },
+    {
+      "node": "prov-10-22a"
+    },
+    {
+      "node": "prov-22b-24"
+    },
+    {
+      "node": "prov-25-29"
+    },
+    {
+      "node": "prov-30-31"
+    },
+    {
+      "node": "job-1-2"
+    },
+    {
+      "node": "job-3-14"
+    },
+    {
+      "node": "job-15-21"
+    },
+    {
+      "node": "job-22-27"
+    },
+    {
+      "node": "job-28"
+    },
+    {
+      "node": "job-29-31"
+    },
+    {
+      "node": "job-32-37"
+    },
+    {
+      "node": "job-38-42"
+    },
+    {
+      "node": "eccl-1-6"
+    },
+    {
+      "node": "eccl-7-12"
+    },
+    {
+      "node": "song"
+    },
+    {
+      "node": "1kgs-12-16"
+    },
+    {
+      "node": "1kgs-17-22"
+    },
+    {
+      "node": "2kgs-1-8"
+    },
+    {
+      "node": "2kgs-9-10"
+    },
+    {
+      "node": "2kgs-11-16"
+    },
+    {
+      "node": "2kgs-17"
+    },
+    {
+      "node": "2kgs-18-20"
+    },
+    {
+      "node": "2kgs-21-23"
+    },
+    {
+      "node": "2kgs-24-25"
+    },
+    {
+      "node": "ps-73-83"
+    },
+    {
+      "node": "jonah"
+    },
+    {
+      "node": "amos-1-6"
+    },
+    {
+      "node": "amos-7-9"
+    },
+    {
+      "node": "hos-1-3"
+    },
+    {
+      "node": "hos-4-10"
+    },
+    {
+      "node": "hos-11-14"
+    },
+    {
+      "node": "mic-1-3"
+    },
+    {
+      "node": "mic-4-7"
+    },
+    {
+      "node": "isa-1-5"
+    },
+    {
+      "node": "isa-6"
+    },
+    {
+      "node": "isa-7-12"
+    },
+    {
+      "node": "isa-13-20"
+    },
+    {
+      "node": "isa-21-23"
+    },
+    {
+      "node": "isa-24-27"
+    },
+    {
+      "node": "isa-28-33"
+    },
+    {
+      "node": "isa-34-35"
+    },
+    {
+      "node": "nah"
+    },
+    {
+      "node": "isa-36-39"
+    },
+    {
+      "node": "zeph"
+    },
+    {
+      "node": "hab"
+    },
+    {
+      "node": "jer-1"
+    },
+    {
+      "node": "jer-2-6"
+    },
+    {
+      "node": "jer-7-10"
+    },
+    {
+      "node": "jer-11-13"
+    },
+    {
+      "node": "jer-14-17"
+    },
+    {
+      "node": "jer-18-20"
+    },
+    {
+      "node": "jer-21-25"
+    },
+    {
+      "node": "jer-26-29"
+    },
+    {
+      "node": "jer-30-33"
+    },
+    {
+      "node": "jer-34-36"
+    },
+    {
+      "node": "jer-37-39"
+    },
+    {
+      "node": "jer-40-45"
+    },
+    {
+      "node": "lam"
+    },
+    {
+      "node": "obad"
+    },
+    {
+      "node": "jer-46-49"
+    },
+    {
+      "node": "jer-50-51"
+    },
+    {
+      "node": "jer-52"
+    },
+    {
+      "node": "ezek-1-3"
+    },
+    {
+      "node": "ezek-4-7"
+    },
+    {
+      "node": "ezek-8-11"
+    },
+    {
+      "node": "ezek-12-19"
+    },
+    {
+      "node": "ezek-20-24"
+    },
+    {
+      "node": "ezek-25-28"
+    },
+    {
+      "node": "ezek-29-32"
+    },
+    {
+      "node": "dan-1"
+    },
+    {
+      "node": "dan-2"
+    },
+    {
+      "node": "dan-3"
+    },
+    {
+      "node": "dan-4-6"
+    },
+    {
+      "node": "dan-7"
+    },
+    {
+      "node": "ezek-33-37"
+    },
+    {
+      "node": "ezek-38-39"
+    },
+    {
+      "node": "ezek-40-42"
+    },
+    {
+      "node": "ezek-43-46"
+    },
+    {
+      "node": "ezek-47-48"
+    },
+    {
+      "node": "isa-40"
+    },
+    {
+      "node": "isa-41-48"
+    },
+    {
+      "node": "isa-49-51"
+    },
+    {
+      "node": "isa-52-53"
+    },
+    {
+      "node": "isa-54-55"
+    },
+    {
+      "node": "isa-56-59"
+    },
+    {
+      "node": "isa-60-62"
+    },
+    {
+      "node": "isa-63-66"
+    },
+    {
+      "node": "1chr-1-9"
+    },
+    {
+      "node": "1chr-10-12"
+    },
+    {
+      "node": "1chr-13-16"
+    },
+    {
+      "node": "1chr-17-21"
+    },
+    {
+      "node": "1chr-22-29"
+    },
+    {
+      "node": "2chr-1"
+    },
+    {
+      "node": "2chr-2-7"
+    },
+    {
+      "node": "2chr-8-9"
+    },
+    {
+      "node": "2chr-10-16"
+    },
+    {
+      "node": "2chr-17-20"
+    },
+    {
+      "node": "2chr-21-24"
+    },
+    {
+      "node": "2chr-25-28"
+    },
+    {
+      "node": "2chr-29-32"
+    },
+    {
+      "node": "2chr-33-36"
+    },
+    {
+      "node": "ezra-1-6"
+    },
+    {
+      "node": "hag"
+    },
+    {
+      "node": "zech-1-8"
+    },
+    {
+      "node": "zech-9-14"
+    },
+    {
+      "node": "ezra-7-10"
+    },
+    {
+      "node": "neh-1-7"
+    },
+    {
+      "node": "neh-8-13"
+    },
+    {
+      "node": "ps-119"
+    },
+    {
+      "node": "esth"
+    },
+    {
+      "node": "dan-8-12"
+    },
+    {
+      "node": "joel"
+    },
+    {
+      "node": "mal"
+    },
+    {
+      "node": "ps-90-92"
+    },
+    {
+      "node": "ps-93-100"
+    },
+    {
+      "node": "ps-101-106"
+    },
+    {
+      "node": "ps-107-112"
+    },
+    {
+      "node": "ps-135-137"
+    },
+    {
+      "node": "ps-138-145"
+    },
+    {
+      "node": "ps-113-118"
+    },
+    {
+      "node": "ps-120-134"
+    },
+    {
+      "node": "ps-146-150"
+    },
+    {
+      "node": "matt-1-2"
+    },
+    {
+      "node": "luke-1-2"
+    },
+    {
+      "node": "matt-3-4"
+    },
+    {
+      "node": "luke-3-4"
+    },
+    {
+      "node": "john-2-4"
+    },
+    {
+      "node": "mark-1-3"
+    },
+    {
+      "node": "luke-5-9"
+    },
+    {
+      "node": "matt-5-7"
+    },
+    {
+      "node": "matt-8-10"
+    },
+    {
+      "node": "mark-4-5"
+    },
+    {
+      "node": "matt-11-15"
+    },
+    {
+      "node": "mark-6-8"
+    },
+    {
+      "node": "john-5-8"
+    },
+    {
+      "node": "matt-16-18"
+    },
+    {
+      "node": "mark-9-10"
+    },
+    {
+      "node": "luke-10-14"
+    },
+    {
+      "node": "luke-15-19"
+    },
+    {
+      "node": "john-9-12"
+    },
+    {
+      "node": "matt-19-21"
+    },
+    {
+      "node": "mark-11-13"
+    },
+    {
+      "node": "luke-20-21"
+    },
+    {
+      "node": "matt-22-25"
+    },
+    {
+      "node": "john-13-17"
+    },
+    {
+      "node": "matt-26-28"
+    },
+    {
+      "node": "mark-14-16"
+    },
+    {
+      "node": "luke-22-24"
+    },
+    {
+      "node": "john-18-21"
+    },
+    {
+      "node": "acts-1"
+    },
+    {
+      "node": "acts-2"
+    },
+    {
+      "node": "acts-3-5"
+    },
+    {
+      "node": "acts-6-7"
+    },
+    {
+      "node": "acts-8-9"
+    },
+    {
+      "node": "acts-10-12"
+    },
+    {
+      "node": "acts-13-15"
+    },
+    {
+      "node": "acts-16-20"
+    },
+    {
+      "node": "acts-21-26"
+    },
+    {
+      "node": "acts-27-28"
+    },
+    {
+      "node": "gal"
+    },
+    {
+      "node": "jas"
+    },
+    {
+      "node": "1thess"
+    },
+    {
+      "node": "2thess"
+    },
+    {
+      "node": "1cor-1-4"
+    },
+    {
+      "node": "1cor-5-7"
+    },
+    {
+      "node": "1cor-8-11"
+    },
+    {
+      "node": "1cor-12-14"
+    },
+    {
+      "node": "1cor-15-16"
+    },
+    {
+      "node": "2cor-1-7"
+    },
+    {
+      "node": "2cor-8-9"
+    },
+    {
+      "node": "2cor-10-13"
+    },
+    {
+      "node": "rom-1-4"
+    },
+    {
+      "node": "rom-5-8"
+    },
+    {
+      "node": "rom-9-11"
+    },
+    {
+      "node": "rom-12-16"
+    },
+    {
+      "node": "eph-1-3"
+    },
+    {
+      "node": "eph-4-6"
+    },
+    {
+      "node": "col"
+    },
+    {
+      "node": "phlm"
+    },
+    {
+      "node": "phil"
+    },
+    {
+      "node": "1tim"
+    },
+    {
+      "node": "titus"
+    },
+    {
+      "node": "2tim"
+    },
+    {
+      "node": "1pet"
+    },
+    {
+      "node": "2pet"
+    },
+    {
+      "node": "jude"
+    },
+    {
+      "node": "1john"
+    },
+    {
+      "node": "2john"
+    },
+    {
+      "node": "3john"
+    },
+    {
+      "node": "heb-1-4"
+    },
+    {
+      "node": "heb-5-7"
+    },
+    {
+      "node": "heb-8-10"
+    },
+    {
+      "node": "heb-11"
+    },
+    {
+      "node": "heb-12-13"
+    },
+    {
+      "node": "rev-1-3"
+    },
+    {
+      "node": "rev-4-5"
+    },
+    {
+      "node": "rev-6-11"
+    },
+    {
+      "node": "rev-12-14"
+    },
+    {
+      "node": "rev-15-16"
+    },
+    {
+      "node": "rev-17-19"
+    },
+    {
+      "node": "rev-20"
+    },
+    {
+      "node": "rev-21-22"
+    }
+  ]
+}

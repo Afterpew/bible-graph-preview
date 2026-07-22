@@ -1,0 +1,116 @@
+{
+  "book": "James",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "jas",
+      "title": "James: Faith That Works",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "5:20"
+      },
+      "difficulty_tier": 2,
+      "summary": "The New Testament's proverbs, likely from Jesus' own brother: trials produce steadfastness, be doers and not hearers only, no favoritism toward the rich, the tongue a fire no one can tame, wisdom from above, and the line that launched a thousand debates — 'faith apart from works is dead.' Practical to the bone, and closer to the Sermon on the Mount than any other letter.",
+      "key_themes": [
+        "doing the word",
+        "faith and works",
+        "the tongue",
+        "wisdom",
+        "prayer"
+      ],
+      "prerequisites": [
+        {
+          "node": "prov-10-22a",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "James writes in wisdom-literature register; Proverbs is his genre's home soil."
+        },
+        {
+          "node": "matt-5-7",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "The letter reworks the Sermon on the Mount — oaths, treasure, judging, doing — at every turn."
+        }
+      ],
+      "connections": [
+        {
+          "node": "gen-18-23",
+          "reason": "James cites the Binding of Isaac as faith 'completed by works' — the same Abraham Paul cites for faith alone."
+        }
+      ],
+      "tradition_notes": "James 2:24 ('a person is justified by works and not by faith alone') beside Romans 3:28 is the classic Protestant-Catholic flashpoint; Luther famously called James 'an epistle of straw.' The broad resolution across traditions — Paul opposes works as entry-ticket, James opposes workless profession — is now widely shared, but confessional documents still weight the texts differently.",
+      "key_verses": [
+        "James 1:2-4",
+        "James 1:22",
+        "James 2:17"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "confrontational",
+        "urgent"
+      ],
+      "discussion_prompt": "James insists that hearing the word without doing it is self-deception, like glancing in a mirror and forgetting your own face. Where is the widest gap between what you say you believe and what you actually do, and what would closing that gap this week require of you?",
+      "assessment_questions": [
+        "What does James say trials produce in a believer, and what does he tell the person who lacks wisdom to do?",
+        "James says faith without works is dead and points to Abraham offering Isaac as faith completed by works. What kind of faith is James warning against, and what does he say living faith looks like?",
+        "James calls the tongue a small fire that can set a whole forest ablaze. Where have your words done damage recently, and what would taming your tongue look like in that relationship?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Trials produce steadfastness",
+          "explanation": "James reframes hardship as testing that matures faith, so believers can meet trials with a surprising kind of joy."
+        },
+        {
+          "concept": "Doers of the word",
+          "explanation": "Hearing God's word is meant to end in action, and James treats hearing that never acts as self-deception."
+        },
+        {
+          "concept": "Living faith shows itself",
+          "explanation": "Genuine faith becomes visible in deeds of mercy and obedience, the way a living body shows it is alive by breathing."
+        },
+        {
+          "concept": "The power of the tongue",
+          "explanation": "Small as it is, the tongue steers a whole life, so controlled speech is one of the clearest marks of real wisdom."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what James means by faith being completed by works, using one of his own examples, and name two areas of life where he says faith must become visible.",
+      "comprehension_check": [
+        {
+          "question": "James 1 pictures the hearer-only as a man glancing in a mirror and walking away. What is the picture diagnosing?",
+          "options": [
+            "Vanity, believers admiring their own religious reflection in public",
+            "Forgetfulness, a weakness cured by more frequent hearing",
+            "Hypocrisy, pretending outwardly what is absent within",
+            "Self-deception, religion that inspects but never changes anything"
+          ],
+          "answer_index": 3,
+          "why": "James 1:22-24 names the danger, hearers deceiving themselves like a man who forgets his own face.",
+          "hint": "Read James 1:22-25 again. Notice what James says the hearer-only does to himself."
+        },
+        {
+          "question": "James 2 and Paul in Romans both speak of faith, works, and justification, and readers have set them against each other for centuries. What must a reader sort out to locate the tension?",
+          "options": [
+            "Whether each writer means the same things by faith and works",
+            "Whether James or Paul carries the higher apostolic authority",
+            "Whether conduct matters at all to the God who saves",
+            "Whether one letter was written to overturn the other letter's teaching"
+          ],
+          "answer_index": 0,
+          "why": "James 2:19 shows the faith James has in view, bare assent even demons manage, which frames what his justification language is doing.",
+          "hint": "Read James 2:14-19 again. Notice what kind of faith James describes before he ever mentions justification."
+        }
+      ]
+    }
+  ]
+}

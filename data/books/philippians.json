@@ -1,0 +1,107 @@
+{
+  "book": "Philippians",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "phil",
+      "title": "Philippians: Joy from a Prison Cell",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:23"
+      },
+      "difficulty_tier": 2,
+      "summary": "Written in chains, saturated with joy: 'to live is Christ, to die is gain.' At its heart the Christ-hymn — equal with God, yet emptying himself to a slave's death on a cross, therefore exalted with the name above every name — and its famous exhales: rejoice always, be anxious for nothing, 'I can do all things through him who strengthens me.'",
+      "key_themes": [
+        "joy",
+        "humility of Christ",
+        "contentment",
+        "citizenship in heaven"
+      ],
+      "prerequisites": [
+        {
+          "node": "acts-16-20",
+          "strength": "soft",
+          "type": "narrative",
+          "reason": "The church began in Acts 16's jailhouse midnight — a letter about joy in chains, to people converted through them."
+        }
+      ],
+      "connections": [
+        {
+          "node": "isa-41-48",
+          "reason": "'Every knee shall bow, every tongue confess' transfers Isaiah 45's oath to YHWH onto Jesus."
+        }
+      ],
+      "key_verses": [
+        "Philippians 1:21",
+        "Philippians 2:5-8",
+        "Philippians 4:6-7"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "joy",
+        "comfort"
+      ],
+      "discussion_prompt": "Paul writes about joy from a prison cell, with his life genuinely on the line. What does his joy rest on that his circumstances cannot touch, and what does your own joy currently rest on?",
+      "assessment_questions": [
+        "Where is Paul when he writes this letter, and what does he say his imprisonment has actually done for the gospel?",
+        "The hymn in chapter 2 traces Christ from equality with God down to death on a cross and up to the name above every name. What does that downward and upward movement teach about how God defines greatness?",
+        "Paul says he has learned contentment in plenty and in hunger through Christ who strengthens him. What situation in your life most tests your contentment, and what would leaning on Christ's strength there look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Joy the prison cannot bind",
+          "explanation": "Paul's joy rests on Christ and the gospel's advance, so even chains gain purpose instead of stealing his hope."
+        },
+        {
+          "concept": "To live is Christ",
+          "explanation": "Union with Christ gives Paul a single center of meaning, so both living and dying become gain."
+        },
+        {
+          "concept": "The mind of Christ",
+          "explanation": "The Christ-hymn holds up self-emptying service as the shape of discipleship, with exaltation following humility rather than grasping."
+        },
+        {
+          "concept": "Contentment through prayer",
+          "explanation": "Peace that passes understanding comes by handing every anxiety to God in prayer and trusting Christ's strength in any circumstance."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the Christ-hymn's movement from equality with God to the cross to exaltation, and explain how it shapes Paul's joy in prison.",
+      "comprehension_check": [
+        {
+          "question": "The hymn of Philippians 2 arrives right after a plea for humility and unity in the church. What is the hymn there to do?",
+          "options": [
+            "To settle how the divine and human met in Jesus",
+            "To give the church the pattern its life should take",
+            "To assure them their suffering will earn the same exaltation",
+            "To warn that pride forfeits a place in the kingdom"
+          ],
+          "answer_index": 1,
+          "why": "Philippians 2:3-5 asks for humility that puts others first, then holds up Christ as the shape that mindset takes.",
+          "hint": "Read Philippians 2:1-5 again. Notice what the church is asked to do just before the hymn begins."
+        },
+        {
+          "question": "From prison Paul claims his chains have actually helped the gospel along. What lets him read his situation that way?",
+          "options": [
+            "His confidence that the verdict will soon be overturned",
+            "His belief that suffering banks a greater final reward",
+            "His refusal to dwell on how serious things are",
+            "His single measure for everything, whether Christ gets proclaimed"
+          ],
+          "answer_index": 3,
+          "why": "Philippians 1:12-18 measures the imprisonment by the gospel's progress, and by that measure the chains are working.",
+          "hint": "Read Philippians 1:12-18 again. Notice what Paul keeps counting while he sits in chains."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "book": "Mark",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Gospel",
+  "nodes": [
+    {
+      "id": "mark-1-3",
+      "title": "The Kingdom Breaks In",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "3:35"
+      },
+      "difficulty_tier": 1,
+      "summary": "No genealogy, no nativity — Mark opens at a sprint: baptism, wilderness, and 'the kingdom of God is at hand.' Demons expelled, a paralytic forgiven and healed, sinners at the table, sabbath rules overruled; within three chapters the authorities are already plotting and his family thinks he's insane. The word is 'immediately,' more than forty times.",
+      "key_themes": [
+        "kingdom of God",
+        "authority",
+        "forgiveness",
+        "conflict"
+      ],
+      "prerequisites": [
+        {
+          "node": "isa-40",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "Mark's opening line splices Malachi with Isaiah 40's 'voice in the wilderness' — the new exodus begins."
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Mark 1:15",
+        "Mark 2:10",
+        "Mark 2:27"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "urgent",
+        "awe"
+      ],
+      "discussion_prompt": "Mark's Jesus moves fast. Within three chapters he has forgiven sins, overruled sabbath custom, and been called insane by his own family. What makes his authority so unsettling to almost everyone in these chapters, and which of his claims would unsettle you most if you heard it fresh?",
+      "assessment_questions": [
+        "What is Jesus' first announcement in Mark, and what do the friends of the paralyzed man do to get him to Jesus?",
+        "When Jesus tells the paralytic his sins are forgiven, the scribes object that only God can forgive sins. Why does Mark want the healing that follows to answer that objection?",
+        "Jesus says he came to call sinners, and the religious keep their distance from his table. Whose table would following him put you at, and what reputation would you risk by sitting there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The kingdom is here",
+          "explanation": "Jesus' opening summons is to repent and believe, because God's reign has come near in him."
+        },
+        {
+          "concept": "Authority that forgives",
+          "explanation": "The healings and exorcisms display power, and pronouncing forgiveness claims a prerogative that belongs to God alone."
+        },
+        {
+          "concept": "Mercy over ritual",
+          "explanation": "The sabbath disputes show Jesus reading the law toward human need and mercy, which provokes the religiously rigid."
+        },
+        {
+          "concept": "Following costs immediately",
+          "explanation": "Fishermen leave their nets on the spot, and opposition gathers as fast as the crowds do."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe Jesus' opening announcement in Mark, and explain how the paralytic's healing backs his claim to forgive sins.",
+      "comprehension_check": [
+        {
+          "question": "In Mark 2:9-11 Jesus answers the charge against him by healing the paralytic. What is the healing meant to show?",
+          "options": [
+            "Healing matters more to Jesus than debates about forgiveness",
+            "Visible power backs his invisible claim to forgive sins",
+            "The man's faith earned both his healing and his pardon",
+            "Jesus heals to prove the man's sickness came from sin"
+          ],
+          "answer_index": 1,
+          "why": "Mark 2:10 states the purpose of the miracle, to show that the Son of Man really holds authority to forgive.",
+          "hint": "Read Mark 2:5-12 again. Notice the question Jesus asks in Mark 2:9, and what the crowd can and cannot see."
+        },
+        {
+          "question": "Mark opens with Jesus announcing that God's reign has drawn near. In Mark 1-3, where does that nearness actually show itself?",
+          "options": [
+            "In the crowds, whose enthusiasm spreads the movement through Galilee",
+            "In a program of reform Jesus launches within the synagogues",
+            "In Jesus himself, whose word commands demons, disease, and disciples",
+            "In Rome's retreat, as political power begins changing hands"
+          ],
+          "answer_index": 2,
+          "why": "In Mark 1:27 the crowd sees it, authority in Jesus' own word that even the unclean spirits obey.",
+          "hint": "Read Mark 1:16-27 again. Notice what happens each time Jesus speaks, and to whom."
+        }
+      ]
+    },
+    {
+      "id": "mark-4-5",
+      "title": "Parables and Power",
+      "chapters": [
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "4:1",
+        "to": "5:43"
+      },
+      "difficulty_tier": 1,
+      "summary": "The sower and the mustard seed by day; by night a storm silenced with two words while the disciples ask the Gospel's central question: 'Who then is this, that even wind and sea obey him?' Then a legion of demons, a hemorrhaging woman healed by a touch, and a dead twelve-year-old told to get up — talitha koum.",
+      "key_themes": [
+        "parables",
+        "who is this?",
+        "faith and fear",
+        "power over death"
+      ],
+      "prerequisites": [
+        {
+          "node": "mark-1-3",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The mounting question of Jesus' identity builds directly on the opening chapters' collisions.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ps-107-112",
+          "reason": "Psalm 107's sailors — 'he made the storm be still' — is the background that makes calming the sea a divine act."
+        }
+      ],
+      "key_verses": [
+        "Mark 4:41",
+        "Mark 5:34",
+        "Mark 5:41"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "awe",
+        "tension"
+      ],
+      "discussion_prompt": "After the storm goes silent, the disciples are more afraid of Jesus than they were of the weather, asking who this is that wind and sea obey. As you watch him quiet a storm, free a tormented man, and raise a dead girl, how would you answer their question, and what would answering it honestly change for you?",
+      "assessment_questions": [
+        "What are the four soils in the parable of the sower, and what does Jesus say to the storm?",
+        "In chapter 5 a desperate woman touches Jesus' cloak in a crowd and a synagogue ruler begs for his dying daughter. What do their two stories show about how Jesus treats faith that comes out of desperation?",
+        "The freed demoniac wants to leave with Jesus, and Jesus sends him home to tell what the Lord has done for him. What has God done in your life that someone at home has never heard, and what keeps the story untold?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The heart decides the harvest",
+          "explanation": "The same seed lands on four soils, so receptivity determines whether the word bears fruit in a life."
+        },
+        {
+          "concept": "The kingdom grows by itself",
+          "explanation": "The seed parables show God's reign advancing quietly and surely, even while the farmer sleeps."
+        },
+        {
+          "concept": "Lord of nature and evil",
+          "explanation": "A calmed storm and an expelled legion reveal an authority over creation and dark powers that Scripture reserves for God."
+        },
+        {
+          "concept": "Compassion meets desperate faith",
+          "explanation": "The bleeding woman and Jairus's daughter show Jesus honoring faith that simply reaches for him when everything else has failed."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the parable of the sower in your own words, and describe how chapters 4 and 5 answer the disciples' question about who Jesus is.",
+      "comprehension_check": [
+        {
+          "question": "In Mark 4:35-41 Jesus stills the storm with a word, yet the disciples end more afraid than before. What has frightened them?",
+          "options": [
+            "They realize the storm was a punishment for their doubt",
+            "They fear Jesus will rebuke them as he rebuked the sea",
+            "They are ashamed their panic woke a sleeping teacher",
+            "They glimpse in their boat an authority Scripture gives God"
+          ],
+          "answer_index": 3,
+          "why": "Mark 4:41 ties their great fear to the question of his identity, for only God commands the sea.",
+          "hint": "Read Mark 4:39-41 again. Notice when the great fear arrives, before the calm or after it."
+        },
+        {
+          "question": "In the parable of the sower in Mark 4, one sower and one seed meet four kinds of ground. What decides the harvest?",
+          "options": [
+            "The kind of hearing the word meets in each person",
+            "The sower's care in choosing where his seed will land",
+            "The chance hazards of birds, sun, and crowding thorns",
+            "The amount of seed each patch of ground receives"
+          ],
+          "answer_index": 0,
+          "why": "In Mark 4:20 the good ground is defined by how the word is heard and welcomed.",
+          "hint": "Read Mark 4:14-20 again. Notice what stays the same in every scene, and what changes."
+        }
+      ]
+    },
+    {
+      "id": "mark-6-8",
+      "title": "Bread, Blindness, and the Turning Point",
+      "chapters": [
+        6,
+        7,
+        8
+      ],
+      "verse_span": {
+        "from": "6:1",
+        "to": "8:38"
+      },
+      "difficulty_tier": 2,
+      "summary": "Two feeding miracles bracket the disciples' incomprehension — 'do you not yet understand?' — with clean-and-unclean overturned ('thus he declared all foods clean') and a Syrophoenician mother out-arguing everyone in the book. A blind man healed in two stages becomes the parable of Peter, who sees ('You are the Christ') but only half.",
+      "key_themes": [
+        "bread",
+        "clean and unclean",
+        "gentile faith",
+        "partial sight"
+      ],
+      "prerequisites": [
+        {
+          "node": "mark-4-5",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The disciples' dullness escalates through the sequence; Peter's confession answers chapter 4's storm question.",
+          "scope": "sequence"
+        },
+        {
+          "node": "lev-11-15",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Mark assumes the Jewish Levitical categories of ritual purity around clean/unclean foods and persons that he never pauses to teach, so a reader unfamiliar with Leviticus will misread the force of Jesus' \"all foods clean\" and the handwashing controversy.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Mark 7:15",
+        "Mark 8:29",
+        "Mark 8:34"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "reflective",
+        "tension"
+      ],
+      "discussion_prompt": "Jesus feeds thousands twice, and the disciples still worry about bread in the boat while a Gentile mother trusts him for crumbs. What do these chapters show about how spiritual sight comes gradually, and where might you be seeing Jesus only half clearly right now?",
+      "assessment_questions": [
+        "How many people are fed in each of the two feeding miracles, and what does Peter say when Jesus asks who he is?",
+        "Jesus teaches that what defiles a person comes from within, and Mark adds that he declared all foods clean. What is Jesus relocating when he moves purity from the hands to the heart?",
+        "The blind man at Bethsaida first sees people like trees walking, and Jesus touches him a second time. What would asking Jesus for a second touch look like in the area where your understanding of him is still blurry?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Lord who provides",
+          "explanation": "Two feeding miracles show Jesus meeting real physical need with abundance, echoing God feeding Israel in the wilderness."
+        },
+        {
+          "concept": "Purity moves inward",
+          "explanation": "Jesus locates defilement in the heart's evils rather than in unwashed hands, so real holiness begins inside a person."
+        },
+        {
+          "concept": "Mercy crosses boundaries",
+          "explanation": "The Syrophoenician mother's faith wins her request, previewing a mission that reaches beyond Israel to the nations."
+        },
+        {
+          "concept": "Sight comes in stages",
+          "explanation": "The two-stage healing mirrors Peter, who names Jesus as the Christ while still misunderstanding what kind of Christ he is."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the two-stage healing at Bethsaida, and explain how it pictures Peter's confession at the end of chapter 8.",
+      "comprehension_check": [
+        {
+          "question": "Mark places a two-stage healing of a blind man right before Peter's confession at Caesarea Philippi. What is the placement doing?",
+          "options": [
+            "It shows some ailments resist even Jesus at first",
+            "It teaches that healing arrives through repeated persistent prayer",
+            "It mirrors Peter, who sees Jesus truly but only in part",
+            "It shows Jesus carefully adapting his methods to each person's need"
+          ],
+          "answer_index": 2,
+          "why": "Right after the healing Peter names Jesus the Christ in Mark 8:29, then fights the cross in Mark 8:32, sight still coming in stages.",
+          "hint": "Read Mark 8:22-25 and then Mark 8:27-33 again. Notice what happens in stages in both scenes."
+        },
+        {
+          "question": "Mark adds a note that Jesus' teaching in Mark 7 made all foods clean. Within Mark 6-8, what does that opening make way for?",
+          "options": [
+            "Freedom from the law as a whole for everyone who follows",
+            "The mercy that reaches a Gentile mother in the next scene",
+            "A verdict that Israel was wrong to have kept such rules",
+            "Proof that ritual never mattered to God at all"
+          ],
+          "answer_index": 1,
+          "why": "Straight after the saying Jesus goes to Tyre, and in Mark 7:29 a Gentile mother's plea is granted.",
+          "hint": "Read Mark 7:19 and then Mark 7:24-30 again. Notice who Jesus meets right after the food saying, and how that meeting ends."
+        }
+      ]
+    },
+    {
+      "id": "mark-9-10",
+      "title": "The Way of the Cross",
+      "chapters": [
+        9,
+        10
+      ],
+      "verse_span": {
+        "from": "9:1",
+        "to": "10:52"
+      },
+      "difficulty_tier": 2,
+      "summary": "Transfiguration glory, then straight downhill toward Jerusalem as the passion predictions continue (the first came at 8:31; the second and third fall here) — and the disciples answer by arguing about greatness. The section's thesis is the Gospel's most famous sentence: 'The Son of Man came not to be served but to serve, and to give his life as a ransom for many.' Blind Bartimaeus — who actually sees — follows him on the way.",
+      "key_themes": [
+        "ransom",
+        "servant greatness",
+        "discipleship",
+        "seeing"
+      ],
+      "prerequisites": [
+        {
+          "node": "mark-6-8",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The way-of-the-cross teaching begins at Peter's half-sighted confession and corrects it step by step.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "isa-52-53",
+          "reason": "'A ransom for many' compresses the Suffering Servant's work into one line."
+        }
+      ],
+      "key_verses": [
+        "Mark 9:7",
+        "Mark 9:35",
+        "Mark 10:45"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "dense",
+      "emotional_tone": [
+        "reverent",
+        "resolve"
+      ],
+      "discussion_prompt": "Jesus keeps predicting his death, and the disciples keep responding with arguments about greatness. Why do you think glory feels easier to want than service, and where would serving instead of ranking change how you treat the people nearest you?",
+      "assessment_questions": [
+        "Who appears with Jesus at the Transfiguration, and what does blind Bartimaeus do after receiving his sight?",
+        "Jesus says the Son of Man came to serve and to give his life as a ransom for many. What does calling his death a ransom suggest about what it accomplishes for others?",
+        "James and John ask for the best seats, and Jesus points them to the servant's place. What position are you currently angling for, and what would deliberately taking the lower place look like there?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Glory glimpsed before the cross",
+          "explanation": "The Transfiguration confirms Jesus' unique Sonship, and the Father's voice steadies the disciples for the suffering ahead."
+        },
+        {
+          "concept": "A suffering Messiah",
+          "explanation": "The repeated passion predictions redefine Messiah around the cross, against every expectation of earthly triumph."
+        },
+        {
+          "concept": "Greatness is service",
+          "explanation": "In the kingdom rank is measured by serving and by welcoming the lowly, with a child as Jesus' object lesson."
+        },
+        {
+          "concept": "The ransom saying",
+          "explanation": "Mark 10:45 compresses the meaning of the cross into one line, and Christians have spent centuries drawing out how the ransom works."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain Mark 10:45 in your own words, and describe how the disciples' arguments about greatness set up Jesus' teaching on service.",
+      "comprehension_check": [
+        {
+          "question": "Three times Jesus predicts his death, and each time the disciples respond with questions of rank. What does Mark build with the repetition?",
+          "options": [
+            "The clash between his announced cross and their contest for rank",
+            "A proof that the Twelve were never sincere in following him",
+            "A lesson that the disciples needed clearer teaching to understand",
+            "A picture of a fate overtaking Jesus against his plans"
+          ],
+          "answer_index": 0,
+          "why": "Mark 9:31-34 sets the pattern: he announces the cross, they argue over greatness, and he answers with service.",
+          "hint": "Read Mark 8:31-33, Mark 9:31-34, and Mark 10:33-37 again. Notice what follows each prediction."
+        },
+        {
+          "question": "Mark 10:45 sums up the Son of Man's mission in serving and a ransom. Within its scene, what work is the saying doing?",
+          "options": [
+            "It explains the exact transaction by which the ransom works",
+            "It promises the Twelve the thrones they had been requesting",
+            "It sets a standard of service meant only for leaders",
+            "It roots the call to serve in Jesus' own mission"
+          ],
+          "answer_index": 3,
+          "why": "Mark 10:43-45 turns from command to reason, greatness measured by service because the Son of Man himself came to serve.",
+          "hint": "Read Mark 10:35-45 again. Notice what request starts the scene, and how the saying answers it."
+        }
+      ]
+    },
+    {
+      "id": "mark-11-13",
+      "title": "Jerusalem: The Fig Tree and the Temple",
+      "chapters": [
+        11,
+        12,
+        13
+      ],
+      "verse_span": {
+        "from": "11:1",
+        "to": "13:37"
+      },
+      "difficulty_tier": 3,
+      "summary": "The entry, the temple cleared — sandwiched inside a withered fig tree, Mark's trademark framing — then the vineyard parable, Caesar's coin, the widow's two copper coins, and the discourse on the temple's coming destruction: 'not one stone will be left on another.'",
+      "key_themes": [
+        "temple judged",
+        "fruitlessness",
+        "true giving",
+        "watchfulness"
+      ],
+      "prerequisites": [
+        {
+          "node": "mark-9-10",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The Jerusalem week is what the three passion predictions have been walking toward.",
+          "scope": "sequence"
+        },
+        {
+          "node": "jer-7-10",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'A den of robbers' quotes Jeremiah's temple sermon — the same charge, the same building's fate."
+        },
+        {
+          "node": "dan-8-12",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Mark 11–13 invokes the Danielic apocalyptic motif (the “abomination of desolation” and related timetable from Daniel 8–12) in a way that presumes the reader knows Daniel's imagery and sequence, which Mark does not itself fully explain.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [],
+      "key_verses": [
+        "Mark 11:17",
+        "Mark 12:43-44",
+        "Mark 13:37"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "warning"
+      ],
+      "discussion_prompt": "Mark wraps the temple's clearing inside a fig tree that is all leaves and no fruit. What is that framing saying about worship that looks alive, and if the same fruit inspection came to your own practices of faith, what would it find?",
+      "assessment_questions": [
+        "What does Jesus do in the temple courts, and whose offering does he single out for praise in chapter 12?",
+        "The fig tree withers on either side of the temple's clearing. Why does Mark frame the two stories together, and what does the pairing say about what God seeks in his house?",
+        "The widow gives two small coins, everything she has, while the wealthy give from their surplus. What would giving that actually costs you something look like in your money, your time, or your attention?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The king comes humbly",
+          "explanation": "The entry fulfills Zechariah's picture of a king on a colt, announcing a kingship that reorders power instead of seizing it."
+        },
+        {
+          "concept": "Judgment on fruitless worship",
+          "explanation": "The fig tree and the temple clearing together warn that leaves without fruit invite God's verdict on corrupted worship."
+        },
+        {
+          "concept": "True giving is measured by cost",
+          "explanation": "The widow's two coins outweigh the large gifts because she gives out of poverty and whole trust in God."
+        },
+        {
+          "concept": "Watchfulness until he comes",
+          "explanation": "The discourse commands endurance and alertness through suffering, and teachers still discuss how its predictions divide between Jerusalem's fall and the end."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain Mark's fig-tree framing of the temple clearing, and describe what the Olivet Discourse tells disciples to do while they wait.",
+      "comprehension_check": [
+        {
+          "question": "Mark splits the fig tree story in two and sets the temple action inside it. What does the frame ask readers to see?",
+          "options": [
+            "Jesus' hunger explains the anger he carries into the courts",
+            "The temple, leafy but fruitless, stands under the same verdict",
+            "The lesson is patience, since figs come only in their season",
+            "The cursing displays Jesus' power to punish whatever disappoints him"
+          ],
+          "answer_index": 1,
+          "why": "Mark 11:20-21 shows the tree withered on the walk back from the temple, each half of the frame reading the other.",
+          "hint": "Read Mark 11:12-21 as one piece. Notice what Jesus looks for at the tree in Mark 11:13, and what he looks for in the courts."
+        },
+        {
+          "question": "The disciples ask when the temple will fall. What response does the discourse of Mark 13 actually ask of them?",
+          "options": [
+            "Track the signs closely until the date becomes plain",
+            "Abandon ordinary work, since so little time remains",
+            "Stay awake and endure, since the hour stays unknown",
+            "Meet the upheavals with alarm, as signs of the end"
+          ],
+          "answer_index": 2,
+          "why": "Mark 13:32-37 lands the discourse on one command, to keep watch, since the day and hour stay God's secret.",
+          "hint": "Read Mark 13:5-7 and Mark 13:32-37 again. Notice which command keeps repeating, and what Jesus says about the timing."
+        }
+      ]
+    },
+    {
+      "id": "mark-14-16",
+      "title": "The Passion According to Mark",
+      "chapters": [
+        14,
+        15,
+        16
+      ],
+      "verse_span": {
+        "from": "14:1",
+        "to": "16:20"
+      },
+      "difficulty_tier": 2,
+      "summary": "Anointed for burial by an unnamed woman, betrayed, abandoned by every disciple — Mark's passion is the starkest: darkness at noon, one loud cry, and the temple curtain torn top to bottom, while the first human in the book to call Jesus 'Son of God' is the Roman centurion watching him die. The oldest manuscripts end at the empty tomb with the women afraid.",
+      "key_themes": [
+        "abandonment",
+        "cross",
+        "torn curtain",
+        "fear and resurrection"
+      ],
+      "prerequisites": [
+        {
+          "node": "mark-11-13",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The passion executes the collision of the Jerusalem chapters.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-12-15",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Mark frames the Last Supper and the Passion in Passover/Exodus imagery (deliverance through death, lamb‑like substitution) and assumes the Exodus/Passover pattern that the Passion narrative itself does not fully explain.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-26-28",
+          "reason": "Matthew's fuller passion-and-resurrection account parallels Mark scene for scene and completes his abrupt ending."
+        }
+      ],
+      "tradition_notes": "Mark 16:9-20 (the 'longer ending') is absent from the earliest manuscripts; Catholic and Orthodox Bibles retain it as canonical Scripture, and most Protestant translations print it with a bracket note. The difference is text-critical rather than doctrinal — no tradition builds unique teaching on it, though its snake-handling verse has produced fringe exceptions.",
+      "key_verses": [
+        "Mark 14:36",
+        "Mark 15:38-39",
+        "Mark 16:6"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "hopeful"
+      ],
+      "discussion_prompt": "In Mark's telling every disciple fails, and the first person at the cross to call Jesus the Son of God is the Roman soldier who watched him die. What does this passion account say about who recognizes Jesus and how, and what does the tomb's message for Peter offer to anyone who has failed him?",
+      "assessment_questions": [
+        "What happens to the temple curtain when Jesus dies, and what does the young man at the tomb tell the women?",
+        "The centurion who oversaw the crucifixion declares Jesus the Son of God at the moment of his death. Why does Mark give that confession to a Roman executioner rather than to a disciple?",
+        "The message at the tomb names Peter specifically, the disciple who denied Jesus three times. Where do you need to hear that failure did not get the last word, and who could you carry that word to?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The cross is the center",
+          "explanation": "Mark's whole Gospel drives toward Jesus freely giving his life, taking sin, suffering, and death into God's saving purpose."
+        },
+        {
+          "concept": "Honest agony, full obedience",
+          "explanation": "Gethsemane shows Jesus genuinely dreading the cup and still choosing the Father's will, fully human in weakness and fully faithful in love."
+        },
+        {
+          "concept": "The curtain torn open",
+          "explanation": "The temple veil splitting from top to bottom signals a new access to God accomplished at the cross."
+        },
+        {
+          "concept": "Failure meets grace",
+          "explanation": "The disciples flee and Peter denies, yet the risen Lord sends word ahead to meet them in Galilee, so human failure never cancels God's purpose."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell Mark's passion account from Gethsemane to the empty tomb, and explain what the torn curtain and the centurion's confession each declare.",
+      "comprehension_check": [
+        {
+          "question": "Mark waits until the moment of death to let a human call Jesus the Son of God, and the speaker is a Roman centurion. What is Mark saying by the timing?",
+          "options": [
+            "Rome's power was already turning toward the new faith",
+            "Israel has been replaced by Gentiles as the seeing people",
+            "A dying man's courage can win respect from anyone",
+            "Who Jesus is comes fully into view at the cross"
+          ],
+          "answer_index": 3,
+          "why": "Mark 15:39 ties the confession to watching Jesus die, with the curtain tearing in Mark 15:38 at the same moment.",
+          "hint": "Read Mark 15:37-39 again. Notice what the centurion is looking at when he finally speaks."
+        },
+        {
+          "question": "In Gethsemane Jesus begs for the cup to pass, then goes to the cross anyway. What does Mark 14:32-42 show about his obedience?",
+          "options": [
+            "He genuinely dreads the cup yet chooses the Father's will",
+            "His fear faded away once an answer came from heaven",
+            "He models how prayer removes the burden it names",
+            "His resolve shows the suffering never truly touched him"
+          ],
+          "answer_index": 0,
+          "why": "Mark 14:36 holds the honest plea and the surrender inside a single prayer.",
+          "hint": "Read Mark 14:33-36 again. Notice how the prayer begins, and how it ends."
+        }
+      ]
+    }
+  ]
+}

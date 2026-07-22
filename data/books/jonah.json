@@ -1,0 +1,111 @@
+{
+  "book": "Jonah",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "jonah",
+      "title": "Jonah: The Prophet Who Ran",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:11"
+      },
+      "difficulty_tier": 1,
+      "summary": "Sent to Nineveh — capital of the empire brutalizing his people — Jonah sails the opposite direction, gets swallowed and returned, preaches five reluctant words, and watches the whole city repent. Then comes the real ending: Jonah sulking under a withered vine while God asks the question the book leaves hanging: 'Should I not pity Nineveh?'",
+      "key_themes": [
+        "mercy for enemies",
+        "running from God",
+        "repentance",
+        "God's question"
+      ],
+      "prerequisites": [
+        {
+          "node": "exod-32-34",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "Jonah's complaint quotes Exodus 34's creed — 'gracious and compassionate, slow to anger' — as his reason for fleeing: he knew God would forgive."
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-11-15",
+          "reason": "Jesus gives 'the sign of Jonah' — three days and nights in the fish — as the one sign his generation will get."
+        },
+        {
+          "node": "nah",
+          "reason": "Nahum announces doom on the same Nineveh that repented here; the two books are the Twelve's paired word on God's patience and its limit."
+        }
+      ],
+      "key_verses": [
+        "Jonah 2:9",
+        "Jonah 4:2",
+        "Jonah 4:11"
+      ],
+      "reading_time_minutes": 20,
+      "content_density": "light",
+      "emotional_tone": [
+        "reflective",
+        "tension"
+      ],
+      "discussion_prompt": "Jonah runs because he knows God is gracious and fears he will forgive Nineveh, and the book ends on God's unanswered question about pity. Who would you struggle to see God forgive, and what does your answer reveal about how you understand his mercy toward you?",
+      "assessment_questions": [
+        "Where does God send Jonah, where does Jonah go instead, and what happens when he finally preaches to Nineveh?",
+        "Jonah quotes God's own creed, gracious and compassionate and slow to anger, as his reason for fleeing. What does that reveal about the real conflict of the book?",
+        "God asks Jonah whether he should not pity Nineveh, and the book never records an answer. How would you answer God's question about the people you find hardest to love?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Mercy beyond borders",
+          "explanation": "God desires repentance even from Israel's worst enemies, so his compassion refuses the limits people set on it."
+        },
+        {
+          "concept": "The runaway heart",
+          "explanation": "Jonah's flight exposes his own heart, showing that resistance to God's call reveals what we actually believe about him."
+        },
+        {
+          "concept": "God commands creation",
+          "explanation": "Storm, fish, plant, and worm all serve God's purpose, showing his rule over every means of pursuing a runaway."
+        },
+        {
+          "concept": "Repentance works",
+          "explanation": "Nineveh's turning averts the announced judgment, proving that God's warnings are invitations."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the story of Jonah and explain what God's final question teaches about his pity for people we would rather see judged.",
+      "comprehension_check": [
+        {
+          "question": "Jonah finally explains his flight in Jonah 4:2. What had he been running from?",
+          "options": [
+            "The danger of preaching alone inside a brutal enemy capital",
+            "A mission he judged pointless, since Nineveh could not repent",
+            "The mercy he knew God would show if Nineveh turned",
+            "A word of judgment too harsh for him to deliver"
+          ],
+          "answer_index": 2,
+          "why": "Jonah 4:2 gives his own reason, that he fled because he knew God to be gracious and ready to relent.",
+          "hint": "Read Jonah 4:1-3 again. Notice which attributes of God Jonah lists as his grievance."
+        },
+        {
+          "question": "God's last word in Jonah is a question about pity, and the book ends without Jonah's answer. What does that ending do?",
+          "options": [
+            "It leaves the question standing for readers who share the grudge",
+            "It implies Jonah repented, since silence signals his consent",
+            "It shows God abandoning the argument as beyond winning",
+            "It marks the story unfinished, its final scene lost to time"
+          ],
+          "answer_index": 0,
+          "why": "Jonah 4:10-11 sets Jonah's pity for a plant against God's pity for a city, and the question is left open on purpose.",
+          "hint": "Read Jonah 4:10-11 again. Notice whose pity is compared with whose, and who never gets to reply."
+        }
+      ]
+    }
+  ]
+}

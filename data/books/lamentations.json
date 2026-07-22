@@ -1,0 +1,109 @@
+{
+  "book": "Lamentations",
+  "testament": "OT",
+  "canon_layer": "core",
+  "domain": "Prophetic",
+  "nodes": [
+    {
+      "id": "lam",
+      "title": "Lamentations: How Lonely Sits the City",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "5:22"
+      },
+      "difficulty_tier": 3,
+      "summary": "Five poems — four of them alphabet acrostics — from the ashes of Jerusalem: grief given the discipline of an alphabet, as if sorrow itself needed structure to be survivable. Near the book's center, its one handhold: 'The steadfast love of the LORD never ceases; his mercies are new every morning.'",
+      "key_themes": [
+        "grief",
+        "judgment absorbed",
+        "steadfast love",
+        "hope in ruins"
+      ],
+      "prerequisites": [
+        {
+          "node": "2kgs-24-25",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Every line mourns the 586 BC destruction; the poetry is unintelligible without the event.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "jer-37-39",
+          "reason": "Tradition ascribes these poems to Jeremiah; they grieve the fall his narrative chapters record."
+        }
+      ],
+      "key_verses": [
+        "Lamentations 1:1",
+        "Lamentations 3:22-23",
+        "Lamentations 5:21"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "dense",
+      "emotional_tone": [
+        "lament",
+        "hopeful"
+      ],
+      "discussion_prompt": "Four of these five poems force grief through the alphabet from beginning to end, and near the center one voice remembers that God's mercies are new every morning. Why might sorrow need that kind of structure, and what would it look like for you to bring a real grief to God without rushing to a happy ending?",
+      "assessment_questions": [
+        "What event do these five poems mourn, and what one hope does the poet remember at the book's center?",
+        "The book names God as the one behind Jerusalem's fall and still appeals to his steadfast love. How can honest complaint and real trust live inside the same prayer?",
+        "Lamentations refuses cheap comfort and still ends by asking God to restore. When grief comes to you or your community, what would practicing this kind of honest lament actually involve?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Lament is worship",
+          "explanation": "Naming abandonment, anger, and sorrow before God is an act of faith, because it keeps the conversation with him open."
+        },
+        {
+          "concept": "Judgment acknowledged",
+          "explanation": "The poems confess that Jerusalem's fall answers covenant failure, holding God's justice and the people's grief together."
+        },
+        {
+          "concept": "Mercies new every morning",
+          "explanation": "At the book's center the poet stakes everything on God's steadfast love, which outlasts the disaster it grieves."
+        },
+        {
+          "concept": "Ordered grief",
+          "explanation": "The acrostic form walks sorrow through the whole alphabet, teaching that mourning can be disciplined, complete, and shared."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe how Lamentations gives grief a structure, and explain why the promise of Lamentations 3:22-23 sits at the center of the book.",
+      "comprehension_check": [
+        {
+          "question": "The book's one confident hope stands at its center, with grieving poems on both sides and an unresolved ending. What does that placement say?",
+          "options": [
+            "Hope is remembered inside the grief, not after it",
+            "The alphabet forces hope to appear at the midpoint",
+            "Real comfort must wait until the mourning is finished",
+            "The center marks the moment God answers the prayers"
+          ],
+          "answer_index": 0,
+          "why": "Lamentations 3:21-23 recalls unfailing mercy from inside the ruin, while the poems around it keep on grieving.",
+          "hint": "Read Lamentations 3:21-23, then Lamentations 5:20-22. Notice what has and has not changed by the final lines."
+        },
+        {
+          "question": "These poems say the LORD himself brought Jerusalem down, yet every appeal still goes to him. What are they teaching prayer to do?",
+          "options": [
+            "To prove the sufferer's innocence before asking for relief",
+            "To vent sorrow aloud until it loses its force",
+            "To carry honest complaint to the God who wounded",
+            "To praise through pain until the feelings finally follow"
+          ],
+          "answer_index": 2,
+          "why": "Lamentations 5:21 still asks the LORD himself for restoration, keeping the complaint inside the covenant conversation.",
+          "hint": "Read Lamentations 5:20-21 again. Notice who the questions and the closing request are aimed at."
+        }
+      ]
+    }
+  ]
+}

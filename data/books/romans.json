@@ -1,0 +1,461 @@
+{
+  "book": "Romans",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Epistle/Doctrinal",
+  "nodes": [
+    {
+      "id": "rom-1-4",
+      "title": "The Righteousness of God Revealed",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "4:25"
+      },
+      "difficulty_tier": 3,
+      "summary": "Paul's most systematic gospel: all humanity — pagan and religious alike — is 'under sin,' and 'the righteous shall live by faith.' God justifies the ungodly through the redemption in Christ Jesus, 'a propitiation by his blood, to be received by faith,' with Abraham as Exhibit A: he believed God, and it was counted to him as righteousness — before circumcision, before the law.",
+      "key_themes": [
+        "universal sin",
+        "justification by faith",
+        "propitiation",
+        "Abraham's faith"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-12-17",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "Romans 4 is a sustained exposition of Genesis 15:6; Abraham's believing is the argument's cornerstone."
+        },
+        {
+          "node": "hab",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'The righteous shall live by faith' (Hab 2:4) is the letter's announced thesis."
+        },
+        {
+          "node": "lev-16",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "'Propitiation' (hilasterion) is the mercy seat of the Day of Atonement — the cross explained in Leviticus' terms."
+        },
+        {
+          "node": "exod-19-24",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "Paul's exposition in Romans 1–4 assumes the existence and covenantal role of the Sinai law (the Ten Words and Mosaic covenant) as the standard that defines sin and covenantal obligation, which his argument presupposes rather than fully restates.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ps-9-14",
+          "reason": "The sin-catalogue of Romans 3 is stitched from Psalms 14, 5, 10, and 36."
+        }
+      ],
+      "tradition_notes": "Justification is the Reformation's fault line: Protestant traditions read Romans as teaching justification by faith alone, a declarative verdict; Catholic teaching (Trent, and the 1999 Joint Declaration with Lutherans narrowing the gap) holds justification includes inner transformation and is not by faith alone in the Reformation's sense; Orthodoxy frames salvation more as union with God (theosis) than courtroom acquittal. All three affirm salvation is by grace.",
+      "key_verses": [
+        "Romans 1:16-17",
+        "Romans 3:23-24",
+        "Romans 4:3"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "hopeful"
+      ],
+      "discussion_prompt": "Paul works hard to show that religious people and pagans stand equally under sin before he announces any good news. Why does the diagnosis have to come first, and what would change if you stopped measuring yourself against other people and stood where Abraham stood, with nothing to offer except trust?",
+      "assessment_questions": [
+        "What verdict does Paul reach about both Jews and Gentiles by the middle of chapter 3, and what evidence has he given?",
+        "Paul stresses that Abraham was counted righteous when he believed God, before circumcision and before the law existed. Why is that timing so important to his argument?",
+        "Paul says boasting is excluded because righteousness comes as a gift received by faith. Where does quiet boasting still live in your spiritual life, and what would resting in the gift look like instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "All under sin",
+          "explanation": "Paul levels every human advantage, showing pagan and religious people alike without excuse before God."
+        },
+        {
+          "concept": "Righteousness as gift",
+          "explanation": "God justifies the ungodly through the redemption in Christ Jesus, received by faith, so salvation is grace from start to finish."
+        },
+        {
+          "concept": "Just and the justifier",
+          "explanation": "Paul presents the cross as the place where God proves he is righteous at the very moment he justifies sinners."
+        },
+        {
+          "concept": "Abraham the test case",
+          "explanation": "Genesis 15:6 shows that being counted righteous through faith is Scripture's oldest pattern, standing long before Paul wrote."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Walk through Paul's argument from universal sin to Abraham's faith, and explain why Genesis 15:6 carries so much weight in it.",
+      "comprehension_check": [
+        {
+          "question": "Paul spends over two chapters indicting pagans and the religious alike before announcing the gift of righteousness. What is that long indictment for?",
+          "options": [
+            "To rank humanity's sins from mildest up to worst",
+            "To prove the Gentiles guiltier than the covenant people",
+            "To shut every route to acceptance based on merit",
+            "To move readers to reform their conduct before believing"
+          ],
+          "answer_index": 2,
+          "why": "Romans 3:19-20 gathers the whole world guilty before God, so that righteousness can only arrive as his gift.",
+          "hint": "Read Romans 3:19-20 again. Notice what the indictment leaves every mouth unable to do."
+        },
+        {
+          "question": "Paul makes a point of asking when Abraham was counted righteous, before or after circumcision, in Romans 4:10. Why does the timing carry so much weight?",
+          "options": [
+            "It proves the rite added nothing and should be dropped",
+            "It opens Abraham's family to everyone who shares his faith",
+            "It shows righteousness came easier before the law arrived",
+            "It honors Abraham's obedience as the ground of blessing"
+          ],
+          "answer_index": 1,
+          "why": "Romans 4:11 draws the conclusion: counted righteous while uncircumcised, Abraham becomes father of all who believe.",
+          "hint": "Read Romans 4:9-12 again. Notice the question Paul asks about the order of events in Abraham's life."
+        }
+      ]
+    },
+    {
+      "id": "rom-5-8",
+      "title": "Peace, Union, and No Condemnation",
+      "chapters": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_span": {
+        "from": "5:1",
+        "to": "8:39"
+      },
+      "difficulty_tier": 3,
+      "summary": "Justified, therefore peace with God: Adam's one trespass answered by Christ's one obedience, baptism as death and resurrection with him, the agonized 'I do not do what I want' of chapter 7 — and then Romans 8, by wide consent the greatest chapter in the Bible: no condemnation, the Spirit within, creation groaning toward glory, all things working for good, and nothing in all creation able to separate us from the love of God in Christ Jesus.",
+      "key_themes": [
+        "union with Christ",
+        "two Adams",
+        "the Spirit",
+        "no separation"
+      ],
+      "prerequisites": [
+        {
+          "node": "rom-1-4",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "'Therefore, since we have been justified' — chapters 5-8 build on the verdict argued in 1-4.",
+          "scope": "sequence"
+        },
+        {
+          "node": "gen-1-3",
+          "strength": "hard",
+          "type": "theological",
+          "reason": "The Adam-Christ parallel of Romans 5 requires the Fall narrative as its first term.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "exod-12-15",
+          "reason": "Baptism into death and out again is the sea crossing's pattern — slaves brought through water into freedom."
+        }
+      ],
+      "key_verses": [
+        "Romans 5:1",
+        "Romans 8:1",
+        "Romans 8:38-39"
+      ],
+      "reading_time_minutes": 45,
+      "content_density": "dense",
+      "emotional_tone": [
+        "comfort",
+        "joy"
+      ],
+      "discussion_prompt": "Chapter 7 gives voice to a person who keeps doing what he hates, and chapter 8 answers with no condemnation. How do these chapters hold honest ongoing struggle and real security together, and which of the two is harder for you to believe about yourself?",
+      "assessment_questions": [
+        "What contrast does Paul draw between Adam and Christ in chapter 5, and what does each one's act bring to humanity?",
+        "Paul says those baptized into Christ were baptized into his death and raised to walk in newness of life. What does that union mean for sin's power over a believer?",
+        "Romans 8 ends with a list of everything that cannot separate us from God's love in Christ. What in your life feels most able to separate you, and what would it mean to read that promise against it by name?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Peace with God",
+          "explanation": "Justification brings a settled relationship, so believers stand in grace secured by Christ rather than by their performance."
+        },
+        {
+          "concept": "Two Adams",
+          "explanation": "Paul reads all of history under two heads, where Adam's trespass brought condemnation and death, and Christ's obedience brings righteousness and life."
+        },
+        {
+          "concept": "Union with Christ",
+          "explanation": "Baptism pictures believers dying and rising with Jesus, so sin's rule is broken and a new life led by the Spirit begins."
+        },
+        {
+          "concept": "Nothing can separate",
+          "explanation": "The Spirit confirms believers as adopted children, and Romans 8 stakes everything on the claim that no power in creation can separate them from God's love."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the Adam and Christ contrast of Romans 5, and describe what Romans 8 means by no condemnation for those in Christ Jesus.",
+      "comprehension_check": [
+        {
+          "question": "Romans 5:18-19 hangs the whole human story on two single acts, one trespass and one obedience. What is Paul's point in drawing the parallel?",
+          "options": [
+            "Adam and Christ faced temptation with opposite results",
+            "Each person relives Adam's choice until choosing Christ's",
+            "The two acts cancel, leaving each person judged alone",
+            "One man's act can define the many under him"
+          ],
+          "answer_index": 3,
+          "why": "Romans 5:19 sets one disobedience making many sinners against one obedience making many righteous, two heads carrying two humanities.",
+          "hint": "Read Romans 5:18-19 again. Notice how many people each single act affects."
+        },
+        {
+          "question": "Romans 8:31-34 answers fear with a string of questions about who could accuse or condemn. Where does Paul anchor the believer's assurance?",
+          "options": [
+            "In what God has done and keeps doing in Christ",
+            "In the believer's daily progress against besetting sin",
+            "In the intensity of the believer's felt love for God",
+            "In the promise that hardship will soon pass"
+          ],
+          "answer_index": 0,
+          "why": "Romans 8:32 argues from the greater to the lesser: the God who gave his own Son will not stop short of giving everything.",
+          "hint": "Read Romans 8:31-34 again. Notice whose actions every answer points to."
+        }
+      ]
+    },
+    {
+      "id": "rom-9-11",
+      "title": "Has God's Word Failed? Israel and the Mystery",
+      "chapters": [
+        9,
+        10,
+        11
+      ],
+      "verse_span": {
+        "from": "9:1",
+        "to": "11:36"
+      },
+      "difficulty_tier": 5,
+      "summary": "Paul's anguish over Israel's unbelief drives the New Testament's deepest wrestling with election and faithfulness: the potter's freedom, 'everyone who calls on the name of the Lord will be saved,' the remnant, Gentile branches grafted into Israel's olive tree — and the doxology that ends the argument on its knees: 'Oh, the depth of the riches and wisdom and knowledge of God!'",
+      "key_themes": [
+        "election",
+        "Israel",
+        "remnant",
+        "mercy on all"
+      ],
+      "prerequisites": [
+        {
+          "node": "rom-5-8",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "Chapter 8's unbreakable promises raise chapter 9's question: what about the people whose promises these were?",
+          "scope": "sequence"
+        },
+        {
+          "node": "gen-24-26",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'The older will serve the younger' — Jacob and Esau before birth — is Paul's opening exhibit on election."
+        },
+        {
+          "node": "exod-32-34",
+          "strength": "hard",
+          "type": "quotation",
+          "reason": "Romans 9–11 assumes the Exodus golden‑calf sequence and its demonstration of Israel’s failure and God’s merciful sovereign choice (the background of \"I will have mercy…\"), a narrative Paul does not retell but depends upon for his argument.",
+          "scope": "foundation"
+        },
+        {
+          "node": "hos-1-3",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'Not-my-people… sons of the living God' — Hosea's children carry the Gentile-inclusion argument."
+        },
+        {
+          "node": "gen-12-17",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "Romans 9–11 presumes familiarity with the Abrahamic promises and the patriarchal episodes (Isaac, Jacob, election) from Genesis 12–17, which Paul invokes without fully retelling, so omitting Genesis leads to misreading his argument about election and promise.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "1kgs-17-22",
+          "reason": "The seven thousand who never bowed to Baal are Paul's proof that a remnant always remains."
+        }
+      ],
+      "tradition_notes": "Romans 9 is the proof-text battleground for predestination: Augustinian and Reformed readings find unconditional individual election; Arminian, Orthodox, and much Catholic exegesis read corporate election and foreseen faith, stressing 11's 'God has consigned all to disobedience that he may have mercy on all.' The chapter also anchors ongoing debate about Israel's future in God's plan.",
+      "key_verses": [
+        "Romans 9:6",
+        "Romans 10:13",
+        "Romans 11:33-36"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "dense",
+      "emotional_tone": [
+        "sorrow",
+        "awe"
+      ],
+      "discussion_prompt": "Paul opens these chapters in anguish over his own people and closes them singing about the depth of God's wisdom. What happens across the argument to move him from grief to worship, and how do you respond when God's ways refuse to fit your categories?",
+      "assessment_questions": [
+        "What image does Paul use in chapter 11 to picture Gentile believers joining Israel's story, and what warning comes attached to it?",
+        "Paul insists the word of God has not failed even though much of Israel has not believed. How does his appeal to the remnant support that claim?",
+        "Paul warns the grafted branches against pride toward the natural ones. Where does spiritual pride creep in for you, and what would it look like to stand in awe instead?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "God's word has not failed",
+          "explanation": "Paul argues from the remnant that God's promises to Israel still stand, because there have always been those within Israel who believed."
+        },
+        {
+          "concept": "God's freedom serves his mercy",
+          "explanation": "The potter imagery defends God's right to work out his purposes in history, and Paul says those purposes aim at mercy on all."
+        },
+        {
+          "concept": "Grafted branches",
+          "explanation": "Gentile believers are wild branches grafted into Israel's olive tree, so their standing rests on faith and leaves no room for boasting."
+        },
+        {
+          "concept": "Mystery ends in worship",
+          "explanation": "Paul closes the hardest argument in his letters with a doxology, showing that the right end of hard questions about God is awe."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain how Paul argues that God's word has not failed, and describe the olive tree picture and the warning it carries.",
+      "comprehension_check": [
+        {
+          "question": "Romans 9-11 opens with Paul's anguish over Israel and closes in doxology. What question drives the whole argument?",
+          "options": [
+            "Whether individual believers can be sure they are elect",
+            "Whether the law still applies to Gentile converts",
+            "Whether God's promises to Israel have come to nothing",
+            "Whether evangelism matters if God has already chosen"
+          ],
+          "answer_index": 2,
+          "why": "Romans 9:6 states the thesis under everything: the word of God has not failed, and three chapters defend it.",
+          "hint": "Read Romans 9:6 and Romans 11:1 again. Notice the question both verses are answering."
+        },
+        {
+          "question": "After the hardest argument in his letters, Paul ends with worship instead of a tidy verdict in Romans 11:33-36. What does that ending say about the questions raised?",
+          "options": [
+            "They dissolve for any reader who follows the argument closely",
+            "They run past tracing, and the right end is awe",
+            "They were improper questions believers should never have raised",
+            "They will be answered when Israel's hardening ends"
+          ],
+          "answer_index": 1,
+          "why": "Romans 11:33 calls God's judgments unsearchable and his ways beyond tracing out, so the argument finishes on its knees.",
+          "hint": "Read Romans 11:33-36 again. Notice what Paul says can and cannot be traced."
+        }
+      ]
+    },
+    {
+      "id": "rom-12-16",
+      "title": "Living Sacrifices: The Gospel Embodied",
+      "chapters": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_span": {
+        "from": "12:1",
+        "to": "16:27"
+      },
+      "difficulty_tier": 2,
+      "summary": "'Therefore… present your bodies as a living sacrifice.' The doctrine becomes a way of life: sober self-assessment, genuine love, blessing persecutors, submission to governing authorities, love as the law's fulfillment, and patience across the strong/weak divide over food and days. Sixteen chapters end in a list of greeted names — the theology has faces.",
+      "key_themes": [
+        "living sacrifice",
+        "love in practice",
+        "civil authority",
+        "welcoming the weak"
+      ],
+      "prerequisites": [
+        {
+          "node": "rom-5-8",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The 'therefore' of 12:1 stands on the mercies of God argued in the letter's first movement.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "matt-5-7",
+          "reason": "Romans 12's bless-your-persecutors ethic is the Sermon on the Mount in epistle form."
+        }
+      ],
+      "key_verses": [
+        "Romans 12:1-2",
+        "Romans 12:21",
+        "Romans 13:10"
+      ],
+      "reading_time_minutes": 35,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "resolve",
+        "hopeful"
+      ],
+      "discussion_prompt": "After eleven chapters of doctrine Paul says therefore and turns to bodies, enemies, taxes, and dinner tables. Why does he ground everyday behavior in the mercies of God rather than in willpower, and which of his instructions would cost you the most this week?",
+      "assessment_questions": [
+        "What does Paul urge believers to present as a living sacrifice, and what does he say must happen to their minds?",
+        "Paul tells the strong and the weak to stop despising and judging one another over food and days. What makes love a better guide than winning in disputes like these?",
+        "Paul says to bless persecutors and overcome evil with good. Who is the hardest person for you to bless right now, and what one concrete good could you do for them this week?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A whole life of worship",
+          "explanation": "The living sacrifice makes everyday choices the arena of worship, and transformation begins with a renewed mind."
+        },
+        {
+          "concept": "Love made concrete",
+          "explanation": "Paul turns love into specific practices, from honoring one another to feeding an enemy, because love is the fulfilling of the law."
+        },
+        {
+          "concept": "Faith and civil authority",
+          "explanation": "Paul calls believers to honor governing authorities as instituted by God for order, a teaching Christians weigh carefully when rulers command what God forbids."
+        },
+        {
+          "concept": "Freedom that protects the weak",
+          "explanation": "On disputable matters the strong bear with the weak, so no one's liberty is allowed to wreck another person's faith."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain what presenting your body as a living sacrifice means, and give two concrete examples from these chapters of what that life looks like.",
+      "comprehension_check": [
+        {
+          "question": "Romans 12:1 turns from argument to instruction with an appeal grounded in the mercies of God. What does that grounding make of everything that follows?",
+          "options": [
+            "A ladder of practices that secure God's mercy",
+            "An optional ideal for the most devoted believers",
+            "A stricter law replacing the one Moses gave",
+            "A response of worship to mercy already received"
+          ],
+          "answer_index": 3,
+          "why": "Romans 12:1 grounds the appeal in God's mercies, so obedience is offered as living sacrifice, worship answering grace.",
+          "hint": "Read Romans 12:1 again. Notice what the word therefore reaches back to."
+        },
+        {
+          "question": "Food and holy days split the Roman church, and in Romans 14:5 Paul declines to hand down a ruling. What does he ask for instead of uniformity?",
+          "options": [
+            "Patience while the scrupulous slowly mature into full freedom",
+            "Separate gatherings so neither side offends the other",
+            "Welcome across the divide, each conscience before its Lord",
+            "A council ruling to settle the disputed practices"
+          ],
+          "answer_index": 2,
+          "why": "Romans 14:5 lets each be fully convinced in his own mind, and Romans 15:7 crowns the section with the command to welcome one another.",
+          "hint": "Read Romans 14:3-5 and 15:7 again. Notice the verbs Paul keeps commanding toward the other side."
+        }
+      ]
+    }
+  ]
+}

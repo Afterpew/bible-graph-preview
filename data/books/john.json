@@ -1,0 +1,636 @@
+{
+  "book": "John",
+  "testament": "NT",
+  "canon_layer": "core",
+  "domain": "Gospel",
+  "nodes": [
+    {
+      "id": "john-1",
+      "title": "The Word Became Flesh",
+      "chapters": [
+        1
+      ],
+      "verse_span": {
+        "from": "1:1",
+        "to": "1:51"
+      },
+      "difficulty_tier": 1,
+      "summary": "'In the beginning was the Word, and the Word was with God, and the Word was God… and the Word became flesh and dwelt among us.' John's prologue rewrites Genesis 1 around Jesus, then the Baptist points — 'Behold, the Lamb of God' — and the first disciples start following. The Bible's deepest chapter is also one of its most readable.",
+      "key_themes": [
+        "incarnation",
+        "Word",
+        "light and darkness",
+        "Lamb of God"
+      ],
+      "prerequisites": [
+        {
+          "node": "gen-1-3",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "'In the beginning' is a deliberate rewrite of Genesis 1 — the prologue's whole force depends on hearing the echo.",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "prov-1-9",
+          "reason": "Wisdom with God at creation (Prov 8) is part of the Word's Old Testament pedigree."
+        },
+        {
+          "node": "exod-32-34",
+          "reason": "'Full of grace and truth… no one has ever seen God' replays Moses' cleft-rock vision of the LORD's glory."
+        }
+      ],
+      "key_verses": [
+        "John 1:1",
+        "John 1:14",
+        "John 1:29"
+      ],
+      "reading_time_minutes": 15,
+      "content_density": "dense",
+      "emotional_tone": [
+        "awe",
+        "hopeful"
+      ],
+      "discussion_prompt": "John could have opened with Jesus' birth. Why do you think he starts 'in the beginning' instead?",
+      "assessment_questions": [
+        "What does John say the Word was doing “in the beginning”?",
+        "John keeps insisting the Baptist “was not the Light.” What conclusion is he trying to prevent?",
+        "The chapter says those who received him became children of God. What is the difference between knowing about Jesus and receiving him?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "The Word is God",
+          "explanation": "John 1:1 places Jesus with God and as God before anything was made, the foundation of everything Christians believe about him."
+        },
+        {
+          "concept": "Creator and true Light",
+          "explanation": "All things were made through the Word, and he is the light that shines on every person who comes into the world."
+        },
+        {
+          "concept": "The Word became flesh",
+          "explanation": "God's glory, grace, and truth become visible in a real human life, so knowing Jesus is knowing God."
+        },
+        {
+          "concept": "Witness points away from itself",
+          "explanation": "John the Baptist shows what faithful witness looks like by directing everyone to the Lamb of God instead of to himself."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain in your own words what John means by calling Jesus the Word, and why the prologue opens with an echo of Genesis 1.",
+      "comprehension_check": [
+        {
+          "question": "John 1 opens, “In the beginning was the Word.” What is the chapter’s central claim about the Word?",
+          "options": [
+            "The Word is the greatest and first of all God’s creatures",
+            "The Word stands for the message God speaks through Scripture",
+            "The Word is the Baptist’s title for the prophet still to come",
+            "The Word is eternal God, maker of all, who became flesh"
+          ],
+          "answer_index": 3,
+          "why": "The text says the Word was God, was with God in the beginning, made all things, and became flesh; “first creature” and “symbol” are the classic misreadings it closes off.",
+          "hint": "Read John 1:1-3 and 1:14. Notice what the Word already was \"in the beginning,\" before anything was made."
+        },
+        {
+          "question": "Why does the chapter repeat that John the Baptist “was not the Light”?",
+          "options": [
+            "To keep people from taking John himself for the Messiah",
+            "To reveal that John had begun to doubt his own calling",
+            "To expose a hidden failure in the Baptist’s character",
+            "To note that John was simply born before Jesus was"
+          ],
+          "answer_index": 0,
+          "why": "John’s role is to witness to the Light, not to be it; the repetition guards against fixing on the messenger.",
+          "hint": "Read John 1:6-8. Notice the difference John draws between himself and the Light he came to point to."
+        }
+      ]
+    },
+    {
+      "id": "john-2-4",
+      "title": "Water to Wine, New Birth, Living Water",
+      "chapters": [
+        2,
+        3,
+        4
+      ],
+      "verse_span": {
+        "from": "2:1",
+        "to": "4:54"
+      },
+      "difficulty_tier": 2,
+      "summary": "Wine at Cana, the temple cleared with a whip and a riddle ('destroy this temple, and in three days I will raise it up'), Nicodemus told he must be born again — with John 3:16 as the summary — and a five-times-married Samaritan woman becoming an evangelist to her whole town. Every scene replaces an old institution with Jesus himself.",
+      "key_themes": [
+        "new birth",
+        "living water",
+        "true temple",
+        "belief"
+      ],
+      "prerequisites": [
+        {
+          "node": "john-1",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The signs unpack the prologue's claims — glory revealed, the Word replacing temple and ritual.",
+          "scope": "sequence"
+        },
+        {
+          "node": "num-20-25",
+          "strength": "hard",
+          "type": "quotation",
+          "reason": "John 3's central image \"as Moses lifted up the serpent\" depends on the Numbers bronze‑serpent story (Numbers 21) that John does not retell, and without that prior story a reader will miss the typological force of \"lifted up.\"",
+          "scope": "foundation"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ezek-33-37",
+          "reason": "'Born of water and the Spirit' draws on Ezekiel 36's clean water and new heart."
+        },
+        {
+          "node": "2kgs-17",
+          "reason": "The Samaritan woman's 'our fathers worshiped on this mountain' runs back to the north's breakaway history."
+        }
+      ],
+      "key_verses": [
+        "John 3:3",
+        "John 3:16",
+        "John 4:13-14"
+      ],
+      "reading_time_minutes": 25,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "hopeful",
+        "reflective"
+      ],
+      "discussion_prompt": "Nicodemus the respected insider comes at night and leaves confused; the Samaritan woman, an outsider drawing water at noon, leaves as an evangelist. Comparing the two conversations, what does Jesus seem to be looking for in a person, and which of the two do you resemble more right now?",
+      "assessment_questions": [
+        "What is Jesus' first sign at Cana, and who knows where the good wine actually came from?",
+        "Jesus tells Nicodemus that entering God's kingdom requires being born again by the Spirit. Why is birth, something no one accomplishes for themselves, the picture Jesus chooses?",
+        "Jesus offers the Samaritan woman living water that becomes a spring welling up to eternal life. What are you currently drinking from that keeps leaving you thirsty, and what would it mean to ask him for that water?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Signs that invite faith",
+          "explanation": "The miracle at Cana reveals Jesus' glory and invites trust in him as the giver of abundant life."
+        },
+        {
+          "concept": "Jesus is the true temple",
+          "explanation": "Clearing the temple, Jesus points to his own body as the real meeting place between God and people."
+        },
+        {
+          "concept": "New birth from the Spirit",
+          "explanation": "Entry into God's kingdom comes by the Spirit's re-creating work, and no amount of moral effort or religious status can substitute for it."
+        },
+        {
+          "concept": "Living water for outsiders",
+          "explanation": "Jesus crosses barriers of ethnicity, gender, and reputation to offer a satisfaction that wells up from within, and the woman who receives it becomes a witness to her whole town."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Describe the conversations with Nicodemus and the Samaritan woman, and explain what Jesus means by new birth and living water.",
+      "comprehension_check": [
+        {
+          "question": "Purification jars at Cana, the temple courts, Jacob's well. What is John doing as Jesus moves through these settings in chapters 2-4?",
+          "options": [
+            "Presenting Jesus as what each institution was pointing toward",
+            "Showing Jesus abolish religion in favor of private spirituality",
+            "Proving Israel's worship had always been empty of God",
+            "Collecting early miracles in the order eyewitnesses recalled them"
+          ],
+          "answer_index": 0,
+          "why": "John 2:21 makes the move explicit, the true temple is Jesus' own body, and John 4:14 offers him as the water that finally satisfies.",
+          "hint": "Read John 2:19-21 and John 4:13-14. Notice what the temple saying and the well conversation each turn out to be about."
+        },
+        {
+          "question": "Jesus tells Nicodemus, Israel's own teacher, that he must be born again (John 3:3, 3:10). What does that demand say about entering God's kingdom?",
+          "options": [
+            "Entry takes deeper theological training than Nicodemus yet had",
+            "Entry takes a lifetime of obedience outweighing one's failures",
+            "Entry takes the Spirit's new work, beyond any credential",
+            "Entry takes abandoning Israel's Scriptures for Jesus' new teaching"
+          ],
+          "answer_index": 2,
+          "why": "John 3:6 divides what flesh produces from what the Spirit produces, so entry rests on a birth only the Spirit can give.",
+          "hint": "Read John 3:3-8. Notice which birth Jesus keeps naming, and where he says it comes from."
+        }
+      ]
+    },
+    {
+      "id": "john-5-8",
+      "title": "The Great Claims: Bread, Light, I AM",
+      "chapters": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_span": {
+        "from": "5:1",
+        "to": "8:59"
+      },
+      "difficulty_tier": 3,
+      "summary": "A healed man on the sabbath ignites the charge that Jesus 'makes himself equal with God' — and Jesus raises the stakes: 'I am the bread of life,' 'I am the light of the world,' and finally 'before Abraham was, I AM,' at which they pick up stones. The feeding of the five thousand becomes a sermon on eating his flesh that costs him most of his crowd.",
+      "key_themes": [
+        "equality with God",
+        "bread of life",
+        "I AM",
+        "division"
+      ],
+      "prerequisites": [
+        {
+          "node": "john-2-4",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The conflict escalates from the early signs; the claims deepen in sequence.",
+          "scope": "sequence"
+        },
+        {
+          "node": "exod-1-4",
+          "strength": "soft",
+          "type": "quotation",
+          "reason": "'Before Abraham was, I AM' claims the divine name from the burning bush; without Exodus 3 the stoning makes no sense."
+        },
+        {
+          "node": "exod-16-18",
+          "strength": "soft",
+          "type": "theological",
+          "reason": "The bread-of-life discourse is a running midrash on the manna."
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "John 6's 'eat my flesh and drink my blood' divides eucharistic theology: Catholic and Orthodox readings take it as directly eucharistic and realist; many Protestant traditions read it as a metaphor for faith in Christ's death, with sacramental Protestants (Lutheran, Anglican) in between. All agree the chapter is about receiving Christ himself; the dispute is the mode.",
+      "key_verses": [
+        "John 6:35",
+        "John 8:12",
+        "John 8:58"
+      ],
+      "reading_time_minutes": 55,
+      "content_density": "dense",
+      "emotional_tone": [
+        "confrontational",
+        "tension"
+      ],
+      "discussion_prompt": "Across these chapters Jesus keeps saying that what people ultimately need is him: bread that is his flesh, light for their darkness, the name I AM. The crowd wanted more miracle bread and walked away from the harder gift. What is the difference between wanting things from Jesus and wanting Jesus himself, and which are you actually after?",
+      "assessment_questions": [
+        "After the feeding of the five thousand, what does the crowd want to do with Jesus, and what happens to that crowd by the end of the bread of life teaching?",
+        "When Jesus says 'before Abraham was, I AM,' his hearers pick up stones. What is Jesus claiming with those words, and why does the crowd hear it as blasphemy?",
+        "Jesus says that whoever comes to him will never hunger and whoever believes in him will never thirst. Where do you keep going back for satisfaction that does not last, and what would coming to him for it look like?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Equal with the Father",
+          "explanation": "Jesus claims to work as his Father works, to give life, and to judge, and his hearers rightly recognize this as a claim to equality with God."
+        },
+        {
+          "concept": "Bread of life",
+          "explanation": "Jesus offers himself as the true bread from heaven, greater than the manna, and receiving him is the way to eternal life."
+        },
+        {
+          "concept": "Light of the world",
+          "explanation": "In the temple courts Jesus claims to be the light that frees people from walking in darkness, a saving presence that also exposes."
+        },
+        {
+          "concept": "The divine name",
+          "explanation": "'Before Abraham was, I AM' takes up the name God spoke from the burning bush, so Jesus is asserting eternal existence and divine identity."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain why the claim 'before Abraham was, I AM' provoked stones, and what Jesus offers when he calls himself the bread of life.",
+      "comprehension_check": [
+        {
+          "question": "Twice in these chapters the hearers move to kill Jesus on the spot (John 5:18, 8:59). What have they understood his words to be?",
+          "options": [
+            "He is breaking sabbath customs held sacred for generations",
+            "He is positioning himself to lead an armed uprising",
+            "He is dishonoring Abraham and the prophets by name",
+            "He is claiming what belongs to God alone"
+          ],
+          "answer_index": 3,
+          "why": "John 5:18 states the charge plainly, equality with God, and the name Jesus takes up in John 8:58 answers to the burning bush.",
+          "hint": "Read John 5:17-18 and John 8:58-59. Notice what Jesus says about himself immediately before each reaction."
+        },
+        {
+          "question": "After the feeding, the crowd tracks Jesus down for more bread, and he offers them himself (John 6:26, 6:35). What is the exchange exposing?",
+          "options": [
+            "Their hunger for ordinary bread was itself the sin",
+            "They want gifts from Jesus while missing the giver himself",
+            "They needed to work harder to deserve the next meal",
+            "They lacked the faith to expect a second multiplication"
+          ],
+          "answer_index": 1,
+          "why": "John 6:35 turns the crowd from the loaves to the giver, Jesus offering his own person as the bread that ends the deeper hunger.",
+          "hint": "Read John 6:26-29 and John 6:35. Notice what Jesus says the crowd is really after, and what he offers in its place."
+        }
+      ]
+    },
+    {
+      "id": "john-9-12",
+      "title": "Blind Eyes, the Good Shepherd, and Lazarus",
+      "chapters": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_span": {
+        "from": "9:1",
+        "to": "12:50"
+      },
+      "difficulty_tier": 2,
+      "summary": "A man born blind sees while the seeing go blind — the Gospel's wittiest chapter — then 'I am the good shepherd' who lays down his life, and the sign that seals the plot: Lazarus, four days dead, walking out of his tomb at a shout. 'I am the resurrection and the life.' Mary anoints Jesus' feet; the hour has come.",
+      "key_themes": [
+        "sight and blindness",
+        "good shepherd",
+        "resurrection and life",
+        "the hour"
+      ],
+      "prerequisites": [
+        {
+          "node": "john-5-8",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The Lazarus sign is the climax of the escalating signs-and-claims sequence, and triggers the death plot.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "ps-23",
+          "reason": "The good shepherd discourse claims the LORD-as-shepherd role of Psalm 23."
+        },
+        {
+          "node": "isa-6",
+          "reason": "John 12 quotes Isaiah's hardening commission and says Isaiah 'saw his glory' — identifying the throne vision with Christ."
+        }
+      ],
+      "key_verses": [
+        "John 9:25",
+        "John 10:11",
+        "John 11:25-26"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "awe",
+        "tension"
+      ],
+      "discussion_prompt": "The man born blind sees more clearly with every interrogation, while the trained experts go blind by insisting they already see. What makes a person able to see the truth about Jesus, and what might you be refusing to look at?",
+      "assessment_questions": [
+        "How long has Lazarus been dead when Jesus arrives, and what does Jesus do at the tomb?",
+        "Jesus says 'I am the resurrection and the life' before he raises Lazarus. Why does he claim to be resurrection in person instead of simply promising a future event?",
+        "Mary pours out a year's wages of perfume on Jesus' feet and is criticized for the waste. What would costly devotion, the kind that looks wasteful to observers, look like in your life?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Signs that reveal, division that follows",
+          "explanation": "The healings and the raising of Lazarus point to who Jesus is, yet many witnesses still refuse him, so the signs invite faith without forcing it."
+        },
+        {
+          "concept": "Spiritual sight",
+          "explanation": "The blind man's growing insight and the Pharisees' hardening show that truly seeing Jesus is a matter of the heart before it is a matter of evidence."
+        },
+        {
+          "concept": "The good shepherd",
+          "explanation": "Jesus lays down his life for the sheep willingly, defining his kingship as sacrificial care."
+        },
+        {
+          "concept": "Resurrection in person",
+          "explanation": "'I am the resurrection and the life' locates the defeat of death in Jesus himself, and Lazarus walking out of the tomb is the preview."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell the story of the man born blind and explain what Jesus claims about himself at Lazarus's tomb.",
+      "comprehension_check": [
+        {
+          "question": "By the end of John 9 the blind beggar sees and worships, while Pharisees with perfect eyes are called blind (John 9:39-41). What is blindness here?",
+          "options": [
+            "An ignorance that better religious education would have cured",
+            "A punishment handed down for someone's particular sin",
+            "A refusal of the light by those claiming sight",
+            "The honest doubt that comes from asking hard questions"
+          ],
+          "answer_index": 2,
+          "why": "John 9:41 ties the guilt to the claim of sight, the certainty that keeps the Pharisees from the light standing in front of them.",
+          "hint": "Read John 9:39-41 next to John 9:2-3. Notice who ends up blind, and what those people were sure of."
+        },
+        {
+          "question": "Martha already believes her brother will rise at the last day (John 11:24). What does Jesus' answer add to that belief (John 11:25-26)?",
+          "options": [
+            "Resurrection is a person, standing in front of her",
+            "Her brother's rising will prove her family's devotion earned it",
+            "Believers are exempted from ever undergoing bodily death",
+            "The general resurrection will happen sooner than she thinks"
+          ],
+          "answer_index": 0,
+          "why": "In John 11:25 Jesus relocates resurrection from a far-off event into his own present person, life wherever he is trusted.",
+          "hint": "Read John 11:23-26. Notice the difference between what Martha affirms and how Jesus answers her."
+        }
+      ]
+    },
+    {
+      "id": "john-13-17",
+      "title": "The Upper Room",
+      "chapters": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_span": {
+        "from": "13:1",
+        "to": "17:26"
+      },
+      "difficulty_tier": 3,
+      "summary": "The Lord washes feet, gives 'a new commandment — love one another as I have loved you,' promises the Spirit of truth, and speaks the vine-and-branches image of abiding. Then the Bible's holy of holies: Jesus' own prayer for his disciples and 'for those who will believe through their word' — that they may be one.",
+      "key_themes": [
+        "servant love",
+        "the Helper/Spirit",
+        "abiding",
+        "unity"
+      ],
+      "prerequisites": [
+        {
+          "node": "john-9-12",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The farewell discourse is spoken under the arrived 'hour' the Lazarus events set in motion.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "acts-2",
+          "reason": "The promised Helper arrives at Pentecost — Acts 2 is the discourse's fulfillment."
+        }
+      ],
+      "key_verses": [
+        "John 13:34-35",
+        "John 15:5",
+        "John 17:21"
+      ],
+      "reading_time_minutes": 40,
+      "content_density": "dense",
+      "emotional_tone": [
+        "comfort",
+        "reverent"
+      ],
+      "discussion_prompt": "On his last night Jesus takes the servant's towel, then tells his friends that the world will identify them by their love for one another. If people judged whether Jesus is real by how his followers treat each other, what would they conclude from the Christians you know, and what part of that answer is yours to change?",
+      "assessment_questions": [
+        "What does Jesus do with the basin and towel before the meal, and what does he tell the disciples to do for one another afterward?",
+        "Jesus says he is the vine and his followers are branches that can do nothing apart from him. According to his own words in John 15, what does abiding in the vine actually involve?",
+        "Jesus prays that his followers would be one so that the world would believe. What is one concrete step you could take toward unity with a believer you find difficult?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Love with a towel",
+          "explanation": "Jesus washes feet on the night of his betrayal, making humble service the signature of anyone who follows him."
+        },
+        {
+          "concept": "The new commandment",
+          "explanation": "Mutual love, modeled on Jesus' own love, is the mark by which the world is meant to recognize his disciples."
+        },
+        {
+          "concept": "The promised Helper",
+          "explanation": "The Spirit of truth continues Jesus' presence with his people, teaching, reminding, convicting, and giving courage."
+        },
+        {
+          "concept": "Abiding in the vine",
+          "explanation": "Fruitfulness flows from staying connected to Christ, since apart from him the branches can do nothing."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Explain the vine and branches image in your own words and describe what Jesus prays for his future followers in John 17.",
+      "comprehension_check": [
+        {
+          "question": "John stresses that Jesus washes feet knowing all things are in his hands (John 13:3-5). What does the scene teach about his authority?",
+          "options": [
+            "He suspends his authority briefly to act as a servant",
+            "He performs the cleansing Passover required of every guest",
+            "He stages a final test to identify his betrayer",
+            "His lordship expresses itself in stooping to serve"
+          ],
+          "answer_index": 3,
+          "why": "John 13:3-4 puts the towel into the hands that hold everything, and John 13:14-15 makes that downward movement the disciples' own pattern.",
+          "hint": "Read John 13:3-5 and John 13:12-17. Notice what John says Jesus knew just before he reached for the towel."
+        },
+        {
+          "question": "Jesus calls his own departure an advantage for the disciples (John 16:7). How can his leaving be better for them than his staying?",
+          "options": [
+            "His mission had stalled and needed a fresh start",
+            "Through the Spirit his presence will reach them everywhere",
+            "Absence would train the disciples to stand on their own",
+            "The danger surrounding him had grown too great to stay"
+          ],
+          "answer_index": 1,
+          "why": "John 14:16-18 promises the Spirit as an abiding Advocate, so the departing Jesus refuses to leave his people orphaned.",
+          "hint": "Read John 16:7 and then John 14:16-18. Notice what the going away makes possible, and what Jesus promises it will never mean."
+        }
+      ]
+    },
+    {
+      "id": "john-18-21",
+      "title": "The Passion and Resurrection According to John",
+      "chapters": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_span": {
+        "from": "18:1",
+        "to": "21:25"
+      },
+      "difficulty_tier": 2,
+      "summary": "'I AM' knocks the arresting party flat; Pilate asks 'what is truth?' with truth standing in front of him; 'it is finished' sounds from the cross like a completed mission, not a defeat. Then Mary Magdalene mistakes the risen Lord for the gardener, Thomas gets his scars-and-all proof — 'my Lord and my God!' — and Peter is restored over breakfast: 'do you love me? Feed my sheep.'",
+      "key_themes": [
+        "sovereign passion",
+        "it is finished",
+        "resurrection encounters",
+        "restoration"
+      ],
+      "prerequisites": [
+        {
+          "node": "john-13-17",
+          "strength": "hard",
+          "type": "narrative",
+          "reason": "The passion follows the upper room into the garden the same night.",
+          "scope": "sequence"
+        }
+      ],
+      "connections": [
+        {
+          "node": "zech-9-14",
+          "reason": "John cites 'they will look on him whom they have pierced' at the spear-thrust."
+        },
+        {
+          "node": "exod-12-15",
+          "reason": "Not a bone broken, dying as the Passover lambs were slain — John times the crucifixion to Passover deliberately."
+        }
+      ],
+      "key_verses": [
+        "John 19:30",
+        "John 20:28",
+        "John 20:30-31"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "moderate",
+      "emotional_tone": [
+        "sorrow",
+        "joy"
+      ],
+      "discussion_prompt": "In John's telling Jesus is never a victim swept along by events. He announces himself in the garden, speaks truth to Pilate, and declares the work finished from the cross. How does it change the meaning of the cross to know Jesus laid his life down on purpose, and what would you say his finished work actually finished?",
+      "assessment_questions": [
+        "What happens to the arresting party when Jesus says 'I am he,' and what are his final words on the cross?",
+        "Thomas demands to touch the wounds and ends by confessing 'my Lord and my God.' What does John want readers to learn from doubt turning into the Gospel's fullest confession?",
+        "Jesus asks Peter three times 'do you love me,' once for each denial, and gives him work to do. What failure in your past could God be turning into an assignment?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "A kingdom from elsewhere",
+          "explanation": "Before Pilate, Jesus claims a kingship that does not come from this world's power, and his calm authority dominates his own trial."
+        },
+        {
+          "concept": "It is finished",
+          "explanation": "Jesus' final word declares his saving mission complete, an announcement of accomplishment spoken from the cross itself."
+        },
+        {
+          "concept": "The risen Lord meets people personally",
+          "explanation": "Mary hears her name, Thomas gets his proof, and each encounter turns grief or doubt into faith and witness."
+        },
+        {
+          "concept": "Failure restored for mission",
+          "explanation": "Peter's three denials are answered with three questions of love and a commission, showing that the risen Jesus rebuilds the people he sends."
+        }
+      ],
+      "teaching_source": "apologist.ai",
+      "completion_criteria": "Retell two of John's resurrection encounters and explain what 'it is finished' declares about Jesus' death.",
+      "comprehension_check": [
+        {
+          "question": "At the arrest the soldiers fall flat (John 18:6), before Pilate the question of authority flips (John 19:11), and the final word announces completion (John 19:30). What is John claiming about the cross?",
+          "options": [
+            "A miscarriage of justice that only Easter set right",
+            "A fate Jesus accepted once escape became impossible",
+            "Jesus completing his mission, willing from first to last",
+            "A victory Rome and the priests shared between them"
+          ],
+          "answer_index": 2,
+          "why": "John 10:18 presents Jesus' death as freely laid down under his own authority, and John 19:30 sounds from the cross like finished work.",
+          "hint": "Read John 18:4-6 and John 19:10-11. Notice who actually holds control in each scene."
+        },
+        {
+          "question": "Immediately after Thomas sees and believes, John explains why the book exists (John 20:29-31). What does that ending give every reader who was not there?",
+          "options": [
+            "Written signs sufficient for believing without having seen",
+            "An apology for all the stories left unrecorded",
+            "Thomas' demand for proof as the model to copy",
+            "A blessing reserved for the eyewitness generation alone"
+          ],
+          "answer_index": 0,
+          "why": "John 20:31 gives the purpose, testimony recorded precisely so later readers can come to faith and to the life Jesus gives.",
+          "hint": "Read John 20:29-31. Notice whom Jesus calls blessed, and whom John says the writing is for."
+        }
+      ]
+    }
+  ]
+}

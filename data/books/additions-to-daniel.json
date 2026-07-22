@@ -1,0 +1,105 @@
+{
+  "book": "Additions to Daniel",
+  "testament": "OT",
+  "canon_layer": "catholic_deuterocanon",
+  "domain": "Historical Narrative",
+  "nodes": [
+    {
+      "id": "dan-gk",
+      "title": "Greek Daniel: Azariah's Prayer, Susanna, Bel and the Dragon",
+      "chapters": [
+        "Prayer of Azariah and Song of the Three",
+        "Susanna",
+        "Bel and the Dragon"
+      ],
+      "difficulty_tier": 2,
+      "summary": "Three passages from the Greek Daniel: a prayer and cosmic hymn sung inside the furnace ('bless the Lord, all works of the Lord'), the story of Susanna — a falsely accused woman saved by young Daniel's cross-examination, often called the world's first detective story — and two satires in which Daniel exposes the idol Bel's priests and kills a 'god' that is only a snake.",
+      "key_themes": [
+        "worship under trial",
+        "false witness exposed",
+        "idols debunked",
+        "justice"
+      ],
+      "prerequisites": [
+        {
+          "node": "dan-3",
+          "strength": "hard",
+          "type": "literary",
+          "reason": "The Prayer of Azariah and Song of the Three are inserted directly into the furnace scene of Daniel 3.",
+          "scope": "sequence"
+        },
+        {
+          "node": "dan-4-6",
+          "strength": "soft",
+          "type": "literary",
+          "reason": "Bel and the Dragon extends the court-tale cycle — Daniel outwitting idolatrous power — of Daniel 4-6."
+        }
+      ],
+      "connections": [],
+      "tradition_notes": "Integrated into Daniel in Catholic and Orthodox Bibles (Susanna as ch. 13, Bel as ch. 14); printed separately or omitted by Protestants. The Song of the Three (the Benedicite) is a canticle in Catholic, Orthodox, and Anglican daily prayer.",
+      "key_verses": [
+        "Prayer of Azariah 1:35",
+        "Susanna 1:22-23",
+        "Bel and the Dragon 1:5"
+      ],
+      "reading_time_minutes": 30,
+      "content_density": "light",
+      "emotional_tone": [
+        "reverent",
+        "confrontational"
+      ],
+      "discussion_prompt": "Susanna decides she would rather be trapped by false witnesses than sin before the Lord. What gives a person that kind of clarity under pressure, and where would you most need it this year?",
+      "assessment_questions": [
+        "What do Azariah and his companions do inside the furnace, and how does young Daniel prove Susanna innocent?",
+        "In Bel and the Dragon, Daniel scatters ashes on the temple floor and feeds the dragon a homemade mixture. What do these satires claim about the difference between idols and the living God?",
+        "The Song of the Three calls every part of creation to bless the Lord, and it is sung from inside a furnace. What would praising God from inside your own hardest place look like, and what might it change in you?"
+      ],
+      "teaching_concepts": [
+        {
+          "concept": "Worship inside the trial",
+          "explanation": "The three young men confess and praise God before any rescue comes, making worship an act of trust instead of a reward for deliverance."
+        },
+        {
+          "concept": "God vindicates the innocent",
+          "explanation": "Susanna's story shows God stirring up discernment to expose false witnesses and defend the falsely accused."
+        },
+        {
+          "concept": "Idols cannot survive scrutiny",
+          "explanation": "Bel and the Dragon uses evidence and humor to show that gods made by human hands are powerless."
+        },
+        {
+          "concept": "Discernment serves justice",
+          "explanation": "Daniel's careful cross-examination models wisdom put to work protecting the vulnerable."
+        }
+      ],
+      "teaching_source": "cross-tradition",
+      "completion_criteria": "Retell one of the three Greek additions to Daniel and explain what it teaches about faithfulness under pressure.",
+      "comprehension_check": [
+        {
+          "question": "The Song of the Three rises from inside the furnace, not after the rescue. What does that placement teach about worship?",
+          "options": [
+            "Praise is owed only after God has answered the prayer",
+            "Worship does not wait for the trial to be over",
+            "Singing was their way of dulling the pain of the flames",
+            "The hymn was performed to convert the watching king"
+          ],
+          "answer_index": 1,
+          "why": "The song calls all creation to bless the Lord while the fire still burns (Prayer of Azariah 1:35).",
+          "hint": "Read Prayer of Azariah 1:35 again. Notice who is being summoned to bless the Lord, and from where the summons is sung."
+        },
+        {
+          "question": "In Susanna, two respected elders nearly secure a death sentence with one lie. What does the story present as the safeguard justice needed?",
+          "options": [
+            "A crowd unwilling to condemn a woman of good reputation",
+            "A voice from heaven pronouncing the verdict directly",
+            "Examination that tested the witnesses instead of trusting their rank",
+            "A confession drawn from the elders by threat of torture"
+          ],
+          "answer_index": 2,
+          "why": "Daniel has the elders separated and questioned apart, and their own answers undo the lie (Susanna 1:51-59).",
+          "hint": "Read Susanna 1:51-59 again. Notice what Daniel does with the two witnesses before any question is asked."
+        }
+      ]
+    }
+  ]
+}
