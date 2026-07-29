@@ -117,14 +117,14 @@ footer{padding:18px 28px 30px;color:var(--muted);font-size:12.5px;border-top:1px
     <button type="button" data-m="explore" class="on">Explore</button><button type="button" data-m="paths">Reading paths</button>
   </div>
   <div class="seg" id="viewseg" role="group" aria-label="Chart view">
-    <button type="button" data-v="ascent" class="on">Ascent</button><button type="button" data-v="arcs">Arcs</button>
+    <button type="button" data-v="ascent">Ascent</button><button type="button" data-v="arcs" class="on">Arcs</button>
   </div>
   <input type="search" id="q" placeholder="Search title, book, theme…" aria-label="Search nodes">
 </div>
 
-<div id="arcwrap"><canvas id="arc" role="img" aria-label="The canon as an ascent: five difficulty tiers stacked bottom-to-top, every prerequisite edge climbing from read-this-first to what it unlocks"></canvas></div>
+<div id="arcwrap"><canvas id="arc" role="img" aria-label="The canon on one line: every arc reaches back from a passage to what should be read before it"></canvas></div>
 <div class="legend">
-  <span id="viewcaption"><b style="color:var(--ink)">The ascent:</b>&nbsp;entry points at the bottom, hardest books at the top — every edge climbs from prerequisite to dependent</span>
+  <span id="viewcaption"><b style="color:var(--ink)">The arcs:</b>&nbsp;the whole canon on one line — every arc reaches back from a passage to what should be read before it</span>
   <span><i class="swatch" style="background:var(--e-narr)"></i>narrative</span>
   <span><i class="swatch" style="background:var(--e-theo)"></i>theological</span>
   <span><i class="swatch" style="background:var(--e-lit)"></i>literary</span>
@@ -180,7 +180,7 @@ function descendants(id, vset){
 
 /* ---------- the ascent (tier-ladder chart) ---------- */
 const canvas=document.getElementById("arc"), wrap=document.getElementById("arcwrap");
-let pos=new Map(), W=0, H=430, view="ascent";
+let pos=new Map(), W=0, H=430, view="arcs";
 const DPR=Math.min(window.devicePixelRatio||1,2), ARCBASE=210;
 const bandY=t=>388-(t-1)*82;   // tier 1 bottom (y=388) … tier 5 top (y=60)
 function cssVar(n){return getComputedStyle(document.documentElement).getPropertyValue(n).trim()}
